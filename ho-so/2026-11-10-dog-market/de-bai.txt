@@ -1,0 +1,61 @@
+HỒ SƠ CƠ HỘI · kênh Dog Mind (@dogmindus) đổi thị trường · radar thử ngày 2026-11-10
+Câu hỏi của chủ: Dog Mind làm 6 tháng không lên (23 người đăng ký, đa số video vài chục đến vài trăm view,
+cao nhất 1.079). Giữ kênh, giữ key, chuyển sang thị trường HÀN hoặc ĐỨC. Cần chọn thị trường và 10 video đầu.
+
+NGUỒN SỐ: một lần chạy radar thử (API chính thức, 1.906 đơn vị quota) ngày 2026-11-10, chỉ 2 ngách:
+- dog-psych-ko (KR, tiếng Hàn): từ khoá 강아지 심리 / 강아지 행동 이유 / 반려견 행동 / 강아지 행동 의미
+- dog-psych-de (DE, tiếng Đức): Hundepsychologie / Hundeverhalten verstehen / warum macht mein Hund / Körpersprache Hund
+Tìm video 30 ngày gần nhất, tự tìm kênh. File gốc trong radar/ (niche_*.json, library_*.json, 2026-11-10_radar.md).
+GIỚI HẠN: chỉ MỘT ngày dữ liệu; không có đà 24 giờ; 40 kênh (KR) và 32 kênh (DE) chứ chưa đủ 150. Đọc là ảnh chụp,
+không phải xu hướng.
+
+SO SÁNH NHANH (30 ngày, video mới của các kênh theo dõi)
+| | Hàn (KR) | Đức (DE) |
+|---|---|---|
+| View 30 ngày video mới | 74,1 triệu | 5,5 triệu |
+| ...trong đó video dài | 2,0 triệu | 3,5 triệu |
+| ...trong đó Shorts | 72,0 triệu (87%) | 2,0 triệu (74% số video là Shorts) |
+| Mức thường của kênh (trung vị) video dài | 4.417 | 974 |
+| Mức thường Shorts | 9.330 | 1.327 |
+| Kênh nhỏ (< 20.000 sub) có video thắng | 19 | 15 |
+| Kết luận radar | mở (open) | mở (open) |
+| Kênh dẫn đầu giữ | 22% (찹츄스토리) | 29% (Gerd Hallmann) |
+
+BẰNG CHỨNG VIDEO DÀI KIỂU DOG MIND (danh sách tâm lý chó, giọng đọc, ảnh minh hoạ)
+Hàn:
+- 강아지의 비밀 (981 sub): "강아지가 당신을 주인이 아닌 부모로 생각한다는 7가지 신호!" 211.274 view, 9,9 phút, 31/10
+- 강아지의 비밀 (981 sub): "강아지는 당신을 사람으로 보지 않습니다! 당신을 진짜 무엇으로 생각할까요?" 153.903 view, 9,7 phút, 28/10
+- (SỬA sau vòng 0 của trinh sát: 강아지 행동연구소 "…행동 7가지" 416.700 view là video CŨ; kênh chỉ 2.424 view/30 ngày,
+  không phải thắng gần đây — không dùng làm bằng chứng.) Bằng chứng tâm lý chó dạng dài ở Hàn chỉ có kênh 강아지의 비밀
+  (98 ngày tuổi, 11 video, 473K view/30 ngày). Người xem khen "애니메이션이 너무 이쁘네요" (59 like): hoạt hình được chấp nhận.
+- Video dài Hàn 2,0 triệu/30 ngày thì 51% là của một ông chủ tàu cá (남해동광호선장), không phải tâm lý chó.
+- 루크아빠 - 훈련사 이성용 (59.800 sub, huấn luyện viên thật): "...고마울 때 표현하는 행동 12가지" 107.058 view, 11 phút
+- Vùng chủ đề "당신을" (bạn/chủ nuôi): điểm 78, video dài 367K view/30 ngày, kênh đầu giữ 74%
+Đức:
+- Gerd Hallmann (13.300 sub): "Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen" 440.739 view, 22,7 phút, 20/10
+- Gerd Hallmann: "7 Hunderassen, die ich nie wieder ins Haus lassen würde" 290.736 view, 20,4 phút
+- Gerd Hallmann: "Die 6 Dinge, um die Ihr Hund Sie ein Leben lang bittet" 177.610 view; "Warum Ihr Hund Sie ableckt (es ist
+  NICHT, was Sie denken!)" 109.725; "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN" 96.582;
+  "Warum Ihr Hund in Ihrem Bett schläft, nicht in seinem" 79.487 — khoảng 2 video/tuần, 15–23 phút
+- CẢNH BÁO (trinh sát vòng 0): Gerd Hallmann là nhân vật hư cấu do AI tạo, kênh 31 ngày tuổi; mô tả tự ghi "fiktive
+  Erzählfigur". Bình luận chê giọng AI và hình AI kém, có người nói kênh bán sách. Cầu có thật, nhưng khán giả Đức nhận ra
+  và ghét AI làm ẩu. ClashGames (kênh game 1,82 triệu sub) làm méo tỉ lệ "kênh đầu giữ".
+- Hundeherz (6.150 sub): "Wo dein Hund nachts schläft – 14 Stellen und was sie bedeuten" 205.046 view (video dài)
+- "7 Zeichen, dass Ihr Hund Sie als Mama oder Papa sieht" 46.133 view (vùng "oder", điểm 71)
+
+BẰNG CHỨNG SHORTS
+Hàn: thống trị bởi Shorts truyện cảm động về chó Jindo (찹츄스토리, 17.500 sub: 4,36 triệu và 4,08 triệu view, gấp
+~600 lần mức thường). Shorts mẹo/sức khoẻ: "필수) 강아지 몸짓 언어 9가지" 649.518 view (멍냥이365, 10.600 sub).
+Đức: Balloony Tiergesundheit (1.170 sub) "Dein Hund spricht mit dir – auch ohne Worte!" 297.687 view (x232).
+
+ĐIỀU ĐÃ BIẾT VỀ SẢN XUẤT (Studio)
+- Giọng: OmniVoice, có tham số ngôn ngữ; CHƯA thử tiếng Hàn và tiếng Đức. Giọng clone hiện tại là giọng tiếng Anh.
+- Ảnh: phong cách vẽ phẳng 2D; quota ảnh miễn phí khoảng 12 ảnh/đợt; video ~100 ảnh.
+- Chủ không đọc được tiếng Hàn và tiếng Đức: kịch bản phải có bản dịch tiếng Việt để chủ duyệt.
+- Kiến thức chung (chưa đo): giá quảng cáo (RPM) ở Đức thường cao hơn Hàn nhiều; khán giả Hàn xem Shorts rất mạnh.
+
+CẦN CHỌN
+1. Thị trường: Hàn hay Đức.
+2. Định dạng chính: video dài kiểu danh sách tâm lý chó, Shorts, hay kết hợp.
+3. Danh sách 10 video đầu (tiêu đề bằng ngôn ngữ đích + nghĩa tiếng Việt), video 1 làm trước.
+Mọi dữ kiện khoa học trong kịch bản phải có nguồn; không bịa nghiên cứu.

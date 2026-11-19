@@ -1,0 +1,20 @@
+HỒ SƠ CƠ HỘI · ngách evo-psych-en · radar ngày 2026-11-12
+Vùng: hot · saying · điểm cơ hội 84/100 (hạng 2/153)
+Kênh đích: (chưa có) · Hạn vào sản xuất: 48 giờ sau khi bàn giao
+
+VÌ SAO VÙNG NÀY (số đo, cửa sổ 90 ngày, 13 video của 10 kênh)
+- Hiệu suất: video trung vị đạt 1.7x mức thường của chính kênh ở cùng tuổi video (hạng 88%).
+- Đà: video 2–30 ngày tuổi được 2.1x lượt xem kỳ vọng trong 24 giờ qua (hạng 91%).
+- Quy mô: view 30 ngày: video dài 84.3K, Shorts 0 (hạng 65%).
+- Độ mở: Female Psychology | Mia Khalifa giữ 47% view 30 ngày của vùng (hạng 91%).
+- Gợi ý định dạng: Shorts, gần như trống trong vùng này (0% view 30 ngày).
+- Ví dụ: "Stop Saying You're Hot — Say THESE 8 Compliments | Mia Khalifa" (39,144 view) https://www.youtube.com/watch?v=bKeAId8Qa5U
+
+VIDEO NỔ NGUỒN (bộ phân tích Gạch 2)
+- Vùng này chưa có video nổ nào được phân tích: người viết kịch bản tự chọn cấu trúc; video ví dụ ở trên cho thấy nhu cầu.
+
+CẦN KIỂM TRƯỚC KHI VIẾT
+- Mọi dữ kiện trong kịch bản cần nguồn gốc (bài báo khoa học, sách, bảo tàng). Hồ sơ này chỉ có số đo, chưa có dữ kiện nào.
+
+DỰ ĐOÁN (hop-dong.json)
+- Video đạt ≥ 5 lần mức thường của kênh trong 7 ngày sau khi đăng. Chỉ tính khi video được đăng trước hạn; trễ hạn thì hồ sơ ghi "trễ".

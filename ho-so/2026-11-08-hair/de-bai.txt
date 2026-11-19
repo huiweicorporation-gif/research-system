@@ -1,0 +1,25 @@
+HỒ SƠ CƠ HỘI · ngách evo-psych-en · radar ngày 2026-11-08
+Vùng: hair · điểm cơ hội 82/100 (hạng 2/149)
+Kênh đích: (chưa có) · Hạn vào sản xuất: 48 giờ sau khi bàn giao
+
+VÌ SAO VÙNG NÀY (số đo, cửa sổ 90 ngày, 15 video của 13 kênh)
+- Hiệu suất: video trung vị đạt 3.5x mức thường của chính kênh ở cùng tuổi video (hạng 99%).
+- Đà: video 2–30 ngày tuổi được 0.7x lượt xem kỳ vọng trong 24 giờ qua (hạng 71%).
+- Quy mô: view 30 ngày: video dài 217.9K, Shorts 38.3K (hạng 83%).
+- Độ mở: Feral giữ 55% view 30 ngày của vùng (hạng 73%).
+  Đọc: chật — một kênh giữ phần lớn view của vùng.
+- Gợi ý định dạng: Shorts, gần như trống trong vùng này (15% view 30 ngày).
+- Ví dụ: "Why Do Humans Have Pubic Hair?" (140,500 view) https://www.youtube.com/watch?v=Hm5uW5YU77U
+
+VIDEO NỔ NGUỒN (bộ phân tích Gạch 2)
+- oFJT9roMMaU "How Did Ancient Humans Cut Their Hair and Nails?" (One S, Shorts, 0:41): 27x mức thường của kênh, 11,812 view lúc 31 h · cặp 2026-10-26-s2, ngày 2026-10-26
+  Đối chứng: gZJDKfmfoWI "How Did Ancient Humans Find Safe Drinking Water?", 1,424 view.
+  Đo được (video nổ so với đối chứng): 175.6 so với 161.1 từ/phút; 10.2 so với 30 lần cắt/phút; 41 giây so với 38 giây.
+  Giả thuyết (Gạch 2): Mở đầu bằng một tình huống kịch tính cụ thể dẫn vào câu hỏi vệ sinh cá nhân quen thuộc, kết hợp với nhịp chuyển cảnh chậm rãi (~6 giây/hình), giúp người xem dễ cuốn theo câu chuyện hơn là nhịp cắt dồn dập 2 giây/hình.
+  Ghi chú: video đối chứng mới 3–14 ngày, lượt xem chưa ổn định
+
+CẦN KIỂM TRƯỚC KHI VIẾT
+- Mọi dữ kiện trong kịch bản cần nguồn gốc (bài báo khoa học, sách, bảo tàng). Hồ sơ này chỉ có số đo, chưa có dữ kiện nào.
+
+DỰ ĐOÁN (hop-dong.json)
+- Video đạt ≥ 5 lần mức thường của kênh trong 7 ngày sau khi đăng. Chỉ tính khi video được đăng trước hạn; trễ hạn thì hồ sơ ghi "trễ".

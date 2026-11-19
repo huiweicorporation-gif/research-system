@@ -1,0 +1,9 @@
+{"note": "trinh-sat role scored by trinh-sat-cho (Dog Mind scout). Round 3, 2026-11-10.",
+ "scores": {
+  "trinh-sat": {"A":{"hut":3,"hop_kenh":4},"B":{"hut":3,"hop_kenh":4},"C":{"hut":2,"hop_kenh":3},"D":{"hut":2,"hop_kenh":3}},
+  "y-tuong":  {"A":{"hut":3,"hop_kenh":4,"doc_dao":3},"B":{"hut":3,"hop_kenh":4,"doc_dao":2},"C":{"hut":2,"hop_kenh":3,"doc_dao":2},"D":{"hut":2,"hop_kenh":3,"doc_dao":3}},
+  "phan-bien": {"A":{"hut":3,"doc_dao":3},"B":{"hut":3,"doc_dao":2},"C":{"hut":2,"doc_dao":2},"D":{"hut":2,"doc_dao":3}},
+  "kiem-duyet": {"A":{"rui_ro":3,"doc_dao":3},"B":{"rui_ro":3,"doc_dao":2},"C":{"rui_ro":3,"doc_dao":2},"D":{"rui_ro":3,"doc_dao":3}},
+  "dao-dien": {"A":{"lam_ai":3,"chi_phi":2},"B":{"lam_ai":4,"chi_phi":3},"C":{"lam_ai":4,"chi_phi":4},"D":{"lam_ai":4,"chi_phi":4}}
+ },
+ "policy_risk": {"A":"trung-binh","B":"trung-binh","C":"trung-binh","D":"trung-binh"}}

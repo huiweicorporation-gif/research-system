@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "schema": "radar.v1",
+    "radar_version": "1.13.1",
+    "day": "2026-11-10",
+    "generated_at": "2026-11-10T01:00:44Z",
+    "quota_run": 1906,
+    "quota_today": 1906,
+    "warnings": [
+      "Estimated ~2676 units needed but only 2200 left — expensive steps may be skipped"
+    ]
+  },
+  "niche_id": "dog-psych-ko",
+  "niche_language": "ko",
+  "competitors": [
+    {
+      "channel_id": "UCqeGCG8Qq-RfwxULYEojo0g",
+      "title": "Animal Home(동물의 집)",
+      "link": "https://www.youtube.com/@animalhome동물의집",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.86
+    },
+    {
+      "channel_id": "UCuWwQDGUdV0yVRXofLuxTeQ",
+      "title": "강아지 심리는 도글리",
+      "link": "https://www.youtube.com/@dogelyy",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCe5nZhgg5cjwtU0nDpuf0Bw",
+      "title": "강아지 행동연구소",
+      "link": "https://www.youtube.com/@doglivinglab",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UC9LatkrnKM09PpzgzguSzLg",
+      "title": "강아지의 마음",
+      "link": "https://www.youtube.com/@성경해독",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.98
+    },
+    {
+      "channel_id": "UCXF20Pv9Bkhe8qlo_9axbSA",
+      "title": "강아지의 비밀",
+      "link": "https://www.youtube.com/@katzengeheimnisse9",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCLjkXnbNsjdu7t2Gg6uGUtA",
+      "title": "개떡상",
+      "link": "https://www.youtube.com/@개떡상dream2",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.74
+    },
+    {
+      "channel_id": "UC2POlkU37oPV229x4gzdGSw",
+      "title": "계란왕",
+      "link": "https://www.youtube.com/@댕플릭su",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.58
+    },
+    {
+      "channel_id": "UCQW5D62w2F3n_dD0fiIyX4A",
+      "title": "김말콩이",
+      "link": "https://www.youtube.com/@김말콩이",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.66
+    },
+    {
+      "channel_id": "UC7w2A4wJRVhini8DENeSXXw",
+      "title": "남해동광호선장 박형일",
+      "link": "https://www.youtube.com/@captain_park",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.48
+    },
+    {
+      "channel_id": "UCh8PoNhyjRa76jAa1ZoHN5A",
+      "title": "느린하루",
+      "link": "https://www.youtube.com/@느린하루365",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCTs0UUsTFdXRc26nvPwdhiw",
+      "title": "댕댕상식",
+      "link": "https://www.youtube.com/@댕댕상식",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCdl30zmW8ya-3e-SBg4aaOw",
+      "title": "댕만족",
+      "link": "https://www.youtube.com/@sogoodpd",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.32
+    },
+    {
+      "channel_id": "UC399YyxAJRZSwb9W7PNuwXg",
+      "title": "댕쪽이상담소",
+      "link": "https://www.youtube.com/@댕쪽이상담소",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.92
+    },
+    {
+      "channel_id": "UCj9UleKZqwJBCBbw7Q0ZaHg",
+      "title": "딩동댕댕",
+      "link": "https://www.youtube.com/@dingdongdaengdaenge",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.94
+    },
+    {
+      "channel_id": "UCzvJWfkU1uXyjyFiaWHxMww",
+      "title": "뚝딱 펫상식",
+      "link": "https://www.youtube.com/@ddukddak_s",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.52
+    },
+    {
+      "channel_id": "UCbo1w_JUmeFRy2N4T3BHygQ",
+      "title": "루크아빠 - 훈련사 이성용",
+      "link": "https://www.youtube.com/@루크아빠",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.88
+    },
+    {
+      "channel_id": "UCs3NAUlvIlVyLRSqfkt2P_A",
+      "title": "마이찜 | 반려동물 공감",
+      "link": "https://www.youtube.com/@my-zzim",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.52
+    },
+    {
+      "channel_id": "UCgpAN-Mbb6OUZJN4R89KnAg",
+      "title": "멍냥이365",
+      "link": "https://www.youtube.com/@dogcatmind365",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.88
+    },
+    {
+      "channel_id": "UCGuxBqoxO_-ljU-w-zn57_A",
+      "title": "멍제로",
+      "link": "https://www.youtube.com/@멍제로-x2i",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.76
+    },
+    {
+      "channel_id": "UCGGBebi5vSGcDsrV2UMzWnw",
+      "title": "무이",
+      "link": "https://www.youtube.com/@mooyi-9",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.34
+    },
+    {
+      "channel_id": "UCmyF_1OHqYR6fnMqt2abFuw",
+      "title": "사건캠",
+      "link": "https://www.youtube.com/@incidentcam7",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCXjIQZito9Y7SdLNPGJgs0Q",
+      "title": "사랑스런동물",
+      "link": "https://www.youtube.com/@사랑스런동물",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.54
+    },
+    {
+      "channel_id": "UCOgog8K2wN3mOa17VOuitjA",
+      "title": "세계가 놀란 한국",
+      "link": "https://www.youtube.com/@worldamazedkorea",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.6296
+    },
+    {
+      "channel_id": "UCarvR6w--VOoNHKipqqFkAQ",
+      "title": "심쿵댕",
+      "link": "https://www.youtube.com/@심쿵댕",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UC5XkP4Nx6jvPLCJpHAg6mIg",
+      "title": "양소영 심리TV",
+      "link": "https://www.youtube.com/@양소영심리tv",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCN4Z0pMlglUsgQG6v3HQirg",
+      "title": "요키대장",
+      "link": "https://www.youtube.com/@요키대장",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.3
+    },
+    {
+      "channel_id": "UCZJoEz3XsclKXczuTvpbBTQ",
+      "title": "유튜브동물사전",
+      "link": "https://www.youtube.com/@유튜브동물사전",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.32
+    },
+    {
+      "channel_id": "UCrBCOabZySPG0D3z_Mt9EbA",
+      "title": "찹츄스토리",
+      "link": "https://www.youtube.com/@chapchu-1",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 1.0
+    },
+    {
+      "channel_id": "UCQmC7TAd095Kri9XEReFl-w",
+      "title": "척사강이씨",
+      "link": "https://www.youtube.com/@ch20167",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.8
+    },
+    {
+      "channel_id": "UCmLhl6WgXyYK9n32Rl4TgWQ",
+      "title": "퍼피캣 서울본점",
+      "link": "https://www.youtube.com/@puppycat23",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.98
+    },
+    {
+      "channel_id": "UCBzrGeWbTMB-5OS_Y240noQ",
+      "title": "포근한 발자국",
+      "link": "https://www.youtube.com/@pogunham",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.74
+    },
+    {
+      "channel_id": "UCLR0SlUiWVtp0i_w3kk8Mnw",
+      "title": "힐링 세상 ",
+      "link": "https://www.youtube.com/@힐링세상-g2m",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.72
+    }
+  ],
+  "tuyen": [
+    {
+      "Mã": "radar-산책",
+      "Tên tuyến": "산책",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "산책",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 95/100 · 15 video của 11 kênh · view 30 ngày: dài 69.7K, Shorts 212.8K · ví dụ: 생일파티를위한 산책"
+    },
+    {
+      "Mã": "radar-태어난",
+      "Tên tuyến": "태어난",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "태어난",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 90/100 · 8 video của 5 kênh · view 30 ngày: dài 150.8K, Shorts 238.4K · ví dụ: 태어난 새끼들 무늬 보고 표정 굳어버린 아빠 강아지"
+    },
+    {
+      "Mã": "radar-귀여운",
+      "Tên tuyến": "귀여운",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "귀여운",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 85/100 · 16 video của 7 kênh · view 30 ngày: dài 71.0K, Shorts 105.7K · ví dụ: 감각이 더 발달하게 된 강아지의 귀여운 반응"
+    },
+    {
+      "Mã": "radar-주인이",
+      "Tên tuyến": "주인이",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "주인이",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 83/100 · 11 video của 8 kênh · view 30 ngày: dài 0, Shorts 1.2M · ví dụ: 주인이 눈물을 흘리는 이유 #강아지 #입양 #분양 #눈물"
+    },
+    {
+      "Mã": "radar-신호",
+      "Tên tuyến": "신호",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "신호",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 78/100 · 15 video của 9 kênh · view 30 ngày: dài 13.2K, Shorts 162.5K · ví dụ: 9가지 강아지가 짖는 소리로 알아보는 속마음, 기분 감정 신호"
+    },
+    {
+      "Mã": "radar-당신을",
+      "Tên tuyến": "당신을",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "당신을",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 78/100 · 13 video của 5 kênh · view 30 ngày: dài 367.1K, Shorts 126.5K · ví dụ: 강아지가 당신을 주인이 아닌 부모로 생각한다는 7가지 신호!"
+    },
+    {
+      "Mã": "radar-강아지에게",
+      "Tên tuyến": "강아지에게",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "강아지에게",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 78/100 · 10 video của 8 kênh · view 30 ngày: dài 12.5K, Shorts 21.8K · ví dụ: 무조건 외우세요~강아지에게 주기 전, 꼭 확인하세요! 음식 주의 10가지"
+    },
+    {
+      "Mã": "radar-보인",
+      "Tên tuyến": "보인",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "보인",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 76/100 · 16 video của 10 kênh · view 30 ngày: dài 0, Shorts 1.4M · ví dụ: 아기 간지럽히는 할아버지에게 진돗개가 보인 반응 #강아지 #반려견 #진돗개 #귀여운강아지 #아기와강아지"
+    },
+    {
+      "Mã": "radar-강아지와",
+      "Tên tuyến": "강아지와",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "강아지와",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 76/100 · 11 video của 5 kênh · view 30 ngày: dài 65.3K, Shorts 11.2K · ví dụ: 매일 강아지와 산책하면 뇌에 이런 변화가 생깁니다! 과학자들도 놀란 놀라운 사실!"
+    },
+    {
+      "Mã": "radar-반응",
+      "Tên tuyến": "반응",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "반응",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 74/100 · 14 video của 11 kênh · view 30 ngày: dài 0, Shorts 1.1M · ví dụ: 집에 도둑이 들었을 때 진돗개 반응 #강아지 #반려견 #진돗개 #귀여운강아지"
+    }
+  ]
+}

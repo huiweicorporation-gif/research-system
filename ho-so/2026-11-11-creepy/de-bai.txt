@@ -1,0 +1,28 @@
+HỒ SƠ CƠ HỘI · ngách evo-psych-en · radar ngày 2026-11-11
+Vùng: creepy · điểm cơ hội 84/100 (hạng 3/150)
+Kênh đích: (chưa có) · Hạn vào sản xuất: 48 giờ sau khi bàn giao
+
+VÌ SAO VÙNG NÀY (số đo, cửa sổ 90 ngày, 9 video của 3 kênh)
+- Hiệu suất: video trung vị đạt 10.4x mức thường của chính kênh ở cùng tuổi video (hạng 100%).
+- Đà: video 2–30 ngày tuổi được 57.2x lượt xem kỳ vọng trong 24 giờ qua (hạng 100%).
+- Quy mô: view 30 ngày: video dài 303.5K, Shorts 0 (hạng 86%).
+- Độ mở: PANACEA giữ 75% view 30 ngày của vùng (hạng 51%).
+  Đọc: chật — một kênh giữ phần lớn view của vùng.
+- Gợi ý định dạng: Shorts, gần như trống trong vùng này (0% view 30 ngày).
+- Ví dụ: "The Creepy Reason Ancient Humans Invented Castration (It Was Never Just A Punishment)" (94,217 view) https://www.youtube.com/watch?v=R6neFkG-IjU
+
+VIDEO NỔ NGUỒN (bộ phân tích Gạch 2)
+- -7wwDC0fWrc "The Creepy Reason Ancient Humans Invented Shaving (It Was Never To Look Good)." (PANACEA, video dài, 22:54): 75.4x mức thường của kênh, 42,419 view lúc 27 h · cặp 2026-11-07-l1, ngày 2026-11-07
+  Đối chứng: KjPp-lXnloQ "Why Ancient Humans Invented Brain Surgery (It Was Never To Release Demons)", 1,188 view.
+  Đo được (video nổ so với đối chứng): 161.2 so với 166.9 từ/phút; 11.5 so với 14.8 lần cắt/phút; 1374 giây so với 786 giây.
+  Giả thuyết (Gạch 2): Chủ đề cạo lông/râu gắn với cơ thể và các bình luận tranh luận (nguồn, lý do tiến hóa) tạo tương tác cao hơn chủ đề phẫu thuật não.
+- Zb6bGLszBAY "The Creepy Reason Ancient Humans Invented Piercings (It Was Never For Jewelry)." (PANACEA, video dài, 17:45): 12.4x mức thường của kênh, 11,585 view lúc 27 h · cặp 2026-11-09-l3, ngày 2026-11-09
+  Đối chứng: SmlsSFghabI "Why Ancient Humans Invented Birth Control (The Ingredients Were Insane)", 2,451 view.
+  Đo được (video nổ so với đối chứng): 161.4 so với 149 từ/phút; 10.8 so với 12.8 lần cắt/phút; 1065 giây so với 1427 giây.
+  Giả thuyết (Gạch 2): Tiêu đề lật ngược nhận thức thông thường về khuyên lỗ tai (không phải vì trang sức mà vì lý do đáng sợ) tạo khoảng trống thông tin hấp dẫn hơn, khiến người xem click nhiều hơn để giải đáp.
+
+CẦN KIỂM TRƯỚC KHI VIẾT
+- Mọi dữ kiện trong kịch bản cần nguồn gốc (bài báo khoa học, sách, bảo tàng). Hồ sơ này chỉ có số đo, chưa có dữ kiện nào.
+
+DỰ ĐOÁN (hop-dong.json)
+- Video đạt ≥ 5 lần mức thường của kênh trong 7 ngày sau khi đăng. Chỉ tính khi video được đăng trước hạn; trễ hạn thì hồ sơ ghi "trễ".

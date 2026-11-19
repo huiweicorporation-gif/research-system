@@ -1,0 +1,8 @@
+{"scores": {
+  "trinh-sat":  {"A": {"hut": 3, "hop_kenh": 4}, "C": {"hut": 3, "hop_kenh": 4}, "D": {"hut": 3, "hop_kenh": 5}},
+  "y-tuong":    {"A": {"hut": 3, "hop_kenh": 4, "doc_dao": 3}, "C": {"hut": 3, "hop_kenh": 3, "doc_dao": 3}, "D": {"hut": 3, "hop_kenh": 5, "doc_dao": 5}},
+  "phan-bien":  {"A": {"hut": 3, "doc_dao": 3}, "C": {"hut": 3, "doc_dao": 2}, "D": {"hut": 4, "doc_dao": 4}},
+  "kiem-duyet": {"A": {"rui_ro": 4, "doc_dao": 3}, "C": {"rui_ro": 4, "doc_dao": 3}, "D": {"rui_ro": 3, "doc_dao": 4}},
+  "dao-dien":   {"A": {"lam_ai": 5, "chi_phi": 4}, "C": {"lam_ai": 4, "chi_phi": 4}, "D": {"lam_ai": 4, "chi_phi": 3}}
+ },
+ "policy_risk": {"A": "thap", "C": "thap", "D": "trung-binh"}}

@@ -1,0 +1,35 @@
+SAMPLE OPPORTUNITY BRIEF (draft for the owner to judge the template; not handed to production)
+Zone: salt · opportunity 76/100 (rank 5 of 87 zones, radar-dev 1.6.1 replay of 2026-10-26)
+Target channel: (none yet: the new English youtube-main channel) · Production deadline: 48 h after hand-off
+
+WORKING TITLE
+How Did Ancient Humans Get Salt Before Salt Mines?
+
+WHY THIS ZONE (measured, 90-day window, n = 11 videos from 11 channels)
+- Performance: the median video does 3.4x its own channel's normal at the same age (rank 93%).
+- Momentum: uploads 2-30 days old gain 12.7x the views expected in the last 24 h (rank 95%).
+- Size: 17.1M Shorts views + 0.5M long-form views in 30 days, 24% of the niche's 30-day views (rank 100%).
+- Openness: LOW. One channel (@Qyumroy) holds 97% of the zone's 30-day views (rank 16%).
+  Read: proven demand, crowded in Shorts by one channel; long-form is almost empty (0.5M).
+  Suggested angle: long-form explainer, not another Short.
+
+SOURCE BREAKOUT (analysed by the Brick 2 runner)
+- 3sW7CSK9ogI "How Did Ancient Humans Make the First Salt?" (InkAncient, Short, 0:45), 45x its channel normal,
+  40,307 views at 82 h.
+- Control: oj31XfkbHTE (same channel, rainwater topic), 1,623 views.
+- Measured difference: 207 vs 120 words/min; 9.3 vs 7.3 cuts/min; 45 s vs 33 s.
+- Hypothesis (Brick 2, Gemini): a direct question in the first line plus a trial-and-error discovery story
+  (deer licking a white rock, a failed attempt, then the method) holds viewers better than a plain how-to.
+- CAUTION: the source narration is in HINDI (English title). Its pacing numbers do not transfer as-is to an
+  English narrator; use the story structure, not the speed.
+
+STRUCTURE TO TEST (from the hypothesis, in the channel's C1 format)
+1. Hook: a present-day, second-person moment (your food with no salt at all), then the question out loud.
+2. Promise: three clues to how early humans found salt.
+3. Clues as a trial-and-error story: animals at salt licks -> seawater and salt crusts -> boiling brine.
+4. Close: one comment question, subscribe invitation.
+
+FACTS TO CHECK BEFORE WRITING (primary sources; nothing above is a fact claim yet)
+- Earliest archaeological evidence of salt production (dates and sites).
+- Salt licks and animal behaviour as a human cue (claim from the source video; needs a source).
+- Briquetage / brine boiling sites in Neolithic Europe and China (dates).

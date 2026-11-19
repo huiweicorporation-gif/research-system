@@ -1,0 +1,15 @@
+{
+  "note": "Viết tay cho bộ mẫu. Hôm nay là 2026-11-14. de-bai.txt của hồ sơ ghi: Vùng này chưa có video nổ nào được phân tích.",
+  "zone": "toilet",
+  "niche_id": "evo-psych-en",
+  "zone_numbers_day": "2026-11-14",
+  "pairs": [
+    {"pair_id": "2026-11-10-s1", "zone": "toilet", "mode": "full", "flags": ["no_control"],
+     "outlier": {"title": "Ancient Toilets Were Gross", "multiple": 12.0, "language": "en"},
+     "control": null, "interpretation": null},
+    {"pair_id": "2026-11-12-l3", "zone": "toilet", "mode": "full", "flags": [],
+     "outlier": {"title": "प्राचीन शौचालय कैसे बने", "multiple": 6.6, "language": "hi"},
+     "control": {"title": "पहला पहिया", "language": "hi", "age_days": 90},
+     "interpretation": {"khac_biet": "2 giây một hình; video kia 6 giây", "gia_thuyet": "nhịp hình nhanh"}}
+  ]
+}

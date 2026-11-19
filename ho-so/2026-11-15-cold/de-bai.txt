@@ -1,0 +1,21 @@
+HỒ SƠ CƠ HỘI · ngách evo-psych-en · radar ngày 2026-11-15
+Vùng: cold · điểm cơ hội 78/100 (hạng 7/152)
+Kênh đích: (chưa có) · Hạn vào sản xuất: 48 giờ sau khi bàn giao
+
+VÌ SAO VÙNG NÀY (số đo, cửa sổ 90 ngày, 9 video của 7 kênh)
+- Hiệu suất: video trung vị đạt 1.4x mức thường của chính kênh ở cùng tuổi video (hạng 82%).
+- Đà: video 2–30 ngày tuổi được 4.5x lượt xem kỳ vọng trong 24 giờ qua (hạng 94%).
+- Quy mô: view 30 ngày: video dài 428.4K, Shorts 0 (hạng 91%).
+- Độ mở: ICE AGE SURVIVAL giữ 78% view 30 ngày của vùng (hạng 44%).
+  Đọc: chật — một kênh giữ phần lớn view của vùng.
+- Gợi ý định dạng: Shorts, gần như trống trong vùng này (0% view 30 ngày).
+- Ví dụ: "The Genius Ways Ancient Humans Survived Cold, Rainy Nights" (229,763 view) https://www.youtube.com/watch?v=uNxjMuoUg1c
+
+VIDEO NỔ NGUỒN (bộ phân tích Gạch 2)
+- Vùng này chưa có video nổ nào được phân tích: người viết kịch bản tự chọn cấu trúc; video ví dụ ở trên cho thấy nhu cầu.
+
+CẦN KIỂM TRƯỚC KHI VIẾT
+- Mọi dữ kiện trong kịch bản cần nguồn gốc (bài báo khoa học, sách, bảo tàng). Hồ sơ này chỉ có số đo, chưa có dữ kiện nào.
+
+DỰ ĐOÁN (hop-dong.json)
+- Video đạt ≥ 5 lần mức thường của kênh trong 7 ngày sau khi đăng. Chỉ tính khi video được đăng trước hạn; trễ hạn thì hồ sơ ghi "trễ".

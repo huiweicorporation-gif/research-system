@@ -1,0 +1,148 @@
+RADAR SCOUT DE 2026-11-10 (one day; 32 tracked channels; 908 videos in 90-day zone window)
+
+TOPIC ZONES (opportunity, terms, long/short views 30d, top holder share, example)
+82 ['diese'] {'long': 6728, 'short': 20295} 0.31 | Ragdoll-Katze: Warum diese Katze so besonders ist! 😻🐱
+73 ['fehler'] {'long': 12353, 'short': 118377} 0.63 | Welpe im Herbst: 4 Fehler bei Kälte
+73 ['sind'] {'long': 33616, 'short': 101559} 0.66 | 5 Hunderassen, die in Frankreich verboten sind! 😱🐕
+71 ['oder'] {'long': 75013, 'short': 40576} 0.4 | 7 Zeichen, dass Ihr Hund Sie als Mama oder Papa sieht (nicht als Herrchen)
+70 ['ich'] {'long': 1478, 'short': 21000} 0.38 | Sollen Hunde das unter sich regeln? Nein - und hier erkläre ich u.a. warum.
+69 ['beim'] {'long': 1129, 'short': 28495} 0.61 | Jagdverhalten beim Hund: So trainierst du Begegnungen mit Wild 🐶🦌
+67 ['dein'] {'long': 24136, 'short': 422043} 0.79 | Dein Hund spricht mit dir – auch ohne Worte!
+66 ['sagen'] {'long': 17443, 'short': 1781} 0.52 | Warum dein Hund am Schritt schnüffelt – was er dir damit sagen will
+63 ['einen'] {'long': 4378, 'short': 226823} 0.94 | So begrüßt du einen Hund richtig!
+63 ['alleine', 'lassen'] {'long': 340787, 'short': 2915} 0.99 | 7 Hunderassen, die ich nie wieder ins Haus lassen würde
+63 ['meinen'] {'long': 6032, 'short': 10848} 0.64 | 3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱
+61 ['ruhe', 'zur'] {'long': 0, 'short': 230668} 0.96 | So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule
+60 ['wirklich'] {'long': 62705, 'short': 10010} 0.74 | 7 seltene Eigenschaften von Frauen, die Hunde wirklich lieben
+58 ['hat'] {'long': 179377, 'short': 15928} 0.78 | unser BABY HUND HUGO hat GEHEIRATET! 😱💍
+58 ['tag', 'jeden'] {'long': 579919, 'short': 6161} 0.84 | Die STRENGSTE BABYSITTERIN passt 1 TAG auf unseren BABY HUND HUGO auf! 😭
+56 ['steckt'] {'long': 0, 'short': 6232} 0.36 | Soviel Wolf steckt noch in deinem Hund #hunde #wolf
+55 ['ganz'] {'long': 16913, 'short': 9438} 0.36 | Dein Hund wartet sein GANZES LEBEN darauf, dass du DAS tust!
+54 ['deinen'] {'long': 7312, 'short': 29829} 0.58 | 🐶🥕 Gesunde Snacks für deinen Hund müssen nicht kompliziert sein!👇🏻
+54 ['über'] {'long': 936, 'short': 86504} 0.93 | Maine Coon: 7 erstaunliche Fakten über diese Riesenkatze! 🐱😱
+54 ['zum'] {'long': 275278, 'short': 3232} 0.99 | ALLE YOUTUBER treffen zum 1. MAL unseren BABY HUND HUGO! 🥺 (eskaliert)
+
+TOP KEYWORDS (term, n titles, channels)
+dein 162 34
+dein hund 138 31
+sie 26 12
+ihr hund 18 4
+einen 22 12
+ihr 23 8
+hunde 45 24
+dinge 23 8
+diese 27 11
+dir 28 15
+hat 24 14
+dich 24 12
+wenn 31 16
+kann 36 12
+sind 17 12
+oder 27 13
+deinen 33 16
+baby 7 2
+wirklich 32 15
+niemals 14 2
+
+RISING: []
+
+WINS / OUTLIERS (views, multiple, subs, channel, format, title)
+long 7825 32.0 19400 Hundeo - Hundetraining | Welche Hunderasse ist wirklich für Anfänger geeignet?
+long 1345 5.5 703 Dog4 – Hundeverhalten verste | Drei Kinder von Hunden gebissen – was wurde übersehen?
+long 109725 2.4 13300 Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT, was Sie denken!)
+long 96582 2.4 13300 Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN
+long 10325 3.2 14900 Die Weisheit der Pfoten | 99 Prozent aller Probleme mit deinem Hund sind ein einziges Problem
+long 2033 2.5 2970 Hunde verstehen "anders"- Ka | TRAINING! Hundebegegnung an der Leine! Wer kennt das Problem?
+long 1244 2.3 1050 hundsfaelle | Starke Hunde, klare Verantwortung – was im Training wirklich anders ist
+short 297687 232.2 1170 Balloony Tiergesundheit | Dein Hund spricht mit dir – auch ohne Worte!
+short 222535 56.1 1640 GUTE HUNDE | So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule
+short 204516 155.1 1170 Balloony Tiergesundheit | So begrüßt du einen Hund richtig!
+short 87941 17.6 8220 TierWow | 5 Hunderassen, die in Frankreich verboten sind! 😱🐕
+short 79874 73.4 19400 Hundeo - Hundetraining | Welpe im Herbst: 4 Fehler bei Kälte
+short 39798 36.8 1170 Balloony Tiergesundheit | Dein Hund hört nicht auf „Loslassen“?👇🏻
+short 17301 32.9 519 Bettina Bumb | Ruhe für dich | Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾
+short 16131 14.1 19400 Hundeo - Hundetraining | Wie lange darf ein Hund allein sein? 2, 4 oder 8 Stunden
+short 1026 10.2 2900 CHINESE CRESTED POWDERPUFF T | Mein Frauchen und Autofahren🤣 dog #puppy #doggielife #pets #funny
+short 16917 8.8 1600 JacktheDalmatian | Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hund
+short 9417 9.8 3240 Dogletics | 3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱
+short 8617 6.7 2970 Hunde verstehen "anders"- Ka | Apportieren- Aufbau für Obedience Beginner
+short 7080 8.5 1790 Tierliebhaber | Ohne Leckerli vs. mit Leckerli 😂🐶
+short 6277 9.7 519 Bettina Bumb | Ruhe für dich | Dein Hund übertreibt nicht 💛
+short 4304 6.2 519 Bettina Bumb | Ruhe für dich | Ein Hund braucht nicht viel. Aber dieses eine Ding braucht er jeden Tag 🐾
+short 1324 6.9 3240 Dogletics | Kommt mein Hund an den Fußball? ⚽😂
+short 1165 9.5 3240 Dogletics | Kann mein Hund ein EI aus dem Wasser holen? 🥚😂
+short 1076 6.3 1260 Wuff & Wissen | Dein Hund will NICHT kuscheln? DAS steckt dahinter! 🐕#shorts #goldenretriever
+short 50059 3.4 1820000 ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #shorts
+short 19381 3.1 8220 TierWow | Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳
+
+VIEWER COMMENTS WITH QUESTIONS OR COMPLAINTS (likes | channel | text)
+55 | TierWow | 5 Hunderassen, die in Frankreich verbote | Hoffentlich. Verbietet man die Menschen die den Blödsinn verzapt haben!
+37 | TierWow | 5 Hunderassen, die in Frankreich verbote | Das Problem ist nicht am Ende der Leine sondern am Anfang.
+31 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Ein wunderbarer Beitrag - auch wenn ich KI-Videos eigentlich überhaupt nicht mag. Doch hier wird wenigstens was gscheites gezeigt
+30 | TierWow | 5 Hunderassen, die in Frankreich verbote | Das Problem sind doch oft Menschen die ohne genug Sachverstand  dich eine Hunderasse anschaffen die mächtig ist um Schäden anzurichten. Die Liste wird bestimmt bald erweitert
+26 | TierWow | 5 Hunderassen, die in Frankreich verbote | Franzosen haben vor allem Angst😢
+21 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Extrem wertvolle Tips wunderbar erklärt❤ Danke herzlich🙏🙏
+17 | TierWow | 5 Hunderassen, die in Frankreich verbote | Verbote halten z.B. niemanden auf, der Hundekämpfe als Einnahmequelle sieht und lebt. Kein Mensch und kein Hund, werden bösartig geboren, jedoch können nicht vorhersehbare Ereignisse oder Situationen, beide Spezies in einen Ausnahme versetzen, bei dem man nie 
+17 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Die besten KI Videos, die ich bis jetzt sehen durfte
+16 | TierWow | 5 Hunderassen, die in Frankreich verbote | Pitbull? sollte man da nicht eher ein Halter verbot anstreben? Kein wunder das man über Frankreich Witze macht! egal wie tief Deutschland fällt Frankreich gräbt tiefer!
+15 | TierWow | 5 Hunderassen, die in Frankreich verbote | Es ist der Schutz der Allgemeinheit vor den HALTERN dieser Hunde. Bedankt euch bei denen, die solche Hunde falsch oder als Waffe erzogen haben.
+14 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Ein aufschlussreicher Vortrag. Ich sehe die Vidios gerne. Habe ein Labrator und stelle fest, dass ich vieles richtig mache. Dan🐕🦮ke
+12 | TierWow | 5 Hunderassen, die in Frankreich verbote | So ein bullshit 😅
+12 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | Endlich jemand ohne ki 😂
+10 | TierWow | 5 Hunderassen, die in Frankreich verbote | Schuld ist immer das Ende der Leine  kein Tier  wird böse geboren
+10 | TierWow | 5 Hunderassen, die in Frankreich verbote | Alles Quatsch,richtige Haltung und Erziehung,dann klappt's. Der Mensch muss besser erzogen werden.Er ist das Problem,nicht der Hund. Meine Meinung. Habe schon den fünften Schäferhund,Wachsam und Gehorsam und vor allem ist er Erzogen,😅😅
+9 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ja, auf jeden Fall, immer und mit Leidenschaft❤
+9 | TierWow | 5 Hunderassen, die in Frankreich verbote | Heute soll man eher die Menschen verbieten 🤔
+9 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Super sympathisch, zum weg schmelzen. Leider nicht echt. Nur k.I. Schade Gerd Hallmann , wer bist du wirklich?
+8 | TierWow | Wähle niemals einen Bullterrier, bevor d | ❤ man kann mit jedem Hund zusammenleben 👍 ...aber definitiv nicht mit jedem Menschen ....
+8 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Vorzüglich Erklärt... wie immer 😉👍🙏❣️🥇
+8 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Ich hab noch keinen Hund, alles ist aber sehr gut erklärt. Mal sehen was kommt. Ich fühle mich gut vorbereitet.❤
+8 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Du kannst dann von einem Erfolg reden, wenn du neben deinem Hund stehst und er nicht mehr reagiert. Das davor stellen, ist vielleicht ein Anfang... .
+8 | Die Weisheit der Pfote | 99 Prozent aller Probleme mit deinem Hun | Tolles video, wie immer❤ 30j Hunde und lerne, lerne, lerne😊
+7 | JacktheDalmatian | Mein Hund wurde zu früh kastriert. Jetzt | Ist er noch nicht in der Pubertät? Rüden heben erst später das Bein.
+7 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Ich habe auch lange dran gearbeitet, dass mein Hund nicht mehr jedes Mal ausflippt und meist läuft es bei mir schon gut, wenn ich den Reiz vorher bemerke, dann dreht er gar nicht mehr so auf. Außer der Abstand ist zu nah, dass mag er halt gar nicht.
+7 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Das kenne ich, sogar mit Frustschnappen nach mir.
+7 | Die Weisheit der Pfote | 99 Prozent aller Probleme mit deinem Hun | Hallo Andreas, ich bin schneller als mein Vorsatz wenn ich im Zeitstress bin. Also wenn es schnell gehen soll und ich mir selbst nicht die Ruhe nehme. Übrigens liebe ich den Newsletter, da kann ich mir in Ruhe nochmal alles durchlesen und kann die Übungen stru
+6 | TierWow | 5 Hunderassen, die in Frankreich verbote | Rottmann & Doberweiler 😅
+6 | TierWow | 5 Hunderassen, die in Frankreich verbote | Knutschkugelverbot im Land  der Feinschmecker.
+6 | TierWow | 5 Hunderassen, die in Frankreich verbote | Fila springt 2 Meter ? Die Rasse ist viel zu schwer
+6 | TierWow | 5 Hunderassen, die in Frankreich verbote | Es gibt keine bösen Hunde. Die Menschen machen zu Bestien.
+6 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | im grunde genommen gut, bis auf die KI sache....ich kann es nicht mehr sehen :/
+6 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | Wenn ich meine Freundin besuche,  setzt sich der Hund, nachdem er mir die Hände abgeschleckt hat , direkt au meine Füße,  als würde er sagen: "du bleibst hier " ...
+6 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Danke schön ❤
+6 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Sehr gut gemacht.👍🤝
+6 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Mach ich auch so. Aber mit dem Rücken, damit ich den anderen im Blick habe.
+5 | TierWow | Wähle niemals einen Bullterrier, bevor d | Kann ich bestätigen, habe selber einen und einen mini.❤
+5 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ja auf jeden Fall
+5 | TierWow | Wähle niemals einen Bullterrier, bevor d | Bullterrier sind die liebevollsten Hunde überhaupt ! Meiner wurde leider nur 11 Jahre
+5 | TierWow | 5 Hunderassen, die in Frankreich verbote | Das sind sinnlose Panik machereien es kommt immer auf die Erziehung an und nicht auf den Hund. Klar gibt es rassen bei denen der beschützter Instinkt oder sonstige Eigenschaften stärker geprägt sind aber solche Hunde gerade zu verbieten finde ich schon sehr üb
+5 | TierWow | 5 Hunderassen, die in Frankreich verbote | Bescheuert das man Tiere Verband obwohl der Mensch das Aller Schlimmste ist
+5 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | Es geht ums lecken.Meine Tochter hatte schlimme Fechten im Gesicht nichts half,bis Odyn ihr Gesicht ableckte.Er lies nicht ab,am anderen Morgen sah sie schon besser aus.Es war heftig,blutig,nur meine Tochter war glücklich.Nach einer Woche wars weg.
+5 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | Diese Musik ist nicht schön, es stört!!!
+5 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Danke ganz herzlich für dieses erwärmende Video. ❤
+5 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | So ist es nicht ganz richtig!  Genau ihr müsst schon den Feind im Auge haben, sonst hören die Hunde oft nicht auf, weil sie euch was vermitteln wollen.
+5 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | 😂😂😂😂
+4 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ja klar hatte früher selber einen
+4 | TierWow | Wähle niemals einen Bullterrier, bevor d | Absolut ja. Ich hatte ein.
+4 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | Zu faul, selber zu sprechen? Oder was ist der Grund fuer diese grottenschlechte KI-Darstellung mit der unertraeglichen KI-Stimme?
+4 | Gerd Hallmann | Warum Ihr Hund Sie ableckt (es ist NICHT | Es gibt kein richtiges Buch ? Ich möchte nichts auf dem Handy oder PC.
+4 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Wieder sehr gut bei wichtigen Themen erklärt!!❤❤
+4 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Das beste für ein Tier, dessen Herrchen einen 8 Std.-Sklaven-Job hat, ist ein Besitzerwechsel.  Was für eine Tierquälerei!!!
+4 | Die Weisheit der Pfote | 99 Prozent aller Probleme mit deinem Hun | 👍👍👍💚💚💚🌻
+4 | Die Weisheit der Pfote | 99 Prozent aller Probleme mit deinem Hun | Ich habe mich  -abgesehen von dem sehr interessanten Thema- köstlich über die süße Zeichnung von Qs Pofell amüsiert…….sorry für offtopic….. Und übrigens habe ich einen „Jürgen“ als Ehemann, ihr könnt euch den Stress für mich vorstellen 😢……..
+4 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | Maybrrit ist toll
+3 | JacktheDalmatian | Mein Hund wurde zu früh kastriert. Jetzt | Meine Hündin wurde auch viel zu früh kastriert. Nun hebt sie das Bein😂
+3 | Hunde verstehen "ander | Apportieren- Aufbau für Obedience Beginn | Kann man das auch normal sagen?
+3 | Hunde verstehen "ander | Apportieren- Aufbau für Obedience Beginn | Brrrrrring
+3 | Gerd Hallmann | 7 Dinge täglich, und Ihr Hund weiß, das | Wäre viel glaubwürdiger, wenn da ein Mensch wäre. Meine Güte es ist echt nicht so,schwer, sich vor eine Kamera zu setzen und was zu erzählen.
+3 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | wie schlecht !!! typisch Hundetrainerin- bringt gar nichts - Hund 0 im Griff !
+3 | GUTE HUNDE | So findet dein reaktiver Hund zurück zur | Danke für das tolle Video
+3 | Die Weisheit der Pfote | 99 Prozent aller Probleme mit deinem Hun | Wenn ich hier rufe und er kommt, dann laufe ich manchmal schon wieder vorher los.
+3 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | Kevin du hast das gut gemacht und hör nicht auf hater 😢❤😊
+3 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | Bro Kevin Klopf Klopf es klopft an den Like Butten❤
+3 | ClashGames | ClashGames macht KLOPF KLOPF TANZ! 😂 #sh | 
+3 | Balloony Tiergesundhei | Dein Hund spricht mit dir – auch ohne Wo | Kannst du es auch mit Katzen machen?😊
+2 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ja❤❤❤❤
+2 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ja ❤
+2 | TierWow | Wähle niemals einen Bullterrier, bevor d | JA UNBEDUNGT
+2 | TierWow | Wähle niemals einen Bullterrier, bevor d | Ich lebte mit Bullis 12 Jahre zusammen als meine Eltern noch lebten , das stimmt alles zu 100%. Wollte mir einen Mini zulegen , bin aber (noch) von dem Vorhaben abgegangen weil ich 8 Stunden nicht im Haus bin und der kleine zulange allein wär.🥹🥹🥹❤️

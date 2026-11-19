@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "source": "mock",
+    "updated_at": null,
+    "version": "0.2.0",
+    "note": "Mock data file — Backend not yet connected"
+  },
+  "insight": {
+    "hot_topics":          [],
+    "content_trends":      [],
+    "niche_gaps":          [],
+    "video_suggestions":   [],
+    "competitive_analysis": {
+      "strengths":     [],
+      "weaknesses":    [],
+      "opportunities": [],
+      "threats":       []
+    }
+  },
+  "ai_suggestions":  [],
+  "forecast": {
+    "views_30d":       0,
+    "subscribers_30d": 0,
+    "recommended_videos": []
+  },
+  "recommended_keywords": [],
+  "content_challenges":   []
+}

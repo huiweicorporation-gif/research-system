@@ -1,0 +1,64 @@
+{
+  "day": "2026-11-08",
+  "read_at": "2026-11-08T10:14:24.573013+07:00",
+  "channel": {
+    "id": "UCfi8DdPNMDtzhp9JK8TRMqA",
+    "title": "hari Shu",
+    "handle": "@tiandyvietnam2145",
+    "subscribers": 1
+  },
+  "videos": [
+    {
+      "id": "4GeepGkirFU",
+      "title": "TC NCL214S STARLIGHT",
+      "published": "2018-09-18T04:07:21Z",
+      "privacy": "public",
+      "views": 129,
+      "likes": 1,
+      "comments": 0,
+      "minutes_watched": 62,
+      "avg_view_seconds": 30,
+      "avg_view_pct": 58.96,
+      "subs_gained": 0
+    },
+    {
+      "id": "3vx5Q152zwc",
+      "title": "STARLIGHT TC NCL214S",
+      "published": "2018-09-18T04:07:18Z",
+      "privacy": "public",
+      "views": 43,
+      "likes": 0,
+      "comments": 0,
+      "minutes_watched": 22,
+      "avg_view_seconds": 31,
+      "avg_view_pct": 57.38999999999999,
+      "subs_gained": 0
+    },
+    {
+      "id": "cXh57OE0IP0",
+      "title": "TC NCL214S",
+      "published": "2018-09-18T04:05:48Z",
+      "privacy": "public",
+      "views": 57,
+      "likes": 1,
+      "comments": 2,
+      "minutes_watched": 33,
+      "avg_view_seconds": 36,
+      "avg_view_pct": 63.38,
+      "subs_gained": 0
+    }
+  ],
+  "notes": [],
+  "comments": [
+    {
+      "id": "Ugzn4vO8jzpjJdjovnt4AaABAg",
+      "video_id": "cXh57OE0IP0",
+      "author": "@safehouse5222",
+      "text": "Phía bên trái là bật starlight à bác",
+      "published": "2018-12-20T03:47:41Z",
+      "likes": 0,
+      "answered": true,
+      "can_reply": true
+    }
+  ]
+}

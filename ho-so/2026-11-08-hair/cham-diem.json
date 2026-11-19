@@ -1,0 +1,16 @@
+{
+  "dossier": "2026-11-08-hair",
+  "meeting_day": "2026-11-14",
+  "options": {
+    "A": "slow-c1 · Why We Lost Our Fur: The Horse Race Clue",
+    "B": "c1 · What Lice Reveal About When We Lost Our Fur"
+  },
+  "scores": {
+    "trinh-sat": {"A": {"hut": 2, "hop_kenh": 5}, "B": {"hut": 3, "hop_kenh": 5}},
+    "y-tuong": {"A": {"hut": 3, "hop_kenh": 5, "doc_dao": 3}, "B": {"hut": 4, "hop_kenh": 5, "doc_dao": 4}},
+    "phan-bien": {"A": {"hut": 3, "doc_dao": 2}, "B": {"hut": 4, "doc_dao": 4}},
+    "kiem-duyet": {"A": {"rui_ro": 4, "doc_dao": 3}, "B": {"rui_ro": 4, "doc_dao": 4}},
+    "dao-dien": {"A": {"lam_ai": 4, "chi_phi": 4}, "B": {"lam_ai": 3, "chi_phi": 4}}
+  },
+  "policy_risk": {"A": "thap", "B": "thap"}
+}

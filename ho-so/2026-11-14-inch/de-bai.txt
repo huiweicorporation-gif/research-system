@@ -1,0 +1,21 @@
+HỒ SƠ CƠ HỘI · ngách evo-psych-en · radar ngày 2026-11-14
+Vùng: inches · điểm cơ hội 85/100 (hạng 1/152)
+Kênh đích: (chưa có) · Hạn vào sản xuất: 48 giờ sau khi bàn giao
+
+VÌ SAO VÙNG NÀY (số đo, cửa sổ 90 ngày, 8 video của 8 kênh)
+- Hiệu suất: video trung vị đạt 8.6x mức thường của chính kênh ở cùng tuổi video (hạng 100%).
+- Đà: video 2–30 ngày tuổi được 1.1x lượt xem kỳ vọng trong 24 giờ qua (hạng 83%).
+- Quy mô: view 30 ngày: video dài 706.9K, Shorts 0 (hạng 94%).
+- Độ mở: Female Psychology | Mia Khalifa giữ 64% view 30 ngày của vùng (hạng 63%).
+  Đọc: chật — một kênh giữ phần lớn view của vùng.
+- Gợi ý định dạng: Shorts, gần như trống trong vùng này (0% view 30 ngày).
+- Ví dụ: "How Many Inches Women Actually Want, Based on Science UROLOGIST Explained | Mia Khalifa" (451,343 view) https://www.youtube.com/watch?v=JXqJBMC6hVo
+
+VIDEO NỔ NGUỒN (bộ phân tích Gạch 2)
+- Vùng này chưa có video nổ nào được phân tích: người viết kịch bản tự chọn cấu trúc; video ví dụ ở trên cho thấy nhu cầu.
+
+CẦN KIỂM TRƯỚC KHI VIẾT
+- Mọi dữ kiện trong kịch bản cần nguồn gốc (bài báo khoa học, sách, bảo tàng). Hồ sơ này chỉ có số đo, chưa có dữ kiện nào.
+
+DỰ ĐOÁN (hop-dong.json)
+- Video đạt ≥ 5 lần mức thường của kênh trong 7 ngày sau khi đăng. Chỉ tính khi video được đăng trước hạn; trễ hạn thì hồ sơ ghi "trễ".

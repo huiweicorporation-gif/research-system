@@ -1,0 +1,97 @@
+DOG MIND · 10 VIDEO ĐẦU · THỊ TRƯỜNG ĐỨC (phương án A)
+Bản 2, sửa ngày 2026-11-10 sau báo cáo "reports/Nhu cầu chủ chó ở Đức.md".
+Bản 1 (10 chủ đề chung với tiếng Hàn, tiêu đề "Ihr Hund", ảnh vẽ 2D) đã thay hết.
+
+KHUNG MỖI VIDEO
+- Video giải thích MỘT vấn đề có thật của chủ nuôi.
+  Câu hỏi chính: "con chó đang cố làm gì".
+  Nói rõ điều nào có nghiên cứu, điều nào chỉ là ý kiến huấn luyện viên, điều nào chưa ai biết chắc.
+  Kết bằng một việc thử ngay tối nay, KHÔNG gây đau.
+- Kênh chỉ giải thích. Không tự gọi là Hundetrainer, không đóng vai chuyên gia.
+- Xưng "du" ("dein Hund"). Giọng ấm, bình tĩnh, nghiêm túc.
+- Hình là cảnh chó thật lấy từ Pexels. Chữ và sơ đồ của mình chèn ở bước ghép.
+  Mỗi clip để ngắn. Kiểm Content ID trước khi đăng.
+- Giọng OmniVoice. Video dài 13–15 phút. Mỗi video cắt 2–3 Short kiểu "dein Hund …" về một tín hiệu cơ thể.
+- Mô tả và bình luận ghim đều ghi:
+  "Sprecherstimme KI-generiert. Inhalte recherchiert und geprüft von der Dog-Mind-Redaktion. Quellen unten."
+  Ngay dưới đó là danh sách nguồn.
+- Đăng ở chế độ riêng tư. Chủ bấm công khai.
+
+KHÔNG BAO GIỜ
+- Không khuyên, không chiếu: vòng gai, vòng siết, vòng điện, giật dây mạnh, đĩa ném, lon lắc, bình xịt.
+  Đây không chỉ là chuyện uy tín: luật Đức cấm các dụng cụ gây đau (TierSchHuV § 2, TierSchG § 3).
+- Không dùng khung "Alpha / Rangordnung", trừ khi để giải thích vì sao nó sai.
+- Không đổ lỗi cho giống chó.
+- Không nhầm luật Áo với luật Đức.
+- Không tạo nhân vật chuyên gia giả.
+- Không chép tiêu đề Gerd Hallmann.
+- Không dùng nhạc nền gây khó chịu.
+
+THỨ TỰ LÀM
+1 → 2 (Silvester phải lên trước khoảng 01/12) → 3 … 10.
+
+---------------------------------------------------------------
+1. KÉO DÂY  (làm trước)
+   Warum zieht dein Hund an der Leine – und warum Rucken nichts bringt
+   (Vì sao chó kéo dây, và vì sao giật dây không hiệu quả)
+   Bằng chứng: hundeo 52,7% là vấn đề số 1; gợi ý tìm kiếm "nichts hilft", "welches Geschirr".
+   Nguồn phải tra: hundeo Trainingsreport 2026; tài liệu về củng cố tích cực khi đi dây;
+     TierSchHuV § 2 (cấm vòng gai).
+
+2. SILVESTER (giao thừa, đúng mùa)
+   Silvester mit Hund: Warum die Angst so groß ist – und was jetzt schon hilft
+   (Giao thừa với chó: vì sao chó sợ đến thế, và việc gì giúp được ngay từ bây giờ)
+   Bằng chứng: gợi ý tìm kiếm dày (böllerfrei, Gehörschutz, Medikament).
+   Con số "khoảng 50% chó sợ pháo" chưa có nghiên cứu gốc, phải tra trước khi dùng.
+   Kết bằng câu: thuốc an thần → hỏi bác sĩ thú y.
+   Nếu không làm kịp với đủ chất lượng thì bỏ, không làm vội.
+
+3. PHẢN ỨNG VỚI CHÓ KHÁC
+   Dein Hund rastet bei anderen Hunden aus? Was wirklich dahintersteckt
+   (Chó nổi điên khi gặp chó khác? Điều thật sự đằng sau)
+   Bằng chứng: hundeo 33%, lên 54,7% ở chó trên 6 tuổi; một Short trên radar được 222.535 view.
+
+4. KHÔNG NGHE LỜI
+   Dein Hund hört nicht? Was er dir damit eigentlich sagt
+   (Chó không nghe lời? Thật ra nó đang nói gì với bạn)
+   Bằng chứng: hundeo 48%.
+
+5. Ở NHÀ MỘT MÌNH
+   Dein Hund kann nicht allein bleiben: Was in ihm vorgeht
+   (Chó không ở nhà một mình được: trong đầu nó đang diễn ra gì)
+   Bằng chứng: hundeo 32,8%; đây cũng là một lý do chủ bỏ chó vào trại.
+
+6. ĂN CỎ, PHÂN, ĐÁ
+   Warum frisst dein Hund Gras, Kot und Steine?
+   (Vì sao chó ăn cỏ, phân và đá?)
+   Bằng chứng: hundeo 40,6%; gợi ý tìm kiếm rất dày. Kết bằng câu "hỏi bác sĩ thú y".
+
+7. CHÓ NHẬP TỪ NƯỚC NGOÀI
+   Dein Auslandshund hat Angst: Die ersten Monate richtig verstehen
+   (Chó nhập từ nước ngoài của bạn đang sợ: hiểu đúng những tháng đầu)
+   Bằng chứng: khoảng 95.000–100.000 con nhập mỗi năm; nghiên cứu Graf & Kuhne 2025.
+
+8. 8 DẤU HIỆU CĂNG THẲNG
+   8 leise Stresssignale: Was dein Hund dir sagen will
+   (8 dấu hiệu căng thẳng thầm lặng: chó muốn nói gì với bạn)
+   Bằng chứng: Short ngôn ngữ cơ thể được 297.687 view, gấp 232 lần mức thường của kênh.
+
+9. GẦM GỪ
+   Warum knurrt dein Hund? Ein Warnsignal, das du nie bestrafen solltest
+   (Vì sao chó gầm gừ? Một tín hiệu cảnh báo bạn không bao giờ nên phạt)
+   Kết bằng câu: gặp bác sĩ thú y và huấn luyện viên có giấy phép § 11.
+
+10. THEO BẠN TỪNG BƯỚC
+   Warum folgt dir dein Hund auf Schritt und Tritt?
+   (Vì sao chó theo bạn từng bước?)
+   Bằng chứng: Short của Bettina Bumb gấp 33 lần mức thường.
+
+KHO PHỤ: chó đặt chân lên bạn (Pfote), nghiêng đầu, ngáp, xoay vòng trước khi nằm, vẫy đuôi, tư thế ngủ, đánh hơi khi đi dạo.
+
+CÒN PHẢI LÀM / KIỂM
+1. Đổi tên, mô tả và ngôn ngữ mặc định của kênh sang tiếng Đức. Thêm Impressum: chủ quyết định ghi thông tin gì; nên hỏi luật sư Đức.
+2. Chạy radar dog-psych-de thêm 3–7 ngày (bắt đầu 11/11).
+3. Lấy Google Trends Đức cho 10 chủ đề.
+4. Tra lại nguồn của video 1, viết kịch bản tiếng Đức kèm bản dịch tiếng Việt.
+5. Nhờ người bản ngữ nghe 60 giây giọng đọc trên loa TV và đọc kịch bản video 1.
+6. Xem lại ngưỡng dừng 500 view/30 ngày, vì các kênh nhỏ có người thật chỉ được 1.000–10.000 view mỗi video.

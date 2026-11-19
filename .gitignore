@@ -1,0 +1,71 @@
+# research-system — the root repository (github.com/huiweicorporation-gif/research-system, private).
+#
+# Owner decision 2026-11-19: each module keeps its own repository and is pushed separately. This repository
+# holds the papers that govern the whole system and the records only it has: the roadmap and the constitution,
+# the morning briefings, the order ledger, the opportunity dossiers and our channels' readings.
+
+# ── Modules with their own repository ───────────────────────────────────────
+# Pushed on their own to the same account. Tracking them here as well would give every file two histories.
+/radar/
+/radar-dev/
+/commander/
+/studio/
+/analysis/
+/feedback/
+/tools/SkillSpector/
+
+# ── Reference material, not part of the running system ──────────────────────
+# Owner 2026-11-19: shopapivn's tool is for reading, not depending on. `Documents/` is reference the owner will
+# delete one day, so nothing here may rely on it. OpenMontage is a separate AGPL-3.0 project, kept vendored and
+# never edited (see analysis/README.md, "AGPL boundary").
+/Documents/
+/youtube-main/
+/OpenMontage-main/
+
+# ── What the system produces, and what weighs ──────────────────────────────
+# studio-projects/ alone is 3.7 GB of video, pictures and narration; voice-eval/ is 15 GB of voice models and
+# samples. Both are output or working material, rebuildable, and belong nowhere near a code repository.
+/studio-projects/
+/voice-eval/
+
+# ── Pictures, sound and video ──────────────────────────────────────────────
+# Owner 2026-11-19: leave media out to keep the repository light. What this drops today: the channel art of
+# ho-so/kenh-the-first-humans/ (cover, avatar, logo) and the two German and Korean voice tests of
+# ho-so/2026-11-10-dog-market/. Keep a copy of those outside git.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.ico
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.mov
+*.webm
+
+# ── The data pillar's database ─────────────────────────────────────────────
+# tru/tru.db is rewritten whole every load (hourly), so git would keep a fresh 4 MB copy of it each time. It
+# does hold records written by hand that live nowhere else, the debt ledger and the lesson store among them:
+# those want a text export of their own, not a binary in every commit.
+/tru/*.db
+/tru/*.db-wal
+/tru/*.db-shm
+
+# ── Environments, caches and editor state ──────────────────────────────────
+# `.venv*/`, not `.venv/`: tools/.venv-skillspector sits beside SkillSpector rather than inside it, so the
+# exact-name pattern missed it and `git add -A` began staging the whole Anthropic SDK out of its site-packages.
+.venv*/
+venv*/
+hf-cache/
+__pycache__/
+*.pyc
+*.egg-info/
+.vscode/
+.env
+*.secret.*
+*secret*.json
+*.key
+*.pem

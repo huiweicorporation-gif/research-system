@@ -1,0 +1,33 @@
+{
+  "schema": "opportunity.v1",
+  "status": "approved",
+  "created_at": "2026-11-10T08:20:00+07:00",
+  "niche_id": "dog-psych-de",
+  "zone_id": "dog-market",
+  "zone_terms": [
+    "dog psychology",
+    "강아지 심리",
+    "Hundepsychologie"
+  ],
+  "opportunity": "option A: German long-form dog behaviour explainers, video 1 'Warum zieht dein Hund an der Leine - und warum Rucken nichts bringt' (plan v2; video 1 was 'Pfote' in v1)",
+  "evidence_source": "ho-so/2026-11-10-dog-market/radar/ (scout run 2026-11-10, one day)",
+  "source_videos": [],
+  "target_channel": "@dogmindus",
+  "deadline_production_h": 192,
+  "deadline_production_at": "2026-11-19T00:00:00+07:00",
+  "prediction": {
+    "claim": "the first long video in the chosen market reaches >= 1,000 views within 7 days of publishing",
+    "counts_only_if": "the video exists (published before the deadline)",
+    "check_at": "published_at + 7 days"
+  },
+  "grade": null,
+  "approved_at": "2026-11-10T22:40:00+07:00",
+  "ledger_order": "L-20261111-06",
+  "ledger_order_replaced": "L-20261110-07",
+  "chosen": {
+    "option": "A",
+    "approved_at": "2026-11-10T22:40:00+07:00",
+    "order": "L-20261111-06",
+    "migrated": "2026-11-19: chosen dung lai tu approved_at + ledger_order cua chinh ho so nay (duyet truoc khi co `commander approve`, nen day chuyen khong thay no 9 ngay)"
+  }
+}

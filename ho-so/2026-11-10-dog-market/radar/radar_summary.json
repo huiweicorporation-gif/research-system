@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "schema": "radar.v1",
+    "radar_version": "1.13.1",
+    "day": "2026-11-10",
+    "generated_at": "2026-11-10T01:00:44Z",
+    "quota_run": 1906,
+    "quota_today": 1906,
+    "warnings": [
+      "Estimated ~2676 units needed but only 2200 left — expensive steps may be skipped"
+    ]
+  },
+  "trending": [],
+  "niches": [
+    {
+      "id": "dog-psych-ko",
+      "name": "Dog psychology (Korean, KR)",
+      "health": {
+        "tracked_channels": 40,
+        "ignored_channels": 0,
+        "videos_known": 1883,
+        "videos_30d": 1067,
+        "views_30d_new_videos": 74075942,
+        "views_30d_by_format": {
+          "long": 2029021,
+          "short": 72046921
+        },
+        "views_gain_24h": null,
+        "median_long_baseline": 4416.75,
+        "median_short_baseline": 9330.25,
+        "shorts_share_30d": 0.865,
+        "outlier_counts": {
+          "viral": 128,
+          "breakout": 64,
+          "outlier": 114
+        },
+        "winner_median_duration": 22.0,
+        "small_channel_wins": 19,
+        "verdict": "open",
+        "channels_without_baseline": 7,
+        "curve": {
+          "mode": "default",
+          "points": 0
+        }
+      },
+      "top_outliers": [
+        {
+          "video_id": "gz2-y-iPddU",
+          "title": "신생아 동생이 온 날 밤, 진돗개가 방 앞을 안 떠난 이유 #강아지 #반려견 #진돗개 #귀여운강아지",
+          "channel_title": "찹츄스토리",
+          "views": 4355588,
+          "multiple": 598.817,
+          "level_code": "viral",
+          "age_h": 217.4708,
+          "excess_views": 4348314
+        },
+        {
+          "video_id": "t2N7B9fGTmc",
+          "title": "진돗개가 처음 본 손님 배를 계속 핥은 이유ㅋㅋ #강아지 #반려견 #진돗개 #귀여운강아지 #dog",
+          "channel_title": "찹츄스토리",
+          "views": 4082466,
+          "multiple": 652.9459,
+          "level_code": "viral",
+          "age_h": 135.9986,
+          "excess_views": 4076214
+        },
+        {
+          "video_id": "5ce8R4K_5dQ",
+          "title": "2주 만에 돌아온 아빠 강아지가 온몸으로 한 말 #강아지 #반려견 #반려동물 #댕댕이 #감동영상",
+          "channel_title": "사랑스런동물",
+          "views": 1224086,
+          "multiple": 14.4321,
+          "level_code": "viral",
+          "age_h": 314.8622,
+          "excess_views": 1139269
+        },
+        {
+          "video_id": "AwTuRPXXqoM",
+          "title": "﻿출산 후 지친 어미개를 본 수컷 개의 따뜻한 행동 #강아지 #엄마개 #새끼강아지 #반려동물 #감동영상",
+          "channel_title": "사랑스런동물",
+          "views": 1091708,
+          "multiple": 13.4662,
+          "level_code": "viral",
+          "age_h": 266.83,
+          "excess_views": 1010638
+        },
+        {
+          "video_id": "5OxlewUdEsQ",
+          "title": "잘 갔다온나~ #남해 #병원 #몽실이 #치료 #이별 #리트리버 #진료",
+          "channel_title": "남해동광호선장 박형일",
+          "views": 777907,
+          "multiple": 129.8825,
+          "level_code": "viral",
+          "age_h": 120.6867,
+          "excess_views": 771918
+        },
+        {
+          "video_id": "vw51V-0jcNE",
+          "title": "아기가 태어나자 진돗개 언니가 스스로 맡은 일 #강아지 #반려견 #진돗개 #귀여운강아지 #dog",
+          "channel_title": "찹츄스토리",
+          "views": 742230,
+          "multiple": 106.825,
+          "level_code": "viral",
+          "age_h": 186.9611,
+          "excess_views": 735282
+        },
+        {
+          "video_id": "XIdPBqY1_vg",
+          "title": "미국 아기 지키는 한국 진돗개 경호팀 #강아지 #반려견 #진돗개 #귀여운강아지",
+          "channel_title": "찹츄스토리",
+          "views": 732887,
+          "multiple": 95.8057,
+          "level_code": "viral",
+          "age_h": 258.9614,
+          "excess_views": 725237
+        },
+        {
+          "video_id": "gOOUq-Rrv0w",
+          "title": "아기 간지럽히는 할아버지에게 진돗개가 보인 반응 #강아지 #반려견 #진돗개 #귀여운강아지 #아기와강아지",
+          "channel_title": "찹츄스토리",
+          "views": 730347,
+          "multiple": 101.5971,
+          "level_code": "viral",
+          "age_h": 209.0556,
+          "excess_views": 723158
+        },
+        {
+          "video_id": "xlkoM2JEqig",
+          "title": "아기 동생이 생긴 진돗개, 1년 뒤 모습ㅠㅠ #강아지 #반려견 #진돗개 #귀여운강아지 #dog",
+          "channel_title": "찹츄스토리",
+          "views": 651519,
+          "multiple": 143.9923,
+          "level_code": "viral",
+          "age_h": 62.4608,
+          "excess_views": 646994
+        },
+        {
+          "video_id": "MXGfrvpc2zg",
+          "title": "필수) 강아지 몸짓 언어 9가지",
+          "channel_title": "멍냥이365",
+          "views": 649518,
+          "multiple": 83.268,
+          "level_code": "viral",
+          "age_h": 277.7189,
+          "excess_views": 641718
+        }
+      ],
+      "rising_keywords": [],
+      "new_channels": 40
+    },
+    {
+      "id": "dog-psych-de",
+      "name": "Dog psychology (German, DE)",
+      "health": {
+        "tracked_channels": 32,
+        "ignored_channels": 0,
+        "videos_known": 1530,
+        "videos_30d": 586,
+        "views_30d_new_videos": 5504767,
+        "views_30d_by_format": {
+          "long": 3465483,
+          "short": 2039284
+        },
+        "views_gain_24h": null,
+        "median_long_baseline": 973.5,
+        "median_short_baseline": 1327.0,
+        "shorts_share_30d": 0.7389,
+        "outlier_counts": {
+          "viral": 13,
+          "breakout": 16,
+          "outlier": 48
+        },
+        "winner_median_duration": 23,
+        "small_channel_wins": 15,
+        "verdict": "open",
+        "channels_without_baseline": 1,
+        "curve": {
+          "mode": "default",
+          "points": 0
+        }
+      },
+      "top_outliers": [
+        {
+          "video_id": "0Z764tEO7K4",
+          "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+          "channel_title": "Balloony Tiergesundheit",
+          "views": 297687,
+          "multiple": 232.1557,
+          "level_code": "viral",
+          "age_h": 231.9628,
+          "excess_views": 296405
+        },
+        {
+          "video_id": "4W4hGwPM2NU",
+          "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+          "channel_title": "GUTE HUNDE",
+          "views": 222535,
+          "multiple": 56.0693,
+          "level_code": "viral",
+          "age_h": 208.9636,
+          "excess_views": 218566
+        },
+        {
+          "video_id": "D2x9QFW5ivg",
+          "title": "So begrüßt du einen Hund richtig!",
+          "channel_title": "Balloony Tiergesundheit",
+          "views": 204516,
+          "multiple": 155.058,
+          "level_code": "viral",
+          "age_h": 255.9703,
+          "excess_views": 203197
+        },
+        {
+          "video_id": "10lV_SwaRDY",
+          "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+          "channel_title": "TierWow",
+          "views": 87941,
+          "multiple": 17.6085,
+          "level_code": "viral",
+          "age_h": 78.9636,
+          "excess_views": 82947
+        },
+        {
+          "video_id": "cyQKZh9ch2k",
+          "title": "Welpe im Herbst: 4 Fehler bei Kälte",
+          "channel_title": "Hundeo - Hundetraining",
+          "views": 79874,
+          "multiple": 73.4114,
+          "level_code": "viral",
+          "age_h": 271.9653,
+          "excess_views": 78786
+        },
+        {
+          "video_id": "PoLZkulOSzE",
+          "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+          "channel_title": "Balloony Tiergesundheit",
+          "views": 39798,
+          "multiple": 36.7998,
+          "level_code": "viral",
+          "age_h": 135.9636,
+          "excess_views": 38717
+        },
+        {
+          "video_id": "SplODI4JCas",
+          "title": "👇🏻",
+          "channel_title": "Balloony Tiergesundheit",
+          "views": 24134,
+          "multiple": 20.1805,
+          "level_code": "viral",
+          "age_h": 183.9667,
+          "excess_views": 22938
+        },
+        {
+          "video_id": "BgsAC_wBMFk",
+          "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+          "channel_title": "Balloony Tiergesundheit",
+          "views": 23781,
+          "multiple": 20.7985,
+          "level_code": "viral",
+          "age_h": 159.9617,
+          "excess_views": 22638
+        },
+        {
+          "video_id": "TrK6cnzrY6c",
+          "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+          "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+          "views": 17301,
+          "multiple": 32.9244,
+          "level_code": "viral",
+          "age_h": 92.4603,
+          "excess_views": 16776
+        },
+        {
+          "video_id": "-eqcbU3aWYg",
+          "title": "Wie lange darf ein Hund allein sein? 2, 4 oder 8 Stunden",
+          "channel_title": "Hundeo - Hundetraining",
+          "views": 16131,
+          "multiple": 14.116,
+          "level_code": "viral",
+          "age_h": 325.9506,
+          "excess_views": 14988
+        }
+      ],
+      "rising_keywords": [],
+      "new_channels": 32
+    }
+  ]
+}

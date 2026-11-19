@@ -1,0 +1,70 @@
+# Scratch scout run, owner 2026-11-10: dog niches in Korea and Germany. Writes only under this folder.
+[general]
+data_dir    = "C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/c05c5480-b8f1-4b84-9854-e35db008597d/scratchpad/dog-scout/data"
+reports_dir = "C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/c05c5480-b8f1-4b84-9854-e35db008597d/scratchpad/dog-scout/reports"
+exports_dir = "C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/c05c5480-b8f1-4b84-9854-e35db008597d/scratchpad/dog-scout/exports"
+top_videos = 30
+
+[report]
+language = "vi"
+
+[quota]
+# The real radar used 5389 of the project's 8000 today (Pacific day); stay well under what is left.
+daily_budget = 2200
+
+[backup]
+enabled = false
+
+[trending]
+enabled = false
+
+[analysis]
+dir = ""
+
+[brief]
+daily = []
+
+[analysis_queue]
+enabled = false
+
+[[niche]]
+id = "dog-psych-ko"
+name = "Dog psychology (Korean, KR)"
+enabled = true
+region = "KR"
+language = "ko"
+queries = ["강아지 심리", "강아지 행동 이유", "반려견 행동", "강아지 행동 의미"]
+search_days = 30
+search_orders = ["viewCount", "date"]
+search_pages = 1
+seed_channels = []
+auto_discover = true
+max_new_channels_per_day = 40
+reach_slots = 5
+max_tracked_channels = 150
+min_channel_subs = 500
+shorts_max_seconds = 180
+small_channel_subs = 20000
+win_min_views = 10000
+specialist_min_fit = 0.3
+
+[[niche]]
+id = "dog-psych-de"
+name = "Dog psychology (German, DE)"
+enabled = true
+region = "DE"
+language = "de"
+queries = ["Hundepsychologie", "Hundeverhalten verstehen", "warum macht mein Hund", "Körpersprache Hund"]
+search_days = 30
+search_orders = ["viewCount", "date"]
+search_pages = 1
+seed_channels = []
+auto_discover = true
+max_new_channels_per_day = 40
+reach_slots = 5
+max_tracked_channels = 150
+min_channel_subs = 500
+shorts_max_seconds = 180
+small_channel_subs = 20000
+win_min_views = 10000
+specialist_min_fit = 0.3

@@ -1,0 +1,75 @@
+OPPORTUNITY BRIEF, OPTION B (debate meeting 2026-11-14, score 3.97 vs A 3.60)
+Zone: hair · opportunity 60/100, rank 39/152 on radar 2026-11-14 (82/100, rank 2/149 on 2026-11-08 with a narrower
+zone keyword; the two are not comparable) · Channel: Why Humans (@whyhumansus), video 3 of the 10-video plan
+Confidence: LOW (no valid breakout pair in this zone in the last 14 days)
+Format: c1 (the channel's format), about 9 minutes.
+
+WORKING TITLE
+What Lice Reveal About When We Lost Our Fur
+
+THUMBNAIL
+A very large magnifying glass over a single strand of hair; inside the lens, the silhouette of one cartoon louse
+(friendly, no close-up of legs). No nv1, no bare skin. Big words: LICE KNOW
+
+ANGLE
+Humans are the "naked ape", but when did we lose our fur? Nobody has a fossil of skin. The clue comes from the
+parasites that live on us. Tell it like a case file: three clocks (lice, a skin-colour gene, the clothing louse),
+what each one can and cannot date, and the hypotheses for why the fur went. Keep the promise of the title and the
+thumbnail in the first 30 seconds: lice, and the question "when did we lose our fur?".
+
+OPENING (first 30 seconds)
+Hinge on clothing, then turn to fur: "When did humans start wearing clothes? Part of the answer comes from lice.
+Body lice live in clothing, and their DNA says they split from head lice long ago. But that date is late. So when
+did we lose our fur in the first place?" Keep clothing under 90 seconds in the whole video: the history of clothes
+belongs to video 6 of the plan ("Why did humans start wearing clothes").
+If the opening drifts into clothing, open instead on "A louse found on..." and keep the rest.
+
+CLAIMS TO VERIFY (from the meeting's memory of the papers; NOT yet checked against the primary texts. Check each
+before writing it; say a disputed one as a hypothesis or cut it)
+1. Body lice (living in clothing) split from head lice; the split dates clothing.
+   - Kittler, Kayser & Stoneking 2003, Current Biology: an early estimate around 72,000 +/- 42,000 years.
+   - Toups, Kitchen, Light & Reed 2011, Molecular Biology and Evolution: a later estimate of roughly
+     83,000-170,000 years.
+   Say it with its range and that it dates clothing, not fur loss. Head lice and body lice are usually treated as
+   two forms (ecotypes) of ONE species, Pediculus humanus: never say "two species".
+2. Fur loss happened much earlier, dated by another clock: Rogers, Iltis & Wooding 2004, Current Anthropology,
+   the MC1R gene suggests dark skin under the lost fur by about 1.2 million years ago. MC1R is a pigment gene:
+   use it only for the fur-loss date; say nothing about skin colour between groups of people.
+   The two dates do not prove each other: say so.
+3. Why the fur went (competing hypotheses, none proven):
+   - Fewer parasites: Pagel & Bodmer 2003, Proceedings of the Royal Society B ("a naked ape would have fewer
+     parasites").
+   - Cooling while active in the heat: Wheeler's thermoregulation work (1980s-1990s); Ruxton & Wilkinson 2011,
+     PNAS, challenge or refine the heat argument: check which way.
+   Present them side by side; the parasite idea leads because it is the lice episode.
+4. Lice as "living fossils" of human history: Reed et al. 2004, PLoS Biology (head-louse lineages and archaic
+   humans). Use only if verified; keep it to one scene.
+Do NOT use: pubic lice (their gorilla origin is a real paper, but the topic is off the channel), any sexual angle,
+any comparison of hair or skin between groups of people.
+
+STRUCTURE (suggested)
+1. The question and the problem: skin does not fossilise.
+2. Clock 1, the clothing louse: what it dates and its range.
+3. Clock 2, the pigment gene: the much older date.
+4. Why lose fur at all: parasites, heat; what each predicts.
+5. What we still do not know (say it plainly), and a hand-off line to video 6 (clothes).
+
+PICTURES (Studio rules: one recurring character per image, nv1 in his hide wrap; no text in pictures; no blood, no
+nudity)
+- Clocks and the DNA tree as metaphors: a tree whose branches split, hourglasses, layers of time; no labels.
+- Lice always cartoon and small in frame; no lice crawling on skin.
+- Keep the two dates visually apart (two different clocks).
+
+SHORT (one test Short)
+"Lice carry a clock in their DNA" (about 30 seconds): one clock, one date range, one question. Not "two species".
+
+DISSENTS KEPT FROM THE MEETING
+- Scout: the only measured demand is for "when did humans start wearing clothes" (x14 to x30, 4 videos, October);
+  none for lice or fur loss. The zone has cooled (momentum 0.07).
+- Critic: the clothing hinge sits close to video 6, and people who click for clothes may leave; the thumbnail
+  without nv1 loses the channel's face and a louse may put people off.
+- Director: the DNA tree without text is the hardest part to draw well.
+
+AI DISCLOSURE: tick "altered or synthetic content" if any scene looks realistic.
+
+MISSION: search "when did humans lose their fur"   (added 2026-11-16 at the owner's request; the seo step chose this main keyword)

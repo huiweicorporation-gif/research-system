@@ -1,0 +1,3 @@
+{"luc": "2026-11-13T21:11:08+07:00", "tu": null, "sang": "dog-psych-de", "ghi_chu": "Claude theo lệnh chủ kênh 2026-11-13"}
+{"luc": "2026-11-13T23:03:22+07:00", "tu": "dog-psych-de", "sang": "dog-psych-en", "ghi_chu": "Claude theo lệnh chủ kênh 2026-11-13: thị trường chính của Dog Mind là tiếng Anh"}
+{"luc": "2026-11-13T23:05:52+07:00", "tu": "dog-psych-en", "sang": "dog-psych-en", "them": ["dog-psych-de"], "ghi_chu": "Claude theo lệnh chủ kênh 2026-11-13: Dog Mind làm Anh + Đức"}

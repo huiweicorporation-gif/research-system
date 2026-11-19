@@ -1,0 +1,87 @@
+OPPORTUNITY BRIEF, OPTION D (owner chose D on 2026-11-02, ledger L-20261102-01)
+Zone: salt · opportunity 55/100 (radar 1.8.0, 2026-11-02; the 76/100 in de-bai.txt is the older radar-dev 1.6.1 formula)
+Target channel: (none yet: the new English youtube-main channel) · Confidence: LOW
+Not handed to production: hand-off is gate 4 and still needs the owner's checks at the end of this brief.
+
+WORKING TITLE (owner chose the safe title, 2026-11-02)
+Why Does Your Body Crave Salt? A 100-Million-Year-Old Instinct   (rests on claim 4, the only SOLID claim)
+Not used: "Why Do We Crave Salt If Our Ancestors Barely Added It?" (meeting title; "barely added" is an
+estimate, see claim 1) and "The People Who Eat Almost No Salt, and Why You Crave It" (rests on one group).
+Thumbnail to match: an animal at a salt lick on the left, a modern salt shaker on the right, "100,000,000
+YEARS" in large text; illustration only.
+
+LOGLINE
+One measured group in the Amazon eats almost no added salt, yet salt appetite is an instinct far older than
+humans. Walk through what is measured, what is estimated, and the competing guesses about why we crave salt.
+History and anthropology, not diet advice.
+
+WHY THIS ZONE (radar 2026-11-02)
+- Opportunity 55/100. Momentum has cooled: 0.07 (rank 20%).
+- One channel (@Qyumroy) holds 96.4% of the zone's 30-day views, almost all Shorts; long-form is nearly empty.
+- The radar cannot measure demand for the D angle itself (trinh-sat gave all options 3/5 on pull).
+
+CLAIM CHECK (primary sources searched 2026-11-02)
+Status: SOLID = primary source agrees; DEBATED = primary source exists but is disputed or conflicting;
+WEAK = only secondary or anecdotal sources; say it as a hypothesis or cut it.
+
+1. Hook: "many hunter-gatherer groups barely add salt"                                  -> DEBATED, rewrite
+   - SOLID: Yanomami (Amazon), INTERSALT 1988: mean urinary sodium 0.9 mmol/24 h, under 1 mmol in 84% of
+     195 people, the lowest of all 52 INTERSALT centres (most others ~150 mmol).
+     Sources: INTERSALT (BMJ 1988); Yanomamo BP study, PubMed 2810327; BMJ 1988;297:319 commentary.
+   - BUT the Yanomami are foraging horticulturalists (plantains and bananas give most calories), not strict
+     hunter-gatherers. Do not call them hunter-gatherers.
+   - WEAK: Cameroon Pygmy hunter-gatherers show low urinary sodium (one study); Hadza "no added salt" only in
+     a blog post. Not enough for "many groups".
+   - Eaton & Konner, NEJM 1985;312:283-9 estimate a low-sodium Paleolithic diet, but it is a model, the exact
+     figure was not confirmed from the primary text, and the paleo reconstruction is criticised.
+   Use: "In one Amazon community, scientists measured the lowest salt intake ever recorded..." Name the
+   measurement, not a general rule about ancestors.
+
+2. "Hunter-gatherers got sodium from meat, blood and organs"                             -> WEAK
+   Animal foods contain sodium (general fact, safe). The Hadza details are from a blog post only.
+   Use as a plain statement of fact about animal foods; no specific tribe claim.
+
+3. "Farming raised the need for salt"                                                    -> WEAK (hypothesis)
+   Bunge's 19th-century potassium idea: plant-heavy diets bring potassium that the body sheds with sodium,
+   so plant eaters seek salt. Found only secondhand (1911 newspaper quoting Abderhalden); counter-examples
+   exist (USGS beaver study). Weller (Documenta Praehistorica 2015) treats the Neolithic-diet explanation as
+   a nutritionists' hypothesis still being tested against archaeology.
+   Use: one of the competing guesses, said as a guess. Never "farming made us need salt".
+
+4. "Salt appetite is an ancient instinct"                                                -> SOLID
+   Denton and colleagues: salt appetite is an innate drive shaped over 100+ million years in land animals;
+   sodium depletion raises the reward value of salt (PNAS 2011; Nature 2019; Nutrients 2023 review).
+   This is the safest backbone of the episode.
+
+5. Earliest salt making                                                                 -> DEBATED, give a range
+   - Poiana Slatinei-Lunca, Romania: brine exploitation c. 6050-5500 BC, earliest known in Europe
+     (Weller & Dumitroaia, Antiquity 2005; supported by Dufraisse et al. 2012). The same 2005 report also has
+     two radiocarbon dates of 1750-1630 BC. Say "about 8,000 years ago, at the earliest known site in Europe".
+   - Zhongba, Chongqing, China: brine boiling in the first millennium BC with chemical evidence
+     (Flad et al., PNAS 2005;102:12618). Do not call it the earliest in China.
+   - "Briquetage" as a term only appears in secondary sources found so far; describe the pottery instead.
+
+6. "Paleolithic potassium was 3-5x today's"                                              -> WEAK
+   Only in a secondary abstract citing Eaton & Konner 1985. Cut, or say "much higher, by some estimates".
+
+STRUCTURE TO TEST (10-13 min, ~14-18 scenes)
+1. Hook (0:00-0:30): the measured Amazon community (claim 1), then the question out loud: why do the rest
+   of us crave salt?
+2. The instinct (claim 4): animals travel miles to salt; the drive is older than humans.
+3. Where sodium came from before salt making (claim 2).
+4. The first salt works (claim 5): Romania c. 8,000 years ago, China later; what the archaeology shows.
+5. Competing guesses (claim 3 and others) clearly labelled as guesses.
+6. What nobody knows yet. Close with one comment question. No advice on how much salt to eat.
+Shorts (2-3): the Amazon measurement; the 100-million-year instinct; the 8,000-year-old salt works.
+
+MUST AVOID (kiem-duyet: policy risk trung-binh, health)
+- Any recommendation on salt intake, diet, or blood pressure; no "eat less salt" framing.
+- If the Yanomami blood-pressure finding is mentioned, state it as a study result with its dispute
+  (INTERSALT's main 48-centre analysis left out the four low-sodium populations), never as advice.
+- Copyrighted photos of the Yanomami or of excavations; use illustrations.
+
+OWNER CHECKS BEFORE HAND-OFF (from the meeting agreement)
+1. Look by hand on YouTube whether Neon Rush (48.5K subs) already has a long-form salt video.
+2. (done 2026-11-02: safe title chosen)
+3. Decide how "channel normal" is measured for the >= 5x prediction while the channel does not exist.
+4. Optional: read the full text of Eaton & Konner 1985/1997 to get their sodium figure, if the hook keeps it.

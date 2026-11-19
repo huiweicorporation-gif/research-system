@@ -1,0 +1,31 @@
+{
+  "schema": "opportunity.v1",
+  "status": "draft",
+  "created_at": "2026-11-18T06:53:18+07:00",
+  "niche_id": "evo-psych-en",
+  "zone_id": "compliment",
+  "zone_terms": [
+    "compliments",
+    "saying"
+  ],
+  "opportunity": 79,
+  "zone_rank": 6,
+  "zones_total": 154,
+  "evidence_source": "radar exports/2026-11-18/niche_evo-psych-en.json",
+  "source_videos": [],
+  "target_channel": null,
+  "handoff": {
+    "brief_to": "PROJECTS/AUTO/<channel>/<run>/0-tu-lieu.txt",
+    "competitors_to": "nghien-cuu/doi-thu.txt",
+    "zone_to": "nghien-cuu/tuyen.csv (radar-compliment)",
+    "done": false
+  },
+  "deadline_production_h": 48,
+  "deadline_production_at": null,
+  "prediction": {
+    "claim": "the video reaches >= 5x the channel's normal views within 7 days of publishing",
+    "counts_only_if": "the video exists (published before the deadline); otherwise the brief is marked 'late'",
+    "check_at": "published_at + 7 days"
+  },
+  "grade": null
+}

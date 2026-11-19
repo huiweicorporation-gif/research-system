@@ -1,0 +1,3192 @@
+{
+  "meta": {
+    "schema": "radar.v1",
+    "radar_version": "1.13.1",
+    "day": "2026-11-10",
+    "generated_at": "2026-11-10T01:00:44Z",
+    "quota_run": 1906,
+    "quota_today": 1906,
+    "warnings": [
+      "Estimated ~2676 units needed but only 2200 left — expensive steps may be skipped"
+    ]
+  },
+  "niche": {
+    "id": "dog-psych-de",
+    "name": "Dog psychology (German, DE)",
+    "region": "DE",
+    "language": "de",
+    "queries": [
+      "Hundepsychologie",
+      "Hundeverhalten verstehen",
+      "warum macht mein Hund",
+      "Körpersprache Hund"
+    ]
+  },
+  "videos": [
+    {
+      "video_id": "0Z764tEO7K4",
+      "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 232.1557,
+      "views": 297687,
+      "comment_count": 5,
+      "status": "ok",
+      "threads_read": 4,
+      "threads": [
+        {
+          "comment_id": "UgyxCm4vCaatcUvPiLF4AaABAg",
+          "text": "Kannst du es auch mit Katzen machen?😊",
+          "author": "@Jasoncraft16",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-10-31T17:41:24Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyxCm4vCaatcUvPiLF4AaABAg.AcdDlZT32xlAcpjShHkZED",
+              "text": "Ja",
+              "author": "@svengrapenthin1269",
+              "likes": 0,
+              "published_at": "2026-11-05T14:17:56Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugyn7xTssqLiSCj1jcZ4AaABAg",
+          "text": "Woher nehmen Menschen die Gewissheit, Tiere zu verstehen, die mit Sicherheit nicht artgerecht gehalten werden?",
+          "author": "@alterleipziger6407",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-05T18:24:09Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzGV6aYdi_qaoYzrlN4AaABAg",
+          "text": "Ja bitte auch mit Katzen",
+          "author": "@svengrapenthin1269",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-05T14:18:08Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxiJVNlzrBG8XOhp0V4AaABAg",
+          "text": "Hallo ich heisse amanda wie heisst du wegen ich habe es auf dem handy nicht richtig gesehen aber nur wen du wilst😊wie geht's dir mir geht es gut ich liebe deine viedeos auch wen ich nur eins von dem gesehen habe und dass war mit den hund kanst du bitte mehrere machen bitte😊😊😊😊 es wäre sehr coll köntest du bitte den auch viedeos auch mit der katze machen bitte❤❤❤❤",
+          "author": "@SilviaKüng-l3q",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-01T08:33:49Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "4W4hGwPM2NU",
+      "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+      "channel_title": "GUTE HUNDE",
+      "level_code": "viral",
+      "multiple": 56.0693,
+      "views": 222535,
+      "comment_count": 83,
+      "status": "ok",
+      "threads_read": 48,
+      "threads": [
+        {
+          "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg",
+          "text": "Der arme Border bekommt vom Zug durch s Halsband Kopfschmerzen, schon mal überlegt wie krass das weh tut ihn so am Hals zu reißen",
+          "author": "@sylviaheese1536",
+          "likes": 1,
+          "replies": 7,
+          "published_at": "2026-11-02T09:12:21Z",
+          "top_replies": [
+            {
+              "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg.AchT5xrTIQfAciifF47-tH",
+              "text": "@sylviaheese1536 Ich hab´s oben schon reingepostet, mach es aber gern noch mal für Dich: https://www.youtube.com/watch?v=khNgSMdtmqU\nCesar Millan wirst Du bestimmt kennen.",
+              "author": "@copixmedia",
+              "likes": 3,
+              "published_at": "2026-11-02T20:56:22Z"
+            },
+            {
+              "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg.AchT5xrTIQfAciJmnIlG-m",
+              "text": "Wie soll man ein so kräftiges Tier zurückholen? Mit dem Geschirr? Das Halsband müßte noch weiter oben sitzen.",
+              "author": "@copixmedia",
+              "likes": 2,
+              "published_at": "2026-11-02T17:10:12Z"
+            },
+            {
+              "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg.AchT5xrTIQfAcipyMNNJYu",
+              "text": "​Ist das Deine Reaktion auf den Beitrag von Cesar? Dein Kommentar zeigt genau, wo Du gerade stehst: \"Worte und Kommandos\". Es gibt eine viel leichtere und direktere Art, mit Hunden zu \"sprechen\". Es ist die ruhige, bestimmte Art unter Zuhilfenahme des eigenen Körpers und der Stimme. Deine Haltung spricht, Dein Wille. Ohne Befehle, ohne Anweisungen. Denn die Hunde selbst kommunizieren so auch nicht untereinander. Wenn Du Lust hast, darin ganz ruhig einzusteigen, besorg Dir das Buch \"Wanja und die wilden Hunde\". Kennst Du es? Ich empfehle Maja Nowak heute nicht mehr. Aber dieses ist ihr erstes Buch und sie beschreibt es darin so vortrefflich. Es ist ein Prozeß, den auch wir Menschen erst wieder durchlaufen müssen, um mit Tieren besser zu leben. 😊",
+              "author": "@copixmedia",
+              "likes": 2,
+              "published_at": "2026-11-02T22:00:08Z"
+            },
+            {
+              "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg.AchT5xrTIQfAciqzIM5ysJ",
+              "text": "​@copixmediaomg, meine 5 Hunde achten auf Handzeichen Blickkontakt, 2 davon sind Therapiehunde, sie zeigen Diabetes Schwankungen an, sie beruhigen bei Stress, ein Hund ist taub und kann trotzdem ohne Leine geführt werden.\n\nKein Tier sollte durch Zug am Halsband gequält werden, nichts anderes war meine Intervention",
+              "author": "@sylviaheese1536",
+              "likes": 2,
+              "published_at": "2026-11-02T22:09:00Z"
+            },
+            {
+              "comment_id": "UgycmgpIX9W4jQ6uJOp4AaABAg.AchT5xrTIQfAcid9Mdlh4Q",
+              "text": "​@copixmediaes gibt Spezialgeschirre direkt für solche Rassen, wer solch einen Hund hat muss auch investieren",
+              "author": "@sylviaheese1536",
+              "likes": 0,
+              "published_at": "2026-11-02T20:08:11Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg",
+          "text": "Das sehe ich völlig anders. Ursache des Problems: Hund sieht sich zuständig dafür, die Situation mit dem \"Auslöser \" zu regeln. Man müsste sich also, um das Problem tatsächlich zu lösen, in den Augen des Hundes als Kompetenz erweisen, die selbst dazu fähig ist und ihm diese Aufgabe abnimmt. \nStattdessen wird der Hund hier vom \"Auslöser \" weggeschoben, obwohl der ja immer noch vorhanden ist, Mensch nimmt den Auslöser nicht mal wahr... folgerichtig sieht sich der Hund immer noch zuständig, versucht um die Beine des offenbar handlungsunfähigen Menschen herumkommen... damit er das lässt gibt's plötzlich (auch wieder völlig unabhängig zum Auslöser) noch Futter als kleine Bestechung. Was bitte soll der Hund aus diesem ganzen lernen?",
+          "author": "@maschu5654",
+          "likes": 13,
+          "replies": 5,
+          "published_at": "2026-11-02T12:19:34Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg.AchnXAVJHSHAckqaDb0zFw",
+              "text": "​@kirstenarend5432ich verstehe die Frage nicht. Der Hund reagiert doch auf irgendeinen Außenreiz, der im Video nicht zu sehen ist. ... fremder Hund, fremder Mensch? Dort sieht er Handlungsbedarf... Aus Hundesicht besteht Handlungsbedarf,  da kann ich als Mensch 10x sagen, es gibt doch kein Problem. Ausgangspunkt für Problemlösungen muss doch immer der Hund sein: warum tut er, was er tut? Wie ticken Hunde... und nicht unsere menschliche Überzeugung...",
+              "author": "@maschu5654",
+              "likes": 6,
+              "published_at": "2026-11-03T16:44:06Z"
+            },
+            {
+              "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg.AchnXAVJHSHAckhXlUX77x",
+              "text": "Aha. Nur bräuchte der Hund gar nichts zu regeln, weil es gar kein Problem gibt und demzufolge auch keine Aufgabe, die man ihm abnehmen müsste.\nWie sollte das also statt dessen aussehen?",
+              "author": "@kirstenarend5432",
+              "likes": 4,
+              "published_at": "2026-11-03T15:24:57Z"
+            },
+            {
+              "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg.AchnXAVJHSHAcl64nWZ0U-",
+              "text": "Ich versteh was du meinst:\n\nBin grad bei neuen trainern ...\n\nDa wird ziemlich ähnlicges prinzip empfohlen:\n\nWenn er austickt (salopp formuliert) oder einfach nervös reagiert ins sitz nehmen und zum hund drehen ...\n\nStetig füttern, ausser er löst aus, dann wieder ins sitz nehmen und kurze zeit später wieder füttern.\nDer mensch steht zwar gleich wie muss sich aber stets drehen um den hund vom reiz zu schützen, abzuschirmen.\n\nZu beginn wurde mir auch gesagt, dass der mensch dem hund signakisiere er regele dies und darum wird ja auch das sitz eingefordert.\nIm prinzip ist es vor allem eine oositiv bewertung des reizes und positiv bestätigung des richtigen verhaltens ...\nEr darc gucken ... es soll keine ablenkung sein im sinne von klick for blick.\n\nMeiner löst kaum mehr aus ausser wird angegriffen ...\nBei katzen wende ich dies nun mal sicher an ... aber klar auch bei hunden ...\n\nIch habs mit abstand, abgewandte seite und oosjtiv belohnen für aufmerksamkeit auch schon gut hingekriegt.",
+              "author": "@PeterZuber-y6c",
+              "likes": 1,
+              "published_at": "2026-11-03T19:08:11Z"
+            },
+            {
+              "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg.AchnXAVJHSHAclgMKUQCpT",
+              "text": "Hast du einen Ratschlag wie man diese \"Kompetenz\" für den eigenen Hund darstellen kann?\n\nVon Hundetrainern haben wir genau diese Anweisungen aus dem Video bekommen und entsprechend trainiert, monatelang ohne sichtbare Besserung. \n\nAuslöser der Reaktivität unseren Hundes war (so zumindest meine Auffassung), ein unvorhergesehener Angriff eines fremden Hundes im Auslaufgebiet als unser noch Welpe war. Damals habe ich in der Situation definitiv falsch gehandelt und selbst viel zu panisch reagiert. Hat sich dadurch scheinbar eingebrannt, dass ich nicht schützen kann und der Hund in die Beschützer Rolle eintreten muss. Seitdem ist jeder fremde Hund in Sichtweite scheinbar eine Bedrohung. Lässt man beide Hunde kennenlernen ist alles schick, vorher ist aber komplette Eskalation angesagt.",
+              "author": "@Dutybloop",
+              "likes": 1,
+              "published_at": "2026-11-04T00:33:53Z"
+            },
+            {
+              "comment_id": "UgwuvKW3zDrW5OBje3N4AaABAg.AchnXAVJHSHAcrzrcgCWWu",
+              "text": "@Dutybloop Du liegst mit deiner Einschätzung sicher richtig, denn solche Erlebnisse im Welpenalter sind nicht selten. Hunde würden den eigenen Nachwuchs grundsätzlich von Begegnungen mit Rudelfremden abschirmen. - Wie werde ich für meinen Hund zu DER Kompetenz, der er sich gerne anvertraut, der er gerne folgt? - Diese Frage ist nicht mit einem Satz zu beantworten. Hauptsächlich werden die Weichen dafür im Zusammenleben Zuhause gestellt. Wer verwaltet wie das Futter? Wer ist zuständig für soziales Miteinander? Wer begrüßt z.B. Gäste usw. -Hinzu kommt, dass Hunde vorrangig über Emotionen kommunizieren. Leithunde sind in der Regel solche, die \"in sich ruhen\", die auch Ausnahmesituationen nicht zum \"Ausrasten\" bringen usw. - \nWer sich ernsthaft mit dem Thema auseinandersetzen will, dem kann ich das Buch \"Problemhund? Problem Mensch\" von \"Hundeschweiger B. Kainz empfehlen. Es ist für mich das mit Abstand beste Fachbuch, um \"hündisch\" zu lernen. Mit 42.90 € ist es hochpreisig --- andererseits ist eine einzelne Trainerstunde bereits deutlich teurer.\nEs ist gewissermaßen das \"Lebenswerk\" des Autors nach rund 35 Jahren Arbeit mit Hunden und Wölfen, verzichtet auf Fachausdrücke und behandelt alle \"gängigen\" Themen im Miteinander mit unseren Hunden. Es zeigt Wege zu nachhaltiger Problemlösung innerhalb von Minuten bis zu max. wenigen Wochen, weil diese jenseits von Konditionierung, Belohnung/Bestrafung dort ansetzen, wo der Hund in seiner ihm eigenen Art und Weise lernen darf... \n\nhttps://www.amazon.de/Problemhund-Problem-Mensch-gl%C3%BCcklichen-Miteinander/dp/3696358282/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=4O9453YTJJU6&dib=eyJ2IjoiMSJ9.YSPVVXBA22RFTninWr1xKKTKJgRHZDa1BVVVH6tIpgsHbZiQ_tuubxcaK1qeUl4BxzpRFwArVH-UKcBKrHwyLBDhT5Vo9dyXC7lwZCZFIAiqSpK3zkcJPlHn6B3c1TvADfmnSg8sU18RKHfTSx5UED-tWkzZLJoSf5kKMPpSDpfxreEpdvEQLA5xwJIyAvsaRyI6uwXJAAx0vRXeRxP7t3jrmM9MC4FStKfWusM6ABk.C7QEHT6dZAGYskCV4mnMk89W6amNIPZEO-u71J1ZNpQ&dib_tag=se&keywords=Problemhund%3F+Problem+Mensch%21&qid=1793964074&s=books&sprefix=problemhund+problem+mensch+%2Cstripbooks%2C107&sr=1-1&ufe=app_do%3Aamzn1.fos.8b36938c-a9a7-4518-ac21-d97ae5adf50c",
+              "author": "@maschu5654",
+              "likes": 1,
+              "published_at": "2026-11-06T11:19:46Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyiaYDTe1z7vgvVH3B4AaABAg",
+          "text": "Ich finde es allgemein schlimm das jeder meint heutzutage ein \"Hundeexperte\" zu sein..wenn man das Video nicht mag oder für schlecht empfindet,kann man ja einfach weiter scrollen..aber nein..Jeder weiß es wieder besser 😮am Ende des Tages,wissen wir eh nicht zu 109% was in einem Tier vorsich geht..und nicht jeder Hund ist auch gleich,genauso wie der Mensch..Entweder den Ratschlag oder Tip annehmen und dankbar sein wenn es für einen selbst klappt oder sein lassen...aber immer diese Klugscheisserei😢",
+          "author": "@mgniffke98",
+          "likes": 8,
+          "replies": 3,
+          "published_at": "2026-11-03T06:06:15Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyiaYDTe1z7vgvVH3B4AaABAg.Acjhan7Ub1LAcktYxnm5uD",
+              "text": "Heißt das, man darf hier nur schreiben wenn man alles in einem Video richtig toll findet ? Das hat mit Meinungsfreiheit und sachlichem Austausch dann aber nicht mehr viel zu tun. Und es gibt vielleicht Menschen/Trainer, die es tatsächlich besser wissen, fachlichen Hintergrund haben und Situationen durchaus beurteilen und können. Selbstverständlich ist jeder Hund individuell zu betrachten. Und es nützt auch nichts nur diese Situation zu sehen und zu korrigieren, denn das ist nur ein Symptom! Behoben werden muss aber die Ursache!",
+              "author": "@Kerstin-x4f",
+              "likes": 2,
+              "published_at": "2026-11-03T17:09:58Z"
+            },
+            {
+              "comment_id": "UgyiaYDTe1z7vgvVH3B4AaABAg.Acjhan7Ub1LAclIu2IWpcr",
+              "text": "​@Kerstin-x4f in den Kommentaren war aber kein professioneller Hundetrainer, also versteh doch bitte was gemeint war...",
+              "author": "@sindyp.8431",
+              "likes": 1,
+              "published_at": "2026-11-03T21:00:10Z"
+            },
+            {
+              "comment_id": "UgyiaYDTe1z7vgvVH3B4AaABAg.Acjhan7Ub1LAcpv8KRBext",
+              "text": "​​@sindyp.8431Aber woher möchtest Du denn wissen, wer hier schreibt und wer welchen Beruf ausübt  und dass keine Leute mit Fachwissen dabei sind 🤔? Hier wurde einfach pauschalisiert und gesagt, man sollte doch einfach weiterscrollen, wenn einem das Video nicht gefällt.  Und darauf habe ich geantwortet. Ich bin schon sicher, dass ich das verstanden habe, was gemeint war. Ich bin durchaus der Meinung, dass man sich äußern darf, wenn man Fehler entdeckt und etwas nicht gut findet. Und erst recht, wenn man das nötige Fachwissen hat ... und nicht irgendein \"Möchtegernhundeexperte\" ist.",
+              "author": "@Kerstin-x4f",
+              "likes": 0,
+              "published_at": "2026-11-05T16:00:01Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzUJ2ALrQYBpTmCVlR4AaABAg",
+          "text": "Das kenne ich, sogar mit Frustschnappen nach mir.",
+          "author": "@claudia-jt5zv",
+          "likes": 7,
+          "replies": 3,
+          "published_at": "2026-11-01T11:46:12Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzUJ2ALrQYBpTmCVlR4AaABAg.Acf9upXerFsAckMVmHnzVr",
+              "text": "Ja, dass mit dem Frustschappen habe ich abgestellt bekommen, indem ich einen Spaziergang am Tag mit Maulkorb trainiere. Seit dem beißt er auch nicht mehr in die Leine.",
+              "author": "@Kruemel_und_Pablo",
+              "likes": 1,
+              "published_at": "2026-11-03T12:12:26Z"
+            },
+            {
+              "comment_id": "UgzUJ2ALrQYBpTmCVlR4AaABAg.Acf9upXerFsAckNgdGow8y",
+              "text": "@Kruemel_und_Pablomach ich jetzt auch so, draußen mit Maulkorb und automatisch ist er auch ruhiger. Obwohl es schon sehr gut läuft und die Ausraster sich sehr in Grenzen halten bzw ich ihn auf mich lenken kann. Aber sicher ist sicher, denn auch so ein kleines Schnappen tut weh.",
+              "author": "@claudia-jt5zv",
+              "likes": 1,
+              "published_at": "2026-11-03T12:22:48Z"
+            },
+            {
+              "comment_id": "UgzUJ2ALrQYBpTmCVlR4AaABAg.Acf9upXerFsAcmrDyvm6sp",
+              "text": "Maulkorb hat hier bei meinem nichts gebracht, der wurde bei jedem Schritt versucht mit der Pfote abzukratzen. Ein Halti war da schon effektiver. Aber da sieht man ja wieder, dass jeder Hund feine Unterschiede hat und nicht jeder mit der gleichen Methodik trainierbar ist.",
+              "author": "@issodererste6790",
+              "likes": 0,
+              "published_at": "2026-11-04T11:28:06Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugwx5n24frtHeASmzFJ4AaABAg",
+          "text": "Die Belohnung ist die Ruhe, nicht das Leckerli. Stell Dir vor, daß Du ein Kind hast - und jedes Mal, wenn es sich richtig verhält, bekommt es einen Bonbon o.ä. Wär ja schlimm!",
+          "author": "@copixmedia",
+          "likes": 2,
+          "replies": 3,
+          "published_at": "2026-11-02T17:07:53Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugwx5n24frtHeASmzFJ4AaABAg.AciJWonzj6xAcidJgsfzAX",
+              "text": "Kind wird übergewichtig",
+              "author": "@sylviaheese1536",
+              "likes": 0,
+              "published_at": "2026-11-02T20:09:35Z"
+            },
+            {
+              "comment_id": "Ugwx5n24frtHeASmzFJ4AaABAg.AciJWonzj6xAckh8yyizhc",
+              "text": "Warum?",
+              "author": "@kirstenarend5432",
+              "likes": 0,
+              "published_at": "2026-11-03T15:21:34Z"
+            },
+            {
+              "comment_id": "Ugwx5n24frtHeASmzFJ4AaABAg.AciJWonzj6xAcl4DFKvU54",
+              "text": "​@kirstenarend5432 Weil das Leben so nicht funktioniert. Man tut Dinge, die nötig sind. Ohne an eine Belohnung zu denken. Stell Dir Deine Vorfahren vor. Die Mütter, die den ganzen Tag gerackert haben, damit die Kinder sauber gekleidet und satt waren. Es ist wie eine Investition, ohne daß abkassiert wird. Und so ist es mit Hunden auch. Irgendwann weiß er, welches Verhalten erwünscht ist. Der Lohn sind Harmonie und Zufriedenheit.",
+              "author": "@copixmedia",
+              "likes": 0,
+              "published_at": "2026-11-03T18:51:52Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugz4vedNgJYKmFngGTJ4AaABAg",
+          "text": "So ist es nicht ganz richtig!  Genau ihr müsst schon den Feind im Auge haben, sonst hören die Hunde oft nicht auf, weil sie euch was vermitteln wollen.",
+          "author": "@wanderfreunde-c4c",
+          "likes": 5,
+          "replies": 2,
+          "published_at": "2026-11-02T20:42:13Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugz4vedNgJYKmFngGTJ4AaABAg.Acih2cXOXcFAcjRSGfufmc",
+              "text": "Der Hund denkt in die Richtung in die er schaut. So müssen wir es auch machen. Sonst meint Hund, dass er übernehmen u abchecken muss",
+              "author": "@christinarebmann",
+              "likes": 1,
+              "published_at": "2026-11-03T03:36:24Z"
+            },
+            {
+              "comment_id": "Ugz4vedNgJYKmFngGTJ4AaABAg.Acih2cXOXcFAcjhBTipuZz",
+              "text": "Feind? Gefahr? Das muss doch der Hundeführer einschätzen und nicht der Hund. Wenn gerade ein Hund friedlich vorbeispaziert, ist das meiner Meinung nach etwas, was der Hundeführer zu Kenntnis nimmt und danach in die Diskussion mit seinem Hund geht. Anders: wenn der unangeleinte labbi an galoppiert kommt....",
+              "author": "@annenikoyagise5400",
+              "likes": 1,
+              "published_at": "2026-11-03T06:02:40Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugx22OtDN9CA0NaKySx4AaABAg",
+          "text": "Dasselbe, aber souveräner, ruhiger, klarer, selbstbewusster und vor allem kein Leckerli, zumindest nicht als Belohnung für Fehlverhalten. Der Hund hat geglotzt, null Respekt oder Aufmerksamkeit vor dem Menschen und war innerlich aufgewühlt und immer noch mit dem Gedanken beim Auslöser, das bestätigt alles, was falsch ist. Druck aufbauen, bis Hund nachgibt und innerlich ruhig ist, dann sofort abbauen (neg. Verstärkung) und ungerührt weitergehen, das ist klare Führung und der Hund wird mit Ruhe und dem Übernehmen der Situation durch den Halter belohnt. Wer unbedingt will, kann dann ein Leckerli geben, muss aber nicht, völlig überflüssig und bringt, wenn überhaupt, nur eine Erwartungshaltung/Aufregung mit ins Spiel (sprich Hund verknüpft Trigger damit und kann nicht in die Ruhe/Gleichgültigkeit kommen. Leckerlis sind super für Tricks, sonst überflüssig und bringen unnötigerweise Aufregung mit rein).",
+          "author": "@loyal_dogs",
+          "likes": 5,
+          "replies": 2,
+          "published_at": "2026-11-01T22:43:41Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugx22OtDN9CA0NaKySx4AaABAg.AcgL9SPbnKCAcgUPUS2r8K",
+              "text": "An sich alles richtig und ich bin voll bei dir. Timing ist alles. Als Anfangstraining  - um die Regeln klar aufzustellen. Wenn die Regeln klar sind und mein Hund nicht mehr dieses Verhalten wie im Video zeigt -dann würde ich Alternativen anbieten. Ich z.B. hab einen Hund, der Mega auf Leckerlies anspringt. Was hab ich mit ihm trainiert? Sobald ein Tricker kommt, kommt er zu mir (mittlerweile selbständig) und der Spaß mit Leckerlies - Suchen beginnt.\nIch muss nicht mehr anleinen, nicht blocken...nix. ich steh da, werf Leckerlies und die anderen gehen vorbei.",
+              "author": "@M.S.100-u8s",
+              "likes": 3,
+              "published_at": "2026-11-02T00:04:31Z"
+            },
+            {
+              "comment_id": "Ugx22OtDN9CA0NaKySx4AaABAg.AcgL9SPbnKCAcphulZomg5",
+              "text": "​@M.S.100-u8s Richtig, hatte/habe auch solche und solche, das muss man wirklich vom Hund abhängig machen.",
+              "author": "@dejavu333",
+              "likes": 0,
+              "published_at": "2026-11-05T14:04:26Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyP_UOb2doJce2UkXF4AaABAg",
+          "text": "Bestätigen den Hund dafür, dasser Theater macht?\nIch weiß, bevor jetzt Shitstorm kommt - das ist die 'sanfte' Methode der Verhaltens'Therapeuten' mit tausenden Wiederholungen und vielleicht in ein paar Jahren von, so mittelmäßigem 'Erfolg' gekrönt.\nAber ihr wisst schon, dass es 4! Lernmethodiken beim Hund gibt?\nAber bitte, wenn's so 'glücklich' macht. 😅",
+          "author": "@oorschwerbleede-m5d",
+          "likes": 0,
+          "replies": 2,
+          "published_at": "2026-11-03T16:29:28Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyP_UOb2doJce2UkXF4AaABAg.AckovNk9dtwAckzLczTl_c",
+              "text": "Das ist die menschliche Sichtweise, dass der Hund Theater macht und nach meiner Überzeugung dem Tier gegenüber unfair. Aus seiner Sicht gibt er alles, um für sich und Frauchen zu sorgen.",
+              "author": "@maschu5654",
+              "likes": 1,
+              "published_at": "2026-11-03T18:00:35Z"
+            },
+            {
+              "comment_id": "UgyP_UOb2doJce2UkXF4AaABAg.AckovNk9dtwAcl2FNNB78j",
+              "text": "​@maschu5654Im Augenblick als der Hund nach dem Reizobjekt schaut, wird er doch bestätigt.\nEr ist doch überhaupt nicht konzentriert auf die HF, wo es Sinn mit einer Bestätigung machen würde.\nStattdessen ein Geziehe und Gezerre an der Leine, ein Blockieren? durch die HF Richtung Reiz, kein verbales Kommando, keine Einwirkung. 🤷\nEs wird vermutlich erwartet, dass der Hund sich irgendwann selbst mal 'korrigiert'?\nAber OK, viele Wege sollen ja nach Rom führen - meiner wäre das nicht. 🥴",
+              "author": "@oorschwerbleede-m5d",
+              "likes": 0,
+              "published_at": "2026-11-03T18:34:40Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxW_TqjksUN0qI4mah4AaABAg",
+          "text": "Habe eine ca. 50 - 55kg Hündin aus dem Tierheim die ersten zwei mal musste ich sie am Boden halten da Brustgeschirr u. Halsband drohten herrauszurutschen , das heißt nur zu halten u. Beruhigend auf Sie einzuwirken ist nicht leicht wenn der Hund gerade mit einem oder mehreren Cachen möchte solange Festhalten teilweise Fixieren beruhigend sprechen u. den Blick zum anderen Tier wenn möglich unterbrechen erst wenn der Hund sich beruhigt hat u. wieder zu ihm durchdringt lobend mit höherer Stimme dem Hund zugegeben u. Langsam die Fixierung lösen erst wenn der Hund komplett entspannt ist wieder auf eine Grundstellung oder andere ablenkende Kommandos wechseln . Bei mir hörte Sie beim dritten Mal u. kahm sofort zurück. Vorher übten wir dies auch am Abrichteplatz wo sich herausstellte das Sie nicht mochte wenn ihr der andere Hund in die Augen sah . Es ist eine American Bulldog Hündin u. im Tierheim sagten Sie sie würde sich mit keinen anderen Hund vertragen , wodurch sie alleine in Gehege gehalten wurde Sie vertrugen sich jedoch sofort mit meinem Amercan  Am Steff. Rüden der Traurig wahr weil weil drei bzw. zwei Monate vorher seine Rudelmitglieder ( Chihuahua) verstarben.  (Altersschwäche , u. Gehirtumor) wodurch er sehr Trauerte. Fazit viel Geduld , Übung u. Absoluter Herr über die Situation zu sein  dem Hund zu vermitteln . WICHTIG DIE VORZEICHEN DES HUNDES ZU LESEN . KÖRPERSPRACHE HÖHE DER KNURR U. BELLLAUTE ERRUIEREN. Und viel Geduld u. Ruhe in der Situation mitbringen.  Am Besten klappt es in der Hundeschule wo einem der Trainer sagt was man Falsch gemacht hat, denn selber merkt man diese nicht . ❤",
+          "author": "@johannlauermann3506",
+          "likes": 10,
+          "replies": 1,
+          "published_at": "2026-11-03T07:12:32Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxW_TqjksUN0qI4mah4AaABAg.AcjpBBp2UPlAcmOQaZPQEz",
+              "text": "Ganz genau so ! Prima !",
+              "author": "@UrsulaLink-Winterstein",
+              "likes": 0,
+              "published_at": "2026-11-04T07:07:41Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwGJZWiXCI_XT7z5xR4AaABAg",
+          "text": "Nicht zum Auslöser zu schauen ist nicht richtig. Man sollte seinem Hund durch entspanntes Hinschauen signalisieren, dass man die Situation wahrgenommen, erkannt und im Blick hat! Ansonsten entsteht für den Hund der Eindruck, dass ich die vermeintliche \"Gefahr \" nicht erkannt habe und er sie regeln muss. Ich drehe niemals der Situation/dem Auslöser den Rücken zu!",
+          "author": "@Kerstin-x4f",
+          "likes": 10,
+          "replies": 1,
+          "published_at": "2026-11-03T17:03:33Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwGJZWiXCI_XT7z5xR4AaABAg.AcksoyJoGq2Acnb4trcKW7",
+              "text": "Das glaube ich auch . Und bei einem Wachhund würde das nicht klappen , denn wenn ich nicht aufpassen, tut es mein Hund . \n😊",
+              "author": "@christalange7326",
+              "likes": 2,
+              "published_at": "2026-11-04T18:26:18Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugy_EZhZAAMOdiyPZ4F4AaABAg",
+          "text": "Gebt dem Hund eine Aufgabe",
+          "author": "@m.g.6626",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-03T04:51:44Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy_EZhZAAMOdiyPZ4F4AaABAg.Acj_3w-bvdJAcsI8Fgzbdv",
+              "text": "Nein, gerade ein Hütehund an der Herde hat sämtliche Impulse durch Training perfekt unter Kontrolle, sonst gibt es Chaos in der Herde ... körperliche und intellektuelle Auslastung löst kein Erziehungsproblem !",
+              "author": "@selenal.4118",
+              "likes": 0,
+              "published_at": "2026-11-06T14:08:12Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugy9EDn4d6r7oE1ZM8t4AaABAg",
+          "text": "Richtig gemacht  aber mit Schleppleine ein Geschirr verwenden.",
+          "author": "@wallyywallyy2006",
+          "likes": 1,
+          "replies": 1,
+          "published_at": "2026-11-03T23:00:18Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy9EDn4d6r7oE1ZM8t4AaABAg.AclWdr0SzXdAcn3zI63gQG",
+              "text": "Manche Hunde ziehen mit Geschirr mehr , ob normale oder Schlepp egal dann… bis zur auslauffläche ist meiner am Halsband fest und dann am Geschirr",
+              "author": "@sebastian-gs9ff",
+              "likes": 1,
+              "published_at": "2026-11-04T13:28:18Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugz3myX7aVnJ01Qat_h4AaABAg",
+          "text": "Du kannst dann von einem Erfolg reden, wenn du neben deinem Hund stehst und er nicht mehr reagiert. Das davor stellen, ist vielleicht ein Anfang... .",
+          "author": "@riekaakier1526",
+          "likes": 8,
+          "replies": 0,
+          "published_at": "2026-11-02T06:48:47Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugx-eGNUTQXTI9o9FeF4AaABAg",
+          "text": "Ich habe auch lange dran gearbeitet, dass mein Hund nicht mehr jedes Mal ausflippt und meist läuft es bei mir schon gut, wenn ich den Reiz vorher bemerke, dann dreht er gar nicht mehr so auf. Außer der Abstand ist zu nah, dass mag er halt gar nicht.",
+          "author": "@Kruemel_und_Pablo",
+          "likes": 7,
+          "replies": 0,
+          "published_at": "2026-11-03T12:11:12Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxP1dTSp7ri3ZnPjxd4AaABAg",
+          "text": "Habe seit 8 Wochen eine Hündin in Notpflege aufgenommen, abend ausgesetzt gefunden, 4 Std. später bei mir, da nirgendwo Plätze waren und Aufnahmestopp.\nHabe über 20 Jahre nur mit Gefahrenhunden gearbeitet, teils in Dauerpflege bei mir, da nicht vermittelbar.\nAber diese Maus fordert mich😂. Absolute Angsthündin, aber bei Hunden absolut dominant. Durch die volle Gesäugeleiste und Welpenanzeigen kennen wir ihre Geschichte:\nWird erst Ende November 2 Jahre alt, hat aber schon 3 Würfe gehabt, war nie draußen, in einer Stadt fast 2 Jahre im 3.Stock eines Hochhauses in 1,5 Zimmern gewohnt, Kindersandkasten als Toilette...\nVöllig überforderte Maus, die nichts kennt, vor allem Angst, junge Männer sind Endgegner... \nRassemix ist wild:\nAustralien Shepard, Husky, Greyhound, English(!) Staffordshire Bullterrier, also Hütehund, Laufhund, Jagdhund, alle Triebe vorhanden, samt Schutztrieb, trotz Angst...\nDazu merlefarben mit 2 blauen Augen mit Sehfehler...\nLeinenaggression bei Hunddbegegnungen, in der Hundeschule beim Sozialtraining frei in beginnender Rudelzusammenführung dominant, aber aggressionsfrei! Sie liebt meine drei Katzen, unsere Pferde und Rinder, die Angst verlor sie innerhalb 2 Wochen bei Ihnen, aber alles unter Katzengröße wird als Beute gesehen (große Mäusejägerin), leider auch kleine Hunderassen...\nVon dem Ergebnis im Video sind wir noch meilenweit entfernt!\nDas Problem: alle lernen in der Hundeschule bei Hundebegegnungen anzuhalten, absetzen, unterbrechen, aber wer geht dann weiter😂? Das tut niemand, also muß ich mit meiner reaktiven Hündin irgendwie vorbei, was das Training kaputtmacht, und wir wohnen weit ländlich in einem kleinen Dorf, nur hat hier jedes einzelne Haus mind. 1 Hund, und 90% sind Auslandstierschutzhunde😅.\nWir werden noch spannende Zeiten haben...\nAber sie darf jetzt endlich Hund sein, und lebt das auf unserem Hof auch völlig aus!\nHier ist sie schon so toll eingelebt, hat riesige Fortschritte gemacht, sind ganz stolz auf die Maus, doch die Spaziergänge sind anstrengend! Mit Gefahrenhunden für mich einfach zu händeln, durch ihre Grundangst mit Fluchtinstinkt muß ich da jetzt anders ran, man lernt ja nie aus😅!\nÜbrigens hat sie wenig \"Will to please\", die ersten Grundkommandos wie Sitz macht sie nur, wenn sie da gerad' Sinn drin sieht, sie hilft von sich aus auf dem Hof, als hätte sie nie etwas anderes gemacht, aber Sitz oder Platz aus dem nichts, keine Chance😂! Mein Trainer sagt auch schon, daß es lustig mit ihr wird😅... Aber um ihre Pfoten hat sie uns schon alle gewickelt🫠🥹",
+          "author": "@oliviaschlott198",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-06T14:59:55Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwkCGHe9BX54Mmcx994AaABAg",
+          "text": "Sehr gut gemacht.👍🤝",
+          "author": "@corinnamochwitz675",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-03T07:33:26Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzL1kokU8C7wkIf-iJ4AaABAg",
+          "text": "Mach ich auch so. Aber mit dem Rücken, damit ich den anderen im Blick habe.",
+          "author": "@bigi2026",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-01T09:13:58Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugzul1aQ_TpTM0P5OZJ4AaABAg",
+          "text": "Danke für das tolle Video",
+          "author": "@ChristineBrammer",
+          "likes": 3,
+          "replies": 0,
+          "published_at": "2026-11-01T16:55:24Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugx9n8U2xytS0dTHlUd4AaABAg",
+          "text": "wie schlecht !!! typisch Hundetrainerin- bringt gar nichts - Hund 0 im Griff !",
+          "author": "@gunterschwarz9370",
+          "likes": 3,
+          "replies": 0,
+          "published_at": "2026-11-03T02:48:48Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugw3YLXONSn99vjOhrR4AaABAg",
+          "text": "Sehr gut gemacht, Bravo 👍",
+          "author": "@Karakaschanka",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-03T18:03:13Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "D2x9QFW5ivg",
+      "title": "So begrüßt du einen Hund richtig!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 155.058,
+      "views": 204516,
+      "comment_count": 3,
+      "status": "ok",
+      "threads_read": 3,
+      "threads": [
+        {
+          "comment_id": "Ugyhu9jP6ZrcrzJQny14AaABAg",
+          "text": "Ich mach das immer mit einem beherzten Fußtritt. Schafft Respekt.",
+          "author": "@konigrollo6267",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-05T19:40:20Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxvN-2RY9wGkoZjFup4AaABAg",
+          "text": "Es geht hier er um fremde  hunde 🐶",
+          "author": "@BingoPongo",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-02T12:51:36Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugxi1uQnOJpgreqfh1t4AaABAg",
+          "text": "Auf die Höhe meines Hundes kann ich nicht sein, da meine Knie  das nicht mehr mitmachen.  Da muß  mein Hund mit leben😅",
+          "author": "@ilsebusch4654",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-10-31T16:57:00Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "10lV_SwaRDY",
+      "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+      "channel_title": "TierWow",
+      "level_code": "viral",
+      "multiple": 17.6085,
+      "views": 87941,
+      "comment_count": 136,
+      "status": "ok",
+      "threads_read": 100,
+      "threads": [
+        {
+          "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg",
+          "text": "Franzosen haben vor allem Angst😢",
+          "author": "@Ecki2867",
+          "likes": 26,
+          "replies": 6,
+          "published_at": "2026-11-06T20:57:45Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg.Act1-vJ2uumAcu4GOnaUj3",
+              "text": "👍 Waschlappen🤮🙋⚫⚪🔴",
+              "author": "@JosefBandau",
+              "likes": 1,
+              "published_at": "2026-11-07T06:45:27Z"
+            },
+            {
+              "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg.Act1-vJ2uumAcuCEkZ1GAu",
+              "text": "Es sind absolute Feiglinge …",
+              "author": "@djlambi",
+              "likes": 0,
+              "published_at": "2026-11-07T07:55:08Z"
+            },
+            {
+              "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg.Act1-vJ2uumAcuKuQb3ffQ",
+              "text": "Tja,wenn ich mir die d3mos in Frankreich anschaue und die Demos hier, wer ist da feige.der deutsche hat nur Mut wenn er marschieren kann 🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮🤮",
+              "author": "@cerryprien-hartmann5256",
+              "likes": 0,
+              "published_at": "2026-11-07T09:10:52Z"
+            },
+            {
+              "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg.Act1-vJ2uumAcuSjNb-Zgh",
+              "text": "Man sollte in Frankreich eher Menschen verbieten oder besser abschieben. \nDer Hund kann nichts dafür",
+              "author": "@CarmenGonzalez-u8f1e",
+              "likes": 0,
+              "published_at": "2026-11-07T10:19:16Z"
+            },
+            {
+              "comment_id": "UgwM8A_MGojvDUAYWVx4AaABAg.Act1-vJ2uumAcuVWH9V78l",
+              "text": "Nix geht über die German Angst",
+              "author": "@aaronkramer8330",
+              "likes": 0,
+              "published_at": "2026-11-07T10:43:33Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyMKONMToiTlcSOqpV4AaABAg",
+          "text": "Hoffentlich. Verbietet man die Menschen die den Blödsinn verzapt haben!",
+          "author": "@haraldwagner9955",
+          "likes": 55,
+          "replies": 3,
+          "published_at": "2026-11-07T00:34:44Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyMKONMToiTlcSOqpV4AaABAg.ActPqCXOSosAcu3rdFvn09",
+              "text": "Mein Reden seid Jahren ☝️🙏👍🙄",
+              "author": "@mummel2031",
+              "likes": 3,
+              "published_at": "2026-11-07T06:41:56Z"
+            },
+            {
+              "comment_id": "UgyMKONMToiTlcSOqpV4AaABAg.ActPqCXOSosAcuB2SYelQT",
+              "text": "Warum muß man so etwas haben? Sie werden nicht böse geboren, sondern falsch erzogen. Das ist die Gefahr!",
+              "author": "@christianeklehm9076",
+              "likes": 2,
+              "published_at": "2026-11-07T07:44:43Z"
+            },
+            {
+              "comment_id": "UgyMKONMToiTlcSOqpV4AaABAg.ActPqCXOSosAcuKmkAuRo3",
+              "text": "Blödsinn",
+              "author": "@ChristianDudek-i8w",
+              "likes": 1,
+              "published_at": "2026-11-07T09:09:49Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzLV2nr8Yx3gVUV-ZN4AaABAg",
+          "text": "Das Problem ist nicht am Ende der Leine sondern am Anfang.",
+          "author": "@nilshauschild2167",
+          "likes": 37,
+          "replies": 3,
+          "published_at": "2026-11-07T08:43:35Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzLV2nr8Yx3gVUV-ZN4AaABAg.AcuHmbyWeh8AcupN0pBH86",
+              "text": "Das Problem ist genauso die Züchtung",
+              "author": "@Karl_Lager_fehlt",
+              "likes": 2,
+              "published_at": "2026-11-07T13:45:47Z"
+            },
+            {
+              "comment_id": "UgzLV2nr8Yx3gVUV-ZN4AaABAg.AcuHmbyWeh8AcwD-kIIEc0",
+              "text": "Blödsinn! Wer beißt denn? Hund oder Halter? Nicht umsonst sind diese Hunde auf der schwarzen Liste....",
+              "author": "@tussitusnelda",
+              "likes": 1,
+              "published_at": "2026-11-08T02:40:18Z"
+            },
+            {
+              "comment_id": "UgzLV2nr8Yx3gVUV-ZN4AaABAg.AcuHmbyWeh8Acwe17e65yp",
+              "text": "☝️👍🤝🙋⚫⚪🔴💙",
+              "author": "@JosefBandau",
+              "likes": 0,
+              "published_at": "2026-11-08T06:45:10Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyGNgaO9G5bxrd7ADt4AaABAg",
+          "text": "Verbote halten z.B. niemanden auf, der Hundekämpfe als Einnahmequelle sieht und lebt.\nKein Mensch und kein Hund, werden bösartig geboren, jedoch können nicht vorhersehbare Ereignisse oder Situationen, beide Spezies in einen Ausnahme versetzen, bei dem man nie weiß, was passieren wird.",
+          "author": "@gabywaesch3972",
+          "likes": 17,
+          "replies": 2,
+          "published_at": "2026-11-06T18:45:29Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyGNgaO9G5bxrd7ADt4AaABAg.AcsmsD48k5NAcuKioNHAp-",
+              "text": "Nun bei Menschen bin ich mir nicht so sicher,aber Tiere werden nicht böse geboren. Am Anfang der Leine ist das Problem",
+              "author": "@cerryprien-hartmann5256",
+              "likes": 3,
+              "published_at": "2026-11-07T09:09:17Z"
+            },
+            {
+              "comment_id": "UgyGNgaO9G5bxrd7ADt4AaABAg.AcsmsD48k5NAcxQ9WDY9nL",
+              "text": "​@cerryprien-hartmann5256Menschen ändern die Meinung schnell und können viel mehr anrichten als jene gezeigten Hunde , da Hunde nicht falsch sind und treu  bis zum Ende ist",
+              "author": "@ralddannert9690",
+              "likes": 0,
+              "published_at": "2026-11-08T13:54:29Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzpdgDW6u-usgAxT-V4AaABAg",
+          "text": "Pitbull? sollte man da nicht eher ein Halter verbot anstreben? Kein wunder das man über Frankreich Witze macht! egal wie tief Deutschland fällt Frankreich gräbt tiefer!",
+          "author": "@SaMGohlsig",
+          "likes": 16,
+          "replies": 2,
+          "published_at": "2026-11-07T00:41:45Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzpdgDW6u-usgAxT-V4AaABAg.ActQdYfn4QPAcuGNTqXb68",
+              "text": "Es geht jetzt ausschließlich um diese Hunderassen. \nNatürlich ,müsste man den \n\"Halter \" unter die Lupe nehmen!! \nWenn man den \"Weg jetzt mal zuende denkt, \nDann sollte man Idioten, Schwachköpfe, Kriegstreiber, und Versager,  in der Regierung,auch \n\" unter die Lupe\" nehmen!\n83 Millionen Menschen, wären \ndafür!😰",
+              "author": "@AnneF3101",
+              "likes": 0,
+              "published_at": "2026-11-07T08:31:17Z"
+            },
+            {
+              "comment_id": "UgzpdgDW6u-usgAxT-V4AaABAg.ActQdYfn4QPAcupT1p5xGE",
+              "text": "Frankreich kann auch in diesem Punkt ein Vorbild sein",
+              "author": "@Karl_Lager_fehlt",
+              "likes": 0,
+              "published_at": "2026-11-07T13:46:37Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzSrT4mEdkcYuhuOFx4AaABAg",
+          "text": "Das sind sinnlose Panik machereien es kommt immer auf die Erziehung an und nicht auf den Hund. Klar gibt es rassen bei denen der beschützter Instinkt oder sonstige Eigenschaften stärker geprägt sind aber solche Hunde gerade zu verbieten finde ich schon sehr übertrieben.",
+          "author": "@sandrinebollhalder8402",
+          "likes": 5,
+          "replies": 2,
+          "published_at": "2026-11-07T07:04:50Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzSrT4mEdkcYuhuOFx4AaABAg.Acu6UM3PofmAcumHUUuLvh",
+              "text": "So schaut's aus",
+              "author": "@GregorSwiat",
+              "likes": 1,
+              "published_at": "2026-11-07T13:18:49Z"
+            },
+            {
+              "comment_id": "UgzSrT4mEdkcYuhuOFx4AaABAg.Acu6UM3PofmAcupg5mdVET",
+              "text": "Die Züchtung ist ein entscheidender Faktor",
+              "author": "@Karl_Lager_fehlt",
+              "likes": 0,
+              "published_at": "2026-11-07T13:48:32Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwcAlWlQBi78GWDMvx4AaABAg",
+          "text": "Kein Hund ist von Natur aus böse, ich hab mit fast allen auf dieser Liste schon gespielt und Freundschaft geschlossen...ich liebe Pitbulls, Kangals und eigendlich alle Kampfhunde",
+          "author": "@svendulleck3546",
+          "likes": 0,
+          "replies": 2,
+          "published_at": "2026-11-07T08:46:26Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwcAlWlQBi78GWDMvx4AaABAg.AcuI6U7YjyIAcvdj8yInEn",
+              "text": "Es gibt keine Kampfhunde. Sie werden zu sogenannten  Kampfhunden gemacht, von dummen und bösen Menschen. 🧐☝️",
+              "author": "@mjp1964",
+              "likes": 1,
+              "published_at": "2026-11-07T21:23:20Z"
+            },
+            {
+              "comment_id": "UgwcAlWlQBi78GWDMvx4AaABAg.AcuI6U7YjyIAcvf4VFP1Cs",
+              "text": "​@mjp1964Weiß ich doch, ich hätte es in Anführungszeichen setzen müssen, Kampfhunde gibt's nicht",
+              "author": "@svendulleck3546",
+              "likes": 0,
+              "published_at": "2026-11-07T21:35:07Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwNWwCLPeAxEhFcNEZ4AaABAg",
+          "text": "Alles Quatsch,richtige Haltung und Erziehung,dann klappt's. Der Mensch muss besser erzogen werden.Er ist das Problem,nicht der Hund. Meine Meinung. Habe schon den fünften Schäferhund,Wachsam und Gehorsam und vor allem ist er Erzogen,😅😅",
+          "author": "@RüdigerFreckmann",
+          "likes": 10,
+          "replies": 1,
+          "published_at": "2026-11-07T05:17:27Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwNWwCLPeAxEhFcNEZ4AaABAg.ActvBsrtuE6AcuplaMACwU",
+              "text": "Bis er deine Leiche frisst😂",
+              "author": "@Karl_Lager_fehlt",
+              "likes": 0,
+              "published_at": "2026-11-07T13:49:17Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzNXYZOJoYLJECHZIp4AaABAg",
+          "text": "Ich habe einen Rotti...Er ist einfach ein Teddybär auf 4 Beinen. ❤\n\nDer Hund ist so wie man ihm erzieht!! Er braucht Regeln und er muss wissen was er darf und was nicht.",
+          "author": "@nadinrloncsar-eg6mf",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-07T14:46:16Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzNXYZOJoYLJECHZIp4AaABAg.AcuwHumxLS6AcweP_qhGMC",
+              "text": "🤝☝️👍",
+              "author": "@JosefBandau",
+              "likes": 0,
+              "published_at": "2026-11-08T06:48:30Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugzn5_-_ppnpbdKJylx4AaABAg",
+          "text": "Nun ja. Ein gut gehaltener umd gut erzogener Hund ist genau so ungefährlich wie ein Dackel oder anderes.",
+          "author": "@christianseidenbart6679",
+          "likes": 1,
+          "replies": 1,
+          "published_at": "2026-11-07T09:32:33Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugzn5_-_ppnpbdKJylx4AaABAg.AcuNOHyng9ZAcvcj7SB0QW",
+              "text": "Stimmt genau. 😎👍🐶",
+              "author": "@mjp1964",
+              "likes": 0,
+              "published_at": "2026-11-07T21:14:35Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxA3fE0A9eis-ptP7x4AaABAg",
+          "text": "Das Problem sind doch oft Menschen die ohne genug Sachverstand  dich eine Hunderasse anschaffen die mächtig ist um Schäden anzurichten.\nDie Liste wird bestimmt bald erweitert",
+          "author": "@MacJahnAdventure71",
+          "likes": 30,
+          "replies": 0,
+          "published_at": "2026-11-07T06:31:23Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzRe80Ih3Q46P5G6SR4AaABAg",
+          "text": "Es ist der Schutz der Allgemeinheit vor den HALTERN dieser Hunde. Bedankt euch bei denen, die solche Hunde falsch oder als Waffe erzogen haben.",
+          "author": "@svenmahnke6209",
+          "likes": 15,
+          "replies": 0,
+          "published_at": "2026-11-07T08:43:32Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwPYMGwZSh04wFn4L14AaABAg",
+          "text": "So ein bullshit 😅",
+          "author": "@BylyPies1996",
+          "likes": 12,
+          "replies": 0,
+          "published_at": "2026-11-07T05:14:23Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugxdl1K1FXb5h4OHPGp4AaABAg",
+          "text": "Schuld ist immer das Ende der Leine  kein Tier  wird böse geboren",
+          "author": "@IngeDittberner",
+          "likes": 10,
+          "replies": 0,
+          "published_at": "2026-11-07T05:56:57Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzjrMqCWlEJsweDfWJ4AaABAg",
+          "text": "Heute soll man eher die Menschen verbieten 🤔",
+          "author": "@lubicasmeibidlo3555",
+          "likes": 9,
+          "replies": 0,
+          "published_at": "2026-11-07T08:32:45Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwitAD1W4X6b-3rQyd4AaABAg",
+          "text": "Es gibt keine bösen Hunde. Die Menschen machen zu Bestien.",
+          "author": "@a.w.m.9082",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-07T13:02:22Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwxTwtuCSdqNcwP3VB4AaABAg",
+          "text": "Fila springt 2 Meter ? Die Rasse ist viel zu schwer",
+          "author": "@angelikaweber6630",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-07T07:47:25Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwgxT05I_EP-XSMasN4AaABAg",
+          "text": "Rottmann & Doberweiler 😅",
+          "author": "@GrunewaldSiegfrid-pf2bn",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-07T00:31:43Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwSibLGTkmMF2jL8714AaABAg",
+          "text": "Knutschkugelverbot im Land  der Feinschmecker.",
+          "author": "@schnellerhastenichecht4175",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-07T03:40:25Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzoAGX9R1dedoEvYuR4AaABAg",
+          "text": "Bescheuert das man Tiere Verband obwohl der Mensch das Aller Schlimmste ist",
+          "author": "@Skyline_Sututuh",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-07T07:30:36Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "cyQKZh9ch2k",
+      "title": "Welpe im Herbst: 4 Fehler bei Kälte",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "viral",
+      "multiple": 73.4114,
+      "views": 79874,
+      "comment_count": 4,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugw___GgCryE2hMzoXF4AaABAg",
+          "text": "Unser Hund bekommt einen Bademantel an wenn er Klatsch Nass ist . Gefällt ihm sehr gut mit Bademantel im Körbchen zu liegen",
+          "author": "@U.K.9178",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-31T15:38:10Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugw___GgCryE2hMzoXF4AaABAg.Acd-f1RAsYTAch6Ii92EOk",
+              "text": "Ein Bademantel im Körbchen klingt richtig gemütlich 😄 Gute Idee bei dem Wetter!",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-11-02T05:53:07Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "PoLZkulOSzE",
+      "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 36.7998,
+      "views": 39798,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "SplODI4JCas",
+      "title": "👇🏻",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 20.1805,
+      "views": 24134,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugw4OzGukSHq9mmj_SJ4AaABAg",
+          "text": "Danke",
+          "author": "@Svetlanascherer-h7i",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-07T21:52:57Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "BgsAC_wBMFk",
+      "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 20.7985,
+      "views": 23781,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "TrK6cnzrY6c",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "level_code": "viral",
+      "multiple": 32.9244,
+      "views": 17301,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgyMySqQE_kXPor-2aV4AaABAg",
+          "text": "Folgt dir dein Hund auch in jeden Raum, bis ins Bad? 🐾 Erzähl mir gern, wo dein Hund dich überall begleitet und welche Nummer aus dem Video bei euch passt. Ich freue mich auf deine Geschichte. 💛",
+          "author": "@bettinabumbexpertin",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-07T09:49:30Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "-eqcbU3aWYg",
+      "title": "Wie lange darf ein Hund allein sein? 2, 4 oder 8 Stunden",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "viral",
+      "multiple": 14.116,
+      "views": 16131,
+      "comment_count": 12,
+      "status": "ok",
+      "threads_read": 6,
+      "threads": [
+        {
+          "comment_id": "UgxI9gx-a6KcBWt3FCF4AaABAg",
+          "text": "Unser Hund ist 1 x pro Woche bis kurz nach 12 alleine. Da geb ich aber auch Gas, damit ich schnell Zuhause bin. Mit Home-Office und Teilzeit, Kinder, die Zuhause sind geht das. Wenn ich 8 Stunden arbeite brauche ich keinen Hund... Perfekt für Familien, so einer Teilzeit arbeitet und genug Zeit zum Gassi etc hat.",
+          "author": "@mausiausk.5354",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-10-29T19:12:25Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxI9gx-a6KcBWt3FCF4AaABAg.AcZEaRd654OAc_PboKwSrK",
+              "text": "Genau so 👍 Mit Homeoffice und Familie klappt das richtig gut.",
+              "author": "@Hundeo",
+              "likes": 1,
+              "published_at": "2026-10-30T06:07:58Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwmOHs4Ps2qJBAcWE94AaABAg",
+          "text": "Und vor allem muss der Hund Aufs Klo",
+          "author": "@davziller9393",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-27T14:08:34Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwmOHs4Ps2qJBAcWE94AaABAg.AcTYEI7AupuAcXsCBoinCh",
+              "text": "Genau, das begrenzt die Zeit allein oft am meisten 👍",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-10-29T06:28:45Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugxo3h7A9i6KAcJhaZp4AaABAg",
+          "text": "Ist mir doch egal🤷",
+          "author": "@knutschmag8090",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-30T15:25:59Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugxo3h7A9i6KAcJhaZp4AaABAg.AcaPTvo-KncAcd1R4PV4xa",
+              "text": "Deinem Hund wahrscheinlich nicht 😉",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-10-31T15:53:36Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugwg29fKnMmgDqK7BaB4AaABAg",
+          "text": "Wie ist es wenn man mehrere Hunde hat mit Zugang zum Garten?",
+          "author": "@NinaSteinberger",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-28T16:43:33Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugwg29fKnMmgDqK7BaB4AaABAg.AcWOlEguKRSAcXq1qjMovr",
+              "text": "Ein zweiter Hund und der Garten machen es leichter, ersetzen aber nicht dich: Bewegung, Beschäftigung und Kontakt zu dir brauchen sie trotzdem. Und der Garten sollte ausbruchsicher sein und Schatten und Wasser haben.",
+              "author": "@Hundeo",
+              "likes": 2,
+              "published_at": "2026-10-29T06:09:52Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugy0PLn_LA8Her_yrqt4AaABAg",
+          "text": "Ja klar ich bestell mir einen dog sitter weil mein hund ist ja gar nicht kompliziert",
+          "author": "@LisaRossgatterer-le4rj",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-28T09:25:51Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy0PLn_LA8Her_yrqt4AaABAg.AcVbfUFB1vnAcXs1XVertb",
+              "text": "Muss ja nicht gleich ein Dogsitter sein 😄 Oft reicht schon ein Nachbar oder Freund, der mittags einmal mit ihm rausgeht.",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-10-29T06:27:18Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugyh-ijaLbudZwOIpAt4AaABAg",
+          "text": "Seit wann hat der Hund ein Zeitgefühl 😂",
+          "author": "@h3tOr-j6r",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-28T17:56:08Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugyh-ijaLbudZwOIpAt4AaABAg.AcWX3oo0k-vAcXsOD849XB",
+              "text": "Uhr lesen kann er nicht 😄 Aber ob du eine halbe Stunde oder den ganzen Tag weg warst, merkt er sehr wohl.",
+              "author": "@Hundeo",
+              "likes": 2,
+              "published_at": "2026-10-29T06:30:24Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "9GpQc37eYG0",
+      "title": "👇🏻 8 einfache Trainingstipps für einen glücklichen Hund!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "viral",
+      "multiple": 18.3904,
+      "views": 11289,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "O5BZi3ZZ0Wc",
+      "title": "Welche Hunderasse ist wirklich für Anfänger geeignet?",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "viral",
+      "multiple": 32.0338,
+      "views": 7825,
+      "comment_count": 2,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgwfRG7OM6KO4eUAO5l4AaABAg",
+          "text": "Sinnlose Einschätzung von Hunden, alles nur pauschalisiert, vieles stimmt nicht!\nSorry wir haben Border Collies, Arbeitslinie. Sie sind weder Hyperaktiv, noch suchen sie ständig, eigentlich gar nicht, etwas zum Hüten. Wir haben freilaufende Hühner welche sie vollständig ignorieren, sie hüten auch keine Menschen, sie sind eher ruhig und lernbegierig. Man kann Rassen einfach nicht pauschalisieren, es kommt auch auf die Zuchtlinie an und wie ihre Jugend verläuft und auf den Charakter des jeweiligen Hundes der auch innerhalb einer Zuchtlinie von 1 - 1000 verschieden ist. Und zum Schluss kommt es noch auf die Persönlichkeit des Besitzers an. Noch eine ganz wichtige Regel: was ein BC einmal gelernt hat vergisst er nie wieder, auch nicht die Fehler!\nFür mich ist ein BC der einfachste Hund den man sich wünschen kann, nie wieder einen Anderen!",
+          "author": "@user-qs1xz2mx6f",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-11-04T12:49:27Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwfRG7OM6KO4eUAO5l4AaABAg.Acn-XnCNwfpAcnbOYLkI9z",
+              "text": "Klingt nach richtig gut erzogenen Collies 😊 Klar, Linie, Aufzucht und Halter machen viel aus. Das Ranking zeigt, was Anfänger typischerweise erwartet, und da ist ein BC mit Arbeitslinie für die meisten eben mehr Hund, als sie denken. Wer es so hinbekommt wie ihr, hat einen Traumhund.",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-11-04T18:28:59Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "fY1ah3i0Wh8",
+      "title": "Mein Frauchen und Autofahren🤣 dog #puppy #doggielife #pets #funny",
+      "channel_title": "CHINESE CRESTED POWDERPUFF TV",
+      "level_code": "viral",
+      "multiple": 10.1663,
+      "views": 1026,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "yQ4r4sU1UbI",
+      "title": "Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hunde",
+      "channel_title": "JacktheDalmatian",
+      "level_code": "breakout",
+      "multiple": 8.7989,
+      "views": 16917,
+      "comment_count": 10,
+      "status": "ok",
+      "threads_read": 8,
+      "threads": [
+        {
+          "comment_id": "Ugy9z_pHgsA3I4EyoK94AaABAg",
+          "text": "Ist er noch nicht in der Pubertät? Rüden heben erst später das Bein.",
+          "author": "@BettinaSamsel",
+          "likes": 7,
+          "replies": 1,
+          "published_at": "2026-11-03T16:29:14Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy9z_pHgsA3I4EyoK94AaABAg.AckotchyvEZAckoyNaRur3",
+              "text": "Okay, hab gerade die Beschreibung gelesen, alles klar.",
+              "author": "@BettinaSamsel",
+              "likes": 0,
+              "published_at": "2026-11-03T16:29:53Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwDmCx2j7SXrqtf7It4AaABAg",
+          "text": "Wenn ein Hund nicht krankhaft gesteuert ist, warum muss er dann kastriert werden? Die Natur hat sich sehr wohl was dabei gedacht und Thesstosteron und Cortisol in Einklang gebracht. Daraus werden souveräne Rüden. Unsere Hunde haben sich noch nicht vermehrt, weil wir sie nicht alleine auf die Straße schicken.",
+          "author": "@KarinScholz-b8o",
+          "likes": 1,
+          "replies": 1,
+          "published_at": "2026-11-04T17:28:40Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwDmCx2j7SXrqtf7It4AaABAg.AcnVUnaXkgyAcoAgZ_IQRK",
+              "text": "es geht 1. darum, dass die Tiere allgemein ruhiger sind, wenn sie kastriert sind (vor allem die Männchen) und 2. falls das Tier irgendwo ausbüchst bzw verschollen ist will keiner, das dann irgendwann alles voller Hunde in der Natur ist, das ist so wie lauter Teenager-Wölfe auf einmal wenn die erwachsen sind. Außerdem muss Wolf-Hund-Kreuzung in der Natur tunlichst vermieden werden.\n\nUnd bitte verstehe mich nicht falsch, ich bin absolut dagegen, die Tiere zu früh zu kastrieren aber zu einem angemessenen Zeitraum hat es eben auch gute Gründe, wieso viele Menschen es machen lassen beo ihren Hunden.",
+              "author": "@marlischemistry",
+              "likes": 1,
+              "published_at": "2026-11-04T23:46:09Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwC_7U9PgPcofs24g94AaABAg",
+          "text": "Meine Hündin wurde auch viel zu früh kastriert. Nun hebt sie das Bein😂",
+          "author": "@SabineErika-w9c",
+          "likes": 3,
+          "replies": 0,
+          "published_at": "2026-11-04T18:54:03Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugy1FkbacteJo8PPZSp4AaABAg",
+          "text": "DA SIEHT MAN WAS DIE MENSCHHEIT I'M KOPF HAT? IST DOCH EGAL WIE UND WAN!!!!!!! HAUPTSACHE GLÜCKLICH UND GESUND DIE SCHNUFFIS!!!!!!!!!!!!!!!!!!!!",
+          "author": "@ElisabethSchalk",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-04T14:27:09Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxBUbul_KtxJXSDZjp4AaABAg",
+          "text": "I finds süss :D",
+          "author": "@HedyieEiydeh",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-03T11:37:06Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyLp9cMXvwBplLQy294AaABAg",
+          "text": "Das hat nichts mit Kastration zu tun meiner ist unkastriert 2 Jahre alt und macht das auch",
+          "author": "@lotusblute72",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-05T10:17:55Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzRoA00KQvsefkGqr54AaABAg",
+          "text": "Mein Dackel wird 16 und macht das jetzt auch wieder 😂",
+          "author": "@MLauti-tw3tr",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-08T17:08:13Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugz_FqPRAuTmELbrnSp4AaABAg",
+          "text": "Hä, sieht man doch, dass es keine Hündin ist. Hündinnen hocken sich hin. Das sueht doch ganz anders aus.",
+          "author": "@suyanaspirit1188",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-06T07:49:04Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "u49Ps-VrWiw",
+      "title": "3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱",
+      "channel_title": "Dogletics",
+      "level_code": "breakout",
+      "multiple": 9.82,
+      "views": 9417,
+      "comment_count": 3,
+      "status": "ok",
+      "threads_read": 2,
+      "threads": [
+        {
+          "comment_id": "Ugy9aawj8IeoytMs8S54AaABAg",
+          "text": "so süß ❤",
+          "author": "@johannes-vollmer",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-11-01T10:57:30Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy9aawj8IeoytMs8S54AaABAg.Acf4L9JavMoAcfKp3rxeZE",
+              "text": "Dankeschön 😊",
+              "author": "@fitmitfellnase",
+              "likes": 0,
+              "published_at": "2026-11-01T13:21:32Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwArBJet0TsahRCsCJ4AaABAg",
+          "text": "🎃 Drei Kürbis-Level, drei unterschiedliche Herausforderungen!\n\nWas schätzt ihr: Welches Level ist für einen Hund am schwierigsten – 1, 2 oder 3? 🐾",
+          "author": "@fitmitfellnase",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-10-31T16:43:09Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "lw-JVzObDxE",
+      "title": "Apportieren- Aufbau für Obedience Beginner",
+      "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "level_code": "breakout",
+      "multiple": 6.6748,
+      "views": 8617,
+      "comment_count": 3,
+      "status": "ok",
+      "threads_read": 2,
+      "threads": [
+        {
+          "comment_id": "UgzshWp_GQb-ZnLgESt4AaABAg",
+          "text": "Kann man das auch normal sagen?",
+          "author": "@ingeburg5985",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-10-28T08:31:51Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzshWp_GQb-ZnLgESt4AaABAg.AcVWUquqs-5AcVXEY61Tar",
+              "text": "Du kannst das sagen wie Du willst 😉. Ich sag es SO!",
+              "author": "@Hundeverstehenkatja",
+              "likes": 1,
+              "published_at": "2026-10-28T08:38:21Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyfxdMQeOqGUU7Rclx4AaABAg",
+          "text": "Brrrrrring",
+          "author": "@mulvamuff",
+          "likes": 3,
+          "replies": 0,
+          "published_at": "2026-10-27T14:01:54Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "79h3E8eHvEQ",
+      "title": "Ohne Leckerli vs. mit Leckerli 😂🐶",
+      "channel_title": "Tierliebhaber",
+      "level_code": "breakout",
+      "multiple": 8.524,
+      "views": 7080,
+      "comment_count": 5,
+      "status": "ok",
+      "threads_read": 2,
+      "threads": [
+        {
+          "comment_id": "UgxaQQTi74kzAbsbuod4AaABAg",
+          "text": "Belohnungsprinzip muss aber nicht Futter sein. Futter dressierte Hunde folgen ganz schlecht wenn es drauf ankommt. Alte Generation weiß des die Junge wird es nie lernen.",
+          "author": "@haraldpaul4096",
+          "likes": 0,
+          "replies": 2,
+          "published_at": "2026-10-29T15:41:44Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxaQQTi74kzAbsbuod4AaABAg.AcYrUJHmXDqAcYwDsUNpGP",
+              "text": "Genau, Belohnung muss nicht immer Futter sein 😊 Dazu haben wir auch ein neues Video online, in dem Sophia verschiedene Belohnungsformen zeigt. Am Ende kommt es immer darauf an, herauszufinden, was für den eigenen Hund wirklich als Belohnung funktioniert 🐶🩷",
+              "author": "@tierliebhaber5650",
+              "likes": 0,
+              "published_at": "2026-10-29T16:23:11Z"
+            },
+            {
+              "comment_id": "UgxaQQTi74kzAbsbuod4AaABAg.AcYrUJHmXDqAc_eXW7zaxo",
+              "text": "Offensichtlich ist das Video Spaß😅 es gibt übrigens einen großen Unterschied zwischen Tricktraining und Erziehung. Achso und bei Erziehung ist ebenso eine positive Verstärkung sinnvoll und wichtig. Der aktuelle Stand der Verhaltensforschung bei Hunden belegt sehr eindeutig, dass positive Verstärkung (nicht nur mit Leckerlis, gibt ja auch andere Möglichkeiten, wie du in einem unserer neuen Reels siehst) die nachhaltigste Option im Training ist. Das heißt übrigens nicht, dass der Hund keine Grenzen kennt.\nLiebe Grüße die ausgebildete Hundetrainerin 😉",
+              "author": "@Sophia_ptsch",
+              "likes": 0,
+              "published_at": "2026-10-30T08:27:03Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzdpD_Ty5M5yr41XO14AaABAg",
+          "text": "Bei Hunden funktioniert alles über's Belohnungsprinzip",
+          "author": "@catibrandt6301",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-10-28T18:28:30Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzdpD_Ty5M5yr41XO14AaABAg.AcW_lstkpFWAcWdpRr3txN",
+              "text": "Absolut 😄 Die Kunst ist nur herauszufinden, was der eigene Hund als Belohnung empfindet. Bei Frieda ist die Sache offensichtlich ziemlich eindeutig. 😂🐶🩷",
+              "author": "@tierliebhaber5650",
+              "likes": 0,
+              "published_at": "2026-10-28T19:03:56Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "CpymYngPk4s",
+      "title": "Dein Hund übertreibt nicht 💛",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "level_code": "breakout",
+      "multiple": 9.6742,
+      "views": 6277,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "swqVwZi1d44",
+      "title": "🐶 Knochen für Hunde – welche sind wirklich sicher?",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "breakout",
+      "multiple": 5.0275,
+      "views": 6953,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugwg-NJ4Hv0feRLBtCB4AaABAg",
+          "text": "Vorsicht bei Markknochen! Sie können im Kiefer stecken bleiben. Es gab Hunde, die deshalb operiert werden mussten.",
+          "author": "@BettinaSamsel",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-04T19:10:24Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "4oQWyAUrBp4",
+      "title": "👇🏻Halsband oder Geschirr – was ist besser für deinen Hund?",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "breakout",
+      "multiple": 5.5592,
+      "views": 5090,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgxNhWZzLDJvhN-M1-J4AaABAg",
+          "text": "Geschirr ist besser \nSpreche aus Erfahrung",
+          "author": "@steffiapitzsch275",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-06T11:05:07Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "0ziDrLij48g",
+      "title": "Ein Hund braucht nicht viel. Aber dieses eine Ding braucht er jeden Tag 🐾",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "level_code": "breakout",
+      "multiple": 6.1787,
+      "views": 4304,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugz7u94x3yf1LFBWac94AaABAg",
+          "text": "Was ist das eine Ding, das dein Hund jeden Tag braucht? Schreib es mir gern in die Kommentare. 🐾",
+          "author": "@bettinabumbexpertin",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-02T10:53:07Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "tN81wgBPzQo",
+      "title": "Hund zittert an Silvester? 3 Tipps aus über 10 Jahren Erfahrung",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "level_code": "breakout",
+      "multiple": 5.6702,
+      "views": 3439,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "TRgU3zMu8Xw",
+      "title": "👇🏻Dein  Hund macht Unsinn? Vielleicht steckt mehr dahinter!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "breakout",
+      "multiple": 5.8498,
+      "views": 1883,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "fDYeUGh3QC0",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "level_code": "breakout",
+      "multiple": 6.4052,
+      "views": 1409,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "LbQifm2U3Oc",
+      "title": "Kommt mein Hund an den Fußball? ⚽😂",
+      "channel_title": "Dogletics",
+      "level_code": "breakout",
+      "multiple": 6.9018,
+      "views": 1324,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "dRcCZLI018U",
+      "title": "Drei Kinder von Hunden gebissen – was wurde übersehen?",
+      "channel_title": "Dog4 – Hundeverhalten verstehen",
+      "level_code": "breakout",
+      "multiple": 5.4896,
+      "views": 1345,
+      "comment_count": 7,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg",
+          "text": "Wie sicherst du deinen Hund beim Öffnen der Autotür ab? 🚗🐕\n\nVerlässt du dich auf ein trainiertes Warten, nutzt du eine Leine oder Transportbox – oder kombinierst du mehrere Maßnahmen?\n\nMich interessiert, wie ihr das im Alltag handhabt.",
+          "author": "@dog4s",
+          "likes": 2,
+          "replies": 6,
+          "published_at": "2026-11-02T22:44:43Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg.Aciv3uAtBNwAcka2gg4O8M",
+              "text": "Da mein Hund 2mal gehorcht und 3mal nicht, schaue ich genau, dass es keine Zusammenstöße geben kann, nehme die Leine und stelle mich so, sodass er nicht an mir vorbeikommt. Abgesehen davon, würde ich meine Hand in sein Maul dafür legen, dass er niemanden beißt.",
+              "author": "@evastephan9441",
+              "likes": 1,
+              "published_at": "2026-11-03T14:19:32Z"
+            },
+            {
+              "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg.Aciv3uAtBNwAcsC_hBtHPK",
+              "text": "@olis.2700 Ich denke, man muss schon zwischen Stresssituationen - wie Auto, enger Bürgersteig voller Leute und anderer Hunde - und der weiten Wiese unterscheiden. In beiden Situationen sollte der Halter jedoch die Augen auf Hund und Umgebung richten und nicht aufs Handy starren. Abgesehen davon glaube ich den Leuten ihr \"das hat er noch nie gemacht\" prinzipiell nicht so ganz. Wenn mein Hund bspw. durch Menschenmengen, Lärm oder andere Hunde gestresst wäre, würde ich tatsächlich in solchen Situationen kurze Leine und Maulkorb in Erwägung ziehen - oder ihn halt nicht mit auf den Jahrmarkt nehmen. Aber es sind ja nicht alle Hunde gleich. Meiner hat bspw. nur vor Böllern und Gewitter Angst, an einer Kreissäge geht er entspannt vorbei und eine Menschenmenge heißt für ihn potentielle Streicheleinheiten.",
+              "author": "@evastephan9441",
+              "likes": 1,
+              "published_at": "2026-11-06T13:19:39Z"
+            },
+            {
+              "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg.Aciv3uAtBNwAcl2TMuLr-p",
+              "text": "​@evastephan9441Na, das höre ich doch gerne! 😊 Das klingt wirklich vorbildlich. Natürlich können wir nicht jede Situation und jedes Risiko vermeiden. Aber wir können zumindest versuchen, vorausschauend zu handeln und Risiken so gering wie möglich zu halten. Genau darauf kommt es an! 🐾",
+              "author": "@dog4s",
+              "likes": 0,
+              "published_at": "2026-11-03T18:36:35Z"
+            },
+            {
+              "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg.Aciv3uAtBNwAcromWJVHQt",
+              "text": "Du sagst quasi, am besten immer Maulkorb, kurze Leine oder Käfig. Freilauf quasi unmöglich. Es kann ja immer und überall ein Kind um die Ecke kommen. Selbst wenn die Wahrscheinlichkeit gegen Null geht. Wo ziehst du sonst die Grenze.\nHalt ich für arg alarmistisch. Man muss im Leben immer Risiken eingehen sonst kann man sich gleich eingraben lassen.",
+              "author": "@olis.2700",
+              "likes": 0,
+              "published_at": "2026-11-06T09:42:57Z"
+            },
+            {
+              "comment_id": "UgxFlr1jMy6_mEJ5nep4AaABAg.Aciv3uAtBNwAcvhYzTasO7",
+              "text": "@evastephan9441 Genau so sehe ich das auch! 😊 Es kommt immer auf den jeweiligen Hund und die Situation an. Training, Sozialisation und Management sollten sinnvoll ineinandergreifen. Genau darum ging es mir auch im Video. Danke dir! 🐾",
+              "author": "@dog4s",
+              "likes": 0,
+              "published_at": "2026-11-07T21:56:45Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "f3fjhEtLlo4",
+      "title": "Kann mein Hund ein EI aus dem Wasser holen? 🥚😂",
+      "channel_title": "Dogletics",
+      "level_code": "breakout",
+      "multiple": 9.5272,
+      "views": 1165,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "sk_LJYlM2gE",
+      "title": "Wir wollten einfach nur verstehen, warum er sich ständig kratzt … 💔🐾",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "breakout",
+      "multiple": 6.1956,
+      "views": 1205,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugw5EU1Eprvv5AYwFZ54AaABAg",
+          "text": "Verkaufsvideo 😂😊",
+          "author": "@h3tOr-j6r",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T18:06:55Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "c1TQWq_q9Ks",
+      "title": "Dein Hund will NICHT kuscheln? DAS steckt dahinter! 🐕#shorts #goldenretriever",
+      "channel_title": "Wuff & Wissen",
+      "level_code": "breakout",
+      "multiple": 6.3279,
+      "views": 1076,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgxB-my4vb9ZUtAb6T14AaABAg",
+          "text": "🐾 Dein Hund liegt lieber neben dir als direkt bei dir?\n\nMich interessiert: Sucht dein Hund oft deine Nähe, möchte aber nicht unbedingt angefasst werden?\n\nSchreib deine Erfahrung in die Kommentare! 🐾",
+          "author": "@WuffundWissen",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-08T14:38:43Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "KKYp2Zo80yM",
+      "title": "Warum Ihr Hund Sie ableckt (es ist NICHT, was Sie denken!)",
+      "channel_title": "Gerd Hallmann",
+      "level_code": "outlier",
+      "multiple": 2.4253,
+      "views": 109725,
+      "comment_count": 65,
+      "status": "ok",
+      "threads_read": 41,
+      "threads": [
+        {
+          "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg",
+          "text": "Moin\nWeil sich so viele aufregen in den Kommentaren: Unter dem Video steht klar: KI und in der Caption steht: \"Gerd Hallmann ist eine fiktive Erzählfigur, die Inhalte entstehen mit Unterstützung von KI.\"\nSo wird es halt in Zukunft immer öfter sein, Werbung ( in diesem Fall für ein Hundebuch) kommt in zugeschnittenen Formaten daher. Und es funktioniert, wenn nur 50 % der Kommentierenden echt sind, emotionalisiert unser lieber Gerd die Menschen und bringt sie dazu, ihre Hundelebensgeschichten zu erzählen. Unsere Zukunft.",
+          "author": "@lohengrin9020",
+          "likes": 5,
+          "replies": 7,
+          "published_at": "2026-10-28T07:20:21Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg.AcVOJFjIdQzAcVS9CROQMs",
+              "text": "Es ist weniger ein Aufregen, sondern manchen kommentarschreibern bewusst machen, dass 1. der gute Gerd kein Mensch ist sondern ein Fantasiegebilde der KI, 2. der hauptzweck dieser fas täglich neuen videos der verkauf der hundebuches ist.\nErstaunlich dabei finde ich, dass ich bisher nicht einen kommentar zu diesem Buch gelesen habe. Vielleicht gibts dieses Buch gar nicht",
+              "author": "@snirwana8579",
+              "likes": 1,
+              "published_at": "2026-10-28T07:53:56Z"
+            },
+            {
+              "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg.AcVOJFjIdQzAcVeeNb2KDs",
+              "text": "@snirwana8579das wäre allerdings total witzig….dann verdienen die Leute nur mit den Aufrufzahlen der Videos ihre Kohle und wir beide helfen durch unsere Konversation dabei. Irre. Das wäre dann tatsächlich Kohle aus dem Nichts. Zauberei.",
+              "author": "@lohengrin9020",
+              "likes": 1,
+              "published_at": "2026-10-28T09:51:56Z"
+            },
+            {
+              "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg.AcVOJFjIdQzAcW39CDMoJG",
+              "text": "Nein, vielen ist das nicht bewusst, dass das hier KI ist. Es wird treuherzig kommentiert, als ob man einem realen Onkel Gerd etwas erzählt aus seinem Leben und man weiß überhaupt nicht, wer dahinter steckt. Wer liest eigentlich die Kommentare?",
+              "author": "@lindenzweiglein",
+              "likes": 1,
+              "published_at": "2026-10-28T13:34:43Z"
+            },
+            {
+              "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg.AcVOJFjIdQzAc_tTtDR4JP",
+              "text": "@lindenzweiglein Ich lese sie, weil ich es hochinteressant finde, wie schnell und leichtgläubig die Menschen bei Themen wie Hunde (Welpen), Katzen und Kindern hochemotional ihre halbe Lebensgeschichte preisgeben. Die Hersteller der Videos freuen sich natürlich über regen Trafic in den Kommentarspalten, weil es die Sichtbarkeit erhöht und die Vermarktung erleichtert. Der Inhalt interessiert die ( wahrscheinlich) überhaupt nicht. Ich wage mal die Behauptung, selbst wenn hier alle böse über die KI herfallen würden, reiben sich die Leute hinter unserem KI Gerd die Hände. Auf Zypern :) dort sitzt die Firma, wenn ich das richtig gelesen habe.",
+              "author": "@lohengrin9020",
+              "likes": 0,
+              "published_at": "2026-10-30T10:37:38Z"
+            },
+            {
+              "comment_id": "UgzwZTqDdrER7UjbxzR4AaABAg.AcVOJFjIdQzAc_yAvD2-Wj",
+              "text": "​@snirwana8579Warum das Buch kaufen, wenn es diese tolle Erklärvideos gibt! Besser und anschaulicher geht's nicht.",
+              "author": "@InesLachmund-u2k",
+              "likes": 0,
+              "published_at": "2026-10-30T11:18:44Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg",
+          "text": "Zu faul, selber zu sprechen? Oder was ist der Grund fuer diese grottenschlechte KI-Darstellung mit der unertraeglichen KI-Stimme?",
+          "author": "@Nena-Lu",
+          "likes": 4,
+          "replies": 5,
+          "published_at": "2026-10-27T22:36:14Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg.AcUSKXi559bAcVN5jbLI2s",
+              "text": "​@manfredf-b1015daran kann man sehen, dass das ganze Video KI erstellt ist. Schade . . . .",
+              "author": "@Hans-DieterReinhold-h2k",
+              "likes": 2,
+              "published_at": "2026-10-28T07:09:46Z"
+            },
+            {
+              "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg.AcUSKXi559bAcV6crrsRef",
+              "text": "Es ist nicht nur die Stimme, die finde ich übrigens gar nicht so übel.  Bei ihm ist auch die Zeit stehengeblieben.  Es ist immer fünf vor sechs. Und seine Fallbücher wurden in all den Jahren in allerschönster Schulschrift verfasst.😅",
+              "author": "@manfredf-b1015",
+              "likes": 1,
+              "published_at": "2026-10-28T04:45:53Z"
+            },
+            {
+              "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg.AcUSKXi559bAcX6tuHs2QA",
+              "text": "@lohengrin9020 Harmlos in Bezug auf das Gesagte, kann ich nicht beurteilen, da ich KI nie zu Ende schaue (und in diesem Fall leider nicht zuerst das \"Kleingedruckte\" las)\nDoch nicht harmlos in Bezug auf die Zukunft und was durch die KI verloren geht.\nHoert sich boese an, doch ich wuensche solchen KI-Nutzern ein baldiges teures (weil kein Geld mehr rein kommt) Erwachen.",
+              "author": "@Nena-Lu",
+              "likes": 1,
+              "published_at": "2026-10-28T23:26:41Z"
+            },
+            {
+              "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg.AcUSKXi559bAcVNo5HmrQz",
+              "text": "Sie machen aber keinen Hehl daraus. Unter der Caption steht: \"Gerd Hallmann ist eine fiktive Erzählfigur, die Inhalte entstehen mit Unterstützung von KI.\" Die wollen halt ihr Buch verkaufen und fluten momentan mit ihrem Zeug Youtube. Ich finds harmlos, weil das was gesagt wird, nicht grundsätzlich falsch oder Fake ist.",
+              "author": "@lohengrin9020",
+              "likes": 0,
+              "published_at": "2026-10-28T07:15:58Z"
+            },
+            {
+              "comment_id": "UgzciqShIT0F7IttY0Z4AaABAg.AcUSKXi559bAc_swaw9pJW",
+              "text": "@Nena-Lu Dieser Wunsch wird sich niemals erfüllen, weil die Zeit einfach nicht stehen bleibt. Möglicherweise wird es zukünftig eine andere Gesetzgebung oder eine irgendwie geartete Besteuerung von durch KI generierten Umsatz geben. \nIch glaube wir leben in einer Zeit der totalen Umwälzung. Es kann angsteinflössend sein, aber es ist auch hochspannend und interessant.",
+              "author": "@lohengrin9020",
+              "likes": 0,
+              "published_at": "2026-10-30T10:32:57Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzAZjmEfe2UR0Ywfzd4AaABAg",
+          "text": "😂😂 ja das mit den fressen ist bei uns so .. wenn wir essen futtert er auch 🐕.. Das macht unser hund auch ab und an ,, schüttelt ,,  sein Spielzeug.  Schlecken macht unser hund oft morgens,  aber auch wenn wir heim kommen .",
+          "author": "@RenateBerns-s9k",
+          "likes": 0,
+          "replies": 4,
+          "published_at": "2026-10-27T18:00:31Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzAZjmEfe2UR0Ywfzd4AaABAg.AcTxm85NoG_AcV6zGyn0ZK",
+              "text": "Wir haben ein \"Guten Morgen-Ritual\". Kurz bevor ich aufstehen soringt mein Hubd auf mein Bett und legt sich der Läbge nach auf mich und beginnt mich \" zu waschen\". Manchmal stehr sie dabei auch auf und steht so mit allen Vieren auf mir.  Später, wenn ich meine Hose anziehen will, und ich diese vor mir auf den Boden lege, steigt die auf fie Hose, dabei legt sie mir ihre Vorderpfoten links und rechts auf die Schulter und hüpft mit den hinteren hoch.. Dabei probiert sie wieder meim Gesicht zu lecken. Wenn ich es eilig habe, trickse ich sie aus, in dem ich eine zweite Hose neben mir liehen habe und diese anziehe, während sie auf der anderen rumspringt. Oder sie nimmt mir einen Socken weg und will, dass ich mit ihr spiele.",
+              "author": "@sabine2703",
+              "likes": 1,
+              "published_at": "2026-10-28T04:48:56Z"
+            },
+            {
+              "comment_id": "UgzAZjmEfe2UR0Ywfzd4AaABAg.AcTxm85NoG_AcXwC9K7bxb",
+              "text": "Unser Holt sich ein paar Brocken Futter kommt aufs Sofa und frisst es , das gleiche beim\nAbendbrot, ich habe ihm seine Schüssel neben uns gestellt, scheint ihm und uns zu gefallen ❤",
+              "author": "@Schnüttzky",
+              "likes": 1,
+              "published_at": "2026-10-29T07:03:42Z"
+            },
+            {
+              "comment_id": "UgzAZjmEfe2UR0Ywfzd4AaABAg.AcTxm85NoG_AcZ4uHD4IIm",
+              "text": "​@Schnüttzky     es ist zu schön zu sehen das unsere fellnasen im Mittelpunkt stehen😊..",
+              "author": "@RenateBerns-s9k",
+              "likes": 1,
+              "published_at": "2026-10-29T17:47:45Z"
+            },
+            {
+              "comment_id": "UgzAZjmEfe2UR0Ywfzd4AaABAg.AcTxm85NoG_AcZ5Jz1irUF",
+              "text": "​@sabine2703     ist es nicht herlich mit was man einen Hund glücklich machen kann.. Der beste Freund des  Menschen so ist es 🐕❤",
+              "author": "@RenateBerns-s9k",
+              "likes": 1,
+              "published_at": "2026-10-29T17:51:23Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzyoI0giwvHuaaFIVl4AaABAg",
+          "text": "Es geht ums lecken.Meine Tochter hatte schlimme Fechten im Gesicht nichts half,bis Odyn ihr Gesicht ableckte.Er lies nicht ab,am anderen Morgen sah sie schon besser aus.Es war heftig,blutig,nur meine Tochter war glücklich.Nach einer Woche wars weg.",
+          "author": "@KerstinSchraps",
+          "likes": 5,
+          "replies": 2,
+          "published_at": "2026-10-28T12:23:45Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzyoI0giwvHuaaFIVl4AaABAg.AcVw1RM1LljAciW4ASWvWW",
+              "text": "Ich habe mir meine Wunden immer von meinen Hunden  ablecken lassen. Hatte nie irgendwelche Probleme hinterher, eher heilten die Wunden besser. \nAuch leckt mein Hund mich heute  noch ab, wenn wir spazieren waren und ich verschwitzt bin. Damit nimmt er Mineralien und Salze auf, die er für sich braucht. \nViele Menschen,  die Hunde haben, verstehen ihre Tiere nicht und es führt in der Öffentlichkeit immer wieder zu Fehlverhalten mit den Tieren. Hunde sind die besseren \"Menschen\"",
+              "author": "@mathiasthamm6022",
+              "likes": 2,
+              "published_at": "2026-11-02T18:57:34Z"
+            },
+            {
+              "comment_id": "UgzyoI0giwvHuaaFIVl4AaABAg.AcVw1RM1LljAcfK85HsI7s",
+              "text": "Da habt ihr aber Glück gehabt. Lies dir mal spasseshalber durch, wieviele Bakterien im Hundespeichel vorhanden sind! Ja, er kann antibakteriell wirken, manchmal, in massen, aber es gibt einen Grund, warum Hunde nach OP`s einen Leckschutz tragen müssen; oder bei zu viel Ablecken Leckekzeme entstehen.",
+              "author": "@lohengrin9020",
+              "likes": 1,
+              "published_at": "2026-11-01T13:15:31Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugx2ZHDvSdQ3LmK3Dt54AaABAg",
+          "text": "Finde den Fehler: welche Details in all seinen Videos bleiben ständig unverändert? Das sagt KI zu Gert .. oder doch Gerd.: \"Syntheticperformer“. Das ist unser bisher stärkstes Indiz für einen künstlichen Darsteller.\"",
+          "author": "@manfredf-b1015",
+          "likes": 1,
+          "replies": 2,
+          "published_at": "2026-10-28T05:22:40Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugx2ZHDvSdQ3LmK3Dt54AaABAg.AcVAqILw0CbAcVNRFgcbVm",
+              "text": "Moin Manfred, \nsteht doch klar unter der Caption : \"Gerd Hallmann ist eine fiktive Erzählfigur, die Inhalte entstehen mit Unterstützung von KI.\". \nImmerhin sind sie Leute dabei ehrlich und die inhalte sind ja nicht grundsätzlich falsch.\nDa unser lieber Gerd momentan Youtube flutet, gehts halt um die Sache, um die es irgendwie immer geht: Kohle machen durch Buchverkauf.",
+              "author": "@lohengrin9020",
+              "likes": 0,
+              "published_at": "2026-10-28T07:12:42Z"
+            },
+            {
+              "comment_id": "Ugx2ZHDvSdQ3LmK3Dt54AaABAg.AcVAqILw0CbAcVRjk7NH4A",
+              "text": "​@lohengrin9020 Jap, habe mir mal die Erläuterungen angeschaut und es nun auch gelesen. Ich fand es aber auch witzig, selbst nach Hinweisen zu suchen. Als erstes fiel mir die stets gleiche Uhrzeit auf, und dann kam eines zum anderen, zum Beispiel die Hundehaare über der rechten Brust auf dem \"seit Wochen nicht gewechselten\" Sweatshirt. 😅",
+              "author": "@manfredf-b1015",
+              "likes": 0,
+              "published_at": "2026-10-28T07:50:19Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugzwe6Bhh01iIMzh1nl4AaABAg",
+          "text": "Diese Musik ist nicht schön, es stört!!!",
+          "author": "@gabikluge2245",
+          "likes": 5,
+          "replies": 1,
+          "published_at": "2026-10-27T17:55:07Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugzwe6Bhh01iIMzh1nl4AaABAg.AcTx9TtOYh5AcUSJ2ik3pj",
+              "text": "Der ganze KI-Mist ist nicht schoen und stoert. Da wird es den Nutzer der KI nicht weiter interessieren, was fuer Musik er noch dazu packt.",
+              "author": "@Nena-Lu",
+              "likes": 0,
+              "published_at": "2026-10-27T22:36:02Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugyt-P38JZtgdqjdvFJ4AaABAg",
+          "text": "Schön, dass es dich gibt!\n\nEs wäre allerdings schön, \nwenn Du zwischen Haltern, \ndie einen 8-5-Job haben und\n jenen, Haltern, die 24/7  mit\nIhrem Hund zusammen sind, \nUnterscheiden könntest!\n\nBin seit 18 Monaten mit einer Shiba-Inu Dame mittleren Alters zusammen...artenspezifische Tipps \nwären daher hilfreich!\n\nBeste Grüße",
+          "author": "@bennybenassi7036",
+          "likes": 1,
+          "replies": 1,
+          "published_at": "2026-10-27T17:45:02Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugyt-P38JZtgdqjdvFJ4AaABAg.AcTw-fV51OgAcUSAltSGqf",
+              "text": "Na, da wird sich die KI aber freuen ueber dieses Kompliment.",
+              "author": "@Nena-Lu",
+              "likes": 1,
+              "published_at": "2026-10-27T22:34:54Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugwbesg9OLlzDJRUrrd4AaABAg",
+          "text": "Ich finde es großartig , diesen Kanal gefunden zu haben, ich habe mein Leben lang immer einen guten Draht zu Hunden gehabt, schon als Kind oder auch als Jugendlicher konnte ich sogar Hunde streicheln und mich ihnen annähern, bei denen andere Leute gesagt haben man soll auf Abstand bleiben und sie nicht streicheln. Und hier erfahren zu können, was einen Hund bewegt und ihn besser verstehen zu lernen finde ich da einfach Großartig. Danke das Sie sich die Arbeit machen dieses Wissen mit uns zu teilen.",
+          "author": "@knorgdererste1357",
+          "likes": 23,
+          "replies": 0,
+          "published_at": "2026-10-28T06:59:46Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugxu1jSwoSymlcZEcdh4AaABAg",
+          "text": "Das ist alles KI und die geteilten Infos sollten erfahrenen Hundehalter bekannt sein, aber ich finde diese Videos für unerfahrene Hundebesitzer sehr hilfreich und sehr gut gemacht und hilfreich. Kurzweilig sowie sym- und emphatisch sind sie auch, also alles bestens. Es geht ja darum den besten Gefährten das beste Leben zu geben., daher vielen Dank.",
+          "author": "@ralfschlingensiepen6988",
+          "likes": 8,
+          "replies": 0,
+          "published_at": "2026-10-28T20:28:39Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwtJl9ZndEY9dHVRwB4AaABAg",
+          "text": "Wenn ich meinen Kumpel besuche, legt sich seine Hündin nach einer intensiven Begrüßung immer auf meine Schuhe. Ich kannte sie schon als Welpe. Sie ist eine Malinois Labrador Mix. Ich glaube sie hilft mir den Verlust meiner beiden Katzen ( sie waren 18 u. 19 geworden ) zu lindern. Ich liebe Katzen, aber auch Hunde. Hatte früher auch mal kurz Hunde in Pflege zb Boxer, Labrador und Britisch Bullterrier. Ein ruhiges, liebevolles und unaufgeregtes Verhalten gab immer viel Zuneigung, bei Katzen und bei Hunden, da sind sie alle gleich .",
+          "author": "@Thomas-yp9wt",
+          "likes": 7,
+          "replies": 0,
+          "published_at": "2026-10-27T20:55:37Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzDsSymeuVkI9-uVYh4AaABAg",
+          "text": "Wenn ich meine Freundin besuche,  setzt sich der Hund, nachdem er mir die Hände abgeschleckt hat , direkt au meine Füße,  als würde er sagen: \"du bleibst hier \" ...",
+          "author": "@rhealuna1319",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-10-28T11:42:21Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugy8DbYgn-s4W86gp314AaABAg",
+          "text": "im grunde genommen gut, bis auf die KI sache....ich kann es nicht mehr sehen :/",
+          "author": "@gregka1910",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-10-28T12:50:45Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxMTjW8amBMk61dd5d4AaABAg",
+          "text": "8:36 bei mir werden regelmäßig Kauknochen, Pansen und vorgestern war es eine getrocknete Scholle in meinem Bett verbuddelt und ich habe instinktiv gewusst, warum er das macht und habe ihn nie gemaßregelt.\nWenn wir zusammen auf dem Sofa sitzen, selbst da versucht er sogar die Leckerlis unter meinem Körper zu verstecken, das hat mir sein Vertrauen zu mir bewiesen.\n\nVielen Dank für die ganzen tollen Informationen über Hunde, es macht richtig Spaß hier zuzuhören.❤",
+          "author": "@malamila86",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-10-28T15:57:23Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwLdeyWqJhILaqOayl4AaABAg",
+          "text": "Es gibt kein richtiges Buch ?\nIch möchte nichts auf dem Handy oder PC.",
+          "author": "@Xorrontor",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-10-27T18:15:13Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwWVNTGhQFuiyCVtut4AaABAg",
+          "text": "Also mich darf auch keiner wecken, da bin ich \"not amused\"und bin grummelig! Deshalb dürfte mein Hund knurren, wenn er geweckt würde.",
+          "author": "@sallyhexe1156",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-10-28T13:50:38Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugzqe7f-fOJEMxKsh4x4AaABAg",
+          "text": "Alles, was ich in meinen Videos erkläre, steht ausführlich in meinem Buch „Der Hund, der 17 wird“, mit über hundert Proben für zu Hause: https://hallmannshundebuch.de/?v=kommentar\n\nSchreiben Sie mir: Wie alt ist Ihr Hund, und was ist Ihnen zuletzt an ihm aufgefallen?",
+          "author": "@HundeLesen",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-10-31T15:33:49Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugwo5tqHlGwFWT7nOTZ4AaABAg",
+          "text": "Ehrlich geschrieben, ich habe noch nie einen Hund geweckt 😂in der Regel läuft es andersrum",
+          "author": "@punkfrank2976",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-10-31T21:09:13Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxP1n1mJBJxhikC04l4AaABAg",
+          "text": "Ich habe mich nach der Arbeit auf dem nach Hause Weg mal im park auf eine Bank gesetzt. Kurze Zeit später kam eine Dame mit zwei Hunden vorbei, und einer der beiden Hunde, (eine Hündin) blieb stehen. Die Frau drehte sich um und sagte Entschuldigung wir stoppen hier normalerweise immer. Ich sagte, kein Problem, hier ist doch genug Platz für uns alle. Somit setzte sie sich zu mir. Die Hündin kam zu mir, und legte ihren Kopf auf mein Knie also streichelte ich sie. Die Frau sagte nur, das dies sehr komisch sei, weil die Hündin normalerweise keine Männer mag. Die Frau sagte das Ihr Mann fast vier Monate brauchte um ihn zu akzeptieren. Ich sagte ihr, das Hunde es spüren wenn jemand ihnen gegenüber eine Zuneigung hat. Ich liebe Hunde.",
+          "author": "@OlafLoof",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-03T18:06:54Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwffYAL8sgVyA_QRl14AaABAg",
+          "text": "❤",
+          "author": "@cynthiakern1972",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-10-28T07:43:04Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyVF2W6qu6fN5FDDcN4AaABAg",
+          "text": "Dies ist kein Kommentar zum aktuellen Video. Es ist eine Frage. In einigen Ihrer Videos wird davon gesprochen, was die Haltung der Rute bedeutet. Meinem Hund, ein Border Collie Mischling, ist seine Rute irgendwie in Rumänien abhanden gekommen. Es gibt nur einen ca. 7 cm kurzen, abgeknickten Rest. Ich würde gerne wissen, wie sich das auf seine Kommunikation und seine körperliche Koordination auswirkt.\nMit lieben Grüßen \nJUR",
+          "author": "@JUR-gw3",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-10-27T19:46:44Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "u20TuSgeEAw",
+      "title": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+      "channel_title": "Gerd Hallmann",
+      "level_code": "outlier",
+      "multiple": 2.3583,
+      "views": 96582,
+      "comment_count": 62,
+      "status": "ok",
+      "threads_read": 37,
+      "threads": [
+        {
+          "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg",
+          "text": "Also, ich habe nur bis 2:31 geschaut!!!\nWenn ein Hundehalter die Freude beim Wiedersehen nicht versteht und erwiedert ist er eindeutig nicht \"würdig\" einen treuen Begleiter um sich zu haben!\nIch schaue gar nicht weiter! Ich hoffe dass es keine solche Hundebesirzer gibt!\nAber eben das Wort drückt es ja schon aus, einen Hund besitzt mann nicht, einen guten Freund kann man nicht besitzen, er ist ein Geschenk und keine Wahre!",
+          "author": "@BrigittaMeier-x9m",
+          "likes": 8,
+          "replies": 6,
+          "published_at": "2026-10-31T20:22:41Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg.AcdWDqIZhlEAcfRtFySQR8",
+              "text": "Hättest mal weiter angeschaut, da wird erklärt das es sogar extrem wichtig ist den Hund zu begrüßen.",
+              "author": "@Toni_Perron",
+              "likes": 4,
+              "published_at": "2026-11-01T14:23:16Z"
+            },
+            {
+              "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg.AcdWDqIZhlEAcdhrvAzaq7",
+              "text": "keine Ware❤",
+              "author": "@doriswagner9208",
+              "likes": 1,
+              "published_at": "2026-10-31T22:13:09Z"
+            },
+            {
+              "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg.AcdWDqIZhlEAcmrK1KovXc",
+              "text": "​@boogaloo0302musst du auch nicht!!!😂",
+              "author": "@BrigittaMeier-x9m",
+              "likes": 1,
+              "published_at": "2026-11-04T11:28:56Z"
+            },
+            {
+              "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg.AcdWDqIZhlEAcnUGtG0KFJ",
+              "text": "Das Problem bei solchen Internet Tipps - egal ob KI oder nicht - ist, dass sie nicht den gesamten Kontext beleuchten....hier wird oft von einem \"StandardHund\" ausgegangen (ich entschuldige mich für diese Wortwahl und die Folgenden) und was ist mit z.B. Angsthunden? Aggressiven Hund en? Charakterstarken Hunde...?und (auch das wird hier vorraussgesetzt) StandardMenschen - bin ich eher ängstlich, gestresst, freudig oder oder.....also Allgemeine Infos wie Hunde ticken und wie Mensch sich gegenüber ihnen verhalten sollten ist ok, aber im Einzelfall ist entscheidend die Gesamtkonstellation zu betrachten",
+              "author": "@Lovethe90_s",
+              "likes": 1,
+              "published_at": "2026-11-04T17:18:02Z"
+            },
+            {
+              "comment_id": "UgxY2oaRkK2exAvVUkZ4AaABAg.AcdWDqIZhlEAchYOodCnTz",
+              "text": "Schade das du einfach abbrichst und denkst du weißt ja alles schon...",
+              "author": "@juttaohlandt4799",
+              "likes": 0,
+              "published_at": "2026-11-02T09:58:37Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyDZJ9IGtNZi_tmyyB4AaABAg",
+          "text": "\", und jetzt passen Sie auf\" - wie oft pro Video noch? \n\"merken Sie sich das\"",
+          "author": "@susanneweinzierl5047",
+          "likes": 1,
+          "replies": 4,
+          "published_at": "2026-10-31T22:05:12Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyDZJ9IGtNZi_tmyyB4AaABAg.AcdgxjQHbViAckWRJvgKJe",
+              "text": "KI eben, hab das auch erst nicht gerafft. Darum bin ich auch skeptisch(er) nun, bei den Tipps, denn manche Dinge wiedersprechen sich, in einem Video so, in einem so. Gesammeltes Wissen aus dem Internet, ach schade",
+              "author": "@JeanneMh",
+              "likes": 2,
+              "published_at": "2026-11-03T13:39:13Z"
+            },
+            {
+              "comment_id": "UgyDZJ9IGtNZi_tmyyB4AaABAg.AcdgxjQHbViAclmX2TZpeh",
+              "text": "einfach abschalten wenn Ihnen gegen den Strich geht …",
+              "author": "@boogaloo0302",
+              "likes": 1,
+              "published_at": "2026-11-04T01:27:47Z"
+            },
+            {
+              "comment_id": "UgyDZJ9IGtNZi_tmyyB4AaABAg.AcdgxjQHbViAclmjGbChD-",
+              "text": "@JeanneMhWas ist daran  schade wenn man gesammeltes Wissen per KI vermittelt bekommt?…Ich kann mir nichts Besseres vorstellen!",
+              "author": "@boogaloo0302",
+              "likes": 0,
+              "published_at": "2026-11-04T01:29:35Z"
+            },
+            {
+              "comment_id": "UgyDZJ9IGtNZi_tmyyB4AaABAg.AcdgxjQHbViAcnVtRf2huN",
+              "text": "​@boogaloo0302naja KI erleichtert mittlerweile so einiges an Informationsbeschaffung. Jedoch wird auch immer darauf hingewiesen Inhalte kritisch zu überprüfen, da nicht alles von KI gleich richtig zu setzen ist....wer sich nur auf KI verlässt ohne andere Quellen zu prüfen/ checken oder zu Fachliteratur zu greifen kann auch schnell einem KI - Irrtum erliegen🤷🏻",
+              "author": "@Lovethe90_s",
+              "likes": 0,
+              "published_at": "2026-11-04T17:32:10Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugz31nrCZS3a6p5Zqnd4AaABAg",
+          "text": "Das Buch kostet nicht 24.99 sondern 29.99 statt angenlich 39.99😊 der Betreiber scheint noch in der Preisfindungsphase zu sein.",
+          "author": "@snirwana8579",
+          "likes": 1,
+          "replies": 3,
+          "published_at": "2026-11-01T06:27:41Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugz31nrCZS3a6p5Zqnd4AaABAg.AceaT2G3s4jAcfN9VhCETn",
+              "text": "Das Buch würde ich kaufen zu dem Preis, nicht aber die PDF.",
+              "author": "@Tiridong1",
+              "likes": 0,
+              "published_at": "2026-11-01T13:41:56Z"
+            },
+            {
+              "comment_id": "Ugz31nrCZS3a6p5Zqnd4AaABAg.AceaT2G3s4jAclnKhs_8j_",
+              "text": "Den Preis bestimmt immer der Kâufer! …",
+              "author": "@boogaloo0302",
+              "likes": 0,
+              "published_at": "2026-11-04T01:34:50Z"
+            },
+            {
+              "comment_id": "Ugz31nrCZS3a6p5Zqnd4AaABAg.AceaT2G3s4jAcmHFuC_7zK",
+              "text": "​@boogaloo0302ja und? Kann er doch machen wie er will. Ich habe nur gesagt, dass ich keine PDF zu dem Preis kaufen würde. Das lege ich für mich auch fest.🤷‍♀️",
+              "author": "@Tiridong1",
+              "likes": 0,
+              "published_at": "2026-11-04T06:05:04Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxybJLnLKqJqDzQu4F4AaABAg",
+          "text": "Meine Hündin sitzt oft da und sieht mich mit weichen Augen an. Wenn ich auch weich zurück schaue, sieht sie gleich weg. Wenn ich wegsehe, schaut sie mich wieder an, sobald ich hin sehe, schaut sie wieder weg usw. Was will sie mir damit sagen?\nManches Mal fixiert sie mich auch mit ihrem weichen Blick, bis ich wegsehe, wenn ich wieder hin sehe, fixiert sie mich immer noch 🤔\nVielen Dank für Ihre sehr aufschlussreichen Videos!",
+          "author": "@salathummel",
+          "likes": 12,
+          "replies": 2,
+          "published_at": "2026-11-01T09:25:47Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxybJLnLKqJqDzQu4F4AaABAg.AceuqOf6kI5Acpj-xViYsc",
+              "text": "Zwinker ihr doch mal zu, mit einem Auge, bis sie es nachmacht😊 und dann loben: \"fein\"",
+              "author": "@Retri-Larry",
+              "likes": 1,
+              "published_at": "2026-11-05T14:14:00Z"
+            },
+            {
+              "comment_id": "UgxybJLnLKqJqDzQu4F4AaABAg.AceuqOf6kI5Acpnf_Gzn_A",
+              "text": "Hab ich auch schon gemacht und sie fängt wirklich auch zu zwinkern an 🤣 so süß...",
+              "author": "@salathummel",
+              "likes": 1,
+              "published_at": "2026-11-05T14:54:47Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugyx76Mldup8G1E9BVV4AaABAg",
+          "text": "Super sympathisch, zum weg schmelzen. Leider nicht echt. Nur k.I. Schade Gerd Hallmann , wer bist du wirklich?",
+          "author": "@haraldweis8300",
+          "likes": 9,
+          "replies": 2,
+          "published_at": "2026-10-31T17:41:52Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugyx76Mldup8G1E9BVV4AaABAg.AcdDow-FxXEAcllrE5CW55",
+              "text": "KI oder nicht…wo ist der Unterschied? Es ist alles richtig und übermittelt viel Zuneigung zum Hund…",
+              "author": "@boogaloo0302",
+              "likes": 0,
+              "published_at": "2026-11-04T01:21:56Z"
+            },
+            {
+              "comment_id": "Ugyx76Mldup8G1E9BVV4AaABAg.AcdDow-FxXEAcpsjoJ62Jw",
+              "text": "​@boogaloo0302\nBitte? \nWo der Unterschied ist? \nAU-BACKE!",
+              "author": "@sallyhexe1156",
+              "likes": 0,
+              "published_at": "2026-11-05T15:39:03Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyQwgMqVpbhofD_6Ph4AaABAg",
+          "text": "Ich habe Ihr Buch bestellt! Vielen Dank.😀👍🐶🐕",
+          "author": "@markusstork7236",
+          "likes": 2,
+          "replies": 2,
+          "published_at": "2026-11-04T14:38:04Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyQwgMqVpbhofD_6Ph4AaABAg.AcnByGwDuElAcpsZH772ZF",
+              "text": "Sie wissen, daß diese Person \nKI - generiert ist?\nDen Mann, den sie hier sehen,\n gibt es real nicht.",
+              "author": "@sallyhexe1156",
+              "likes": 0,
+              "published_at": "2026-11-05T15:37:28Z"
+            },
+            {
+              "comment_id": "UgyQwgMqVpbhofD_6Ph4AaABAg.AcnByGwDuElAcwH6AYFXkg",
+              "text": "​@sallyhexe1156❤",
+              "author": "@keindressierterhund",
+              "likes": 0,
+              "published_at": "2026-11-08T03:16:08Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxjF02kRzApMmch4kp4AaABAg",
+          "text": "Extrem wertvolle Tips wunderbar erklärt❤\nDanke herzlich🙏🙏",
+          "author": "@doriswagner9208",
+          "likes": 21,
+          "replies": 1,
+          "published_at": "2026-10-31T22:11:31Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxjF02kRzApMmch4kp4AaABAg.Acdhg-ya9NWAcepOfAvdbO",
+              "text": "Ja, ist die KI nicht wunderbar?",
+              "author": "@svenlandshut5413",
+              "likes": 1,
+              "published_at": "2026-11-01T08:38:10Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyGxwGCfMH4P-dXiY14AaABAg",
+          "text": "Ich hab noch keinen Hund, alles ist aber sehr gut erklärt. Mal sehen was kommt. Ich fühle mich gut vorbereitet.❤",
+          "author": "@SusanneBothor-t4k3i",
+          "likes": 8,
+          "replies": 1,
+          "published_at": "2026-11-01T13:34:31Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyGxwGCfMH4P-dXiY14AaABAg.AcfMJFMy5ajAclX_t7-ant",
+              "text": "Ich wünsche Dir viele tolle Jahre mit Deinem baldigen Hund 🐕 ❤",
+              "author": "@MelanieRosenthal",
+              "likes": 1,
+              "published_at": "2026-11-03T23:08:30Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgytMjAp4m6EKCh0AFR4AaABAg",
+          "text": "Das beste für ein Tier, dessen Herrchen einen 8 Std.-Sklaven-Job hat, ist ein Besitzerwechsel.\n\nWas für eine Tierquälerei!!!",
+          "author": "@bennybenassi7036",
+          "likes": 4,
+          "replies": 1,
+          "published_at": "2026-10-31T18:31:22Z",
+          "top_replies": [
+            {
+              "comment_id": "UgytMjAp4m6EKCh0AFR4AaABAg.AcdJUYZe5YIAcwi1lMvYF2",
+              "text": "😆😂🤣",
+              "author": "@sallyhexe1156",
+              "likes": 0,
+              "published_at": "2026-11-08T07:20:12Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugy9pwxgtkY0ysnLgod4AaABAg",
+          "text": "Wäre viel glaubwürdiger, wenn da ein Mensch wäre. Meine Güte es ist echt nicht so,schwer, sich vor eine Kamera zu setzen und was zu erzählen.",
+          "author": "@FynjaLabradorWelpe",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-11-01T21:59:50Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy9pwxgtkY0ysnLgod4AaABAg.AcgG8EKQ0ZvAcl8zdhKHGW",
+              "text": "„Dein Hund hat dich längst durchschaut! 😂🐶❤“",
+              "author": "@MindfuHaustiereTierpsychologie",
+              "likes": 0,
+              "published_at": "2026-11-03T19:33:33Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyeJWveMqn-1Zt2RG14AaABAg",
+          "text": "Achtung: KI-Slob\nKanal Herkunft: \tZypern\n\tAm 10.10.2026 beigetreten",
+          "author": "@Ruther1988",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-01T13:41:13Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyeJWveMqn-1Zt2RG14AaABAg.AcfN4F1gDA_Acln-ZdNVJD",
+              "text": "Achtung?? …weil KI?? Versteh die Warnung nicht!",
+              "author": "@boogaloo0302",
+              "likes": 0,
+              "published_at": "2026-11-04T01:31:57Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgztK1GT0LYFl59iUGl4AaABAg",
+          "text": "Ein wunderbarer Beitrag - auch wenn ich KI-Videos eigentlich überhaupt nicht mag. Doch hier wird wenigstens was gscheites gezeigt",
+          "author": "@katja7316",
+          "likes": 31,
+          "replies": 0,
+          "published_at": "2026-11-01T09:28:33Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugyru_R2LIV6SvUQzaV4AaABAg",
+          "text": "Die besten KI Videos, die ich bis jetzt sehen durfte",
+          "author": "@MelanieRosenthal",
+          "likes": 17,
+          "replies": 0,
+          "published_at": "2026-11-01T20:08:05Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugwk9R0ZBqJijf8T_P14AaABAg",
+          "text": "Vielen Dank, alles sehr einleuchtend. Unsere Begrüßung ist immer egal ob draußen oder drinnen ein Volksfest. Abschnüffeln, Nase stupsen, Ohren kraulen und im Kreis laufen. Manchmal bleibt sogar das Auto auf der Straße stehen und andere müssen warten bis wir fertig sind😅 besonders gerne mag er morgens und abends wenn wir vor ihm sitzen und et darf seinen Kopf zwischen die Knie legen. Dann breite ich seine Ohren links und rechts über meine  Oberschenkel (und er ist ein Königspudel mit langen Ohren) und dann werden Hals und Nacken und Schultern gekrault. Einfach himmlisch! ❤",
+          "author": "@BrigitteTausch-rz1zp",
+          "likes": 14,
+          "replies": 0,
+          "published_at": "2026-11-02T13:12:28Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugxo0Ck0_GfQVWR3Aip4AaABAg",
+          "text": "Ein aufschlussreicher Vortrag. Ich sehe die Vidios gerne. Habe ein Labrator und stelle fest, dass ich vieles richtig mache. Dan🐕🦮ke",
+          "author": "@gabikluge2245",
+          "likes": 14,
+          "replies": 0,
+          "published_at": "2026-10-31T18:25:39Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyyToveDpFgZeOpkpl4AaABAg",
+          "text": "Vorzüglich Erklärt... wie immer\n😉👍🙏❣️🥇",
+          "author": "@christianproprentner454",
+          "likes": 8,
+          "replies": 0,
+          "published_at": "2026-11-01T11:28:55Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugw9AMQpLfRDX8Kx6Zl4AaABAg",
+          "text": "Ich bin Tierarzt, 75 Jahre alt und von Geburt an von Hunden, teilweise Schäferhunde umgeben. Derzeit haben wir eine altdeutsche Schäferhündin mit 7 Jahren. Ihr YouTube Video betreffend Schäferhunde war mit Abstand das Beste was ich bezüglich Schäferhunde in meinem Leben gesehen und gehört habe. Mache Sie weiter so - die Hunde brauchen Sie dringend!\nHochachtungsvoll \nDr. Reßler Gerhard\nDr. Reßler Gerhard",
+          "author": "@gerhardreler7276",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-11-07T07:35:13Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzphCi_Eab8aOnx3i14AaABAg",
+          "text": "Danke schön ❤",
+          "author": "@barbaraehrmanntraut6971",
+          "likes": 6,
+          "replies": 0,
+          "published_at": "2026-10-31T17:13:26Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxKmcOlRZ9C0MHAuyB4AaABAg",
+          "text": "Danke ganz herzlich für dieses erwärmende Video. ❤",
+          "author": "@beatriceschlup6685",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-07T07:41:02Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugwb-C7WnpIrN-8fxYd4AaABAg",
+          "text": "Wieder sehr gut bei wichtigen Themen erklärt!!❤❤",
+          "author": "@BrigitteFischer-b1i",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-11-01T00:50:30Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "a1uCNsI3faI",
+      "title": "ClashGames macht KLOPF KLOPF TANZ! 😂 #shorts",
+      "channel_title": "ClashGames",
+      "level_code": "outlier",
+      "multiple": 3.3531,
+      "views": 50059,
+      "comment_count": 72,
+      "status": "ok",
+      "threads_read": 58,
+      "threads": [
+        {
+          "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg",
+          "text": "Endlich jemand ohne ki 😂",
+          "author": "@d.o.7938",
+          "likes": 12,
+          "replies": 6,
+          "published_at": "2026-11-09T15:56:20Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg.Ad-CtyLXIDGAd-PO96JqYL",
+              "text": "Ich meine damit das Lukas und so mit ki gemacht hat",
+              "author": "@d.o.7938",
+              "likes": 3,
+              "published_at": "2026-11-09T17:45:27Z"
+            },
+            {
+              "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg.Ad-CtyLXIDGAd-RSaM4iV5",
+              "text": "​@d.o.7938was heist ki meinst du mit fak gearbeitet oder so ??😊",
+              "author": "@Walila1981",
+              "likes": 3,
+              "published_at": "2026-11-09T18:03:32Z"
+            },
+            {
+              "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg.Ad-CtyLXIDGAd-RjJwiKng",
+              "text": "@Walila1981ja genau",
+              "author": "@d.o.7938",
+              "likes": 3,
+              "published_at": "2026-11-09T18:05:58Z"
+            },
+            {
+              "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg.Ad-CtyLXIDGAd-XqyLLqpS",
+              "text": "​@d.o.7938ja hab ich doch irgenwie im kopf gehabt 😅❤",
+              "author": "@Walila1981",
+              "likes": 2,
+              "published_at": "2026-11-09T18:59:26Z"
+            },
+            {
+              "comment_id": "UgyZx1_JXqVqb0tQcuJ4AaABAg.Ad-CtyLXIDGAd-NTrbbJqQ",
+              "text": "Jaa🎉🎉 endlich",
+              "author": "@Itzz_Perla",
+              "likes": 0,
+              "published_at": "2026-11-09T17:28:46Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxCqPDvHvfv-9BQvld4AaABAg",
+          "text": "Erstes vidio mit klopf klopf ohne KI🎉",
+          "author": "@Izz.elie.Roblox",
+          "likes": 1,
+          "replies": 2,
+          "published_at": "2026-11-09T15:15:35Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxCqPDvHvfv-9BQvld4AaABAg.Ad-8EPdyv-DAd-ChFc96lx",
+              "text": "Ja ist so 😂",
+              "author": "@mariobetz4952",
+              "likes": 0,
+              "published_at": "2026-11-09T15:54:36Z"
+            },
+            {
+              "comment_id": "UgxCqPDvHvfv-9BQvld4AaABAg.Ad-8EPdyv-DAd-DL7M41qW",
+              "text": "Video",
+              "author": "@big45678",
+              "likes": 0,
+              "published_at": "2026-11-09T16:00:11Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzhItTYLpvUz41TJNN4AaABAg",
+          "text": "Bro Kevin Klopf Klopf es klopft an den Like Butten❤",
+          "author": "@Emil_Boy",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-11-09T14:42:57Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzhItTYLpvUz41TJNN4AaABAg.Ad-4VO9AYtPAd-KqHUVKud",
+              "text": "6767❤❤❤❤❤😂😂😂😂😂😅😅😅",
+              "author": "@DilcanAbdalla",
+              "likes": 0,
+              "published_at": "2026-11-09T17:05:45Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxuZ-29102J7TtHzjl4AaABAg",
+          "text": "",
+          "author": "@abcissodumb",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-11-09T16:15:23Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxuZ-29102J7TtHzjl4AaABAg.Ad-F4LDnRjKAd-bSY1M5Nj",
+              "text": "Aura😮❤",
+              "author": "@BetülKinik-p7j",
+              "likes": 1,
+              "published_at": "2026-11-09T19:39:39Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugwx5G_7WktyqfafIu54AaABAg",
+          "text": "😂😂😂😂",
+          "author": "@sorinteodorescu6113",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-09T15:02:11Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzVQlnIIaXKjyFFwK94AaABAg",
+          "text": "Maybrrit ist toll",
+          "author": "@jessidemski4288",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-11-09T14:42:42Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxyrArPbAS8IKrfagJ4AaABAg",
+          "text": "Kevin du hast das gut gemacht und hör nicht auf hater 😢❤😊",
+          "author": "@mandarin597",
+          "likes": 3,
+          "replies": 0,
+          "published_at": "2026-11-09T14:32:33Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgygsGxT8u2V9IxrOhV4AaABAg",
+          "text": "Deine Version ist die beste !!!",
+          "author": "@momandson8215",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T16:49:53Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwBAQtT1HKZFZ7gfFR4AaABAg",
+          "text": "Klopf klopf das ist Kevin❤😂",
+          "author": "@AnikaSchneidewindt",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T14:35:46Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugz3sK7klKya0i6KAPp4AaABAg",
+          "text": "Dein Gesicht 😂 (bin kein hater😅❤)",
+          "author": "@Shelly2_Hi",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T14:34:47Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyR3QFGzoE90zhne414AaABAg",
+          "text": "Klopf klopf 😅du bist so cool",
+          "author": "@Fischi-FORNITE",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T14:32:14Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugz8HRrxP26wE-ikZY14AaABAg",
+          "text": "KEVIN wo ist maybrit",
+          "author": "@snezanakaplar3565",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T18:19:16Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzL06OPdsBon6Iqec94AaABAg",
+          "text": "Tagesschau 😅",
+          "author": "@christophermull4462",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T15:23:29Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzfRAJ5YH1rjclAQLt4AaABAg",
+          "text": "Erster",
+          "author": "@Soroush-z8o",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-09T14:22:49Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwTN2gQNWE-K-HfqqB4AaABAg",
+          "text": "Wie randem hahaha😂",
+          "author": "@Maria-8m-9rz",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T20:06:36Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwJGUsIxkUS73-qf1t4AaABAg",
+          "text": "Ja, klopf klopf klopf es klopft an der Tür weg. Geht mir um 9:00 Uhr abends auf den Sack das ist Carina, meine Freundin, die Mimi mira 😊😂!Das ist voll witzig 😂",
+          "author": "@Rockergames.1",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T16:55:16Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyXoReHIGWeRwc7rLx4AaABAg",
+          "text": "Endlich kein KI",
+          "author": "@marwanasri5478",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T15:41:32Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxmDbmTVWHJYUsjGVB4AaABAg",
+          "text": "Ohnmacht weiter mit Videos Lego Fan von dir ich mache deine Videos",
+          "author": "@JenniferMennekes",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T14:25:53Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugzhq6oi2I7Y_jdy7W94AaABAg",
+          "text": "Kevin du bist der beste auf der Welt maybit ist au die beste auf welt",
+          "author": "@TamaraBrennene",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T14:48:56Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugy-Mpu0tZPt_Fudp9N4AaABAg",
+          "text": "🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣",
+          "author": "@kevinhasanaj6869",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-09T17:40:44Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "ioSyNM8KiuE",
+      "title": "Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳",
+      "channel_title": "TierWow",
+      "level_code": "outlier",
+      "multiple": 3.1138,
+      "views": 19381,
+      "comment_count": 35,
+      "status": "ok",
+      "threads_read": 31,
+      "threads": [
+        {
+          "comment_id": "UgzCfMQaIMbB766KTRJ4AaABAg",
+          "text": "Ich lebte mit Bullis 12 Jahre zusammen als meine Eltern noch lebten , das stimmt alles zu 100%.\nWollte mir einen Mini zulegen , bin aber (noch) von dem Vorhaben abgegangen weil ich 8 Stunden nicht im Haus bin und der kleine zulange allein wär.🥹🥹🥹❤️",
+          "author": "@alfredomartines7223",
+          "likes": 2,
+          "replies": 3,
+          "published_at": "2026-11-06T11:54:49Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzCfMQaIMbB766KTRJ4AaABAg.Acs2sNL76HjAct-gJU7eEC",
+              "text": "Man kann einen Hund nicht 8 Stunden allein lassen. Wenn du ihn nicht mit zur Arbeit nehmen darfst, ist es einfach eine scheiß Arbeit. Such dir was passendes und nehme den Hund mit zur Arbeit",
+              "author": "@Superfisch-z7e",
+              "likes": 1,
+              "published_at": "2026-11-06T20:46:12Z"
+            },
+            {
+              "comment_id": "UgzCfMQaIMbB766KTRJ4AaABAg.Acs2sNL76HjAczS0gO-Ljv",
+              "text": "War Kraftfahrer Fernfahrer meiner war mein bester Freund immer dabei  😅😅😅😅",
+              "author": "@ThomasRobertKurz",
+              "likes": 1,
+              "published_at": "2026-11-09T08:49:14Z"
+            },
+            {
+              "comment_id": "UgzCfMQaIMbB766KTRJ4AaABAg.Acs2sNL76HjAct2ibNK7Uk",
+              "text": "​@Superfisch-z7egenau , deshalb hab ich mir auch keinen geholt !👍🏻",
+              "author": "@alfredomartines7223",
+              "likes": 0,
+              "published_at": "2026-11-06T21:12:43Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwtdrQO77J1upNbIxR4AaABAg",
+          "text": "❤ man kann mit jedem Hund zusammenleben 👍 ...aber definitiv nicht mit jedem Menschen ....",
+          "author": "@AndreasGotze-hk4vs",
+          "likes": 8,
+          "replies": 1,
+          "published_at": "2026-11-06T05:54:05Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwtdrQO77J1upNbIxR4AaABAg.AcrPaEMVULhAcrc-VCGeaS",
+              "text": "Da haben sie vollkommen Recht. 😎👍🐶",
+              "author": "@mjp1964",
+              "likes": 3,
+              "published_at": "2026-11-06T07:51:15Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxDXF3Cq7rrxCwDYGp4AaABAg",
+          "text": "Ja, auf jeden Fall, immer und mit Leidenschaft❤",
+          "author": "@ralleauswuppertal6352",
+          "likes": 9,
+          "replies": 0,
+          "published_at": "2026-11-04T17:20:57Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugz8LtgGLTxVX8f5m3B4AaABAg",
+          "text": "Ja auf jeden Fall",
+          "author": "@krimhildschmidt1531",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-05T22:29:34Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwJGcxygNo0MIry3054AaABAg",
+          "text": "Kann ich bestätigen, habe selber einen und einen mini.❤",
+          "author": "@dorotheekoppen2056",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-04T21:30:59Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyKlomozzbZ3QtnDKp4AaABAg",
+          "text": "Bullterrier sind die liebevollsten Hunde überhaupt ! Meiner wurde leider nur 11 Jahre",
+          "author": "@Uwe-k3q",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-05T09:43:37Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugz6_v-O7pkzA13bxZx4AaABAg",
+          "text": "Absolut ja. Ich hatte ein.",
+          "author": "@alikocer9999",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-11-05T15:50:57Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxYN8IzA8iiRbYmNPJ4AaABAg",
+          "text": "Ja klar hatte früher selber einen",
+          "author": "@AlexKuhn-w4m",
+          "likes": 4,
+          "replies": 0,
+          "published_at": "2026-11-04T17:25:42Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugx0mJmR4dMbe398hJt4AaABAg",
+          "text": "Ja❤❤❤❤",
+          "author": "@JanSahre",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-06T08:41:43Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwmrfDgI6vtNlQ21-94AaABAg",
+          "text": "Ja ❤",
+          "author": "@marinaneun3395",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-06T13:23:35Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "Ugzkv_PAYtuKD9s2Bv14AaABAg",
+          "text": ".Der Bulli ist einfach nur Total Lieb..hab 2 von der  Sorte ...",
+          "author": "@WolfgangPeis",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-06T12:00:12Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxJOMIxCTJMW9qZRth4AaABAg",
+          "text": "JA UNBEDUNGT",
+          "author": "@MarkusEdenhauser",
+          "likes": 2,
+          "replies": 0,
+          "published_at": "2026-11-04T12:34:02Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwOMumJh_ucWfKIaYx4AaABAg",
+          "text": "❣️",
+          "author": "@halloallezusammen5151",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-06T04:12:41Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzXojfPYyIbxYns9lN4AaABAg",
+          "text": "Tolle rasse",
+          "author": "@Francesco-y8y",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-06T04:29:13Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzCoaKT4bvXDA_GkCB4AaABAg",
+          "text": "Natürlich !!!!",
+          "author": "@saschakohler9680",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-04T20:12:54Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgzwBYlQZyHIOz2UHu94AaABAg",
+          "text": "Ja",
+          "author": "@AnnalenaWeber-j8n",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-05T05:44:31Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwzwUGBgsjZL62HcxR4AaABAg",
+          "text": "JA",
+          "author": "@Name-n5g9b",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-05T13:00:18Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwbRBcUfY3hjTwfnwd4AaABAg",
+          "text": "Ja",
+          "author": "@JD-md3tp",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-06T07:51:32Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgxX1Pm5QfYrOn3pvNx4AaABAg",
+          "text": "Ja❤",
+          "author": "@sebastianheller8039",
+          "likes": 1,
+          "replies": 0,
+          "published_at": "2026-11-06T19:01:45Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgwAWBn2K7FWcusOI0B4AaABAg",
+          "text": "Immer wieder ein Bulli ,der liebste Hund der Welt. Aufgeregt  war er ,viele Menschen haben ihn nicht,verstanden. Musste mir Anfeindungen gefallen lassen .Ja ich kann und habe immer andere  Leute überzeugen können.  Ja ich konnte, ich kann.❤",
+          "author": "@sabineschafer9763",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-09T19:44:52Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "1oO-OlqZVAs",
+      "title": "99 Prozent aller Probleme mit deinem Hund sind ein einziges Problem",
+      "channel_title": "Die Weisheit der Pfoten",
+      "level_code": "outlier",
+      "multiple": 3.2258,
+      "views": 10325,
+      "comment_count": 31,
+      "status": "ok",
+      "threads_read": 16,
+      "threads": [
+        {
+          "comment_id": "UgzxHyATtgfIlJHy1G54AaABAg",
+          "text": "Meine Impulskontrolle muss ich noch lernen, wenn ich nach Hause komme.  Nachdem ich meine Sachen abgestellt habe, gehe ich mit Maddy in den Garten zum Spielen. Wenn ich nicht schnell genug die Terassentüre aufmache, bellt sie mich aufgeregt an. Da muss ich noch an mir üben 😁",
+          "author": "@SabineSchäfer-v5l",
+          "likes": 1,
+          "replies": 2,
+          "published_at": "2026-11-07T19:48:59Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzxHyATtgfIlJHy1G54AaABAg.AcvTw6RlJcMAcxOSfAeg1J",
+              "text": "Liebe Sabine,\nMaddy hat da ja ein richtig gutes System entwickelt. 😁 Sie bestellt, und du lieferst. Mit dem Üben an dir liegst du also völlig richtig, denn hinter dieser Tür wartet ja das Spielen mit dir, und das ist für sie vermutlich der Hauptgewinn des Tages. Geht die auf, während Maddy bellt, hat sich das Bellen gerade so richtig gelohnt. Gandhi hat unseren Jürgen ja auch trainiert und nicht umgekehrt.\n\nMach es an der Terrassentür mal ganz genau so wie im Video an der Haustür. Die Hand geht weg vom Griff, und dann wartest du, ohne sie anzuschauen. Kein Blick und kein Wort, denn ein Blick ist für sie ja auch schon eine Antwort. Irgendwann wird sie still und schaut dich an, das tun sie alle. In dieser Sekunde geht die Tür auf und es kann losgehen. Am Anfang wird sie sich echt wundern und es wahrscheinlich erst mal lauter versuchen, schließlich hat es bisher immer geklappt. Da musst du dann einfach durch, Q hat am Napf ja auch gefühlte dreihundert Anläufe gebraucht. Und wenn du kannst, fang zu einer Zeit an, in der du gar nicht gerade heimgekommen bist. Das Nachhausekommen ist für sie nämlich die Abschlussprüfung.\n\nFalls die Hand trotzdem schneller ist als dein Vorsatz, zähl bis drei, bevor du zum Griff gehst. Im Stillen zählen kannst du ja inzwischen richtig gut. 😉\n\nViel Spaß euch beiden im Garten\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 2,
+              "published_at": "2026-11-08T13:39:37Z"
+            },
+            {
+              "comment_id": "UgzxHyATtgfIlJHy1G54AaABAg.AcvTw6RlJcMAcxQJwRC_P-",
+              "text": "​@DieWeisheitderPfoten\nHabe es heute nach dem Spaziergang schon ausprobiert.  War irgendwie gespenstisch, wie schnell sie ruhig wurde. 😂",
+              "author": "@SabineSchäfer-v5l",
+              "likes": 0,
+              "published_at": "2026-11-08T13:55:54Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwUR7KHIQyVfPNbhsd4AaABAg",
+          "text": "Wir begegnen \"Jürgen\" sehr oft bei unseren Spaziergängen. Die Leute, die Leckerchen verteilen werden angebellt (zum Glück nicht angesprungen), damit es schneller geht und natürlich gibt es dann immer wieder etwas. \nBei mir weiß er, daß das so nicht funktioniert.",
+          "author": "@jumanji965",
+          "likes": 1,
+          "replies": 2,
+          "published_at": "2026-11-07T20:00:29Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwUR7KHIQyVfPNbhsd4AaABAg.AcvVFKwPsODAcxOOtdOOFJ",
+              "text": "Die Jürgens sind wirklich überall unterwegs, und meistens haben sie die Jackentaschen voll. 😄\n\nDein Hund hat dabei offenbar sehr genau gelernt, wo sich Bellen lohnt und wo nicht. Bei dir bringt es nichts, also lässt er es, und bei den anderen gibt es jedes Mal etwas. Vergessen hat er da draußen also gar nichts, für ihn gilt dort einfach eine andere Regel. Das haben die Wiener Forscher ja gemessen, von denen ich im Video erzähle. Impulskontrolle ist beim Hund eine Situation und keine Eigenschaft. Q wartet am Napf wie ein Perfektionist und bellt zwei Meter weiter an der Küchentheke, und so ist das bei euch halt auch, nur mit mehr Publikum.\n\nDie Leute selbst merken davon natürlich nichts. Die glauben, sie verwöhnen deinen Hund, dabei hat er sie längst trainiert, so wie Gandhi unseren Jürgen. Ganz wegbekommen wirst du das nur, wenn die mitmachen, das habe ich ja selbst schmerzhaft gelernt. Was du tun kannst, ist, ihnen die Entscheidung abzunehmen, bevor die Hand in der Tasche verschwindet. Also kurz sagen, dass es gern etwas gibt, aber erst für den Hund, der still ist. Manche machen das sicher gern mit, und bei den anderen ist die Hand eben schneller als der Vorsatz.\n\nIch tippe ja darauf, dass das dein sozialsüchtiger Pazifist ist. Zutrauen würde ich es ihm jedenfalls. 😉\n\nLiebe Grüße\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 1,
+              "published_at": "2026-11-08T13:39:06Z"
+            },
+            {
+              "comment_id": "UgwUR7KHIQyVfPNbhsd4AaABAg.AcvVFKwPsODAcxSYN4GxJJ",
+              "text": "​@DieWeisheitderPfoten Ja, es ist mein sozialsüchtiger Pazifist. Und da ich genau weiß, wie lange es dauert, bis die Belohnung bei ihm gelöscht ist, lasse ich es laufen. \nZuhause hatten wir auch das Problem 1x!!! hat eine Bekannte ihm etwas, während wir gegessen haben, gegeben. Es hat fast 2 Jahre gedauert, bis die Konzerte am Tisch, wenn Besuch kam, aufgehört haben. Wenn ich allein bin und esse ist er ruhig.",
+              "author": "@jumanji965",
+              "likes": 0,
+              "published_at": "2026-11-08T14:15:21Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzfIAH3Q7Iiq1ZbCJR4AaABAg",
+          "text": "Tolles video, wie immer❤\n30j Hunde und lerne, lerne, lerne😊",
+          "author": "@mareengruenemund8739",
+          "likes": 8,
+          "replies": 1,
+          "published_at": "2026-11-07T13:17:42Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzfIAH3Q7Iiq1ZbCJR4AaABAg.Acum9K5hYVKAcutrwugR_t",
+              "text": "Liebe Mareen,\ndreißig Jahre und immer noch neugierig, das ist die beste Haltung, die man einem Hund mitbringen kann. Mir geht es ja nicht anders. Q zeigt mir gerade an der Küchentheke, dass ich mit dem Thema auch noch lange nicht durch bin. Ich glaube, das ist einer der Gründe, warum uns Hunde so gut tun. Mit ihnen wird man einfach nie fertig.\n\nLiebe Grüße, auch an Pelle und Paulina\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 4,
+              "published_at": "2026-11-07T14:25:06Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwPEVGO2XgqNXy_Jjd4AaABAg",
+          "text": "Hallo Andreas, ich bin schneller als mein Vorsatz wenn ich im Zeitstress bin. Also wenn es schnell gehen soll und ich mir selbst nicht die Ruhe nehme. Übrigens liebe ich den Newsletter, da kann ich mir in Ruhe nochmal alles durchlesen und kann die Übungen strukturiert angehen. Vielen Dank dafür \nPetra",
+          "author": "@petra2956",
+          "likes": 7,
+          "replies": 1,
+          "published_at": "2026-11-07T13:38:45Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwPEVGO2XgqNXy_Jjd4AaABAg.AcuoZTAGe_LAcutQ3ztA-N",
+              "text": "Liebe Petra,\nZeitstress ist wirklich der Klassiker, und ich nehme mich da überhaupt nicht aus. Im Video erzähle ich ja vom kalten und vom heißen Zustand. Am Küchentisch nimmt man sich fest vor, beim nächsten Mal in Ruhe zu warten, und dann rennt morgens die Zeit, das Telefon klingelt, und die Hand ist schon am Karabiner, bevor der Hund überhaupt sitzt. In dem Moment hat der Plan vom Küchentisch halt keine Chance mehr.\n\nTröstlich finde ich dabei, dass die Pause kaum Zeit kostet. Ein Hund, der kurz sitzt und dich anschaut, bevor die Leine klickt, braucht dafür drei Sekunden. Der Hund, der zappelt, weil du hektisch bist, braucht locker dreißig, und danach seid ihr beide schon auf hundertachtzig, bevor ihr überhaupt draußen seid. Mein Vorschlag wäre deshalb, dir die eilige Situation ganz bewusst zur Übung zu machen. Du merkst, dass es schnell gehen soll, und dann zählst du einmal langsam bis drei, bevor du irgendetwas tust. Das ist die Übung für uns Menschen vom Ende der Folge, und in der Eile ist sie am wertvollsten, weil dein Hund deinen Zustand ja lange vor dir bemerkt.\n\nEs freut mich ehrlich, dass du das Heft so nutzt. Dafür mache ich es ja. In dem zu dieser Folge steht auf Seite sechs die Wochenübersicht mit den Orten und dazu das Drei-Sekunden-Protokoll. Vielleicht ist das genau das Richtige für die Tage, an denen es eng wird.\n\nHab ein schönes Wochenende\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 3,
+              "published_at": "2026-11-07T14:21:09Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyX_YtFNQUAy_sqpEl4AaABAg",
+          "text": "👍👍👍💚💚💚🌻",
+          "author": "@Strandjunge57",
+          "likes": 4,
+          "replies": 1,
+          "published_at": "2026-11-07T13:31:26Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyX_YtFNQUAy_sqpEl4AaABAg.AcunipfUi1qAcutaEY_RBf",
+              "text": "Lieber Reinhard,\ndrei Daumen, drei grüne Herzen und deine Sonnenblume, mehr braucht ein Samstag echt nicht. Danke dir!\n\nSchönen Samstag noch\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 3,
+              "published_at": "2026-11-07T14:22:41Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugx-okZ2pVaASC4HM4x4AaABAg",
+          "text": "Ich habe mich  -abgesehen von dem sehr interessanten Thema- köstlich über die süße Zeichnung von Qs Pofell amüsiert…….sorry für offtopic…..\nUnd übrigens habe ich einen „Jürgen“ als Ehemann, ihr könnt euch den Stress für mich vorstellen 😢……..",
+          "author": "@Mabel-10.03",
+          "likes": 4,
+          "replies": 1,
+          "published_at": "2026-11-07T14:32:58Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugx-okZ2pVaASC4HM4x4AaABAg.AcuulaQD38EAcvMaJ3xy6w",
+              "text": "Liebe Mabel,\nofftopic ist hier ausdrücklich erlaubt, und lach ruhig. Qs Hinterteil ist in der Zeichnung ja auch nicht besser erzogen als der Rest von ihm an der Küchentheke.\n\nMit einem Jürgen im eigenen Haus bist du allerdings in einer Lage, die ich im Video nur gestreift habe. Unser Jürgen kam nur zu Besuch. Deiner ist jeden Tag da, und euer Hund lernt an ihm genauso wie an dir. Dabei wollte Jürgen es wirklich richtig machen, und seine Hand hat es trotzdem nicht getan. Dein Mann will es vermutlich genauso.\n\nIch hätte da einen Vorschlag, und der ist ernst gemeint, auch wenn er sich nach einem Witz anhört. Gib ihm die Übung mit der geschlossenen Hand. Zwei Minuten am Tag, nur er und der Hund, und du bist in der Zeit nicht im Raum. Erklären musst du ihm vorher nichts mehr, das hat bei Jürgen ja auch nichts gebracht. Du drückst ihm einfach die Leckerchen in die Hand und machst ihn für diese zwei Minuten zum Chef. Seine Hand lernt dabei nämlich eine neue Gewohnheit, Faust zu statt Hand hoch, und zwar in Ruhe, ohne springenden Hund. An der Haustür hat sie dann wenigstens eine Chance, von allein das Richtige zu tun. Und falls es dort trotzdem schiefgeht, zählst du bis drei, bevor du etwas sagst. Das ist dann deine Übung.\n\nWer ist denn bei euch der Gandhi, der das so schamlos ausnutzt?\n\nBis bald, und grüß mir deinen Jürgen\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 2,
+              "published_at": "2026-11-07T18:44:50Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgxqV0Q5U9siXYNHigd4AaABAg",
+          "text": "Ach, wenn ich meine Süsskramanfälle so hinkriegen würde....ich muss gestehen, in Punkto Pause zwiachen Wollen und Tun kann ich von Gaia lernen. Wenn ich ihr Frühstück hinstelle,  schnüffelt sie erst und überlegt, was sie zuerst futtert. Und sie geniesst. Wenn sie satt ist, bleibt etwas im Tellerchen.  Auch wartet sie geduldig, bis wir raus gehen. Aber sie beobachtet mich ganz genau. Wenn ich die Leine schnappe, zack, ist sie da. Ihre Gelassenheit ist für mich ein Vorbild❤ . Vielleicht ist das ja die Schicksalsergebenheit eines Tierschutzhundes?",
+          "author": "@nalini8760",
+          "likes": 4,
+          "replies": 1,
+          "published_at": "2026-11-07T14:15:22Z",
+          "top_replies": [
+            {
+              "comment_id": "UgxqV0Q5U9siXYNHigd4AaABAg.AcuskhLIu_KAcvMM2QnB3c",
+              "text": "Liebe Nalini,\nmit dem Süßkram sitzt du mitten im Marshmallow-Test, und da bist du in sehr guter Gesellschaft. Der Trick der Kinder, die durchgehalten haben, funktioniert bei uns Großen übrigens genauso. Die haben das Ding nicht tapfer angestarrt, die haben weggeschaut. Übersetzt heißt das, die Schokolade, die man nicht sieht, muss man auch nicht aushalten. Was im Keller liegt, ruft viel leiser als das, was neben dem Sofa liegt.\n\nBei dem Wort Schicksalsergebenheit möchte ich dich aber sanft bremsen. Ergeben wäre Gaia, wenn sie aufgegeben hätte, und so ein Hund schaut dich nicht an, der schaut durch dich durch. Gaia beobachtet dich ganz genau, sie wartet auf dein Zeichen, und wenn die Leine in deiner Hand ist, steht sie neben dir. Das hat mit Fügen nichts zu tun. Sie liest dich einfach. Woher sie ihre Ruhe am Napf hat, weiß ich nicht, und ehrlich gesagt ist es mir auch egal. Milla kommt ja auch von der Straße, und sie ist von uns allen die Ruhigste. Für mich ist das schlicht Souveränität.\n\nUnd die eine Stelle, an der bei Gaia Wollen und Tun noch zusammenfallen, ist die Leine. Da seid ihr beide quitt. Du hast den Süßkram, sie hat den Karabiner. Wenn du magst, bau genau da die Pause ein. Leine in die Hand, warten, bis sie dich anschaut, erst dann klickt es. Für sie ist das ein Klacks, am Napf kann sie es ja schon.\n\nEinen schönen Samstagabend euch beiden\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 5,
+              "published_at": "2026-11-07T18:42:45Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "Ugy6X6Qs5ZQg9yx6Mhp4AaABAg",
+          "text": "Obwohl ich meinen Fellengel nicht mehr habe😢, verfolge ich noch immer deine sooo interessanten Videos. Ich danke dir für soviele Erkenntnisse, Weisheiten, Input.... ja u. auch viele Antworten.\nMein Hütehund  🐑 🐐  war so toll, ich hab soviel gestaunt u. andere auch. Hatte ihn weggerettet u. wir wurden ein super Team. Heute habe ich wieder viele Antworten bekommen von dir.\nEr war meistens entspannt, geduldig, beruhigte oft andere Hunde/Tiere..... wartete brav auf meine Anweisungen. \nEr war es gewohnt.... hatte perfekte Impulskontrolle 👌\nUnd deshalb klappte es toll mit uns. Jetzt habe ich immer mehr Antworten auch auf sein Verhalten mit anderen Hunden. Ob ängstlich, wild, aufdringlich .... er wusste wie es geht. \nUnd ich kann immer weiter von dir/euch lernen  😎\nFreue mich so sehr für Q das er bei euch mit viel Erfahrung, Liebe u. toller Begleitung aufwächst ☘️ 🙏\nEin riesiges Dankeschön immer wieder dafür ❣️ ☘️",
+          "author": "@marionnitschke7348",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-11-07T15:00:00Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugy6X6Qs5ZQg9yx6Mhp4AaABAg.Acuxr_GdtIXAcvMoulircU",
+              "text": "Liebe Marion,\nes bedeutet mir wirklich viel, dass du auch ohne Hund an deiner Seite immer noch dabei bist. Und dein Hütehund muss ein ganz besonderer Kerl gewesen sein. Hunde, die andere Hunde beruhigen können, sind selten, und keiner von ihnen kann das, weil es ihm jemand beigebracht hätte. Die haben die Pause einfach in sich. Milla hat genau das, und wenn ich sie mit Q sehe, denke ich oft, dass ich von ihr mehr lerne als sie von mir.\n\nWas mich an deinen Zeilen am meisten berührt, ist etwas anderes. Du verstehst ihn heute noch besser als damals, mit jeder Folge ein bisschen mehr. Ich finde, so bleibt ein Hund auf eine sehr schöne Art bei einem. Man hat seine Erinnerungen an ihn, und man versteht sie mit den Jahren sogar noch besser. Ihr wart ein Team, und das bleibt ihr auch.\n\nDeine Freude über Q nehme ich gern mit nach Hause. Er hat gerade eine Lehrerin, die ihm genau das zeigt, was dein Hütehund konnte. Ob er es irgendwann genauso gut kann, wird sich zeigen. Im Moment ist er davon jedenfalls noch ein ganzes Stück entfernt, aber er hat ja auch noch ein bisschen Zeit.\n\nSei ganz lieb gegrüßt\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 3,
+              "published_at": "2026-11-07T18:46:50Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyLprDiXDA-l0XkbNR4AaABAg",
+          "text": "Wenn ich hier rufe und er kommt, dann laufe ich manchmal schon wieder vorher los.",
+          "author": "@andreatill4011",
+          "likes": 3,
+          "replies": 1,
+          "published_at": "2026-11-07T13:11:29Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyLprDiXDA-l0XkbNR4AaABAg.AculRltSN6PAcuu4me2C0R",
+              "text": "Liebe Andrea,\ndas ist eine ehrliche Beobachtung, und ich wette, die meisten erkennen sich darin wieder. Schau dir die Szene mal aus der Sicht deines Schäferhunds an. Er lässt alles stehen, was gerade spannend war, läuft zu dir, und wenn er ankommt, sieht er schon deinen Rücken. Das Ankommen bei dir ist dann ein Moment, der sich für ihn nicht lohnt. Er kommt beim nächsten Mal trotzdem, weil er dich liebt, aber die Luft ist raus.\n\nDabei ist dieses Ankommen die Pause aus der Folge, nur eben draußen. Bleib stehen, bis er wirklich bei dir ist, warte auf seinen Blick, und schenk ihm dafür eine Sekunde volle Aufmerksamkeit, ein Wort, eine Hand am Hals, meinetwegen ein Leckerchen. Erst dann geht es weiter. Diese eine Sekunde kostet dich nichts, und für ihn macht sie aus dem Rückruf eine Sache, die sich jedes Mal lohnt. Ehrlich gesagt ist das auch deine Übung. Im Video sage ich ja, dass unser Teil nur ein Nicken ist. Dieses Nicken musst du ihm halt auch geben, bevor du weitergehst.\n\nAlles Gute euch beiden\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 3,
+              "published_at": "2026-11-07T14:26:59Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyMz5-cPL7UsRv9yTZ4AaABAg",
+          "text": "Danke für dieses tolle Video. Das werde ich ausprobieren 😊",
+          "author": "@Silke_1209",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-07T16:08:17Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyMz5-cPL7UsRv9yTZ4AaABAg.Acv4fbsIf7_AcvNEvPt9Yk",
+              "text": "Liebe Silke,\ndann wünsche ich dir viel Spaß mit der geschlossenen Hand. Der schwerste Teil der Übung ist übrigens, dabei kein Wort zu sagen. Wenn dein Hund an deiner Faust herumknabbert, möchte man ständig helfen oder kommentieren. Einfach warten, bis er dich anschaut. Mehr ist es wirklich nicht. Erzähl mir gern, wie es gelaufen ist.\n\nSchönen Abend dir\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 1,
+              "published_at": "2026-11-07T18:50:31Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgzETFZ0RWnBNbYua9N4AaABAg",
+          "text": "Hallo Andreas, was für tolle und interessante Videos!\nMich würde interessieren, wie ich die Pause beim Leine ziehen einbauen kann, damit mein Hund neben mir läuft ohne an der Leine zu ziehen?\n\nLiebe Grüße \nGisela",
+          "author": "@giselajanssen9326",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-08T07:09:45Z",
+          "top_replies": [
+            {
+              "comment_id": "UgzETFZ0RWnBNbYua9N4AaABAg.AcwgqAGMd4rAcxOLTwWdQg",
+              "text": "Liebe Gisela,\ndanke dir! An der Leine merkt man ja besonders schnell, wenn die Pause fehlt, denn da werden Wollen und Tun zu einem einzigen Schritt, und schon ist die Leine stramm. Gebaut wird sie dort genauso wie an der geschlossenen Hand, weil sie ja, wie ich im Video sage, ein Blick zu dir ist. Alles fängt deshalb mit Aufmerksamkeit an. Wenn dein Hund grundsätzlich auf dich achtet, kommt die lockere Leine meistens fast von allein.\n\nLos geht es schon an der Tür. Der Karabiner klickt nur am ruhigen Hund, und die Tür geht erst auf, wenn er dich anschaut. Draußen belohnst du dann jeden Blick, den er dir von sich aus schenkt, mit einem Lächeln, einem \"ja, klasse\", am Anfang ruhig auch mit einem Leckerchen. Das mache ich bei Milla heute noch, obwohl sie das längst drauf hat.\n\nErst wenn das sitzt, forderst du die lockere Leine ein. Sobald Spannung drauf ist, kommt ein kurzes \"Hey\" und wenn nötig ein kleines Anstupsen mit der Leine, bloß nicht reißen. In dem Moment, in dem er dich ansieht und die Leine locker wird, sagst du \"Super\" und es geht weiter. Das ist wieder die Gleichung von der Faust. Wer sich zurücknimmt, bekommt, was er will, hier eben den nächsten Schritt. Mach das aber wirklich konsequent, denn jeder Schritt mit gespannter Leine zeigt ihm, dass Ziehen eben doch funktioniert. Und fang dort an, wo nichts los ist, das Eichhörnchen ist die Abschlussprüfung.\n\nNeben dir laufen muss er übrigens gar nicht die ganze Zeit. Bei mir gibt es zwei Zustände, \"Fuß\", da ist er aufmerksam an deiner Seite, und \"Da lauf\", da darf er schnüffeln und trödeln, nur eben ohne Dauerzug. Und falls er im Geschirr läuft, probier es mal am Halsband. Im Geschirr hat er die ganze Kraft auf der Brust, und du hast keinen wirklichen Kontakt zu ihm.\n\nWie das in der Praxis aussieht, zeige ich mit Milla hier: https://youtu.be/wlRbUyJxMSI\n\nHab einen schönen Sonntag\nAndreas 🐾",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 2,
+              "published_at": "2026-11-08T13:38:38Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgwU_QKQDqcmtd9yBS14AaABAg",
+          "text": "Andreas, da hast DU aber voll versagt😂\nMeine 6 Hunde, jeder etwa 80 kg, wollen auch jeden Besucher am Tor in Empfang nehmen. Das dürfen sie auch. Dann haben sie sich SOFORT zurück zu ziehen. Der Besuch,  auch wenn er schon Xmal gekommen ist, erhält JEDESMAL die Anweisung  nicht ansehen, nicht ansprechen, nicht anfassen, nichts in der Hand zu halten. Es ist unglaublich, wie die Besucher erstaunt sind, daß das funktioniert.  Die Besucher haben aber auch wirklich ein Kurzzeitgedächtnis😅 Das kann am nächsten Tag schon wieder vergessen sein, ich habe selten so vergessliche Menschen gesehen. Bei Hunden scheint der Verstand den Lernwillen auszuschließen 😂😂\n Die Hunde verteilen sich irgendwo in Haus und Garten und kommen irgendwann mal vorbei.\nAber es gibt dennoch keine Leckereien, sondern erst dann, wenn der Besucher es noch wünscht, ansonsten gar nicht 😂😂.\nWenn dann immer noch  ein Leckerli gegeben werden soll, dann sitzen alle im Kreis herum und erhalten das Teil aus der Hand direkt ins Maul.\nVersuch das mal😂😂😂",
+          "author": "@barbaraensins1414",
+          "likes": 2,
+          "replies": 1,
+          "published_at": "2026-11-07T15:31:09Z",
+          "top_replies": [
+            {
+              "comment_id": "UgwU_QKQDqcmtd9yBS14AaABAg.Acv0QcMgEOGAcvN3OgXjjN",
+              "text": "Liebe Barbara,\nja, da hast du mich kalt erwischt, und ich gebe es auch unumwunden zu. Bei Jürgen haben wir kapituliert. Erzählt habe ich die Geschichte trotzdem, weil so eine Niederlage mehr erklärt als jeder Erfolg, und weil ich glaube, dass ziemlich viele Hundemenschen ihren eigenen Jürgen haben.\n\nWas du mit deinem Besuch am Tor machst, ist übrigens genau das, was ich am Ende der Folge empfehle. Hund ist Luft, kein Blick, kein Wort, keine Hand. Du hast dabei allerdings einen Vorteil, den ich mit Gandhi nie hatte. Wenn sechs Hunde mit je achtzig Kilo am Tor stehen, hört dein Besuch dir zu. Bei einem einzelnen Rottweiler, der vor Freude hüpft, sagen die Leute eher, ach lass ihn doch, der freut sich so.\n\nBei deinen vergesslichen Besuchern möchte ich dich aber ein kleines bisschen bremsen. Die wissen es ja. Sie haben es gestern noch gemacht, und sie wollen es auch richtig machen. Und trotzdem reden sie los und die Hand geht zum Hund, sobald der erste um die Ecke kommt. Das ist genau Jürgens Problem. Am Küchentisch sind wir alle vernünftig, und vor einem Hund, der etwas will, sind wir plötzlich jemand anderes. Dein Besuch ist da schlicht einer von uns. Und den Satz mit dem Verstand, der den Lernwillen ausschließt, schreibe ich mir auf. Nur dass ich ihn den Menschen zuordne. Hunde haben dieses Problem nämlich nicht.\n\nDer Kreis mit den Leckerchen gefällt mir. Sechs Hunde, die ruhig sitzen und warten, bis sie dran sind, das ist Impulskontrolle, wie sie im Buche steht.\n\nLiebe Grüße an dich und deine Sechserbande\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 2,
+              "published_at": "2026-11-07T18:48:57Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyMeckaBGGlkSqc96R4AaABAg",
+          "text": "Dann ist mein 10jähriger Rüde wie Milla und mein 5 Monate alter Rüde lernt von ihm schon ein bisschen. \nZ. B. bei Begegnungen mit aufgedrehten Hunden an der Leine, ob aggressiv oder nicht. Meine Beiden gehen ohne Bellen unaufgeregt an der Situation vorbei. Mein Älterer zeigt oft auch noch ein  beschwichtigendes Desinteresse und beschäftigt sich mit der Umgebung. \nDer Kleine tut es ihm oft schon nach, aber seine Neugier ist manchmal doch stärker und er zieht zum anderen Hund hin, aber ohne Bellen und ohne eine übersteigerte Erwartenshaltung. Der Große ist ein guter Lehrmeister, denn auch wenn der Kleine in großer Spiellaune ist, lässt der Große ihn abblitzen und tut desinteressiert, reagiert garnicht auf die Aufforderungen des Kleinen. Ist wie bei Milla und Q 😂.... Ich habe Impulskontrolle mit dem Großen an der Reizangel trainiert und bei alltäglichen Situationen. Dabei ging es mir um das Fördern also Steigern der\n Frustrationstoleranz",
+          "author": "@birgitmeyer7850",
+          "likes": 1,
+          "replies": 1,
+          "published_at": "2026-11-07T17:31:37Z",
+          "top_replies": [
+            {
+              "comment_id": "UgyMeckaBGGlkSqc96R4AaABAg.AcvED-atNQMAcvNVYWfoAy",
+              "text": "Liebe Birgit,\nein Fünfmonatiger neben einem Zehnjährigen, das klingt sehr nach unserer Küche, nur dass bei euch der Lehrmeister ein Rüde ist. Ein alter Hund, der den jungen bei jeder Spielaufforderung einfach ins Leere laufen lässt, ist für einen Welpen mehr wert als manche Hundestunde. Er lernt daran jeden Tag, dass Drängeln nichts bringt, und er lernt es von jemandem, der seine Sprache spricht. Genau das macht Milla mit Q gerade auch, und ich bin oft nur Zuschauer dabei.\n\nAn einer Stelle würde ich dich aber gern anpiksen, und zwar bei den Begegnungen. Es ist wirklich schön, dass der Kleine sich am Großen orientiert. Verlass dich nur nicht darauf, dass diese Ruhe damit schon seine eigene ist. Die Wiener Gruppe aus dem Video hat ja gemessen, dass Impulskontrolle beim Hund eine Situation ist und keine Eigenschaft. Für euch heißt das, dass der Kleine die Pause bei Begegnungen irgendwann allein können muss, auch an dem Tag, an dem der Große mal zu Hause bleibt. Der Moment, in dem er aus Neugier zum anderen Hund zieht, ist dabei die Prüfung, und die verliert er im Augenblick noch. Da fallen bei ihm Wollen und Tun in dieselbe Sekunde. Gebaut wird die Pause vorher, an den ruhigen Stellen, am Napf, an der Tür, an der Leine. Bei der Begegnung wendest du sie dann nur noch an. Hol dir in dem Moment seinen Blick, ein kurzes Hey reicht meistens, und sobald er dich anschaut, gibt es ein Super und es geht weiter. Erst die Pause, dann die Begegnung.\n\nUnd was die Frustrationstoleranz angeht, hast du beim Großen offensichtlich gute Arbeit geleistet. Beim Kleinen würde ich sie vor allem über den Blick zu dir aufbauen. Die Hunde, die warten können, schauen weg von dem, was sie wollen. Und der Ort, zu dem sie dann hinschauen, bist am besten du. Das kann er sich vom Großen sogar abgucken, wenn der mal wieder höchst interessiert ins Gras schaut.\n\nWas sind die beiden denn für welche?\n\nSchönen Sonntag euch dreien\nAndreas",
+              "author": "@DieWeisheitderPfoten",
+              "likes": 1,
+              "published_at": "2026-11-07T18:52:47Z"
+            }
+          ]
+        },
+        {
+          "comment_id": "UgyfK0HdNXNdUICJtbZ4AaABAg",
+          "text": "Du wartest, bis er sitzt. Und greifst trotzdem schon nach der Leine, weil es schneller geht.\n\nAn welcher Stelle im Alltag reagierst Du schneller, als Du es vorhattest?\n\nEin Satz reicht, ich antworte Dir.\n\nDas Begleitheft zu dieser Folge bekommst Du über den Newsletter: https://weisheitderpfoten.de?utm_source=youtube&utm_medium=pin\n\nEin schönes Wochenende euch beiden,\nAndreas",
+          "author": "@DieWeisheitderPfoten",
+          "likes": 5,
+          "replies": 0,
+          "published_at": "2026-11-07T04:54:08Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgySHu0nrAGQc56r9OB4AaABAg",
+          "text": "Du hast den Nagel auf den Kopf getroffen!!❤❤🙏🏽. Danke! Anfangs, als ich Hummel kennenlernte und eine mit mir befreundete Trainerin sagte, die hat keine Impulskontrolle, dachte ich, 'ich auch nicht'. Daran uebe ich seitdem. Witzigerweise agiert meine Stute, selbst lange Zeit ein impulsives, nervoeses Tier, seit ich Hummel habe, wie Deine Milla! Wenn Hummel sie hueten will, bleibt sie einfach stehen und ist ruhig. Wartet, bis ich Hummel abgerufen habe. Seit Hummel als Reitbegleithund mitgeht, ist sie viel sicherer geworden. Und Hummels Reaktivitaet ist praktisch verschwunden. Mit meinem Araber sieht die Sache anders aus😂. Er geht auf Hummels Hueteverhalten ein und macht ein Spiel draus. Mit ihm und Hummel unterwegs sein, heisst Action, Aufbruch zur Jagd, Spass. Meistens behalte ich sie dann an der Leine, weil die Versuchung dann doch zu gross wird, einem Reh hinterherzugehen. Und der Araber laesst sich anstecken😂. Ich selbst neigte dazu, wenn mich jemand braucht, ohne nachzudenken, zu kommen. Erst als mein Akku leer war, und ich gemerkt habe, ich lasse mich viel zu sehr von Stimmungen anderer steuern und bin viel zu wenig in mir selbst, habe ich angefangen, die 'Pause' an mir zu trainieren.",
+          "author": "@baumannmartina5086",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-08T19:11:36Z",
+          "top_replies": []
+        },
+        {
+          "comment_id": "UgyZk4R8scllrpFQ2rB4AaABAg",
+          "text": "Danke für dieses wichtige Video. Ich habe bei meinen Hunden all diese Dinge zu Anfang gemacht. Aber mit der Zeit hat es sich dann leider eingeschlichen, dass die Pause immer mehr verschwand.🙄 Ich muss aber sagen, ohne dein Video wäre mir das nicht einmal bewusst gewesen, dass es immer um diese Pause ging. Wenigstens hat die Futterübung jetzt auf Anhieb bei beiden geklappt, sogar alle 4 Stufen.😅 Aber ich muss daran arbeiten, es wieder überall ganz bewusst zu machen. Vielen vielen Dank 💖💫",
+          "author": "@Angel3011_Q",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-09T13:13:34Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "zWook56wmCs",
+      "title": "Schafft mein Hund diesen Parkour Sprung? 🐕😱",
+      "channel_title": "Dogletics",
+      "level_code": "outlier",
+      "multiple": 4.5116,
+      "views": 4116,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "sjpp19YwF2s",
+      "title": "Kann ein Hund DAS? 😱 Durch einen rollenden Hula Hoop Reifen!",
+      "channel_title": "Dogletics",
+      "level_code": "outlier",
+      "multiple": 4.7652,
+      "views": 3269,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "yp_iA1LS-AY",
+      "title": "Pfötchen geben beibringen: so lernt es dein Hund",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "outlier",
+      "multiple": 3.9623,
+      "views": 3401,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    },
+    {
+      "video_id": "9bcxTsis2U4",
+      "title": "Zecken verstecken sich oft dort, wo du sie am wenigsten erwartest!",
+      "channel_title": "Balloony Tiergesundheit",
+      "level_code": "outlier",
+      "multiple": 3.0227,
+      "views": 3753,
+      "comment_count": 1,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "UgyaxD3-MF1W2oDIQEN4AaABAg",
+          "text": "Also am besten überall",
+          "author": "@CarolaHold",
+          "likes": 0,
+          "replies": 0,
+          "published_at": "2026-11-01T11:34:05Z",
+          "top_replies": []
+        }
+      ]
+    },
+    {
+      "video_id": "Il7wrVsl81I",
+      "title": "Welpe beißt in die Hände: 4 Dinge, die helfen",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "outlier",
+      "multiple": 3.4962,
+      "views": 3344,
+      "comment_count": 2,
+      "status": "ok",
+      "threads_read": 1,
+      "threads": [
+        {
+          "comment_id": "Ugwl7HCvJmEf-k8hEIh4AaABAg",
+          "text": "Normalerweise würde ich Sagen Schwachsinn aber bei unseren Leonberger, von Anfang an  Au. Er ist mehr als Vorsichtig.",
+          "author": "@renewalter8590",
+          "likes": 0,
+          "replies": 1,
+          "published_at": "2026-11-03T18:24:38Z",
+          "top_replies": [
+            {
+              "comment_id": "Ugwl7HCvJmEf-k8hEIh4AaABAg.Acl15lHyTHQAcmUvZ5ODhe",
+              "text": "Schön zu hören 😊 Bei so einem großen Hund ist eine sanfte Beißhemmung Gold wert.",
+              "author": "@Hundeo",
+              "likes": 0,
+              "published_at": "2026-11-04T08:04:29Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "video_id": "IZpEU_xZpfw",
+      "title": "Hund springt Besuch an: so gewöhnst du es ab",
+      "channel_title": "Hundeo - Hundetraining",
+      "level_code": "outlier",
+      "multiple": 3.2836,
+      "views": 3380,
+      "comment_count": 0,
+      "status": "ok",
+      "threads_read": 0,
+      "threads": []
+    }
+  ]
+}

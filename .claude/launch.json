@@ -1,0 +1,99 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "commander-web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "commander\\web.bat",
+        "--no-browser"
+      ],
+      "port": 8765
+    },
+    {
+      "name": "commander-hq-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "commander\\web.bat",
+        "--no-browser",
+        "--port",
+        "8770"
+      ],
+      "port": 8770
+    },
+    {
+      "name": "commander-markets-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "cd /d commander && py -m commander --root C:\\Users\\DUYHUY\\AppData\\Local\\Temp\\claude\\1c643809999b7ddb\\c05c5480-b8f1-4b84-9854-e35db008597d\\scratchpad\\replay web --no-browser --port 8772"
+      ],
+      "port": 8772
+    },
+    {
+      "name": "commander-sandbox",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/c05c5480-b8f1-4b84-9854-e35db008597d/scratchpad/sandbox/data&& cd /d commander && py -m commander --root C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/c05c5480-b8f1-4b84-9854-e35db008597d/scratchpad/sandbox/root web --no-browser --port 8773"
+      ],
+      "port": 8773
+    },
+    {
+      "name": "commander-bai-hoc-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/2abf0eb7-6932-49f3-86d1-620334275865/scratchpad/bh-data&& cd /d commander\\.claude\\worktrees\\bai-hoc && py -m commander --root L:/System-research web --no-browser --port 8791"
+      ],
+      "port": 8791
+    },
+    {
+      "name": "commander-campaign-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/98b3adce-37d6-4bfb-96d7-7c2ddac9e6c9/scratchpad/camp-data&& cd /d commander && py -m commander --root C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/98b3adce-37d6-4bfb-96d7-7c2ddac9e6c9/scratchpad/camp web --no-browser --port 8774"
+      ],
+      "port": 8774
+    },
+    {
+      "name": "commander-agent-map-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/ad37992b-ee51-42a9-a4b3-4abf74232990/scratchpad/agent-map-data&& cd /d C:\\Users\\DUYHUY\\AppData\\Local\\Temp\\claude\\1c643809999b7ddb\\ad37992b-ee51-42a9-a4b3-4abf74232990\\scratchpad\\agent-map-wt && py -m commander --root L:\\System-research web --no-browser --port 8775"
+      ],
+      "port": 8775
+    },
+    {
+      "name": "commander-globe-idle-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/eff67cad-39bf-4452-b656-28614d1c9059/scratchpad/globe-data&& cd /d commander\\.claude\\worktrees\\globe-idle && py -m commander --root L:/System-research web --no-browser --port 8792"
+      ],
+      "port": 8792
+    },
+    {
+      "name": "commander-niche-label-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/eff67cad-39bf-4452-b656-28614d1c9059/scratchpad/globe-data&& cd /d commander\\.claude\\worktrees\\niche-label && py -m commander --root L:/System-research web --no-browser --port 8793"
+      ],
+      "port": 8793
+    },
+    {
+      "name": "commander-trending-preview",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": [
+        "/c",
+        "set COMMANDER_DATA_DIR=C:/Users/DUYHUY/AppData/Local/Temp/claude/1c643809999b7ddb/eff67cad-39bf-4452-b656-28614d1c9059/scratchpad/globe-data&& cd /d commander\\.claude\\worktrees\\trending-tab && py -m commander --root L:/System-research web --no-browser --port 8794"
+      ],
+      "port": 8794
+    }
+  ]
+}

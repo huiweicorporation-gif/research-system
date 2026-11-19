@@ -1,0 +1,31 @@
+PHIẾU TÍN HIỆU TRUNG QUỐC (Gạch 9)
+
+Anh tự xem bảng hot bằng tài khoản của mình, rồi ghi mỗi chủ đề thành một dòng trong phieu.csv.
+Radar chỉ đọc phiếu, không bao giờ ghi vào. Mỗi sáng radar đặt các dòng của 7 ngày gần nhất cạnh
+vùng đề tài YouTube, trong mục "Tín hiệu Trung Quốc" ở cuối báo cáo.
+
+Mở bằng Excel. Khi lưu, chọn kiểu "CSV UTF-8 (Comma delimited)". Nếu chọn kiểu "CSV" thường thì
+chữ Trung bị hỏng, và báo cáo sẽ nhắc lưu lại.
+
+Các cột (giữ nguyên dòng tiêu đề tiếng Anh):
+  date         ngày xem. Viết 2026-11-01 hoặc 01/11/2026 (ngày/tháng/năm) đều được.
+  platform     một trong: weibo, bilibili, douyin, juliang (巨量算数).
+  source       bảng nào, ví dụ: 热搜, 热门, 排行榜.
+  topic        chủ đề hoặc từ khoá, viết nguyên chữ gốc.
+  meaning_vi   nghĩa tiếng Việt.
+  keywords_en  vài từ tiếng Anh cùng nghĩa, ví dụ: sleep, salt.
+               Radar dùng cột này để khớp với vùng đề tài YouTube. Để trống thì dòng đó không khớp vùng nào.
+  rank         hạng trên bảng.
+  heat         chỉ số nhiệt, nếu bảng có.
+  link         link tới bảng hoặc chủ đề.
+  niche        để trống. Chỉ ghi khi muốn giới hạn vào một ngách, ví dụ evo-psych-en.
+  note         ghi chú: hợp ngách nào, vì sao để ý.
+
+Không ghi:
+  - Tên người, tên kênh hoặc handle của bất kỳ ai. Chỉ ghi chủ đề và chỉ số, để dữ liệu ở dạng tổng hợp
+    theo Luật 91/2025.
+  - Xiaohongshu (小红书). Radar sẽ bỏ dòng đó cho tới khi luật sư rà xong điều khoản §3.4.
+
+Radar không bao giờ tự đăng nhập, không dùng cookie và không chạy script trên các trang này.
+Nếu phiếu bị xoá, chạy lệnh này trong thư mục radar để tạo lại phiếu trống:
+  py -m radar china-form

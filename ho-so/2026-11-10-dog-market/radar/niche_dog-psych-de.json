@@ -1,0 +1,6699 @@
+{
+  "meta": {
+    "schema": "radar.v1",
+    "radar_version": "1.13.1",
+    "day": "2026-11-10",
+    "generated_at": "2026-11-10T01:00:44Z",
+    "quota_run": 1906,
+    "quota_today": 1906,
+    "warnings": [
+      "Estimated ~2676 units needed but only 2200 left — expensive steps may be skipped"
+    ]
+  },
+  "niche": {
+    "id": "dog-psych-de",
+    "name": "Dog psychology (German, DE)",
+    "region": "DE",
+    "language": "de",
+    "queries": [
+      "Hundepsychologie",
+      "Hundeverhalten verstehen",
+      "warum macht mein Hund",
+      "Körpersprache Hund"
+    ]
+  },
+  "day": "2026-11-10",
+  "health": {
+    "tracked_channels": 32,
+    "ignored_channels": 0,
+    "videos_known": 1530,
+    "videos_30d": 586,
+    "views_30d_new_videos": 5504767,
+    "views_30d_by_format": {
+      "long": 3465483,
+      "short": 2039284
+    },
+    "views_gain_24h": null,
+    "median_long_baseline": 973.5,
+    "median_short_baseline": 1327.0,
+    "shorts_share_30d": 0.7389,
+    "outlier_counts": {
+      "viral": 13,
+      "breakout": 16,
+      "outlier": 48
+    },
+    "winner_median_duration": 23,
+    "small_channel_wins": 15,
+    "verdict": "open",
+    "channels_without_baseline": 1,
+    "curve": {
+      "mode": "default",
+      "points": 0
+    }
+  },
+  "outliers": [
+    {
+      "video_id": "0Z764tEO7K4",
+      "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 297687,
+      "likes": 786,
+      "comments": 5,
+      "duration_sec": 13,
+      "published_at": "2026-10-31T09:00:30Z",
+      "age_h": 231.9628,
+      "vph": 1283.3395,
+      "eng": 0.0027,
+      "view_sub": 254.4333,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1282.2732,
+      "multiple": 232.1557,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 296405,
+      "format": "short",
+      "zone_id": "dein"
+    },
+    {
+      "video_id": "4W4hGwPM2NU",
+      "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "channel_title": "GUTE HUNDE",
+      "subs": 1640,
+      "views": 222535,
+      "likes": 1934,
+      "comments": 83,
+      "duration_sec": 38,
+      "published_at": "2026-11-01T08:00:27Z",
+      "age_h": 208.9636,
+      "vph": 1064.9462,
+      "eng": 0.0091,
+      "view_sub": 135.6921,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de-DE",
+      "expected": 3968.9281,
+      "multiple": 56.0693,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 5152,
+      "baseline_source": "channel",
+      "excess_views": 218566,
+      "format": "short",
+      "zone_id": "ruhe"
+    },
+    {
+      "video_id": "D2x9QFW5ivg",
+      "title": "So begrüßt du einen Hund richtig!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 204516,
+      "likes": 420,
+      "comments": 3,
+      "duration_sec": 13,
+      "published_at": "2026-10-30T09:00:03Z",
+      "age_h": 255.9703,
+      "vph": 798.9834,
+      "eng": 0.0021,
+      "view_sub": 174.8,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1318.9647,
+      "multiple": 155.058,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 203197,
+      "format": "short",
+      "zone_id": "einen"
+    },
+    {
+      "video_id": "10lV_SwaRDY",
+      "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 87941,
+      "likes": 1424,
+      "comments": 136,
+      "duration_sec": 65,
+      "published_at": "2026-11-06T18:00:27Z",
+      "age_h": 78.9636,
+      "vph": 1113.6902,
+      "eng": 0.0177,
+      "view_sub": 10.6984,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 4994.2374,
+      "multiple": 17.6085,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 9218.0,
+      "baseline_source": "channel",
+      "excess_views": 82947,
+      "format": "short",
+      "zone_id": "sind"
+    },
+    {
+      "video_id": "cyQKZh9ch2k",
+      "title": "Welpe im Herbst: 4 Fehler bei Kälte",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 79874,
+      "likes": 87,
+      "comments": 4,
+      "duration_sec": 8,
+      "published_at": "2026-10-29T17:00:21Z",
+      "age_h": 271.9653,
+      "vph": 293.6919,
+      "eng": 0.0011,
+      "view_sub": 4.1172,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1088.0327,
+      "multiple": 73.4114,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1309,
+      "baseline_source": "channel",
+      "excess_views": 78786,
+      "format": "short",
+      "zone_id": "fehler"
+    },
+    {
+      "video_id": "PoLZkulOSzE",
+      "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 39798,
+      "likes": 151,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-04T09:00:27Z",
+      "age_h": 135.9636,
+      "vph": 292.7107,
+      "eng": 0.0038,
+      "view_sub": 34.0154,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1081.4744,
+      "multiple": 36.7998,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 38717,
+      "format": "short",
+      "zone_id": "dein"
+    },
+    {
+      "video_id": "SplODI4JCas",
+      "title": "👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 24134,
+      "likes": 94,
+      "comments": 1,
+      "duration_sec": 13,
+      "published_at": "2026-11-02T09:00:16Z",
+      "age_h": 183.9667,
+      "vph": 131.1868,
+      "eng": 0.0039,
+      "view_sub": 20.6274,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1195.9051,
+      "multiple": 20.1805,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 22938,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "BgsAC_wBMFk",
+      "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 23781,
+      "likes": 61,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-03T09:00:34Z",
+      "age_h": 159.9617,
+      "vph": 148.6669,
+      "eng": 0.0026,
+      "view_sub": 20.3256,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1143.4008,
+      "multiple": 20.7985,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 22638,
+      "format": "short",
+      "zone_id": "gibt"
+    },
+    {
+      "video_id": "TrK6cnzrY6c",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 17301,
+      "likes": 308,
+      "comments": 1,
+      "duration_sec": 10,
+      "published_at": "2026-11-06T04:30:39Z",
+      "age_h": 92.4603,
+      "vph": 187.1182,
+      "eng": 0.0179,
+      "view_sub": 33.3353,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 525.4768,
+      "multiple": 32.9244,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 16776,
+      "format": "short",
+      "zone_id": "jedem"
+    },
+    {
+      "video_id": "-eqcbU3aWYg",
+      "title": "Wie lange darf ein Hund allein sein? 2, 4 oder 8 Stunden",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 16131,
+      "likes": 182,
+      "comments": 12,
+      "duration_sec": 23,
+      "published_at": "2026-10-27T11:01:14Z",
+      "age_h": 325.9506,
+      "vph": 49.4891,
+      "eng": 0.012,
+      "view_sub": 0.8315,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1142.7448,
+      "multiple": 14.116,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1309,
+      "baseline_source": "channel",
+      "excess_views": 14988,
+      "format": "short",
+      "zone_id": "oder"
+    },
+    {
+      "video_id": "9GpQc37eYG0",
+      "title": "👇🏻 8 einfache Trainingstipps für einen glücklichen Hund!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 11289,
+      "likes": 55,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-08T09:00:39Z",
+      "age_h": 39.9603,
+      "vph": 282.5055,
+      "eng": 0.0049,
+      "view_sub": 9.6487,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 613.8523,
+      "multiple": 18.3904,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 10675,
+      "format": "short",
+      "zone_id": "einen"
+    },
+    {
+      "video_id": "O5BZi3ZZ0Wc",
+      "title": "Welche Hunderasse ist wirklich für Anfänger geeignet?",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 7825,
+      "likes": 24,
+      "comments": 2,
+      "duration_sec": 602,
+      "published_at": "2026-11-01T10:00:00Z",
+      "age_h": 206.9711,
+      "vph": 37.8072,
+      "eng": 0.0033,
+      "view_sub": 0.4034,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 244.2733,
+      "multiple": 32.0338,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 318,
+      "baseline_source": "channel",
+      "excess_views": 7581,
+      "format": "long",
+      "zone_id": "wirklich"
+    },
+    {
+      "video_id": "fY1ah3i0Wh8",
+      "title": "Mein Frauchen und Autofahren🤣 dog #puppy #doggielife #pets #funny",
+      "channel_id": "UCoXLfKG5h-k1PzWIK0L_YhQ",
+      "channel_title": "CHINESE CRESTED POWDERPUFF TV",
+      "subs": 2900,
+      "views": 1026,
+      "likes": 9,
+      "comments": 0,
+      "duration_sec": 14,
+      "published_at": "2026-11-09T19:27:34Z",
+      "age_h": 5.5117,
+      "vph": 186.1506,
+      "eng": 0.0088,
+      "view_sub": 0.3538,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 100.9217,
+      "multiple": 10.1663,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1308,
+      "baseline_source": "channel",
+      "excess_views": 925,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "yQ4r4sU1UbI",
+      "title": "Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hunde",
+      "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+      "channel_title": "JacktheDalmatian",
+      "subs": 1600,
+      "views": 16917,
+      "likes": 283,
+      "comments": 10,
+      "duration_sec": 10,
+      "published_at": "2026-11-03T10:35:55Z",
+      "age_h": 158.3725,
+      "vph": 106.8178,
+      "eng": 0.0173,
+      "view_sub": 10.5731,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1922.6287,
+      "multiple": 8.7989,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 2723,
+      "baseline_source": "channel",
+      "excess_views": 14994,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "u49Ps-VrWiw",
+      "title": "3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱",
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "channel_title": "Dogletics",
+      "subs": 3240,
+      "views": 9417,
+      "likes": 127,
+      "comments": 3,
+      "duration_sec": 21,
+      "published_at": "2026-10-28T16:16:54Z",
+      "age_h": 296.6894,
+      "vph": 31.7403,
+      "eng": 0.0138,
+      "view_sub": 2.9065,
+      "delta24": null,
+      "is_short": true,
+      "language": "de-DE",
+      "audio_language": "de-DE",
+      "expected": 958.9655,
+      "multiple": 9.82,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1126.5,
+      "baseline_source": "channel",
+      "excess_views": 8458,
+      "format": "short",
+      "zone_id": "meinen"
+    },
+    {
+      "video_id": "lw-JVzObDxE",
+      "title": "Apportieren- Aufbau für Obedience Beginner",
+      "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+      "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "subs": 2970,
+      "views": 8617,
+      "likes": 149,
+      "comments": 3,
+      "duration_sec": 27,
+      "published_at": "2026-10-27T11:11:54Z",
+      "age_h": 325.7728,
+      "vph": 26.451,
+      "eng": 0.0176,
+      "view_sub": 2.9013,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1290.967,
+      "multiple": 6.6748,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1479,
+      "baseline_source": "channel",
+      "excess_views": 7326,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "79h3E8eHvEQ",
+      "title": "Ohne Leckerli vs. mit Leckerli 😂🐶",
+      "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+      "channel_title": "Tierliebhaber",
+      "subs": 1790,
+      "views": 7080,
+      "likes": 84,
+      "comments": 5,
+      "duration_sec": 20,
+      "published_at": "2026-10-27T16:13:12Z",
+      "age_h": 320.7511,
+      "vph": 22.0732,
+      "eng": 0.0126,
+      "view_sub": 3.9553,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 830.596,
+      "multiple": 8.524,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 955.5,
+      "baseline_source": "channel",
+      "excess_views": 6249,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "CpymYngPk4s",
+      "title": "Dein Hund übertreibt nicht 💛",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 6277,
+      "likes": 42,
+      "comments": 0,
+      "duration_sec": 5,
+      "published_at": "2026-11-03T04:30:32Z",
+      "age_h": 164.4622,
+      "vph": 38.1668,
+      "eng": 0.0067,
+      "view_sub": 12.0944,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 648.8409,
+      "multiple": 9.6742,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 5628,
+      "format": "short",
+      "zone_id": "dein"
+    },
+    {
+      "video_id": "swqVwZi1d44",
+      "title": "🐶 Knochen für Hunde – welche sind wirklich sicher?",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 6953,
+      "likes": 13,
+      "comments": 1,
+      "duration_sec": 13,
+      "published_at": "2026-10-28T09:00:09Z",
+      "age_h": 303.9686,
+      "vph": 22.8741,
+      "eng": 0.002,
+      "view_sub": 5.9427,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1382.9943,
+      "multiple": 5.0275,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 5570,
+      "format": "short",
+      "zone_id": "sind"
+    },
+    {
+      "video_id": "4oQWyAUrBp4",
+      "title": "👇🏻Halsband oder Geschirr – was ist besser für deinen Hund?",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 5090,
+      "likes": 37,
+      "comments": 1,
+      "duration_sec": 13,
+      "published_at": "2026-11-06T09:00:03Z",
+      "age_h": 87.9703,
+      "vph": 57.8605,
+      "eng": 0.0075,
+      "view_sub": 4.3504,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 915.602,
+      "multiple": 5.5592,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 4174,
+      "format": "short",
+      "zone_id": "oder"
+    },
+    {
+      "video_id": "0ziDrLij48g",
+      "title": "Ein Hund braucht nicht viel. Aber dieses eine Ding braucht er jeden Tag 🐾",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 4304,
+      "likes": 79,
+      "comments": 1,
+      "duration_sec": 8,
+      "published_at": "2026-11-01T10:30:11Z",
+      "age_h": 206.4681,
+      "vph": 20.8458,
+      "eng": 0.0186,
+      "view_sub": 8.2929,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 696.5908,
+      "multiple": 6.1787,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 3607,
+      "format": "short",
+      "zone_id": "tag"
+    },
+    {
+      "video_id": "tN81wgBPzQo",
+      "title": "Hund zittert an Silvester? 3 Tipps aus über 10 Jahren Erfahrung",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 3439,
+      "likes": 79,
+      "comments": 0,
+      "duration_sec": 9,
+      "published_at": "2026-11-04T10:00:03Z",
+      "age_h": 134.9703,
+      "vph": 25.4797,
+      "eng": 0.023,
+      "view_sub": 6.6262,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 606.5073,
+      "multiple": 5.6702,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 2832,
+      "format": "short",
+      "zone_id": "silvester"
+    },
+    {
+      "video_id": "TRgU3zMu8Xw",
+      "title": "👇🏻Dein  Hund macht Unsinn? Vielleicht steckt mehr dahinter!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 1883,
+      "likes": 14,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-09T09:00:18Z",
+      "age_h": 15.9661,
+      "vph": 117.9373,
+      "eng": 0.0074,
+      "view_sub": 1.6094,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 321.892,
+      "multiple": 5.8498,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 1561,
+      "format": "short",
+      "zone_id": "steckt"
+    },
+    {
+      "video_id": "fDYeUGh3QC0",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 1409,
+      "likes": 19,
+      "comments": 0,
+      "duration_sec": 10,
+      "published_at": "2026-11-09T04:30:28Z",
+      "age_h": 20.4633,
+      "vph": 68.8549,
+      "eng": 0.0135,
+      "view_sub": 2.7148,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 219.9787,
+      "multiple": 6.4052,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 1189,
+      "format": "short",
+      "zone_id": "jedem"
+    },
+    {
+      "video_id": "LbQifm2U3Oc",
+      "title": "Kommt mein Hund an den Fußball? ⚽😂",
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "channel_title": "Dogletics",
+      "subs": 3240,
+      "views": 1324,
+      "likes": 9,
+      "comments": 0,
+      "duration_sec": 17,
+      "published_at": "2026-11-09T11:28:44Z",
+      "age_h": 13.4922,
+      "vph": 98.1306,
+      "eng": 0.0068,
+      "view_sub": 0.4086,
+      "delta24": null,
+      "is_short": true,
+      "language": "de-DE",
+      "audio_language": "de-DE",
+      "expected": 191.8331,
+      "multiple": 6.9018,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1126.5,
+      "baseline_source": "channel",
+      "excess_views": 1132,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "dRcCZLI018U",
+      "title": "Drei Kinder von Hunden gebissen – was wurde übersehen?",
+      "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+      "channel_title": "Dog4 – Hundeverhalten verstehen",
+      "subs": 703,
+      "views": 1345,
+      "likes": 16,
+      "comments": 7,
+      "duration_sec": 490,
+      "published_at": "2026-11-01T09:00:17Z",
+      "age_h": 207.9664,
+      "vph": 6.4674,
+      "eng": 0.0171,
+      "view_sub": 1.9132,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "expected": 245.01,
+      "multiple": 5.4896,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 318.5,
+      "baseline_source": "channel",
+      "excess_views": 1100,
+      "format": "long",
+      "zone_id": null
+    },
+    {
+      "video_id": "f3fjhEtLlo4",
+      "title": "Kann mein Hund ein EI aus dem Wasser holen? 🥚😂",
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "channel_title": "Dogletics",
+      "subs": 3240,
+      "views": 1165,
+      "likes": 13,
+      "comments": 0,
+      "duration_sec": 26,
+      "published_at": "2026-11-09T17:00:39Z",
+      "age_h": 7.9603,
+      "vph": 146.3517,
+      "eng": 0.0112,
+      "view_sub": 0.3596,
+      "delta24": null,
+      "is_short": true,
+      "language": "de-DE",
+      "audio_language": "de-DE",
+      "expected": 122.2815,
+      "multiple": 9.5272,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1126.5,
+      "baseline_source": "channel",
+      "excess_views": 1043,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "sk_LJYlM2gE",
+      "title": "Wir wollten einfach nur verstehen, warum er sich ständig kratzt … 💔🐾",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 1205,
+      "likes": 16,
+      "comments": 1,
+      "duration_sec": 53,
+      "published_at": "2026-11-09T16:00:38Z",
+      "age_h": 8.9606,
+      "vph": 134.4783,
+      "eng": 0.0141,
+      "view_sub": 1.0299,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 194.4931,
+      "multiple": 6.1956,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 1011,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "c1TQWq_q9Ks",
+      "title": "Dein Hund will NICHT kuscheln? DAS steckt dahinter! 🐕#shorts #goldenretriever",
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "channel_title": "Wuff & Wissen",
+      "subs": 1260,
+      "views": 1076,
+      "likes": 30,
+      "comments": 1,
+      "duration_sec": 24,
+      "published_at": "2026-11-09T11:00:35Z",
+      "age_h": 13.9614,
+      "vph": 77.0697,
+      "eng": 0.0288,
+      "view_sub": 0.854,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 170.0417,
+      "multiple": 6.3279,
+      "level": 2,
+      "level_code": "breakout",
+      "baseline": 965,
+      "baseline_source": "channel",
+      "excess_views": 906,
+      "format": "short",
+      "zone_id": "steckt"
+    },
+    {
+      "video_id": "KKYp2Zo80yM",
+      "title": "Warum Ihr Hund Sie ableckt (es ist NICHT, was Sie denken!)",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 109725,
+      "likes": 1627,
+      "comments": 65,
+      "duration_sec": 884,
+      "published_at": "2026-10-27T17:00:10Z",
+      "age_h": 319.9683,
+      "vph": 342.9246,
+      "eng": 0.0154,
+      "view_sub": 8.25,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "expected": 45241.8014,
+      "multiple": 2.4253,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 52079,
+      "baseline_source": "channel",
+      "excess_views": 64483,
+      "format": "long",
+      "zone_id": null
+    },
+    {
+      "video_id": "u20TuSgeEAw",
+      "title": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 96582,
+      "likes": 1564,
+      "comments": 62,
+      "duration_sec": 1384,
+      "published_at": "2026-10-31T17:00:32Z",
+      "age_h": 223.9622,
+      "vph": 431.2424,
+      "eng": 0.0168,
+      "view_sub": 7.2618,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 40953.2105,
+      "multiple": 2.3583,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 52079,
+      "baseline_source": "channel",
+      "excess_views": 55629,
+      "format": "long",
+      "zone_id": null
+    },
+    {
+      "video_id": "a1uCNsI3faI",
+      "title": "ClashGames macht KLOPF KLOPF TANZ! 😂 #shorts",
+      "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+      "channel_title": "ClashGames",
+      "subs": 1820000,
+      "views": 50059,
+      "likes": 1120,
+      "comments": 72,
+      "duration_sec": 13,
+      "published_at": "2026-11-09T14:21:44Z",
+      "age_h": 10.6089,
+      "vph": 4718.5903,
+      "eng": 0.0238,
+      "view_sub": 0.0275,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 14929.3082,
+      "multiple": 3.3531,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 108532,
+      "baseline_source": "channel",
+      "excess_views": 35130,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "ioSyNM8KiuE",
+      "title": "Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 19381,
+      "likes": 397,
+      "comments": 35,
+      "duration_sec": 77,
+      "published_at": "2026-11-04T06:00:01Z",
+      "age_h": 138.9708,
+      "vph": 139.4609,
+      "eng": 0.0223,
+      "view_sub": 2.3578,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 6224.1999,
+      "multiple": 3.1138,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 9218.0,
+      "baseline_source": "channel",
+      "excess_views": 13157,
+      "format": "short",
+      "zone_id": "niemal"
+    },
+    {
+      "video_id": "1oO-OlqZVAs",
+      "title": "99 Prozent aller Probleme mit deinem Hund sind ein einziges Problem",
+      "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+      "channel_title": "Die Weisheit der Pfoten",
+      "subs": 14900,
+      "views": 10325,
+      "likes": 275,
+      "comments": 31,
+      "duration_sec": 2098,
+      "published_at": "2026-11-07T12:00:20Z",
+      "age_h": 60.9656,
+      "vph": 169.3579,
+      "eng": 0.0296,
+      "view_sub": 0.693,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 3200.7257,
+      "multiple": 3.2258,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 6682.5,
+      "baseline_source": "channel",
+      "excess_views": 7124,
+      "format": "long",
+      "zone_id": "sind"
+    },
+    {
+      "video_id": "zWook56wmCs",
+      "title": "Schafft mein Hund diesen Parkour Sprung? 🐕😱",
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "channel_title": "Dogletics",
+      "subs": 3240,
+      "views": 4116,
+      "likes": 14,
+      "comments": 0,
+      "duration_sec": 14,
+      "published_at": "2026-10-30T17:00:29Z",
+      "age_h": 247.9631,
+      "vph": 16.5992,
+      "eng": 0.0034,
+      "view_sub": 1.2704,
+      "delta24": null,
+      "is_short": true,
+      "language": "de-DE",
+      "audio_language": "de-DE",
+      "expected": 912.3143,
+      "multiple": 4.5116,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1126.5,
+      "baseline_source": "channel",
+      "excess_views": 3204,
+      "format": "short",
+      "zone_id": null
+    },
+    {
+      "video_id": "sjpp19YwF2s",
+      "title": "Kann ein Hund DAS? 😱 Durch einen rollenden Hula Hoop Reifen!",
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "channel_title": "Dogletics",
+      "subs": 3240,
+      "views": 3269,
+      "likes": 52,
+      "comments": 0,
+      "duration_sec": 18,
+      "published_at": "2026-11-05T16:00:22Z",
+      "age_h": 104.965,
+      "vph": 31.1437,
+      "eng": 0.0159,
+      "view_sub": 1.009,
+      "delta24": null,
+      "is_short": true,
+      "language": "de-DE",
+      "audio_language": "de-DE",
+      "expected": 686.0154,
+      "multiple": 4.7652,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1126.5,
+      "baseline_source": "channel",
+      "excess_views": 2583,
+      "format": "short",
+      "zone_id": "einen"
+    },
+    {
+      "video_id": "yp_iA1LS-AY",
+      "title": "Pfötchen geben beibringen: so lernt es dein Hund",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 3401,
+      "likes": 57,
+      "comments": 0,
+      "duration_sec": 32,
+      "published_at": "2026-11-04T17:01:17Z",
+      "age_h": 127.9497,
+      "vph": 26.5808,
+      "eng": 0.0168,
+      "view_sub": 0.1753,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 858.3359,
+      "multiple": 3.9623,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1309,
+      "baseline_source": "channel",
+      "excess_views": 2543,
+      "format": "short",
+      "zone_id": "dein"
+    },
+    {
+      "video_id": "9bcxTsis2U4",
+      "title": "Zecken verstecken sich oft dort, wo du sie am wenigsten erwartest!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 3753,
+      "likes": 26,
+      "comments": 1,
+      "duration_sec": 13,
+      "published_at": "2026-11-01T09:00:16Z",
+      "age_h": 207.9667,
+      "vph": 18.0462,
+      "eng": 0.0072,
+      "view_sub": 3.2077,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1241.5898,
+      "multiple": 3.0227,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 2511,
+      "format": "short",
+      "zone_id": "oft"
+    },
+    {
+      "video_id": "Il7wrVsl81I",
+      "title": "Welpe beißt in die Hände: 4 Dinge, die helfen",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 3344,
+      "likes": 131,
+      "comments": 2,
+      "duration_sec": 31,
+      "published_at": "2026-11-02T17:00:33Z",
+      "age_h": 175.9619,
+      "vph": 19.0041,
+      "eng": 0.0398,
+      "view_sub": 0.1724,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 956.4711,
+      "multiple": 3.4962,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1309,
+      "baseline_source": "channel",
+      "excess_views": 2388,
+      "format": "short",
+      "zone_id": "helfen"
+    },
+    {
+      "video_id": "IZpEU_xZpfw",
+      "title": "Hund springt Besuch an: so gewöhnst du es ab",
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "channel_title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views": 3380,
+      "likes": 50,
+      "comments": 0,
+      "duration_sec": 33,
+      "published_at": "2026-10-31T17:00:59Z",
+      "age_h": 223.9547,
+      "vph": 15.0923,
+      "eng": 0.0148,
+      "view_sub": 0.1742,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1029.3444,
+      "multiple": 3.2836,
+      "level": 1,
+      "level_code": "outlier",
+      "baseline": 1309,
+      "baseline_source": "channel",
+      "excess_views": 2351,
+      "format": "short",
+      "zone_id": null
+    }
+  ],
+  "outliers_by_format": {
+    "long": [
+      {
+        "video_id": "O5BZi3ZZ0Wc",
+        "title": "Welche Hunderasse ist wirklich für Anfänger geeignet?",
+        "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+        "channel_title": "Hundeo - Hundetraining",
+        "subs": 19400,
+        "views": 7825,
+        "likes": 24,
+        "comments": 2,
+        "duration_sec": 602,
+        "published_at": "2026-11-01T10:00:00Z",
+        "age_h": 206.9711,
+        "vph": 37.8072,
+        "eng": 0.0033,
+        "view_sub": 0.4034,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 244.2733,
+        "multiple": 32.0338,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 318,
+        "baseline_source": "channel",
+        "excess_views": 7581,
+        "format": "long",
+        "zone_id": "wirklich"
+      },
+      {
+        "video_id": "dRcCZLI018U",
+        "title": "Drei Kinder von Hunden gebissen – was wurde übersehen?",
+        "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+        "channel_title": "Dog4 – Hundeverhalten verstehen",
+        "subs": 703,
+        "views": 1345,
+        "likes": 16,
+        "comments": 7,
+        "duration_sec": 490,
+        "published_at": "2026-11-01T09:00:17Z",
+        "age_h": 207.9664,
+        "vph": 6.4674,
+        "eng": 0.0171,
+        "view_sub": 1.9132,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": null,
+        "expected": 245.01,
+        "multiple": 5.4896,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 318.5,
+        "baseline_source": "channel",
+        "excess_views": 1100,
+        "format": "long",
+        "zone_id": null
+      },
+      {
+        "video_id": "KKYp2Zo80yM",
+        "title": "Warum Ihr Hund Sie ableckt (es ist NICHT, was Sie denken!)",
+        "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+        "channel_title": "Gerd Hallmann",
+        "subs": 13300,
+        "views": 109725,
+        "likes": 1627,
+        "comments": 65,
+        "duration_sec": 884,
+        "published_at": "2026-10-27T17:00:10Z",
+        "age_h": 319.9683,
+        "vph": 342.9246,
+        "eng": 0.0154,
+        "view_sub": 8.25,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": null,
+        "expected": 45241.8014,
+        "multiple": 2.4253,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 52079,
+        "baseline_source": "channel",
+        "excess_views": 64483,
+        "format": "long",
+        "zone_id": null
+      },
+      {
+        "video_id": "u20TuSgeEAw",
+        "title": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+        "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+        "channel_title": "Gerd Hallmann",
+        "subs": 13300,
+        "views": 96582,
+        "likes": 1564,
+        "comments": 62,
+        "duration_sec": 1384,
+        "published_at": "2026-10-31T17:00:32Z",
+        "age_h": 223.9622,
+        "vph": 431.2424,
+        "eng": 0.0168,
+        "view_sub": 7.2618,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 40953.2105,
+        "multiple": 2.3583,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 52079,
+        "baseline_source": "channel",
+        "excess_views": 55629,
+        "format": "long",
+        "zone_id": null
+      },
+      {
+        "video_id": "1oO-OlqZVAs",
+        "title": "99 Prozent aller Probleme mit deinem Hund sind ein einziges Problem",
+        "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+        "channel_title": "Die Weisheit der Pfoten",
+        "subs": 14900,
+        "views": 10325,
+        "likes": 275,
+        "comments": 31,
+        "duration_sec": 2098,
+        "published_at": "2026-11-07T12:00:20Z",
+        "age_h": 60.9656,
+        "vph": 169.3579,
+        "eng": 0.0296,
+        "view_sub": 0.693,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 3200.7257,
+        "multiple": 3.2258,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 6682.5,
+        "baseline_source": "channel",
+        "excess_views": 7124,
+        "format": "long",
+        "zone_id": "sind"
+      },
+      {
+        "video_id": "EbGzKSTxd5Y",
+        "title": "TRAINING! Hundebegegnung an der Leine! Wer kennt das Problem?",
+        "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+        "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+        "subs": 2970,
+        "views": 2033,
+        "likes": 46,
+        "comments": 16,
+        "duration_sec": 2514,
+        "published_at": "2026-10-30T06:41:45Z",
+        "age_h": 258.2753,
+        "vph": 7.8714,
+        "eng": 0.0305,
+        "view_sub": 0.6845,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": null,
+        "expected": 797.561,
+        "multiple": 2.549,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 973.5,
+        "baseline_source": "channel",
+        "excess_views": 1235,
+        "format": "long",
+        "zone_id": "leine"
+      },
+      {
+        "video_id": "pni9S5hugjg",
+        "title": "Starke Hunde, klare Verantwortung – was im Training wirklich anders ist",
+        "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+        "channel_title": "hundsfaelle",
+        "subs": 1050,
+        "views": 1244,
+        "likes": 31,
+        "comments": 10,
+        "duration_sec": 3604,
+        "published_at": "2026-11-01T23:00:31Z",
+        "age_h": 193.9625,
+        "vph": 6.4136,
+        "eng": 0.033,
+        "view_sub": 1.1848,
+        "delta24": null,
+        "is_short": false,
+        "language": "de",
+        "audio_language": "de-DE",
+        "expected": 552.8273,
+        "multiple": 2.2503,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 734,
+        "baseline_source": "channel",
+        "excess_views": 691,
+        "format": "long",
+        "zone_id": "train"
+      }
+    ],
+    "short": [
+      {
+        "video_id": "0Z764tEO7K4",
+        "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+        "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+        "channel_title": "Balloony Tiergesundheit",
+        "subs": 1170,
+        "views": 297687,
+        "likes": 786,
+        "comments": 5,
+        "duration_sec": 13,
+        "published_at": "2026-10-31T09:00:30Z",
+        "age_h": 231.9628,
+        "vph": 1283.3395,
+        "eng": 0.0027,
+        "view_sub": 254.4333,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1282.2732,
+        "multiple": 232.1557,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1614,
+        "baseline_source": "channel",
+        "excess_views": 296405,
+        "format": "short",
+        "zone_id": "dein"
+      },
+      {
+        "video_id": "4W4hGwPM2NU",
+        "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+        "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+        "channel_title": "GUTE HUNDE",
+        "subs": 1640,
+        "views": 222535,
+        "likes": 1934,
+        "comments": 83,
+        "duration_sec": 38,
+        "published_at": "2026-11-01T08:00:27Z",
+        "age_h": 208.9636,
+        "vph": 1064.9462,
+        "eng": 0.0091,
+        "view_sub": 135.6921,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de-DE",
+        "expected": 3968.9281,
+        "multiple": 56.0693,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 5152,
+        "baseline_source": "channel",
+        "excess_views": 218566,
+        "format": "short",
+        "zone_id": "ruhe"
+      },
+      {
+        "video_id": "D2x9QFW5ivg",
+        "title": "So begrüßt du einen Hund richtig!",
+        "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+        "channel_title": "Balloony Tiergesundheit",
+        "subs": 1170,
+        "views": 204516,
+        "likes": 420,
+        "comments": 3,
+        "duration_sec": 13,
+        "published_at": "2026-10-30T09:00:03Z",
+        "age_h": 255.9703,
+        "vph": 798.9834,
+        "eng": 0.0021,
+        "view_sub": 174.8,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1318.9647,
+        "multiple": 155.058,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1614,
+        "baseline_source": "channel",
+        "excess_views": 203197,
+        "format": "short",
+        "zone_id": "einen"
+      },
+      {
+        "video_id": "10lV_SwaRDY",
+        "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+        "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+        "channel_title": "TierWow",
+        "subs": 8220,
+        "views": 87941,
+        "likes": 1424,
+        "comments": 136,
+        "duration_sec": 65,
+        "published_at": "2026-11-06T18:00:27Z",
+        "age_h": 78.9636,
+        "vph": 1113.6902,
+        "eng": 0.0177,
+        "view_sub": 10.6984,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 4994.2374,
+        "multiple": 17.6085,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 9218.0,
+        "baseline_source": "channel",
+        "excess_views": 82947,
+        "format": "short",
+        "zone_id": "sind"
+      },
+      {
+        "video_id": "cyQKZh9ch2k",
+        "title": "Welpe im Herbst: 4 Fehler bei Kälte",
+        "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+        "channel_title": "Hundeo - Hundetraining",
+        "subs": 19400,
+        "views": 79874,
+        "likes": 87,
+        "comments": 4,
+        "duration_sec": 8,
+        "published_at": "2026-10-29T17:00:21Z",
+        "age_h": 271.9653,
+        "vph": 293.6919,
+        "eng": 0.0011,
+        "view_sub": 4.1172,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1088.0327,
+        "multiple": 73.4114,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1309,
+        "baseline_source": "channel",
+        "excess_views": 78786,
+        "format": "short",
+        "zone_id": "fehler"
+      },
+      {
+        "video_id": "PoLZkulOSzE",
+        "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+        "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+        "channel_title": "Balloony Tiergesundheit",
+        "subs": 1170,
+        "views": 39798,
+        "likes": 151,
+        "comments": 0,
+        "duration_sec": 13,
+        "published_at": "2026-11-04T09:00:27Z",
+        "age_h": 135.9636,
+        "vph": 292.7107,
+        "eng": 0.0038,
+        "view_sub": 34.0154,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1081.4744,
+        "multiple": 36.7998,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1614,
+        "baseline_source": "channel",
+        "excess_views": 38717,
+        "format": "short",
+        "zone_id": "dein"
+      },
+      {
+        "video_id": "TrK6cnzrY6c",
+        "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+        "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+        "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+        "subs": 519,
+        "views": 17301,
+        "likes": 308,
+        "comments": 1,
+        "duration_sec": 10,
+        "published_at": "2026-11-06T04:30:39Z",
+        "age_h": 92.4603,
+        "vph": 187.1182,
+        "eng": 0.0179,
+        "view_sub": 33.3353,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 525.4768,
+        "multiple": 32.9244,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 907.5,
+        "baseline_source": "channel",
+        "excess_views": 16776,
+        "format": "short",
+        "zone_id": "jedem"
+      },
+      {
+        "video_id": "-eqcbU3aWYg",
+        "title": "Wie lange darf ein Hund allein sein? 2, 4 oder 8 Stunden",
+        "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+        "channel_title": "Hundeo - Hundetraining",
+        "subs": 19400,
+        "views": 16131,
+        "likes": 182,
+        "comments": 12,
+        "duration_sec": 23,
+        "published_at": "2026-10-27T11:01:14Z",
+        "age_h": 325.9506,
+        "vph": 49.4891,
+        "eng": 0.012,
+        "view_sub": 0.8315,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1142.7448,
+        "multiple": 14.116,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1309,
+        "baseline_source": "channel",
+        "excess_views": 14988,
+        "format": "short",
+        "zone_id": "oder"
+      },
+      {
+        "video_id": "fY1ah3i0Wh8",
+        "title": "Mein Frauchen und Autofahren🤣 dog #puppy #doggielife #pets #funny",
+        "channel_id": "UCoXLfKG5h-k1PzWIK0L_YhQ",
+        "channel_title": "CHINESE CRESTED POWDERPUFF TV",
+        "subs": 2900,
+        "views": 1026,
+        "likes": 9,
+        "comments": 0,
+        "duration_sec": 14,
+        "published_at": "2026-11-09T19:27:34Z",
+        "age_h": 5.5117,
+        "vph": 186.1506,
+        "eng": 0.0088,
+        "view_sub": 0.3538,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 100.9217,
+        "multiple": 10.1663,
+        "level": 3,
+        "level_code": "viral",
+        "baseline": 1308,
+        "baseline_source": "channel",
+        "excess_views": 925,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "yQ4r4sU1UbI",
+        "title": "Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hunde",
+        "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+        "channel_title": "JacktheDalmatian",
+        "subs": 1600,
+        "views": 16917,
+        "likes": 283,
+        "comments": 10,
+        "duration_sec": 10,
+        "published_at": "2026-11-03T10:35:55Z",
+        "age_h": 158.3725,
+        "vph": 106.8178,
+        "eng": 0.0173,
+        "view_sub": 10.5731,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1922.6287,
+        "multiple": 8.7989,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 2723,
+        "baseline_source": "channel",
+        "excess_views": 14994,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "u49Ps-VrWiw",
+        "title": "3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱",
+        "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+        "channel_title": "Dogletics",
+        "subs": 3240,
+        "views": 9417,
+        "likes": 127,
+        "comments": 3,
+        "duration_sec": 21,
+        "published_at": "2026-10-28T16:16:54Z",
+        "age_h": 296.6894,
+        "vph": 31.7403,
+        "eng": 0.0138,
+        "view_sub": 2.9065,
+        "delta24": null,
+        "is_short": true,
+        "language": "de-DE",
+        "audio_language": "de-DE",
+        "expected": 958.9655,
+        "multiple": 9.82,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 1126.5,
+        "baseline_source": "channel",
+        "excess_views": 8458,
+        "format": "short",
+        "zone_id": "meinen"
+      },
+      {
+        "video_id": "lw-JVzObDxE",
+        "title": "Apportieren- Aufbau für Obedience Beginner",
+        "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+        "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+        "subs": 2970,
+        "views": 8617,
+        "likes": 149,
+        "comments": 3,
+        "duration_sec": 27,
+        "published_at": "2026-10-27T11:11:54Z",
+        "age_h": 325.7728,
+        "vph": 26.451,
+        "eng": 0.0176,
+        "view_sub": 2.9013,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 1290.967,
+        "multiple": 6.6748,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 1479,
+        "baseline_source": "channel",
+        "excess_views": 7326,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "79h3E8eHvEQ",
+        "title": "Ohne Leckerli vs. mit Leckerli 😂🐶",
+        "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+        "channel_title": "Tierliebhaber",
+        "subs": 1790,
+        "views": 7080,
+        "likes": 84,
+        "comments": 5,
+        "duration_sec": 20,
+        "published_at": "2026-10-27T16:13:12Z",
+        "age_h": 320.7511,
+        "vph": 22.0732,
+        "eng": 0.0126,
+        "view_sub": 3.9553,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 830.596,
+        "multiple": 8.524,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 955.5,
+        "baseline_source": "channel",
+        "excess_views": 6249,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "CpymYngPk4s",
+        "title": "Dein Hund übertreibt nicht 💛",
+        "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+        "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+        "subs": 519,
+        "views": 6277,
+        "likes": 42,
+        "comments": 0,
+        "duration_sec": 5,
+        "published_at": "2026-11-03T04:30:32Z",
+        "age_h": 164.4622,
+        "vph": 38.1668,
+        "eng": 0.0067,
+        "view_sub": 12.0944,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 648.8409,
+        "multiple": 9.6742,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 907.5,
+        "baseline_source": "channel",
+        "excess_views": 5628,
+        "format": "short",
+        "zone_id": "dein"
+      },
+      {
+        "video_id": "0ziDrLij48g",
+        "title": "Ein Hund braucht nicht viel. Aber dieses eine Ding braucht er jeden Tag 🐾",
+        "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+        "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+        "subs": 519,
+        "views": 4304,
+        "likes": 79,
+        "comments": 1,
+        "duration_sec": 8,
+        "published_at": "2026-11-01T10:30:11Z",
+        "age_h": 206.4681,
+        "vph": 20.8458,
+        "eng": 0.0186,
+        "view_sub": 8.2929,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 696.5908,
+        "multiple": 6.1787,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 907.5,
+        "baseline_source": "channel",
+        "excess_views": 3607,
+        "format": "short",
+        "zone_id": "tag"
+      },
+      {
+        "video_id": "LbQifm2U3Oc",
+        "title": "Kommt mein Hund an den Fußball? ⚽😂",
+        "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+        "channel_title": "Dogletics",
+        "subs": 3240,
+        "views": 1324,
+        "likes": 9,
+        "comments": 0,
+        "duration_sec": 17,
+        "published_at": "2026-11-09T11:28:44Z",
+        "age_h": 13.4922,
+        "vph": 98.1306,
+        "eng": 0.0068,
+        "view_sub": 0.4086,
+        "delta24": null,
+        "is_short": true,
+        "language": "de-DE",
+        "audio_language": "de-DE",
+        "expected": 191.8331,
+        "multiple": 6.9018,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 1126.5,
+        "baseline_source": "channel",
+        "excess_views": 1132,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "f3fjhEtLlo4",
+        "title": "Kann mein Hund ein EI aus dem Wasser holen? 🥚😂",
+        "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+        "channel_title": "Dogletics",
+        "subs": 3240,
+        "views": 1165,
+        "likes": 13,
+        "comments": 0,
+        "duration_sec": 26,
+        "published_at": "2026-11-09T17:00:39Z",
+        "age_h": 7.9603,
+        "vph": 146.3517,
+        "eng": 0.0112,
+        "view_sub": 0.3596,
+        "delta24": null,
+        "is_short": true,
+        "language": "de-DE",
+        "audio_language": "de-DE",
+        "expected": 122.2815,
+        "multiple": 9.5272,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 1126.5,
+        "baseline_source": "channel",
+        "excess_views": 1043,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "c1TQWq_q9Ks",
+        "title": "Dein Hund will NICHT kuscheln? DAS steckt dahinter! 🐕#shorts #goldenretriever",
+        "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+        "channel_title": "Wuff & Wissen",
+        "subs": 1260,
+        "views": 1076,
+        "likes": 30,
+        "comments": 1,
+        "duration_sec": 24,
+        "published_at": "2026-11-09T11:00:35Z",
+        "age_h": 13.9614,
+        "vph": 77.0697,
+        "eng": 0.0288,
+        "view_sub": 0.854,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 170.0417,
+        "multiple": 6.3279,
+        "level": 2,
+        "level_code": "breakout",
+        "baseline": 965,
+        "baseline_source": "channel",
+        "excess_views": 906,
+        "format": "short",
+        "zone_id": "steckt"
+      },
+      {
+        "video_id": "a1uCNsI3faI",
+        "title": "ClashGames macht KLOPF KLOPF TANZ! 😂 #shorts",
+        "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+        "channel_title": "ClashGames",
+        "subs": 1820000,
+        "views": 50059,
+        "likes": 1120,
+        "comments": 72,
+        "duration_sec": 13,
+        "published_at": "2026-11-09T14:21:44Z",
+        "age_h": 10.6089,
+        "vph": 4718.5903,
+        "eng": 0.0238,
+        "view_sub": 0.0275,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": "de",
+        "expected": 14929.3082,
+        "multiple": 3.3531,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 108532,
+        "baseline_source": "channel",
+        "excess_views": 35130,
+        "format": "short",
+        "zone_id": null
+      },
+      {
+        "video_id": "ioSyNM8KiuE",
+        "title": "Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳",
+        "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+        "channel_title": "TierWow",
+        "subs": 8220,
+        "views": 19381,
+        "likes": 397,
+        "comments": 35,
+        "duration_sec": 77,
+        "published_at": "2026-11-04T06:00:01Z",
+        "age_h": 138.9708,
+        "vph": 139.4609,
+        "eng": 0.0223,
+        "view_sub": 2.3578,
+        "delta24": null,
+        "is_short": true,
+        "language": "de",
+        "audio_language": null,
+        "expected": 6224.1999,
+        "multiple": 3.1138,
+        "level": 1,
+        "level_code": "outlier",
+        "baseline": 9218.0,
+        "baseline_source": "channel",
+        "excess_views": 13157,
+        "format": "short",
+        "zone_id": "niemal"
+      }
+    ]
+  },
+  "wins": [
+    {
+      "video_id": "0Z764tEO7K4",
+      "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 297687,
+      "likes": 786,
+      "comments": 5,
+      "duration_sec": 13,
+      "published_at": "2026-10-31T09:00:30Z",
+      "age_h": 231.9628,
+      "vph": 1283.3395,
+      "eng": 0.0027,
+      "view_sub": 254.4333,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "D2x9QFW5ivg",
+      "title": "So begrüßt du einen Hund richtig!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 204516,
+      "likes": 420,
+      "comments": 3,
+      "duration_sec": 13,
+      "published_at": "2026-10-30T09:00:03Z",
+      "age_h": 255.9703,
+      "vph": 798.9834,
+      "eng": 0.0021,
+      "view_sub": 174.8,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "4W4hGwPM2NU",
+      "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "channel_title": "GUTE HUNDE",
+      "subs": 1640,
+      "views": 222535,
+      "likes": 1934,
+      "comments": 83,
+      "duration_sec": 38,
+      "published_at": "2026-11-01T08:00:27Z",
+      "age_h": 208.9636,
+      "vph": 1064.9462,
+      "eng": 0.0091,
+      "view_sub": 135.6921,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de-DE",
+      "channel_median": 6697.5
+    },
+    {
+      "video_id": "PoLZkulOSzE",
+      "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 39798,
+      "likes": 151,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-04T09:00:27Z",
+      "age_h": 135.9636,
+      "vph": 292.7107,
+      "eng": 0.0038,
+      "view_sub": 34.0154,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "msGUE7Cdy-0",
+      "title": "Wo dein Hund nachts schläft – 14 Stellen und was sie bedeuten",
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "channel_title": "Hundeherz",
+      "subs": 6150,
+      "views": 205046,
+      "likes": 1250,
+      "comments": 107,
+      "duration_sec": 864,
+      "published_at": "2026-09-30T14:15:07Z",
+      "age_h": 970.7192,
+      "vph": 211.231,
+      "eng": 0.0066,
+      "view_sub": 33.3408,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "channel_median": 19044
+    },
+    {
+      "video_id": "TrK6cnzrY6c",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 17301,
+      "likes": 308,
+      "comments": 1,
+      "duration_sec": 10,
+      "published_at": "2026-11-06T04:30:39Z",
+      "age_h": 92.4603,
+      "vph": 187.1182,
+      "eng": 0.0179,
+      "view_sub": 33.3353,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "channel_median": 841.5
+    },
+    {
+      "video_id": "jIeSp7rvX5A",
+      "title": "Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 440739,
+      "likes": 6646,
+      "comments": 422,
+      "duration_sec": 1362,
+      "published_at": "2026-10-20T16:00:20Z",
+      "age_h": 488.9656,
+      "vph": 901.3702,
+      "eng": 0.016,
+      "view_sub": 33.1383,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 47308.0
+    },
+    {
+      "video_id": "CTNAh_NRc8U",
+      "title": "7 Hunderassen, die ich nie wieder ins Haus lassen würde",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 290736,
+      "likes": 5629,
+      "comments": 580,
+      "duration_sec": 1222,
+      "published_at": "2026-10-13T16:00:13Z",
+      "age_h": 656.9675,
+      "vph": 442.5424,
+      "eng": 0.0214,
+      "view_sub": 21.8598,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 47308.0
+    },
+    {
+      "video_id": "SplODI4JCas",
+      "title": "👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 24134,
+      "likes": 94,
+      "comments": 1,
+      "duration_sec": 13,
+      "published_at": "2026-11-02T09:00:16Z",
+      "age_h": 183.9667,
+      "vph": 131.1868,
+      "eng": 0.0039,
+      "view_sub": 20.6274,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "BgsAC_wBMFk",
+      "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 23781,
+      "likes": 61,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-03T09:00:34Z",
+      "age_h": 159.9617,
+      "vph": 148.6669,
+      "eng": 0.0026,
+      "view_sub": 20.3256,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "-_312hTmfX8",
+      "title": "Wenn dein Hund dir die Pfote auf den Arm legt – das steckt wirklich dahinter",
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "channel_title": "Hundeherz",
+      "subs": 6150,
+      "views": 117634,
+      "likes": 824,
+      "comments": 34,
+      "duration_sec": 673,
+      "published_at": "2026-09-27T09:15:41Z",
+      "age_h": 1047.7097,
+      "vph": 112.2773,
+      "eng": 0.0073,
+      "view_sub": 19.1275,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "channel_median": 19044
+    },
+    {
+      "video_id": "oOoF0jW-mws",
+      "title": "10 FEHLER, die deinen HUND denken lassen, dass du ihn NICHT LIEBST",
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "channel_title": "Hunde Verstehen",
+      "subs": 9270,
+      "views": 135044,
+      "likes": 2553,
+      "comments": 350,
+      "duration_sec": 1280,
+      "published_at": "2026-09-24T15:00:27Z",
+      "age_h": 1113.9636,
+      "vph": 121.2284,
+      "eng": 0.0215,
+      "view_sub": 14.5679,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "channel_median": 1348.0
+    },
+    {
+      "video_id": "r1mmB5fXYC0",
+      "title": "Wenn dein Hund dir überallhin folgt – der wahre Grund dahinter",
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "channel_title": "Hundeherz",
+      "subs": 6150,
+      "views": 88763,
+      "likes": 846,
+      "comments": 52,
+      "duration_sec": 679,
+      "published_at": "2026-09-16T14:15:28Z",
+      "age_h": 1306.7133,
+      "vph": 67.9284,
+      "eng": 0.0101,
+      "view_sub": 14.433,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "channel_median": 19044
+    },
+    {
+      "video_id": "RSUhaVUbquc",
+      "title": "🐶🥕 Gesunde Snacks für deinen Hund müssen nicht kompliziert sein!👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 15832,
+      "likes": 78,
+      "comments": 2,
+      "duration_sec": 13,
+      "published_at": "2026-10-17T08:00:08Z",
+      "age_h": 568.9689,
+      "vph": 27.8258,
+      "eng": 0.0051,
+      "view_sub": 13.5316,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 1882.5
+    },
+    {
+      "video_id": "EZD1q2DYneM",
+      "title": "Die 6 Dinge, um die Ihr Hund Sie ein Leben lang bittet",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 177610,
+      "likes": 6408,
+      "comments": 350,
+      "duration_sec": 1229,
+      "published_at": "2026-10-11T17:00:31Z",
+      "age_h": 703.9625,
+      "vph": 252.3004,
+      "eng": 0.038,
+      "view_sub": 13.3541,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 47308.0
+    },
+    {
+      "video_id": "RWxbOOJBxVU",
+      "title": "Welche Hunderasse passt zu dir? 🐶 Dein Geburtsmonat verrät es!",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 108365,
+      "likes": 4050,
+      "comments": 383,
+      "duration_sec": 60,
+      "published_at": "2026-10-06T20:00:11Z",
+      "age_h": 820.9681,
+      "vph": 131.9966,
+      "eng": 0.0409,
+      "view_sub": 13.1831,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 8551.0
+    },
+    {
+      "video_id": "ugWqPrqyPUU",
+      "title": "Warum Leinentraining bei Jagdhunden verbrannte Zeit ist",
+      "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+      "channel_title": "Charly’s Dog Training",
+      "subs": 4240,
+      "views": 47043,
+      "likes": 27,
+      "comments": 4,
+      "duration_sec": 652,
+      "published_at": "2026-09-27T16:00:11Z",
+      "age_h": 1040.9681,
+      "vph": 45.1916,
+      "eng": 0.0007,
+      "view_sub": 11.095,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de-CH",
+      "channel_median": 546.5
+    },
+    {
+      "video_id": "10lV_SwaRDY",
+      "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 87941,
+      "likes": 1424,
+      "comments": 136,
+      "duration_sec": 65,
+      "published_at": "2026-11-06T18:00:27Z",
+      "age_h": 78.9636,
+      "vph": 1113.6902,
+      "eng": 0.0177,
+      "view_sub": 10.6984,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 8551.0
+    },
+    {
+      "video_id": "gN37M3GVCKA",
+      "title": "Feines wegschicken eines fremden Hundes.",
+      "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+      "channel_title": "Julia Recker Hundetraining",
+      "subs": 2800,
+      "views": 29921,
+      "likes": 650,
+      "comments": 18,
+      "duration_sec": 144,
+      "published_at": "2026-09-16T15:31:09Z",
+      "age_h": 1305.4519,
+      "vph": 22.92,
+      "eng": 0.0223,
+      "view_sub": 10.6861,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 5803.5
+    },
+    {
+      "video_id": "yQ4r4sU1UbI",
+      "title": "Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hunde",
+      "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+      "channel_title": "JacktheDalmatian",
+      "subs": 1600,
+      "views": 16917,
+      "likes": 283,
+      "comments": 10,
+      "duration_sec": 10,
+      "published_at": "2026-11-03T10:35:55Z",
+      "age_h": 158.3725,
+      "vph": 106.8178,
+      "eng": 0.0173,
+      "view_sub": 10.5731,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "channel_median": 2839.0
+    }
+  ],
+  "leaders": [
+    {
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "title": "Gerd Hallmann",
+      "subs": 13300,
+      "views_30d": 1609416,
+      "videos_30d": 19,
+      "share": 0.2924,
+      "status": "auto",
+      "topic_fit": 0.8,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+      "title": "ClashGames",
+      "subs": 1820000,
+      "views_30d": 1466220,
+      "videos_30d": 9,
+      "share": 0.2664,
+      "status": "auto",
+      "topic_fit": 0.18,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views_30d": 718659,
+      "videos_30d": 50,
+      "share": 0.1306,
+      "status": "auto",
+      "topic_fit": 0.34,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "title": "TierWow",
+      "subs": 8220,
+      "views_30d": 433457,
+      "videos_30d": 30,
+      "share": 0.0787,
+      "status": "auto",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "title": "GUTE HUNDE",
+      "subs": 1640,
+      "views_30d": 242824,
+      "videos_30d": 3,
+      "share": 0.0441,
+      "status": "auto",
+      "topic_fit": 0.2,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "title": "Hundeo - Hundetraining",
+      "subs": 19400,
+      "views_30d": 182288,
+      "videos_30d": 48,
+      "share": 0.0331,
+      "status": "auto",
+      "topic_fit": 0.5,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "title": "Hundeherz",
+      "subs": 6150,
+      "views_30d": 94806,
+      "videos_30d": 9,
+      "share": 0.0172,
+      "status": "auto",
+      "topic_fit": 0.9091,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+      "title": "Hundetrainer Steve Kaye",
+      "subs": 112000,
+      "views_30d": 92880,
+      "videos_30d": 11,
+      "share": 0.0169,
+      "status": "auto",
+      "topic_fit": 0.52,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "title": "Hunde Verstehen",
+      "subs": 9270,
+      "views_30d": 77996,
+      "videos_30d": 28,
+      "share": 0.0142,
+      "status": "auto",
+      "topic_fit": 0.8,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+      "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "subs": 2970,
+      "views_30d": 76791,
+      "videos_30d": 50,
+      "share": 0.0139,
+      "status": "auto",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "title": "Dogletics",
+      "subs": 3240,
+      "views_30d": 66920,
+      "videos_30d": 28,
+      "share": 0.0122,
+      "status": "auto",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views_30d": 65539,
+      "videos_30d": 50,
+      "share": 0.0119,
+      "status": "auto",
+      "topic_fit": 0.74,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+      "title": "HALTERSCHULE – Führung von Innen",
+      "subs": 3190,
+      "views_30d": 58502,
+      "videos_30d": 11,
+      "share": 0.0106,
+      "status": "auto",
+      "topic_fit": 0.52,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+      "title": "Die Weisheit der Pfoten",
+      "subs": 14900,
+      "views_30d": 46115,
+      "videos_30d": 13,
+      "share": 0.0084,
+      "status": "auto",
+      "topic_fit": 0.74,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "title": "Wuff & Wissen",
+      "subs": 1260,
+      "views_30d": 45633,
+      "videos_30d": 50,
+      "share": 0.0083,
+      "status": "auto",
+      "topic_fit": 0.7,
+      "channel_type": "specialist"
+    }
+  ],
+  "leaders_by_format": {
+    "long": [
+      {
+        "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+        "title": "Gerd Hallmann",
+        "subs": 13300,
+        "views_30d": 1609416,
+        "videos_30d": 19,
+        "share": 0.4644,
+        "status": "auto",
+        "topic_fit": 0.8,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+        "title": "ClashGames",
+        "subs": 1820000,
+        "views_30d": 1416161,
+        "videos_30d": 8,
+        "share": 0.4086,
+        "status": "auto",
+        "topic_fit": 0.18,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+        "title": "Hundeherz",
+        "subs": 6150,
+        "views_30d": 94806,
+        "videos_30d": 9,
+        "share": 0.0274,
+        "status": "auto",
+        "topic_fit": 0.9091,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+        "title": "Hundetrainer Steve Kaye",
+        "subs": 112000,
+        "views_30d": 92880,
+        "videos_30d": 11,
+        "share": 0.0268,
+        "status": "auto",
+        "topic_fit": 0.52,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+        "title": "Hunde Verstehen",
+        "subs": 9270,
+        "views_30d": 77996,
+        "videos_30d": 28,
+        "share": 0.0225,
+        "status": "auto",
+        "topic_fit": 0.8,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+        "title": "HALTERSCHULE – Führung von Innen",
+        "subs": 3190,
+        "views_30d": 55872,
+        "videos_30d": 8,
+        "share": 0.0161,
+        "status": "auto",
+        "topic_fit": 0.52,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+        "title": "Die Weisheit der Pfoten",
+        "subs": 14900,
+        "views_30d": 29199,
+        "videos_30d": 4,
+        "share": 0.0084,
+        "status": "auto",
+        "topic_fit": 0.74,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCvRV7zIL9Zr1TS3lyoQOZrQ",
+        "title": "Dennome Roblox",
+        "subs": 368000,
+        "views_30d": 23634,
+        "videos_30d": 1,
+        "share": 0.0068,
+        "status": "auto",
+        "topic_fit": 0.02,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCRmiyO-5nEIGCGS-uPiJzDw",
+        "title": "Roman Langfeld",
+        "subs": 2260,
+        "views_30d": 19233,
+        "videos_30d": 3,
+        "share": 0.0055,
+        "status": "auto",
+        "topic_fit": 0.1852,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+        "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+        "subs": 2970,
+        "views_30d": 10521,
+        "videos_30d": 7,
+        "share": 0.003,
+        "status": "auto",
+        "topic_fit": 0.54,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+        "title": "hundsfaelle",
+        "subs": 1050,
+        "views_30d": 9519,
+        "videos_30d": 5,
+        "share": 0.0027,
+        "status": "auto",
+        "topic_fit": 0.58,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+        "title": "Hundeo - Hundetraining",
+        "subs": 19400,
+        "views_30d": 8946,
+        "videos_30d": 5,
+        "share": 0.0026,
+        "status": "auto",
+        "topic_fit": 0.5,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+        "title": "Julia Recker Hundetraining",
+        "subs": 2800,
+        "views_30d": 6010,
+        "videos_30d": 4,
+        "share": 0.0017,
+        "status": "auto",
+        "topic_fit": 0.24,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+        "title": "Charly’s Dog Training",
+        "subs": 4240,
+        "views_30d": 3064,
+        "videos_30d": 5,
+        "share": 0.0009,
+        "status": "auto",
+        "topic_fit": 0.66,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+        "title": "Dog4 – Hundeverhalten verstehen",
+        "subs": 703,
+        "views_30d": 2920,
+        "videos_30d": 5,
+        "share": 0.0008,
+        "status": "auto",
+        "topic_fit": 0.32,
+        "channel_type": "specialist"
+      }
+    ],
+    "short": [
+      {
+        "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+        "title": "Balloony Tiergesundheit",
+        "subs": 1170,
+        "views_30d": 718659,
+        "videos_30d": 50,
+        "share": 0.3524,
+        "status": "auto",
+        "topic_fit": 0.34,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+        "title": "TierWow",
+        "subs": 8220,
+        "views_30d": 433457,
+        "videos_30d": 30,
+        "share": 0.2126,
+        "status": "auto",
+        "topic_fit": 0.54,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+        "title": "GUTE HUNDE",
+        "subs": 1640,
+        "views_30d": 242824,
+        "videos_30d": 3,
+        "share": 0.1191,
+        "status": "auto",
+        "topic_fit": 0.2,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+        "title": "Hundeo - Hundetraining",
+        "subs": 19400,
+        "views_30d": 173342,
+        "videos_30d": 43,
+        "share": 0.085,
+        "status": "auto",
+        "topic_fit": 0.5,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+        "title": "Dogletics",
+        "subs": 3240,
+        "views_30d": 66811,
+        "videos_30d": 27,
+        "share": 0.0328,
+        "status": "auto",
+        "topic_fit": 0.54,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+        "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+        "subs": 2970,
+        "views_30d": 66270,
+        "videos_30d": 43,
+        "share": 0.0325,
+        "status": "auto",
+        "topic_fit": 0.54,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+        "title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+        "subs": 519,
+        "views_30d": 65094,
+        "videos_30d": 43,
+        "share": 0.0319,
+        "status": "auto",
+        "topic_fit": 0.74,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+        "title": "ClashGames",
+        "subs": 1820000,
+        "views_30d": 50059,
+        "videos_30d": 1,
+        "share": 0.0245,
+        "status": "auto",
+        "topic_fit": 0.18,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+        "title": "Wuff & Wissen",
+        "subs": 1260,
+        "views_30d": 45633,
+        "videos_30d": 50,
+        "share": 0.0224,
+        "status": "auto",
+        "topic_fit": 0.7,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+        "title": "Pfoten Academy",
+        "subs": 3930,
+        "views_30d": 40129,
+        "videos_30d": 19,
+        "share": 0.0197,
+        "status": "auto",
+        "topic_fit": 0.58,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+        "title": "Julia Recker Hundetraining",
+        "subs": 2800,
+        "views_30d": 17231,
+        "videos_30d": 4,
+        "share": 0.0084,
+        "status": "auto",
+        "topic_fit": 0.24,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+        "title": "Hundetrainer Steve Kaye Shorts",
+        "subs": 2830,
+        "views_30d": 16994,
+        "videos_30d": 11,
+        "share": 0.0083,
+        "status": "auto",
+        "topic_fit": 0.28,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+        "title": "JacktheDalmatian",
+        "subs": 1600,
+        "views_30d": 16917,
+        "videos_30d": 1,
+        "share": 0.0083,
+        "status": "auto",
+        "topic_fit": 0.16,
+        "channel_type": "generalist"
+      },
+      {
+        "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+        "title": "Die Weisheit der Pfoten",
+        "subs": 14900,
+        "views_30d": 16916,
+        "videos_30d": 9,
+        "share": 0.0083,
+        "status": "auto",
+        "topic_fit": 0.74,
+        "channel_type": "specialist"
+      },
+      {
+        "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+        "title": "Charly’s Dog Training",
+        "subs": 4240,
+        "views_30d": 16027,
+        "videos_30d": 19,
+        "share": 0.0079,
+        "status": "auto",
+        "topic_fit": 0.66,
+        "channel_type": "specialist"
+      }
+    ]
+  },
+  "hits": [
+    {
+      "video_id": "0Z764tEO7K4",
+      "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 297687,
+      "likes": 786,
+      "comments": 5,
+      "duration_sec": 13,
+      "published_at": "2026-10-31T09:00:30Z",
+      "age_h": 231.9628,
+      "vph": 1283.3395,
+      "eng": 0.0027,
+      "view_sub": 254.4333,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "jIeSp7rvX5A",
+      "title": "Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "channel_title": "Gerd Hallmann",
+      "subs": 13300,
+      "views": 440739,
+      "likes": 6646,
+      "comments": 422,
+      "duration_sec": 1362,
+      "published_at": "2026-10-20T16:00:20Z",
+      "age_h": 488.9656,
+      "vph": 901.3702,
+      "eng": 0.016,
+      "view_sub": 33.1383,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "cVf3I8aDIUs",
+      "title": "ALLE YOUTUBER treffen zum 1. MAL unseren BABY HUND HUGO! 🥺 (eskaliert)",
+      "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+      "channel_title": "ClashGames",
+      "subs": 1820000,
+      "views": 275278,
+      "likes": 2740,
+      "comments": 127,
+      "duration_sec": 797,
+      "published_at": "2026-10-23T12:00:38Z",
+      "age_h": 420.9606,
+      "vph": 653.9283,
+      "eng": 0.0104,
+      "view_sub": 0.1513,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "-rshkgX853c",
+      "title": "Meu cachorro faz isso sempre #shorts",
+      "channel_id": "UCpoj4l9LQ7N7OBxVYC_aoHg",
+      "channel_title": "Lux Santana",
+      "subs": 597000,
+      "views": 267574,
+      "likes": 9551,
+      "comments": 183,
+      "duration_sec": 14,
+      "published_at": "2026-10-13T23:30:02Z",
+      "age_h": 649.4706,
+      "vph": 411.9879,
+      "eng": 0.0364,
+      "view_sub": 0.4482,
+      "delta24": null,
+      "is_short": true,
+      "language": "pt-PT",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "TAgHih_B2Gc",
+      "title": "Körpersprache für bessere Leinenführigkeit #hundetraining #hund #hundeschule",
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "channel_title": "GUTE HUNDE",
+      "subs": 1640,
+      "views": 69389,
+      "likes": 521,
+      "comments": 11,
+      "duration_sec": 26,
+      "published_at": "2026-10-29T08:00:35Z",
+      "age_h": 280.9614,
+      "vph": 246.9699,
+      "eng": 0.0077,
+      "view_sub": 42.3104,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de-DE",
+      "tracked": true
+    },
+    {
+      "video_id": "0vdSwMzeRvc",
+      "title": "„Hinter mir\" als Sicherheit: so baue ich es mit meinen Hunden auf | Projekt Marathon",
+      "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+      "channel_title": "Hundetrainer Steve Kaye",
+      "subs": 112000,
+      "views": 6032,
+      "likes": 304,
+      "comments": 32,
+      "duration_sec": 1326,
+      "published_at": "2026-11-08T08:00:29Z",
+      "age_h": 40.9631,
+      "vph": 147.2546,
+      "eng": 0.0557,
+      "view_sub": 0.0539,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de-DE",
+      "tracked": true
+    },
+    {
+      "video_id": "byE-Q_iXBGc",
+      "title": "Dein Hund liegt neben dir – aber WILL er wirklich kuscheln? 😳 #goldenretriever #shorts",
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "channel_title": "Wuff & Wissen",
+      "subs": 1260,
+      "views": 989,
+      "likes": 24,
+      "comments": 1,
+      "duration_sec": 25,
+      "published_at": "2026-11-09T17:30:07Z",
+      "age_h": 7.4692,
+      "vph": 132.411,
+      "eng": 0.0253,
+      "view_sub": 0.7849,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "0_bb6eMoEUQ",
+      "title": "Die häufigsten Rückruf-Hundetypen",
+      "channel_id": "UCWt8Pslv729uMGOpciI3cNw",
+      "channel_title": "CANINE Hundepsychologie",
+      "subs": 3420,
+      "views": 85933,
+      "likes": 1685,
+      "comments": 285,
+      "duration_sec": 78,
+      "published_at": "2026-10-11T06:39:24Z",
+      "age_h": 714.3144,
+      "vph": 120.3014,
+      "eng": 0.0229,
+      "view_sub": 25.1266,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "hRJUqG8qx7I",
+      "title": "Wo dein Hund dich berührt – 8 Stellen und was sie bedeuten",
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "channel_title": "Hundeherz",
+      "subs": 6150,
+      "views": 4195,
+      "likes": 54,
+      "comments": 1,
+      "duration_sec": 737,
+      "published_at": "2026-11-08T10:15:01Z",
+      "age_h": 38.7208,
+      "vph": 108.3396,
+      "eng": 0.0131,
+      "view_sub": 0.6821,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "s5_Fq4XqJuo",
+      "title": "Hundetraining \"Nur-Positiv\" vs \"Holzhammer\"",
+      "channel_id": "UCWt8Pslv729uMGOpciI3cNw",
+      "channel_title": "CANINE Hundepsychologie",
+      "subs": 3420,
+      "views": 21391,
+      "likes": 580,
+      "comments": 22,
+      "duration_sec": 112,
+      "published_at": "2026-11-01T18:28:52Z",
+      "age_h": 198.49,
+      "vph": 107.7687,
+      "eng": 0.0281,
+      "view_sub": 6.2547,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "yQ4r4sU1UbI",
+      "title": "Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalamtian #hunde",
+      "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+      "channel_title": "JacktheDalmatian",
+      "subs": 1600,
+      "views": 16917,
+      "likes": 283,
+      "comments": 10,
+      "duration_sec": 10,
+      "published_at": "2026-11-03T10:35:55Z",
+      "age_h": 158.3725,
+      "vph": 106.8178,
+      "eng": 0.0173,
+      "view_sub": 10.5731,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "VVrb5hFaSMA",
+      "title": "ETWAS STIMMT MIT MEINEM HUND NICHT Roblox..",
+      "channel_id": "UCvRV7zIL9Zr1TS3lyoQOZrQ",
+      "channel_title": "Dennome Roblox",
+      "subs": 368000,
+      "views": 23634,
+      "likes": 503,
+      "comments": 27,
+      "duration_sec": 1791,
+      "published_at": "2026-10-31T06:50:14Z",
+      "age_h": 234.1339,
+      "vph": 100.9422,
+      "eng": 0.0224,
+      "view_sub": 0.0642,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "aeXtwLY5zXU",
+      "title": "My Dog Does My Homework",
+      "channel_id": "UCh6FI0mAto_7jBoh83Symgg",
+      "channel_title": "Raidsme",
+      "subs": 65300,
+      "views": 27391,
+      "likes": 395,
+      "comments": 2,
+      "duration_sec": 31,
+      "published_at": "2026-10-21T17:05:24Z",
+      "age_h": 463.8811,
+      "vph": 59.0475,
+      "eng": 0.0145,
+      "view_sub": 0.4195,
+      "delta24": null,
+      "is_short": true,
+      "language": "en",
+      "audio_language": "en",
+      "tracked": false
+    },
+    {
+      "video_id": "UglT5PiTQyM",
+      "title": "Why Is My Dog Doing This? #dogs #funny #shorts",
+      "channel_id": "UCchcIFL1tirb-bziF9zA59Q",
+      "channel_title": "Wait4One",
+      "subs": 3810,
+      "views": 2328,
+      "likes": 55,
+      "comments": 0,
+      "duration_sec": 19,
+      "published_at": "2026-11-07T23:30:35Z",
+      "age_h": 49.4614,
+      "vph": 47.067,
+      "eng": 0.0236,
+      "view_sub": 0.611,
+      "delta24": null,
+      "is_short": true,
+      "language": "en",
+      "audio_language": "en-US",
+      "tracked": false
+    },
+    {
+      "video_id": "GE122IpivwM",
+      "title": "Grenzende Seiten mit Körpersprache #hundetraining #hund #hundeschule",
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "channel_title": "GUTE HUNDE",
+      "subs": 1640,
+      "views": 10007,
+      "likes": 167,
+      "comments": 2,
+      "duration_sec": 36,
+      "published_at": "2026-10-28T08:00:02Z",
+      "age_h": 304.9706,
+      "vph": 32.813,
+      "eng": 0.0169,
+      "view_sub": 6.1018,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de-DE",
+      "tracked": true
+    },
+    {
+      "video_id": "hm2Lv0FBI2o",
+      "title": "Dein Hund wartet sein GANZES LEBEN darauf, dass du DAS tust!",
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "channel_title": "Hunde Verstehen",
+      "subs": 9270,
+      "views": 8372,
+      "likes": 223,
+      "comments": 19,
+      "duration_sec": 1239,
+      "published_at": "2026-10-24T15:00:20Z",
+      "age_h": 393.9656,
+      "vph": 21.2506,
+      "eng": 0.0289,
+      "view_sub": 0.9031,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "Ti9Ho-dkLTw",
+      "title": "👇🏻 🐶💜 Dein Hund kann nicht sprechen – aber er zeigt dir, wenn ihm etwas zu viel wird!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 9412,
+      "likes": 70,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-10-18T08:00:22Z",
+      "age_h": 544.965,
+      "vph": 17.2708,
+      "eng": 0.0074,
+      "view_sub": 8.0444,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "RCAVtJQ7jUY",
+      "title": "Ignoriere diese Bewegung deines Hundes niemals! 🐶😳 #Shorts",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 9533,
+      "likes": 500,
+      "comments": 0,
+      "duration_sec": 59,
+      "published_at": "2026-10-17T19:00:08Z",
+      "age_h": 557.9689,
+      "vph": 17.0852,
+      "eng": 0.0524,
+      "view_sub": 1.1597,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "4pU5j40OUX8",
+      "title": "My dog always",
+      "channel_id": "UCKXb5b6WrX2G7hbYeHgmaGw",
+      "channel_title": "Ghostofyoutube ",
+      "subs": 52800,
+      "views": 9259,
+      "likes": 290,
+      "comments": 0,
+      "duration_sec": 6,
+      "published_at": "2026-10-17T16:06:53Z",
+      "age_h": 560.8564,
+      "vph": 16.5087,
+      "eng": 0.0313,
+      "view_sub": 0.1754,
+      "delta24": null,
+      "is_short": true,
+      "language": "en",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "uLl6t34JhPE",
+      "title": "Warum dein Hund am Schritt schnüffelt – was er dir damit sagen will",
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "channel_title": "Hundeherz",
+      "subs": 6150,
+      "views": 10053,
+      "likes": 165,
+      "comments": 4,
+      "duration_sec": 649,
+      "published_at": "2026-10-14T14:15:38Z",
+      "age_h": 634.7106,
+      "vph": 15.8387,
+      "eng": 0.0168,
+      "view_sub": 1.6346,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "Q1_li1b40U4",
+      "title": "Halsband oder Geschirr? Für mich zählen Körpersprache, Stimme und Gesten",
+      "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+      "channel_title": "Hundetrainer Steve Kaye Shorts",
+      "subs": 2830,
+      "views": 7626,
+      "likes": 152,
+      "comments": 8,
+      "duration_sec": 67,
+      "published_at": "2026-10-17T14:04:38Z",
+      "age_h": 562.8939,
+      "vph": 13.5478,
+      "eng": 0.021,
+      "view_sub": 2.6947,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "HMp43N8f3FU",
+      "title": "Körpersprache beachten",
+      "channel_id": "UCr-rkjE6_NxT3NMLUTCItjA",
+      "channel_title": "Hundeversität",
+      "subs": 14,
+      "views": 2216,
+      "likes": 9,
+      "comments": 1,
+      "duration_sec": 15,
+      "published_at": "2026-11-02T12:24:45Z",
+      "age_h": 180.5586,
+      "vph": 12.273,
+      "eng": 0.0045,
+      "view_sub": 158.2857,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "5XY8Igt8Iuk",
+      "title": "Warum Ihr Hund nachts bellt – und wann Sie aufstehen müssen",
+      "channel_id": "UCRmiyO-5nEIGCGS-uPiJzDw",
+      "channel_title": "Roman Langfeld",
+      "subs": 2260,
+      "views": 1381,
+      "likes": 21,
+      "comments": 1,
+      "duration_sec": 1074,
+      "published_at": "2026-11-04T12:00:32Z",
+      "age_h": 132.9622,
+      "vph": 10.3864,
+      "eng": 0.0159,
+      "view_sub": 0.6111,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    },
+    {
+      "video_id": "ELoZWnFAHQM",
+      "title": "Hungry goat fed my Dog #bodylanguage #animalcommunication #hunger #animallove",
+      "channel_id": "UCxmYbzAKBAcT4MuHSqCWM9Q",
+      "channel_title": "Sanatan Blueprint",
+      "subs": 19400,
+      "views": 3040,
+      "likes": 23,
+      "comments": 0,
+      "duration_sec": 11,
+      "published_at": "2026-10-26T13:39:16Z",
+      "age_h": 347.3167,
+      "vph": 8.7528,
+      "eng": 0.0076,
+      "view_sub": 0.1567,
+      "delta24": null,
+      "is_short": true,
+      "language": "en-US",
+      "audio_language": "en-US",
+      "tracked": false
+    },
+    {
+      "video_id": "dA5ivFOJjY0",
+      "title": "Wenn Sie einen anderen Hund vor Ihrem eigenen streicheln, passiert Folgendes...",
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "channel_title": "Hunde Verstehen",
+      "subs": 9270,
+      "views": 4207,
+      "likes": 163,
+      "comments": 4,
+      "duration_sec": 1214,
+      "published_at": "2026-10-17T15:00:29Z",
+      "age_h": 561.9631,
+      "vph": 7.4863,
+      "eng": 0.0397,
+      "view_sub": 0.4538,
+      "delta24": null,
+      "is_short": false,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": true
+    },
+    {
+      "video_id": "I2CFvVMcx5g",
+      "title": "Warum macht sich dein Hund plötzlich ganz klein? 🐶",
+      "channel_id": "UCT59wWUtdYKmzXTacEKwoTA",
+      "channel_title": "Wuffia ",
+      "subs": 41,
+      "views": 888,
+      "likes": 7,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-04T20:08:58Z",
+      "age_h": 124.8217,
+      "vph": 7.1141,
+      "eng": 0.0079,
+      "view_sub": 21.6585,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "kh4xugcUl1Y",
+      "title": "Weißes im Hundeauge? Jetzt aufhören! 👀 #shorts",
+      "channel_id": "UCvM_er1x369OxKYbOffzkQw",
+      "channel_title": "DogHarmony Hundeschule",
+      "subs": 17,
+      "views": 595,
+      "likes": 14,
+      "comments": 0,
+      "duration_sec": 27,
+      "published_at": "2026-11-06T08:01:08Z",
+      "age_h": 88.9522,
+      "vph": 6.689,
+      "eng": 0.0235,
+      "view_sub": 35.0,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "GvqgV-zlfQw",
+      "title": "Warum legt dein Hund den Kopf schief?",
+      "channel_id": "UCCj4bRG0sBC03Wz-D1MafQA",
+      "channel_title": "Pfotensprache",
+      "subs": 17,
+      "views": 1263,
+      "likes": 10,
+      "comments": 0,
+      "duration_sec": 30,
+      "published_at": "2026-11-01T16:00:32Z",
+      "age_h": 200.9622,
+      "vph": 6.2848,
+      "eng": 0.0079,
+      "view_sub": 74.2941,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "tracked": false
+    },
+    {
+      "video_id": "DfpfsEJwQnU",
+      "title": "Warum legt dein Hund seinen Kopf auf dich? 🐶❤️",
+      "channel_id": "UCT59wWUtdYKmzXTacEKwoTA",
+      "channel_title": "Wuffia ",
+      "subs": 41,
+      "views": 1316,
+      "likes": 20,
+      "comments": 1,
+      "duration_sec": 9,
+      "published_at": "2026-10-31T18:13:06Z",
+      "age_h": 222.7528,
+      "vph": 5.9079,
+      "eng": 0.016,
+      "view_sub": 32.0976,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": false
+    },
+    {
+      "video_id": "JsV7rbc_kIQ",
+      "title": "Kein Futter heißt nicht warten",
+      "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+      "channel_title": "Hundetrainer Steve Kaye Shorts",
+      "subs": 2830,
+      "views": 1606,
+      "likes": 96,
+      "comments": 5,
+      "duration_sec": 70,
+      "published_at": "2026-10-29T15:05:34Z",
+      "age_h": 273.8783,
+      "vph": 5.8639,
+      "eng": 0.0629,
+      "view_sub": 0.5675,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "tracked": true
+    }
+  ],
+  "keywords": {
+    "top": [
+      {
+        "term": "dein",
+        "n": 162,
+        "weight": 582.37,
+        "example": "Dein Hund spricht mit dir – auch ohne Worte!",
+        "channels": 34
+      },
+      {
+        "term": "dein hund",
+        "n": 138,
+        "weight": 518.0,
+        "example": "Dein Hund spricht mit dir – auch ohne Worte!",
+        "channels": 31
+      },
+      {
+        "term": "sie",
+        "n": 26,
+        "weight": 336.89,
+        "example": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+        "channels": 12
+      },
+      {
+        "term": "ihr hund",
+        "n": 18,
+        "weight": 330.67,
+        "example": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+        "channels": 4
+      },
+      {
+        "term": "einen",
+        "n": 22,
+        "weight": 328.11,
+        "example": "So begrüßt du einen Hund richtig!",
+        "channels": 12
+      },
+      {
+        "term": "ihr",
+        "n": 23,
+        "weight": 324.96,
+        "example": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+        "channels": 8
+      },
+      {
+        "term": "hunde",
+        "n": 45,
+        "weight": 324.67,
+        "example": "Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+        "channels": 24
+      },
+      {
+        "term": "dinge",
+        "n": 23,
+        "weight": 320.4,
+        "example": "7 Dinge täglich, und Ihr Hund weiß, dass Sie ihn LIEBEN",
+        "channels": 8
+      },
+      {
+        "term": "diese",
+        "n": 27,
+        "weight": 307.39,
+        "example": "Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳",
+        "channels": 11
+      },
+      {
+        "term": "dir",
+        "n": 28,
+        "weight": 288.35,
+        "example": "Dein Hund spricht mit dir – auch ohne Worte!",
+        "channels": 15
+      },
+      {
+        "term": "hat",
+        "n": 24,
+        "weight": 285.16,
+        "example": "unser BABY HUND HUGO hat GEHEIRATET! 😱💍",
+        "channels": 14
+      },
+      {
+        "term": "dich",
+        "n": 24,
+        "weight": 270.79,
+        "example": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+        "channels": 12
+      },
+      {
+        "term": "wenn",
+        "n": 31,
+        "weight": 270.0,
+        "example": "Hol dir niemals einen Malinois, wenn du diese 3 Dinge nicht kennst! 😳🐕 #Shorts",
+        "channels": 16
+      },
+      {
+        "term": "kann",
+        "n": 36,
+        "weight": 264.22,
+        "example": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+        "channels": 12
+      },
+      {
+        "term": "sind",
+        "n": 17,
+        "weight": 264.13,
+        "example": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+        "channels": 12
+      },
+      {
+        "term": "oder",
+        "n": 27,
+        "weight": 264.1,
+        "example": "7 Zeichen, dass Ihr Hund Sie als Mama oder Papa sieht (nicht als Herrchen)",
+        "channels": 13
+      },
+      {
+        "term": "deinen",
+        "n": 33,
+        "weight": 257.08,
+        "example": "👇🏻Halsband oder Geschirr – was ist besser für deinen Hund?",
+        "channels": 16
+      },
+      {
+        "term": "baby",
+        "n": 7,
+        "weight": 255.01,
+        "example": "unser BABY HUND HUGO hat GEHEIRATET! 😱💍",
+        "channels": 2
+      },
+      {
+        "term": "wirklich",
+        "n": 32,
+        "weight": 253.13,
+        "example": "7 seltene Eigenschaften von Frauen, die Hunde wirklich lieben",
+        "channels": 15
+      },
+      {
+        "term": "niemals",
+        "n": 14,
+        "weight": 237.52,
+        "example": "Wähle niemals einen Bullterrier, bevor du diese 4 Dinge kennst! 🐶😳",
+        "channels": 2
+      }
+    ],
+    "rising": [],
+    "history_days": 0,
+    "n_docs": 660,
+    "rising_basis": {
+      "mode": "new_uploads",
+      "docs": 37,
+      "since": null
+    }
+  },
+  "new_channels": [
+    {
+      "channel_id": "UCGyr7elairnKJl8GCl3DV0Q",
+      "title": "A Realnature - SeelenTiere",
+      "note": "relevance · matched: hund, hundepsychologie, macht, mein, verstehen, warum · video: Warum macht mein Hund das?! - 3 Verhaltensweisen, die fast alle missverstehen",
+      "subs": 2260
+    },
+    {
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "title": "Balloony Tiergesundheit",
+      "note": "relevance · matched: hund · video: Dein Hund spricht mit dir – auch ohne Worte!",
+      "subs": 1170
+    },
+    {
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "note": "relevance · matched: hund · video: Dein Hund markiert und schaut dich dabei an? Das kann dahinterstecken",
+      "subs": 519
+    },
+    {
+      "channel_id": "UCoXLfKG5h-k1PzWIK0L_YhQ",
+      "title": "CHINESE CRESTED POWDERPUFF TV",
+      "note": "relevance · matched: hund, mein · video: Wenn das Telefon klingelt, dreht mein Hund durch. Alarm wie eine Sirene # shorts",
+      "subs": 2900
+    },
+    {
+      "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+      "title": "Charly’s Dog Training",
+      "note": "relevance · matched: hund · video: Dein Hund kündigt jeden Ausraster ein paar Sekunden vorher an #shorts",
+      "subs": 4240
+    },
+    {
+      "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+      "title": "ClashGames",
+      "note": "reach · matched: hund · video: ALLE YOUTUBER treffen zum 1. MAL unseren BABY HUND HUGO! 🥺 (eskaliert)",
+      "subs": 1820000
+    },
+    {
+      "channel_id": "UCvRV7zIL9Zr1TS3lyoQOZrQ",
+      "title": "Dennome Roblox",
+      "note": "reach · matched: hund · video: ETWAS STIMMT MIT MEINEM HUND NICHT Roblox..",
+      "subs": 368000
+    },
+    {
+      "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+      "title": "Die Weisheit der Pfoten",
+      "note": "reach · matched: hund, hundepsychologie, hundeverhalten, körpersprache, verstehen · video: Soviel Wolf steckt noch in deinem Hund #hunde #wolf",
+      "subs": 14900
+    },
+    {
+      "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+      "title": "Dog4 – Hundeverhalten verstehen",
+      "note": "relevance · matched: hund · video: Halloween mit Hund: Diese Gefahren übersiehst du leicht!",
+      "subs": 703
+    },
+    {
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "title": "Dogletics",
+      "note": "relevance · matched: hund, macht, mein · video: Mein Hund macht den WALD zum Agility Parcours!",
+      "subs": 3240
+    },
+    {
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "title": "GUTE HUNDE",
+      "note": "relevance · matched: hund · video: Körpersprache für bessere Leinenführigkeit #hundetraining #hund #hundeschule",
+      "subs": 1640
+    },
+    {
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "title": "Gerd Hallmann",
+      "note": "relevance · matched: hund, hundeverhalten, körpersprache, verstehen · video: Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+      "subs": 13300
+    },
+    {
+      "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+      "title": "HALTERSCHULE – Führung von Innen",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Brustgeschirr statt Halsband? Diese Aussage sorgt für Streit!",
+      "subs": 3190
+    },
+    {
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "title": "Hunde Verstehen",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, macht, mein, verstehen, warum · video: Dein Hund wartet sein GANZES LEBEN darauf, dass du DAS tust!",
+      "subs": 9270
+    },
+    {
+      "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+      "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "note": "relevance · matched: hund · video: Körpersprach- Übungen, Gymnastizierung und Training für den Hund",
+      "subs": 2970
+    },
+    {
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "title": "Hundeherz",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, mein, verstehen, warum · video: Wo dein Hund dich berührt – 8 Stellen und was sie bedeuten",
+      "subs": 6150
+    },
+    {
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "title": "Hundeo - Hundetraining",
+      "note": "reach · matched: hund, macht · video: Hund alleine lassen: Dieser Fehler an der Haustür macht alles kaputt",
+      "subs": 19400
+    },
+    {
+      "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+      "title": "Hundetrainer Steve Kaye",
+      "note": "reach · matched: hund, verstehen · video: „Hinter mir\" als Sicherheit: so baue ich es mit meinen Hunden auf | Projekt Mara",
+      "subs": 112000
+    },
+    {
+      "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+      "title": "Hundetrainer Steve Kaye Shorts",
+      "note": "relevance · matched: hund · video: Halsband oder Geschirr? Für mich zählen Körpersprache, Stimme und Gesten",
+      "subs": 2830
+    },
+    {
+      "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+      "title": "JacktheDalmatian",
+      "note": "relevance · matched: hund, macht, mein · video: Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalam",
+      "subs": 1600
+    },
+    {
+      "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+      "title": "Julia Recker Hundetraining",
+      "note": "relevance · matched: hund, körpersprache, verstehen, warum · video: #2 Die wichtigsten körpersprachlichen Merkmale des Hundes",
+      "subs": 2800
+    },
+    {
+      "channel_id": "UCx40UyexReAGJD7eYhB007g",
+      "title": "Medical Training mit Nicole Stein",
+      "note": "relevance · matched: hund · video: Zahnpflege beim Hund: Kooperation statt Festhalten.",
+      "subs": 640
+    },
+    {
+      "channel_id": "UCQWnYaheB7C_qADVMrVjcvw",
+      "title": "Mehrere Hunde, ein Team - Hundetrainerin Karine M.",
+      "note": "relevance · matched: hundepsychologie, hundeverhalten · video: Wie willst du deinen Hunden Sicherheit geben, wenn du gar nicht erkennst, was ge",
+      "subs": 928
+    },
+    {
+      "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+      "title": "Pfoten Academy",
+      "note": "relevance · matched: hund · video: Versteht dein Hund wirklich jedes Wort? 🐶",
+      "subs": 3930
+    },
+    {
+      "channel_id": "UCRmiyO-5nEIGCGS-uPiJzDw",
+      "title": "Roman Langfeld",
+      "note": "relevance · matched: hund, warum · video: Warum Ihr Hund nachts bellt – und wann Sie aufstehen müssen",
+      "subs": 2260
+    },
+    {
+      "channel_id": "UCOmO7_O15kaI7u82sMmgw-Q",
+      "title": "Septemberhund",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Kommunikation Hund Mensch",
+      "subs": 1120
+    },
+    {
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "title": "TierWow",
+      "note": "relevance · matched: hund · video: Ignoriere diese Bewegung deines Hundes niemals! 🐶😳 #Shorts",
+      "subs": 8220
+    },
+    {
+      "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+      "title": "Tierliebhaber",
+      "note": "relevance · matched: hund · video: Kopf wegdrehen & Schmatzen: Das will dein Hund dir sagen 👀🐶",
+      "subs": 1790
+    },
+    {
+      "channel_id": "UCO2wuDloyn6-E5KkCLtTCeA",
+      "title": "WirHDcom – Cocktails, Tee und weitere Rezepte",
+      "note": "relevance · matched: hund, macht, mein · video: Ich habe heute Durst, mein Hund, der macht ’ne Wurst, und mein Nachbar, der heiß",
+      "subs": 5770
+    },
+    {
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "title": "Wuff & Wissen",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, körpersprache, macht, mein, verstehen, warum · video: Dein Hund liegt neben dir – aber WILL er wirklich kuscheln? 😳 #goldenretriever #",
+      "subs": 1260
+    },
+    {
+      "channel_id": "UC2i2orXUjYIgkaAjfztU7aA",
+      "title": "eDOGcation - Bildungszentrum für Hundeerziehung",
+      "note": "relevance · matched: hund, mein, verstehen · video: Mein Hund versteht mich nicht. Oder will er mich nicht verstehen? #workshophund",
+      "subs": 1190
+    },
+    {
+      "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+      "title": "hundsfaelle",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Leinenpöbeln verstehen: Das zeigt die Videoanalyse! #hundetraining #hundeverhalt",
+      "subs": 1050
+    }
+  ],
+  "remake_candidates": [
+    {
+      "video_id": "10lV_SwaRDY",
+      "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "channel_title": "TierWow",
+      "subs": 8220,
+      "views": 87941,
+      "likes": 1424,
+      "comments": 136,
+      "duration_sec": 65,
+      "published_at": "2026-11-06T18:00:27Z",
+      "age_h": 78.9636,
+      "vph": 1113.6902,
+      "eng": 0.0177,
+      "view_sub": 10.6984,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 4994.2374,
+      "multiple": 17.6085,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 9218.0,
+      "baseline_source": "channel",
+      "excess_views": 82947,
+      "format": "short",
+      "zone_id": "sind"
+    },
+    {
+      "video_id": "PoLZkulOSzE",
+      "title": "Dein Hund hört nicht auf „Loslassen“?👇🏻",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 39798,
+      "likes": 151,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-04T09:00:27Z",
+      "age_h": 135.9636,
+      "vph": 292.7107,
+      "eng": 0.0038,
+      "view_sub": 34.0154,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1081.4744,
+      "multiple": 36.7998,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 38717,
+      "format": "short",
+      "zone_id": "dein"
+    },
+    {
+      "video_id": "BgsAC_wBMFk",
+      "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 23781,
+      "likes": 61,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-03T09:00:34Z",
+      "age_h": 159.9617,
+      "vph": 148.6669,
+      "eng": 0.0026,
+      "view_sub": 20.3256,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": null,
+      "expected": 1143.4008,
+      "multiple": 20.7985,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 22638,
+      "format": "short",
+      "zone_id": "gibt"
+    },
+    {
+      "video_id": "TrK6cnzrY6c",
+      "title": "Dein Hund sucht dich in jedem Raum? Das kann dahinterstecken 🐾",
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "subs": 519,
+      "views": 17301,
+      "likes": 308,
+      "comments": 1,
+      "duration_sec": 10,
+      "published_at": "2026-11-06T04:30:39Z",
+      "age_h": 92.4603,
+      "vph": 187.1182,
+      "eng": 0.0179,
+      "view_sub": 33.3353,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 525.4768,
+      "multiple": 32.9244,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 907.5,
+      "baseline_source": "channel",
+      "excess_views": 16776,
+      "format": "short",
+      "zone_id": "jedem"
+    },
+    {
+      "video_id": "9GpQc37eYG0",
+      "title": "👇🏻 8 einfache Trainingstipps für einen glücklichen Hund!",
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "channel_title": "Balloony Tiergesundheit",
+      "subs": 1170,
+      "views": 11289,
+      "likes": 55,
+      "comments": 0,
+      "duration_sec": 13,
+      "published_at": "2026-11-08T09:00:39Z",
+      "age_h": 39.9603,
+      "vph": 282.5055,
+      "eng": 0.0049,
+      "view_sub": 9.6487,
+      "delta24": null,
+      "is_short": true,
+      "language": "de",
+      "audio_language": "de",
+      "expected": 613.8523,
+      "multiple": 18.3904,
+      "level": 3,
+      "level_code": "viral",
+      "baseline": 1614,
+      "baseline_source": "channel",
+      "excess_views": 10675,
+      "format": "short",
+      "zone_id": "einen"
+    }
+  ],
+  "zones": {
+    "window_days": 90,
+    "min_videos": 8,
+    "min_channels": 3,
+    "videos": 908,
+    "grouped": 677,
+    "zones": [
+      {
+        "zone_id": "diese",
+        "terms": [
+          "diese"
+        ],
+        "videos": 12,
+        "channels": 8,
+        "uploads_30d": 10,
+        "views_30d": {
+          "long": 6728,
+          "short": 20295
+        },
+        "size": 0.0059,
+        "performance": 1.3548,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 8347,
+            "share": 0.3089
+          },
+          {
+            "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+            "channel_title": "HALTERSCHULE – Führung von Innen",
+            "views": 6290,
+            "share": 0.2328
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 5284,
+            "share": 0.1955
+          }
+        ],
+        "top_share": 0.3089,
+        "example": {
+          "video_id": "cxpHZBPbjsQ",
+          "title": "Ragdoll-Katze: Warum diese Katze so besonders ist! 😻🐱",
+          "views": 8347
+        },
+        "openness": 0.6911,
+        "ranks": {
+          "performance": 0.9318,
+          "momentum": null,
+          "size": 0.5227,
+          "openness": 1.0
+        },
+        "opportunity": 82
+      },
+      {
+        "zone_id": "fehler",
+        "terms": [
+          "fehler"
+        ],
+        "videos": 16,
+        "channels": 9,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 12353,
+          "short": 118377
+        },
+        "size": 0.0308,
+        "performance": 1.3308,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 82212,
+            "share": 0.6289
+          },
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 33242,
+            "share": 0.2543
+          },
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 8608,
+            "share": 0.0658
+          }
+        ],
+        "top_share": 0.6289,
+        "example": {
+          "video_id": "cyQKZh9ch2k",
+          "title": "Welpe im Herbst: 4 Fehler bei Kälte",
+          "views": 79874
+        },
+        "openness": 0.3711,
+        "ranks": {
+          "performance": 0.8864,
+          "momentum": null,
+          "size": 0.8182,
+          "openness": 0.5
+        },
+        "opportunity": 73
+      },
+      {
+        "zone_id": "sind",
+        "terms": [
+          "sind"
+        ],
+        "videos": 14,
+        "channels": 10,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 33616,
+          "short": 101559
+        },
+        "size": 0.0298,
+        "performance": 1.5222,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 89341,
+            "share": 0.6609
+          },
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 23291,
+            "share": 0.1723
+          },
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 10325,
+            "share": 0.0764
+          }
+        ],
+        "top_share": 0.6609,
+        "example": {
+          "video_id": "10lV_SwaRDY",
+          "title": "5 Hunderassen, die in Frankreich verboten sind! 😱🐕",
+          "views": 87941
+        },
+        "openness": 0.3391,
+        "ranks": {
+          "performance": 0.9773,
+          "momentum": null,
+          "size": 0.7727,
+          "openness": 0.4318
+        },
+        "opportunity": 73
+      },
+      {
+        "zone_id": "oder",
+        "terms": [
+          "oder"
+        ],
+        "videos": 33,
+        "channels": 10,
+        "uploads_30d": 20,
+        "views_30d": {
+          "long": 75013,
+          "short": 40576
+        },
+        "size": 0.0208,
+        "performance": 1.0767,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 46133,
+            "share": 0.3991
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 28705,
+            "share": 0.2483
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 17451,
+            "share": 0.151
+          }
+        ],
+        "top_share": 0.3991,
+        "example": {
+          "video_id": "DmHt5vv0mC8",
+          "title": "7 Zeichen, dass Ihr Hund Sie als Mama oder Papa sieht (nicht als Herrchen)",
+          "views": 46133
+        },
+        "openness": 0.6009,
+        "ranks": {
+          "performance": 0.5227,
+          "momentum": null,
+          "size": 0.7273,
+          "openness": 0.8864
+        },
+        "opportunity": 71
+      },
+      {
+        "zone_id": "ich",
+        "terms": [
+          "ich"
+        ],
+        "videos": 17,
+        "channels": 14,
+        "uploads_30d": 12,
+        "views_30d": {
+          "long": 1478,
+          "short": 21000
+        },
+        "size": 0.0054,
+        "performance": 1.1898,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+            "channel_title": "Julia Recker Hundetraining",
+            "views": 8471,
+            "share": 0.3769
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 3845,
+            "share": 0.1711
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 2933,
+            "share": 0.1305
+          }
+        ],
+        "top_share": 0.3769,
+        "example": {
+          "video_id": "VckhoUYQ8e0",
+          "title": "Sollen Hunde das unter sich regeln? Nein - und hier erkläre ich u.a. warum.",
+          "views": 8471
+        },
+        "openness": 0.6231,
+        "ranks": {
+          "performance": 0.6818,
+          "momentum": null,
+          "size": 0.5,
+          "openness": 0.9091
+        },
+        "opportunity": 70
+      },
+      {
+        "zone_id": "beim",
+        "terms": [
+          "beim"
+        ],
+        "videos": 27,
+        "channels": 12,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 1129,
+          "short": 28495
+        },
+        "size": 0.0071,
+        "performance": 1.3442,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+            "channel_title": "Pfoten Academy",
+            "views": 18082,
+            "share": 0.6104
+          },
+          {
+            "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+            "channel_title": "Dogletics",
+            "views": 4414,
+            "share": 0.149
+          },
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 2585,
+            "share": 0.0873
+          }
+        ],
+        "top_share": 0.6104,
+        "example": {
+          "video_id": "HCCOzsyWqUk",
+          "title": "Jagdverhalten beim Hund: So trainierst du Begegnungen mit Wild 🐶🦌",
+          "views": 11946
+        },
+        "openness": 0.3896,
+        "ranks": {
+          "performance": 0.9091,
+          "momentum": null,
+          "size": 0.5455,
+          "openness": 0.6136
+        },
+        "opportunity": 69
+      },
+      {
+        "zone_id": "dein",
+        "terms": [
+          "dein"
+        ],
+        "videos": 94,
+        "channels": 20,
+        "uploads_30d": 64,
+        "views_30d": {
+          "long": 24136,
+          "short": 422043
+        },
+        "size": 0.107,
+        "performance": 1.2024,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 350337,
+            "share": 0.7852
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 19123,
+            "share": 0.0429
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 18485,
+            "share": 0.0414
+          }
+        ],
+        "top_share": 0.7852,
+        "example": {
+          "video_id": "0Z764tEO7K4",
+          "title": "Dein Hund spricht mit dir – auch ohne Worte!",
+          "views": 297687
+        },
+        "openness": 0.2148,
+        "ranks": {
+          "performance": 0.7045,
+          "momentum": null,
+          "size": 1.0,
+          "openness": 0.2955
+        },
+        "opportunity": 67
+      },
+      {
+        "zone_id": "sagen",
+        "terms": [
+          "sagen"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 6,
+        "views_30d": {
+          "long": 17443,
+          "short": 1781
+        },
+        "size": 0.003,
+        "performance": 1.2309,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 10053,
+            "share": 0.5229
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 6677,
+            "share": 0.3473
+          },
+          {
+            "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+            "channel_title": "Tierliebhaber",
+            "views": 1577,
+            "share": 0.082
+          }
+        ],
+        "top_share": 0.5229,
+        "example": {
+          "video_id": "uLl6t34JhPE",
+          "title": "Warum dein Hund am Schritt schnüffelt – was er dir damit sagen will",
+          "views": 10053
+        },
+        "openness": 0.4771,
+        "ranks": {
+          "performance": 0.7955,
+          "momentum": null,
+          "size": 0.3864,
+          "openness": 0.7955
+        },
+        "opportunity": 66
+      },
+      {
+        "zone_id": "einen",
+        "terms": [
+          "einen"
+        ],
+        "videos": 14,
+        "channels": 11,
+        "uploads_30d": 12,
+        "views_30d": {
+          "long": 4378,
+          "short": 226823
+        },
+        "size": 0.0562,
+        "performance": 1.3197,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 217794,
+            "share": 0.942
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 4207,
+            "share": 0.0182
+          },
+          {
+            "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+            "channel_title": "Dogletics",
+            "views": 3269,
+            "share": 0.0141
+          }
+        ],
+        "top_share": 0.942,
+        "example": {
+          "video_id": "D2x9QFW5ivg",
+          "title": "So begrüßt du einen Hund richtig!",
+          "views": 204516
+        },
+        "openness": 0.058,
+        "ranks": {
+          "performance": 0.8636,
+          "momentum": null,
+          "size": 0.9091,
+          "openness": 0.1136
+        },
+        "opportunity": 63
+      },
+      {
+        "zone_id": "alleine",
+        "terms": [
+          "alleine",
+          "lassen"
+        ],
+        "videos": 11,
+        "channels": 6,
+        "uploads_30d": 7,
+        "views_30d": {
+          "long": 340787,
+          "short": 2915
+        },
+        "size": 0.0499,
+        "performance": 1.4856,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 339219,
+            "share": 0.987
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 3285,
+            "share": 0.0096
+          },
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 1125,
+            "share": 0.0033
+          }
+        ],
+        "top_share": 0.987,
+        "example": {
+          "video_id": "CTNAh_NRc8U",
+          "title": "7 Hunderassen, die ich nie wieder ins Haus lassen würde",
+          "views": 290736
+        },
+        "openness": 0.013,
+        "ranks": {
+          "performance": 0.9545,
+          "momentum": null,
+          "size": 0.8864,
+          "openness": 0.0455
+        },
+        "opportunity": 63
+      },
+      {
+        "zone_id": "meinen",
+        "terms": [
+          "meinen"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 5,
+        "views_30d": {
+          "long": 6032,
+          "short": 10848
+        },
+        "size": 0.0035,
+        "performance": 1.5952,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+            "channel_title": "Dogletics",
+            "views": 10836,
+            "share": 0.6419
+          },
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 6032,
+            "share": 0.3573
+          },
+          {
+            "channel_id": "UCO2wuDloyn6-E5KkCLtTCeA",
+            "channel_title": "WirHDcom – Cocktails, Tee und weitere Rezepte",
+            "views": 12,
+            "share": 0.0007
+          }
+        ],
+        "top_share": 0.6419,
+        "example": {
+          "video_id": "u49Ps-VrWiw",
+          "title": "3 Kürbis Level für meinen Hund 🎃 Schafft Jam Level 3? 😱",
+          "views": 9417
+        },
+        "openness": 0.3581,
+        "ranks": {
+          "performance": 1.0,
+          "momentum": null,
+          "size": 0.4091,
+          "openness": 0.4773
+        },
+        "opportunity": 63
+      },
+      {
+        "zone_id": "ruhe",
+        "terms": [
+          "ruhe",
+          "zur"
+        ],
+        "videos": 12,
+        "channels": 9,
+        "uploads_30d": 6,
+        "views_30d": {
+          "long": 0,
+          "short": 230668
+        },
+        "size": 0.0566,
+        "performance": 1.277,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+            "channel_title": "GUTE HUNDE",
+            "views": 222535,
+            "share": 0.9647
+          },
+          {
+            "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+            "channel_title": "Pfoten Academy",
+            "views": 2848,
+            "share": 0.0123
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 2431,
+            "share": 0.0105
+          }
+        ],
+        "top_share": 0.9647,
+        "example": {
+          "video_id": "4W4hGwPM2NU",
+          "title": "So findet dein reaktiver Hund zurück zur Ruhe #hundetraining #hund #hundeschule",
+          "views": 222535
+        },
+        "openness": 0.0353,
+        "ranks": {
+          "performance": 0.8182,
+          "momentum": null,
+          "size": 0.9318,
+          "openness": 0.0909
+        },
+        "opportunity": 61
+      },
+      {
+        "zone_id": "wirklich",
+        "terms": [
+          "wirklich"
+        ],
+        "videos": 18,
+        "channels": 11,
+        "uploads_30d": 13,
+        "views_30d": {
+          "long": 62705,
+          "short": 10010
+        },
+        "size": 0.0115,
+        "performance": 1.2215,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 53796,
+            "share": 0.7398
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 9697,
+            "share": 0.1334
+          },
+          {
+            "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+            "channel_title": "Pfoten Academy",
+            "views": 3849,
+            "share": 0.0529
+          }
+        ],
+        "top_share": 0.7398,
+        "example": {
+          "video_id": "dy6sCFvUb9U",
+          "title": "7 seltene Eigenschaften von Frauen, die Hunde wirklich lieben",
+          "views": 53796
+        },
+        "openness": 0.2602,
+        "ranks": {
+          "performance": 0.7727,
+          "momentum": null,
+          "size": 0.6591,
+          "openness": 0.3636
+        },
+        "opportunity": 60
+      },
+      {
+        "zone_id": "hat",
+        "terms": [
+          "hat"
+        ],
+        "videos": 13,
+        "channels": 12,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 179377,
+          "short": 15928
+        },
+        "size": 0.0298,
+        "performance": 1.1608,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+            "channel_title": "ClashGames",
+            "views": 152368,
+            "share": 0.7802
+          },
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 25102,
+            "share": 0.1285
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 8005,
+            "share": 0.041
+          }
+        ],
+        "top_share": 0.7802,
+        "example": {
+          "video_id": "Vagxtbvrlz8",
+          "title": "unser BABY HUND HUGO hat GEHEIRATET! 😱💍",
+          "views": 152368
+        },
+        "openness": 0.2198,
+        "ranks": {
+          "performance": 0.6136,
+          "momentum": null,
+          "size": 0.7955,
+          "openness": 0.3182
+        },
+        "opportunity": 58
+      },
+      {
+        "zone_id": "tag",
+        "terms": [
+          "tag",
+          "jeden"
+        ],
+        "videos": 13,
+        "channels": 10,
+        "uploads_30d": 10,
+        "views_30d": {
+          "long": 579919,
+          "short": 6161
+        },
+        "size": 0.0852,
+        "performance": 1.132,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+            "channel_title": "ClashGames",
+            "views": 494157,
+            "share": 0.8432
+          },
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 42957,
+            "share": 0.0733
+          },
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 41147,
+            "share": 0.0702
+          }
+        ],
+        "top_share": 0.8432,
+        "example": {
+          "video_id": "Kz1lRd8C708",
+          "title": "Die STRENGSTE BABYSITTERIN passt 1 TAG auf unseren BABY HUND HUGO auf! 😭",
+          "views": 307290
+        },
+        "openness": 0.1568,
+        "ranks": {
+          "performance": 0.5682,
+          "momentum": null,
+          "size": 0.9773,
+          "openness": 0.2045
+        },
+        "opportunity": 58
+      },
+      {
+        "zone_id": "steckt",
+        "terms": [
+          "steckt"
+        ],
+        "videos": 9,
+        "channels": 6,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 0,
+          "short": 6232
+        },
+        "size": 0.0015,
+        "performance": 1.0749,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 2224,
+            "share": 0.3569
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 2125,
+            "share": 0.341
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 1883,
+            "share": 0.3022
+          }
+        ],
+        "top_share": 0.3569,
+        "example": {
+          "video_id": "oESS4xYSFIA",
+          "title": "Soviel Wolf steckt noch in deinem Hund #hunde #wolf",
+          "views": 2224
+        },
+        "openness": 0.6431,
+        "ranks": {
+          "performance": 0.5,
+          "momentum": null,
+          "size": 0.2273,
+          "openness": 0.9545
+        },
+        "opportunity": 56
+      },
+      {
+        "zone_id": "ganz",
+        "terms": [
+          "ganz"
+        ],
+        "videos": 9,
+        "channels": 6,
+        "uploads_30d": 8,
+        "views_30d": {
+          "long": 16913,
+          "short": 9438
+        },
+        "size": 0.0048,
+        "performance": 0.8681,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 9393,
+            "share": 0.3565
+          },
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 7460,
+            "share": 0.2831
+          },
+          {
+            "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+            "channel_title": "Julia Recker Hundetraining",
+            "views": 5678,
+            "share": 0.2155
+          }
+        ],
+        "top_share": 0.3565,
+        "example": {
+          "video_id": "hm2Lv0FBI2o",
+          "title": "Dein Hund wartet sein GANZES LEBEN darauf, dass du DAS tust!",
+          "views": 8372
+        },
+        "openness": 0.6435,
+        "ranks": {
+          "performance": 0.2045,
+          "momentum": null,
+          "size": 0.4545,
+          "openness": 0.9773
+        },
+        "opportunity": 55
+      },
+      {
+        "zone_id": "deinen",
+        "terms": [
+          "deinen"
+        ],
+        "videos": 30,
+        "channels": 16,
+        "uploads_30d": 17,
+        "views_30d": {
+          "long": 7312,
+          "short": 29829
+        },
+        "size": 0.0084,
+        "performance": 0.9208,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 21469,
+            "share": 0.578
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 6421,
+            "share": 0.1729
+          },
+          {
+            "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+            "channel_title": "HALTERSCHULE – Führung von Innen",
+            "views": 5978,
+            "share": 0.161
+          }
+        ],
+        "top_share": 0.578,
+        "example": {
+          "video_id": "RSUhaVUbquc",
+          "title": "🐶🥕 Gesunde Snacks für deinen Hund müssen nicht kompliziert sein!👇🏻",
+          "views": 15832
+        },
+        "openness": 0.422,
+        "ranks": {
+          "performance": 0.3182,
+          "momentum": null,
+          "size": 0.5909,
+          "openness": 0.7045
+        },
+        "opportunity": 54
+      },
+      {
+        "zone_id": "über",
+        "terms": [
+          "über"
+        ],
+        "videos": 16,
+        "channels": 10,
+        "uploads_30d": 10,
+        "views_30d": {
+          "long": 936,
+          "short": 86504
+        },
+        "size": 0.0213,
+        "performance": 1.2053,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 81667,
+            "share": 0.934
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 2998,
+            "share": 0.0343
+          },
+          {
+            "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+            "channel_title": "Dogletics",
+            "views": 1295,
+            "share": 0.0148
+          }
+        ],
+        "top_share": 0.934,
+        "example": {
+          "video_id": "kneWQSCuGAc",
+          "title": "Maine Coon: 7 erstaunliche Fakten über diese Riesenkatze! 🐱😱",
+          "views": 54673
+        },
+        "openness": 0.066,
+        "ranks": {
+          "performance": 0.7273,
+          "momentum": null,
+          "size": 0.75,
+          "openness": 0.1364
+        },
+        "opportunity": 54
+      },
+      {
+        "zone_id": "zum",
+        "terms": [
+          "zum"
+        ],
+        "videos": 8,
+        "channels": 7,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 275278,
+          "short": 3232
+        },
+        "size": 0.0405,
+        "performance": 1.2058,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+            "channel_title": "ClashGames",
+            "views": 275278,
+            "share": 0.9884
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 1733,
+            "share": 0.0062
+          },
+          {
+            "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+            "channel_title": "Dogletics",
+            "views": 1499,
+            "share": 0.0054
+          }
+        ],
+        "top_share": 0.9884,
+        "example": {
+          "video_id": "cVf3I8aDIUs",
+          "title": "ALLE YOUTUBER treffen zum 1. MAL unseren BABY HUND HUGO! 🥺 (eskaliert)",
+          "views": 275278
+        },
+        "openness": 0.0116,
+        "ranks": {
+          "performance": 0.75,
+          "momentum": null,
+          "size": 0.8409,
+          "openness": 0.0227
+        },
+        "opportunity": 54
+      },
+      {
+        "zone_id": "deinem",
+        "terms": [
+          "deinem"
+        ],
+        "videos": 18,
+        "channels": 10,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 8038,
+          "short": 5377
+        },
+        "size": 0.0025,
+        "performance": 0.9846,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 6827,
+            "share": 0.5089
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 3169,
+            "share": 0.2362
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 1902,
+            "share": 0.1418
+          }
+        ],
+        "top_share": 0.5089,
+        "example": {
+          "video_id": "rq7Xz8SINQA",
+          "title": "Enjoy the Silence: Was Schweigen mit Deinem Hund macht",
+          "views": 4869
+        },
+        "openness": 0.4911,
+        "ranks": {
+          "performance": 0.3864,
+          "momentum": null,
+          "size": 0.3409,
+          "openness": 0.8182
+        },
+        "opportunity": 52
+      },
+      {
+        "zone_id": "jedem",
+        "terms": [
+          "jedem"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 7,
+        "views_30d": {
+          "long": 32967,
+          "short": 21148
+        },
+        "size": 0.0099,
+        "performance": 0.9093,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+            "channel_title": "ClashGames",
+            "views": 32774,
+            "share": 0.6056
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 19861,
+            "share": 0.367
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 1287,
+            "share": 0.0238
+          }
+        ],
+        "top_share": 0.6056,
+        "example": {
+          "video_id": "yG622aCmCrA",
+          "title": "Mein ERSTES TREFFEN mit JEDEM YOUTUBER! 😁",
+          "views": 32774
+        },
+        "openness": 0.3944,
+        "ranks": {
+          "performance": 0.2727,
+          "momentum": null,
+          "size": 0.6136,
+          "openness": 0.6591
+        },
+        "opportunity": 52
+      },
+      {
+        "zone_id": "menschen",
+        "terms": [
+          "menschen"
+        ],
+        "videos": 8,
+        "channels": 7,
+        "uploads_30d": 5,
+        "views_30d": {
+          "long": 492007,
+          "short": 2045
+        },
+        "size": 0.0715,
+        "performance": 1.1402,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 491488,
+            "share": 0.9948
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 1045,
+            "share": 0.0021
+          },
+          {
+            "channel_id": "UC2i2orXUjYIgkaAjfztU7aA",
+            "channel_title": "eDOGcation - Bildungszentrum für Hundeerziehung",
+            "views": 1000,
+            "share": 0.002
+          }
+        ],
+        "top_share": 0.9948,
+        "example": {
+          "video_id": "jIeSp7rvX5A",
+          "title": "Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+          "views": 440739
+        },
+        "openness": 0.0052,
+        "ranks": {
+          "performance": 0.5909,
+          "momentum": null,
+          "size": 0.9545,
+          "openness": 0.0
+        },
+        "opportunity": 52
+      },
+      {
+        "zone_id": "wissen",
+        "terms": [
+          "wissen"
+        ],
+        "videos": 9,
+        "channels": 8,
+        "uploads_30d": 7,
+        "views_30d": {
+          "long": 93606,
+          "short": 1513
+        },
+        "size": 0.0139,
+        "performance": 0.6524,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 52079,
+            "share": 0.5475
+          },
+          {
+            "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+            "channel_title": "HALTERSCHULE – Führung von Innen",
+            "views": 30114,
+            "share": 0.3166
+          },
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 10468,
+            "share": 0.1101
+          }
+        ],
+        "top_share": 0.5475,
+        "example": {
+          "video_id": "ygC-qWyuh1o",
+          "title": "14 billige Dinge, die Ihren Hund EXTREM glücklich machen: 99 % der Hundebesitzer wissen das nicht!",
+          "views": 52079
+        },
+        "openness": 0.4525,
+        "ranks": {
+          "performance": 0.0909,
+          "momentum": null,
+          "size": 0.6818,
+          "openness": 0.75
+        },
+        "opportunity": 51
+      },
+      {
+        "zone_id": "machen",
+        "terms": [
+          "machen"
+        ],
+        "videos": 14,
+        "channels": 9,
+        "uploads_30d": 6,
+        "views_30d": {
+          "long": 4844,
+          "short": 4873
+        },
+        "size": 0.0019,
+        "performance": 0.8829,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 3574,
+            "share": 0.3678
+          },
+          {
+            "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+            "channel_title": "HALTERSCHULE – Führung von Innen",
+            "views": 2869,
+            "share": 0.2953
+          },
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 1299,
+            "share": 0.1337
+          }
+        ],
+        "top_share": 0.3678,
+        "example": {
+          "video_id": "hRbXEatEmXg",
+          "title": "Diese 5 Erziehungstipps machen alles schlimmer! – Reaction auf @Kathis.Hundewelt  ​",
+          "views": 2869
+        },
+        "openness": 0.6322,
+        "ranks": {
+          "performance": 0.25,
+          "momentum": null,
+          "size": 0.2955,
+          "openness": 0.9318
+        },
+        "opportunity": 49
+      },
+      {
+        "zone_id": "silvester",
+        "terms": [
+          "silvester",
+          "angst"
+        ],
+        "videos": 13,
+        "channels": 6,
+        "uploads_30d": 10,
+        "views_30d": {
+          "long": 3808,
+          "short": 8136
+        },
+        "size": 0.0025,
+        "performance": 1.1884,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 7709,
+            "share": 0.6454
+          },
+          {
+            "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+            "channel_title": "Gerd Hallmann",
+            "views": 3734,
+            "share": 0.3126
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 501,
+            "share": 0.0419
+          }
+        ],
+        "top_share": 0.6454,
+        "example": {
+          "video_id": "QrXdcVCiNHU",
+          "title": "Ihr Hund hat Angst vor Feuerwerk? So helfen Sie ihm durch Silvester",
+          "views": 3734
+        },
+        "openness": 0.3546,
+        "ranks": {
+          "performance": 0.6591,
+          "momentum": null,
+          "size": 0.3636,
+          "openness": 0.4545
+        },
+        "opportunity": 49
+      },
+      {
+        "zone_id": "train",
+        "terms": [
+          "training"
+        ],
+        "videos": 19,
+        "channels": 10,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 6117,
+          "short": 11267
+        },
+        "size": 0.0036,
+        "performance": 1.0361,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 10813,
+            "share": 0.622
+          },
+          {
+            "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+            "channel_title": "GUTE HUNDE",
+            "views": 3956,
+            "share": 0.2276
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 1728,
+            "share": 0.0994
+          }
+        ],
+        "top_share": 0.622,
+        "example": {
+          "video_id": "YkErPVFxzjM",
+          "title": "👀 TRAINING! ☝️So fokussiert sich dein außenorientierter Hund leichter auf DICH!",
+          "views": 4335
+        },
+        "openness": 0.378,
+        "ranks": {
+          "performance": 0.4545,
+          "momentum": null,
+          "size": 0.4318,
+          "openness": 0.5455
+        },
+        "opportunity": 48
+      },
+      {
+        "zone_id": "gibt",
+        "terms": [
+          "gibt"
+        ],
+        "videos": 8,
+        "channels": 7,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 0,
+          "short": 29343
+        },
+        "size": 0.0072,
+        "performance": 1.1614,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 23781,
+            "share": 0.8104
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 2953,
+            "share": 0.1006
+          },
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 2164,
+            "share": 0.0737
+          }
+        ],
+        "top_share": 0.8104,
+        "example": {
+          "video_id": "BgsAC_wBMFk",
+          "title": "👇🏻Auch beim Trinken nach dem Toben gibt es einiges zu beachten!",
+          "views": 23781
+        },
+        "openness": 0.1896,
+        "ranks": {
+          "performance": 0.6364,
+          "momentum": null,
+          "size": 0.5682,
+          "openness": 0.25
+        },
+        "opportunity": 48
+      },
+      {
+        "zone_id": "leine",
+        "terms": [
+          "leine"
+        ],
+        "videos": 9,
+        "channels": 4,
+        "uploads_30d": 7,
+        "views_30d": {
+          "long": 2033,
+          "short": 4420
+        },
+        "size": 0.0014,
+        "performance": 1.2841,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 4358,
+            "share": 0.6753
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 1616,
+            "share": 0.2504
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 479,
+            "share": 0.0742
+          }
+        ],
+        "top_share": 0.6753,
+        "example": {
+          "video_id": "EbGzKSTxd5Y",
+          "title": "TRAINING! Hundebegegnung an der Leine! Wer kennt das Problem?",
+          "views": 2033
+        },
+        "openness": 0.3247,
+        "ranks": {
+          "performance": 0.8409,
+          "momentum": null,
+          "size": 0.1591,
+          "openness": 0.4091
+        },
+        "opportunity": 47
+      },
+      {
+        "zone_id": "dich",
+        "terms": [
+          "dich"
+        ],
+        "videos": 19,
+        "channels": 9,
+        "uploads_30d": 13,
+        "views_30d": {
+          "long": 7315,
+          "short": 16902
+        },
+        "size": 0.0052,
+        "performance": 0.5956,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 10377,
+            "share": 0.4285
+          },
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 4195,
+            "share": 0.1732
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 3749,
+            "share": 0.1548
+          }
+        ],
+        "top_share": 0.4285,
+        "example": {
+          "video_id": "OO7Qlj-WlQ0",
+          "title": "Die 3 Hunde mit der stärksten Beißkraft der Welt! 😱 Platz 1 überrascht dich!",
+          "views": 9464
+        },
+        "openness": 0.5715,
+        "ranks": {
+          "performance": 0.0455,
+          "momentum": null,
+          "size": 0.4773,
+          "openness": 0.8636
+        },
+        "opportunity": 46
+      },
+      {
+        "zone_id": "oft",
+        "terms": [
+          "oft"
+        ],
+        "videos": 8,
+        "channels": 7,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 0,
+          "short": 6170
+        },
+        "size": 0.0015,
+        "performance": 1.0789,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 3753,
+            "share": 0.6083
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 1212,
+            "share": 0.1964
+          },
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 1104,
+            "share": 0.1789
+          }
+        ],
+        "top_share": 0.6083,
+        "example": {
+          "video_id": "9bcxTsis2U4",
+          "title": "Zecken verstecken sich oft dort, wo du sie am wenigsten erwartest!",
+          "views": 3753
+        },
+        "openness": 0.3917,
+        "ranks": {
+          "performance": 0.5455,
+          "momentum": null,
+          "size": 0.2045,
+          "openness": 0.6364
+        },
+        "opportunity": 46
+      },
+      {
+        "zone_id": "niemal",
+        "terms": [
+          "niemals",
+          "solltest"
+        ],
+        "videos": 34,
+        "channels": 9,
+        "uploads_30d": 16,
+        "views_30d": {
+          "long": 0,
+          "short": 168985
+        },
+        "size": 0.0414,
+        "performance": 0.9974,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 164703,
+            "share": 0.9747
+          },
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 2703,
+            "share": 0.016
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 1010,
+            "share": 0.006
+          }
+        ],
+        "top_share": 0.9747,
+        "example": {
+          "video_id": "FK_QWKRxq8c",
+          "title": "Hol dir niemals einen Malinois, wenn du diese 3 Dinge nicht kennst! 😳🐕 #Shorts",
+          "views": 56182
+        },
+        "openness": 0.0253,
+        "ranks": {
+          "performance": 0.4318,
+          "momentum": null,
+          "size": 0.8636,
+          "openness": 0.0682
+        },
+        "opportunity": 45
+      },
+      {
+        "zone_id": "teil",
+        "terms": [
+          "teil"
+        ],
+        "videos": 11,
+        "channels": 5,
+        "uploads_30d": 10,
+        "views_30d": {
+          "long": 54594,
+          "short": 12641
+        },
+        "size": 0.011,
+        "performance": 0.9559,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 45648,
+            "share": 0.6789
+          },
+          {
+            "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+            "channel_title": "TierWow",
+            "views": 12641,
+            "share": 0.188
+          },
+          {
+            "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+            "channel_title": "Die Weisheit der Pfoten",
+            "views": 7176,
+            "share": 0.1067
+          }
+        ],
+        "top_share": 0.6789,
+        "example": {
+          "video_id": "0O4EzL22CZ4",
+          "title": "Ansprechbarkeit generalisieren: So hört dein Hund auch unter Ablenkung zu [Teil 2]",
+          "views": 13493
+        },
+        "openness": 0.3211,
+        "ranks": {
+          "performance": 0.3409,
+          "momentum": null,
+          "size": 0.6364,
+          "openness": 0.3864
+        },
+        "opportunity": 45
+      },
+      {
+        "zone_id": "wer",
+        "terms": [
+          "wer"
+        ],
+        "videos": 11,
+        "channels": 7,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 139925,
+          "short": 0
+        },
+        "size": 0.0202,
+        "performance": 0.968,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+            "channel_title": "ClashGames",
+            "views": 117005,
+            "share": 0.8362
+          },
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 20686,
+            "share": 0.1478
+          },
+          {
+            "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+            "channel_title": "Julia Recker Hundetraining",
+            "views": 2234,
+            "share": 0.016
+          }
+        ],
+        "top_share": 0.8362,
+        "example": {
+          "video_id": "LecmFTp5Jq4",
+          "title": "WER hat unseren BABY HUND HUGO VERFLUCHT?! 😭🔪",
+          "views": 117005
+        },
+        "openness": 0.1638,
+        "ranks": {
+          "performance": 0.3636,
+          "momentum": null,
+          "size": 0.7045,
+          "openness": 0.2273
+        },
+        "opportunity": 43
+      },
+      {
+        "zone_id": "pfoten",
+        "terms": [
+          "pfoten"
+        ],
+        "videos": 14,
+        "channels": 4,
+        "uploads_30d": 11,
+        "views_30d": {
+          "long": 2076,
+          "short": 4635
+        },
+        "size": 0.0014,
+        "performance": 0.9105,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+            "channel_title": "Pfoten Academy",
+            "views": 3803,
+            "share": 0.5667
+          },
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 2545,
+            "share": 0.3792
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 249,
+            "share": 0.0371
+          }
+        ],
+        "top_share": 0.5667,
+        "example": {
+          "video_id": "WfS1I1ntDog",
+          "title": "Pfoten Academy Podcast: Hundetraining, Alltag & Realtalk 🎙️🐶",
+          "views": 1727
+        },
+        "openness": 0.4333,
+        "ranks": {
+          "performance": 0.2955,
+          "momentum": null,
+          "size": 0.1818,
+          "openness": 0.7273
+        },
+        "opportunity": 40
+      },
+      {
+        "zone_id": "helfen",
+        "terms": [
+          "helfen"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 8,
+        "views_30d": {
+          "long": 427,
+          "short": 6725
+        },
+        "size": 0.0017,
+        "performance": 0.5425,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 3452,
+            "share": 0.4827
+          },
+          {
+            "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+            "channel_title": "Balloony Tiergesundheit",
+            "views": 2600,
+            "share": 0.3635
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 427,
+            "share": 0.0597
+          }
+        ],
+        "top_share": 0.4827,
+        "example": {
+          "video_id": "Il7wrVsl81I",
+          "title": "Welpe beißt in die Hände: 4 Dinge, die helfen",
+          "views": 3344
+        },
+        "openness": 0.5173,
+        "ranks": {
+          "performance": 0.0227,
+          "momentum": null,
+          "size": 0.2727,
+          "openness": 0.8409
+        },
+        "opportunity": 38
+      },
+      {
+        "zone_id": "keine",
+        "terms": [
+          "keine"
+        ],
+        "videos": 9,
+        "channels": 6,
+        "uploads_30d": 3,
+        "views_30d": {
+          "long": 0,
+          "short": 948
+        },
+        "size": 0.0002,
+        "performance": 1.0573,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 580,
+            "share": 0.6118
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 298,
+            "share": 0.3143
+          },
+          {
+            "channel_id": "UCx40UyexReAGJD7eYhB007g",
+            "channel_title": "Medical Training mit Nicole Stein",
+            "views": 70,
+            "share": 0.0738
+          }
+        ],
+        "top_share": 0.6118,
+        "example": {
+          "video_id": "sT1tOuTbeTo",
+          "title": "Hunde haben keine Freunde | Mit Julia Recker #shorts",
+          "views": 580
+        },
+        "openness": 0.3882,
+        "ranks": {
+          "performance": 0.4773,
+          "momentum": null,
+          "size": 0.0,
+          "openness": 0.5682
+        },
+        "opportunity": 35
+      },
+      {
+        "zone_id": "kein",
+        "terms": [
+          "kein"
+        ],
+        "videos": 11,
+        "channels": 8,
+        "uploads_30d": 5,
+        "views_30d": {
+          "long": 0,
+          "short": 4437
+        },
+        "size": 0.0011,
+        "performance": 0.6275,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+            "channel_title": "Hundeo - Hundetraining",
+            "views": 2377,
+            "share": 0.5357
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 1595,
+            "share": 0.3595
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 246,
+            "share": 0.0554
+          }
+        ],
+        "top_share": 0.5357,
+        "example": {
+          "video_id": "jn9DD4VFaJ8",
+          "title": "Der klügste Hund ist kein Anfängerhund",
+          "views": 2377
+        },
+        "openness": 0.4643,
+        "ranks": {
+          "performance": 0.0682,
+          "momentum": null,
+          "size": 0.1136,
+          "openness": 0.7727
+        },
+        "opportunity": 32
+      },
+      {
+        "zone_id": "deine",
+        "terms": [
+          "deine"
+        ],
+        "videos": 9,
+        "channels": 8,
+        "uploads_30d": 5,
+        "views_30d": {
+          "long": 2867,
+          "short": 2010
+        },
+        "size": 0.0009,
+        "performance": 0.7272,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 2867,
+            "share": 0.5879
+          },
+          {
+            "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+            "channel_title": "Hunde verstehen \"anders\"- Katja Pohlers",
+            "views": 992,
+            "share": 0.2034
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 728,
+            "share": 0.1493
+          }
+        ],
+        "top_share": 0.5879,
+        "example": {
+          "video_id": "Zj8ZfNrjDwM",
+          "title": "Wie deine Hündin dir zeigt, dass du zu ihr gehörst",
+          "views": 2867
+        },
+        "openness": 0.4121,
+        "ranks": {
+          "performance": 0.1136,
+          "momentum": null,
+          "size": 0.0909,
+          "openness": 0.6818
+        },
+        "opportunity": 30
+      },
+      {
+        "zone_id": "wieder",
+        "terms": [
+          "wieder"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 6,
+        "views_30d": {
+          "long": 12117,
+          "short": 1997
+        },
+        "size": 0.0022,
+        "performance": 0.9885,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 11912,
+            "share": 0.844
+          },
+          {
+            "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+            "channel_title": "Hundetrainer Steve Kaye Shorts",
+            "views": 1661,
+            "share": 0.1177
+          },
+          {
+            "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+            "channel_title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+            "views": 541,
+            "share": 0.0383
+          }
+        ],
+        "top_share": 0.844,
+        "example": {
+          "video_id": "OHKQdorOu78",
+          "title": "Warum ich im Hundetraining wieder klein anfange und was dein Alltag damit zu tun hat",
+          "views": 11912
+        },
+        "openness": 0.156,
+        "ranks": {
+          "performance": 0.4091,
+          "momentum": null,
+          "size": 0.3182,
+          "openness": 0.1818
+        },
+        "opportunity": 30
+      },
+      {
+        "zone_id": "muss",
+        "terms": [
+          "muss"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 7,
+        "views_30d": {
+          "long": 77,
+          "short": 2196
+        },
+        "size": 0.0005,
+        "performance": 0.8734,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+            "channel_title": "Wuff & Wissen",
+            "views": 1416,
+            "share": 0.623
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 728,
+            "share": 0.3203
+          },
+          {
+            "channel_id": "UCOmO7_O15kaI7u82sMmgw-Q",
+            "channel_title": "Septemberhund",
+            "views": 77,
+            "share": 0.0339
+          }
+        ],
+        "top_share": 0.623,
+        "example": {
+          "video_id": "YXMd9svJ68w",
+          "title": "Seine Vergangenheit muss nicht seine Zukunft sein! 🐾",
+          "views": 1104
+        },
+        "openness": 0.377,
+        "ranks": {
+          "performance": 0.2273,
+          "momentum": null,
+          "size": 0.0682,
+          "openness": 0.5227
+        },
+        "opportunity": 27
+      },
+      {
+        "zone_id": "bedeutet",
+        "terms": [
+          "bedeutet"
+        ],
+        "videos": 8,
+        "channels": 4,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 10536,
+          "short": 254
+        },
+        "size": 0.0016,
+        "performance": 0.7792,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+            "channel_title": "Hundeherz",
+            "views": 8700,
+            "share": 0.8063
+          },
+          {
+            "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+            "channel_title": "Hunde Verstehen",
+            "views": 1836,
+            "share": 0.1702
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 254,
+            "share": 0.0235
+          }
+        ],
+        "top_share": 0.8063,
+        "example": {
+          "video_id": "k51s4nmPHsU",
+          "title": "Wenn dein Hund deinen Platz besetzt – das bedeutet es laut Wissenschaft",
+          "views": 8700
+        },
+        "openness": 0.1937,
+        "ranks": {
+          "performance": 0.1591,
+          "momentum": null,
+          "size": 0.25,
+          "openness": 0.2727
+        },
+        "opportunity": 23
+      },
+      {
+        "zone_id": "beginnt",
+        "terms": [
+          "beginnt"
+        ],
+        "videos": 8,
+        "channels": 5,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 21,
+          "short": 1672
+        },
+        "size": 0.0004,
+        "performance": 0.31,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+            "channel_title": "Hundetrainer Steve Kaye Shorts",
+            "views": 1035,
+            "share": 0.6113
+          },
+          {
+            "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+            "channel_title": "Pfoten Academy",
+            "views": 465,
+            "share": 0.2747
+          },
+          {
+            "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+            "channel_title": "hundsfaelle",
+            "views": 172,
+            "share": 0.1016
+          }
+        ],
+        "top_share": 0.6113,
+        "example": {
+          "video_id": "4dShm5eIVFQ",
+          "title": "Das Gespräch beginnt früher, als Du denkst – Live-Webinar Hunde besser verstehen",
+          "views": 1035
+        },
+        "openness": 0.3887,
+        "ranks": {
+          "performance": 0.0,
+          "momentum": null,
+          "size": 0.0227,
+          "openness": 0.5909
+        },
+        "opportunity": 20
+      },
+      {
+        "zone_id": "statt",
+        "terms": [
+          "statt"
+        ],
+        "videos": 8,
+        "channels": 6,
+        "uploads_30d": 2,
+        "views_30d": {
+          "long": 0,
+          "short": 1931
+        },
+        "size": 0.0005,
+        "performance": 0.737,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCx40UyexReAGJD7eYhB007g",
+            "channel_title": "Medical Training mit Nicole Stein",
+            "views": 1451,
+            "share": 0.7514
+          },
+          {
+            "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+            "channel_title": "HALTERSCHULE – Führung von Innen",
+            "views": 480,
+            "share": 0.2486
+          }
+        ],
+        "top_share": 0.7514,
+        "example": {
+          "video_id": "ftCAnxx7aa8",
+          "title": "Zahnpflege beim Hund: Kooperation statt Festhalten.",
+          "views": 1451
+        },
+        "openness": 0.2486,
+        "ranks": {
+          "performance": 0.1364,
+          "momentum": null,
+          "size": 0.0455,
+          "openness": 0.3409
+        },
+        "opportunity": 17
+      },
+      {
+        "zone_id": "hundetrain",
+        "terms": [
+          "hundetraining"
+        ],
+        "videos": 15,
+        "channels": 6,
+        "uploads_30d": 4,
+        "views_30d": {
+          "long": 7384,
+          "short": 909
+        },
+        "size": 0.0013,
+        "performance": 0.7874,
+        "momentum": null,
+        "holders": [
+          {
+            "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+            "channel_title": "Hundetrainer Steve Kaye",
+            "views": 7384,
+            "share": 0.8904
+          },
+          {
+            "channel_id": "UCOmO7_O15kaI7u82sMmgw-Q",
+            "channel_title": "Septemberhund",
+            "views": 588,
+            "share": 0.0709
+          },
+          {
+            "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+            "channel_title": "Charly’s Dog Training",
+            "views": 321,
+            "share": 0.0387
+          }
+        ],
+        "top_share": 0.8904,
+        "example": {
+          "video_id": "9iD_zpJl2KA",
+          "title": "Hundetraining unterwegs: Ansprechbarkeit im Laufen, Schritt für Schritt | Projekt Marathon",
+          "views": 7384
+        },
+        "openness": 0.1096,
+        "ranks": {
+          "performance": 0.1818,
+          "momentum": null,
+          "size": 0.1364,
+          "openness": 0.1591
+        },
+        "opportunity": 16
+      }
+    ]
+  },
+  "tracked": [
+    {
+      "channel_id": "UCGyr7elairnKJl8GCl3DV0Q",
+      "title": "A Realnature - SeelenTiere",
+      "handle": "@a-realnature_seelentiere",
+      "subs": 2260,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundepsychologie, macht, mein, verstehen, warum · video: Warum macht mein Hund das?! - 3 Verhaltensweisen, die fast alle missverstehen",
+      "topic_fit": 0.58,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "title": "Balloony Tiergesundheit",
+      "handle": "@balloony.pet_tiergesundheit",
+      "subs": 1170,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Dein Hund spricht mit dir – auch ohne Worte!",
+      "topic_fit": 0.34,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "handle": "@bettinabumbexpertin",
+      "subs": 519,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Dein Hund markiert und schaut dich dabei an? Das kann dahinterstecken",
+      "topic_fit": 0.74,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCoXLfKG5h-k1PzWIK0L_YhQ",
+      "title": "CHINESE CRESTED POWDERPUFF TV",
+      "handle": "@auri-powderpuff",
+      "subs": 2900,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, mein · video: Wenn das Telefon klingelt, dreht mein Hund durch. Alarm wie eine Sirene # shorts",
+      "topic_fit": 0.02,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+      "title": "Charly’s Dog Training",
+      "handle": "@charlysdogtraining",
+      "subs": 4240,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Dein Hund kündigt jeden Ausraster ein paar Sekunden vorher an #shorts",
+      "topic_fit": 0.66,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCO_4NjPJY-pjiFgmgYBl1Ug",
+      "title": "ClashGames",
+      "handle": "@clashgames1",
+      "subs": 1820000,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "reach · matched: hund · video: ALLE YOUTUBER treffen zum 1. MAL unseren BABY HUND HUGO! 🥺 (eskaliert)",
+      "topic_fit": 0.18,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCvRV7zIL9Zr1TS3lyoQOZrQ",
+      "title": "Dennome Roblox",
+      "handle": "@dennomeroblox",
+      "subs": 368000,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "reach · matched: hund · video: ETWAS STIMMT MIT MEINEM HUND NICHT Roblox..",
+      "topic_fit": 0.02,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+      "title": "Die Weisheit der Pfoten",
+      "handle": "@dieweisheitderpfoten",
+      "subs": 14900,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "reach · matched: hund, hundepsychologie, hundeverhalten, körpersprache, verstehen · video: Soviel Wolf steckt noch in deinem Hund #hunde #wolf",
+      "topic_fit": 0.74,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+      "title": "Dog4 – Hundeverhalten verstehen",
+      "handle": "@dog4s",
+      "subs": 703,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Halloween mit Hund: Diese Gefahren übersiehst du leicht!",
+      "topic_fit": 0.32,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "title": "Dogletics",
+      "handle": "@fitmitfellnase",
+      "subs": 3240,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, macht, mein · video: Mein Hund macht den WALD zum Agility Parcours!",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCC7IsL1hWpLWc5FpRgF7Bjw",
+      "title": "GUTE HUNDE",
+      "handle": "@gute-hunde",
+      "subs": 1640,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Körpersprache für bessere Leinenführigkeit #hundetraining #hund #hundeschule",
+      "topic_fit": 0.2,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "title": "Gerd Hallmann",
+      "handle": "@hundelesen",
+      "subs": 13300,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundeverhalten, körpersprache, verstehen · video: Wie Hunde schlechte Menschen erkennen: 12 stille Zeichen",
+      "topic_fit": 0.8,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+      "title": "HALTERSCHULE – Führung von Innen",
+      "handle": "@halterschule",
+      "subs": 3190,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Brustgeschirr statt Halsband? Diese Aussage sorgt für Streit!",
+      "topic_fit": 0.52,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "title": "Hunde Verstehen",
+      "handle": "@hundeverstehenn",
+      "subs": 9270,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, macht, mein, verstehen, warum · video: Dein Hund wartet sein GANZES LEBEN darauf, dass du DAS tust!",
+      "topic_fit": 0.8,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+      "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "handle": "@hundeverstehenkatja",
+      "subs": 2970,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Körpersprach- Übungen, Gymnastizierung und Training für den Hund",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "title": "Hundeherz",
+      "handle": "@hundeherz7",
+      "subs": 6150,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, mein, verstehen, warum · video: Wo dein Hund dich berührt – 8 Stellen und was sie bedeuten",
+      "topic_fit": 0.9091,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "title": "Hundeo - Hundetraining",
+      "handle": "@hundeo",
+      "subs": 19400,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "reach · matched: hund, macht · video: Hund alleine lassen: Dieser Fehler an der Haustür macht alles kaputt",
+      "topic_fit": 0.5,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+      "title": "Hundetrainer Steve Kaye",
+      "handle": "@hundetrainerstevekaye2916",
+      "subs": 112000,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "reach · matched: hund, verstehen · video: „Hinter mir\" als Sicherheit: so baue ich es mit meinen Hunden auf | Projekt Mara",
+      "topic_fit": 0.52,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCRQZt0YEboDnAM_rM4jajMw",
+      "title": "Hundetrainer Steve Kaye Shorts",
+      "handle": "@hundetrainerstevekayeshorts",
+      "subs": 2830,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Halsband oder Geschirr? Für mich zählen Körpersprache, Stimme und Gesten",
+      "topic_fit": 0.28,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCTkZtvMMWiKkjHI9UdxnfqA",
+      "title": "JacktheDalmatian",
+      "handle": "@jackthedalmatian",
+      "subs": 1600,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, macht, mein · video: Mein Hund wurde zu früh kastriert. Jetzt macht er nur so Pipi #dogs #hund #dalam",
+      "topic_fit": 0.16,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCnpa4kA8_Hc7H4ynYrvGeww",
+      "title": "Julia Recker Hundetraining",
+      "handle": "@juliareckerhundetraining",
+      "subs": 2800,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, körpersprache, verstehen, warum · video: #2 Die wichtigsten körpersprachlichen Merkmale des Hundes",
+      "topic_fit": 0.24,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCx40UyexReAGJD7eYhB007g",
+      "title": "Medical Training mit Nicole Stein",
+      "handle": "@medicaltrainingmitnicolestein",
+      "subs": 640,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Zahnpflege beim Hund: Kooperation statt Festhalten.",
+      "topic_fit": 0.26,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCQWnYaheB7C_qADVMrVjcvw",
+      "title": "Mehrere Hunde, ein Team - Hundetrainerin Karine M.",
+      "handle": "@karinemastroleo",
+      "subs": 928,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hundepsychologie, hundeverhalten · video: Wie willst du deinen Hunden Sicherheit geben, wenn du gar nicht erkennst, was ge",
+      "topic_fit": 0.26,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+      "title": "Pfoten Academy",
+      "handle": "@pfotenacademy",
+      "subs": 3930,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Versteht dein Hund wirklich jedes Wort? 🐶",
+      "topic_fit": 0.58,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCRmiyO-5nEIGCGS-uPiJzDw",
+      "title": "Roman Langfeld",
+      "handle": "@romanlangfeld",
+      "subs": 2260,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, warum · video: Warum Ihr Hund nachts bellt – und wann Sie aufstehen müssen",
+      "topic_fit": 0.1852,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCOmO7_O15kaI7u82sMmgw-Q",
+      "title": "Septemberhund",
+      "handle": "@septemberhund",
+      "subs": 1120,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Kommunikation Hund Mensch",
+      "topic_fit": 0.68,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "title": "TierWow",
+      "handle": "@tierwow",
+      "subs": 8220,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Ignoriere diese Bewegung deines Hundes niemals! 🐶😳 #Shorts",
+      "topic_fit": 0.54,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+      "title": "Tierliebhaber",
+      "handle": "@tierliebhaber5650",
+      "subs": 1790,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund · video: Kopf wegdrehen & Schmatzen: Das will dein Hund dir sagen 👀🐶",
+      "topic_fit": 0.36,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UCO2wuDloyn6-E5KkCLtTCeA",
+      "title": "WirHDcom – Cocktails, Tee und weitere Rezepte",
+      "handle": "@gaensebluemchenland",
+      "subs": 5770,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, macht, mein · video: Ich habe heute Durst, mein Hund, der macht ’ne Wurst, und mein Nachbar, der heiß",
+      "topic_fit": 0.1,
+      "channel_type": "generalist"
+    },
+    {
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "title": "Wuff & Wissen",
+      "handle": "@wuffundwissen",
+      "subs": 1260,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundepsychologie, hundeverhalten, körpersprache, macht, mein, verstehen, warum · video: Dein Hund liegt neben dir – aber WILL er wirklich kuscheln? 😳 #goldenretriever #",
+      "topic_fit": 0.7,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC2i2orXUjYIgkaAjfztU7aA",
+      "title": "eDOGcation - Bildungszentrum für Hundeerziehung",
+      "handle": "@edogcation-bildungszentrum7838",
+      "subs": 1190,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, mein, verstehen · video: Mein Hund versteht mich nicht. Oder will er mich nicht verstehen? #workshophund",
+      "topic_fit": 0.32,
+      "channel_type": "specialist"
+    },
+    {
+      "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+      "title": "hundsfaelle",
+      "handle": "@hundsfaelle",
+      "subs": 1050,
+      "status": "auto",
+      "source": "search",
+      "added_at": "2026-11-10",
+      "note": "relevance · matched: hund, hundeverhalten, verstehen · video: Leinenpöbeln verstehen: Das zeigt die Videoanalyse! #hundetraining #hundeverhalt",
+      "topic_fit": 0.58,
+      "channel_type": "specialist"
+    }
+  ]
+}

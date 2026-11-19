@@ -1,0 +1,20 @@
+{
+  "note": "Viết tay cho bộ mẫu. Hôm nay là 2026-11-14; số vùng của radar cũng ngày 2026-11-14.",
+  "zone": "wear",
+  "niche_id": "evo-psych-en",
+  "zone_numbers_day": "2026-11-14",
+  "pairs": [
+    {"pair_id": "2026-11-09-l2", "zone": "wear", "mode": "full", "flags": [],
+     "outlier": {"title": "When Did Humans Start Wearing Clothes?", "multiple": 6.3, "language": "en"},
+     "control": {"title": "The First Needles", "language": "en", "age_days": 150},
+     "interpretation": {"khac_biet": "trung bình 3 giây một hình; video kia 9 giây", "gia_thuyet": "nhịp hình nhanh giữ người xem"}},
+    {"pair_id": "2026-11-12-l1", "zone": "wear", "mode": "full", "flags": ["control_language"],
+     "outlier": {"title": "Why We Wear Clothes", "multiple": 8.0, "language": "en"},
+     "control": {"title": "Por qué usamos ropa", "language": "es", "age_days": 60},
+     "interpretation": {"khac_biet": "ngắn hơn 4 phút", "gia_thuyet": "ngắn hơn"}},
+    {"pair_id": "2026-11-13-l4", "zone": "touch", "mode": "full", "flags": [],
+     "outlier": {"title": "Why Humans Hug", "multiple": 5.1, "language": "en"},
+     "control": {"title": "Our Oldest Shoes", "language": "en", "age_days": 80},
+     "interpretation": {"khac_biet": "nhịp hình 3 giây", "gia_thuyet": "nhịp hình nhanh giữ người xem"}}
+  ]
+}

@@ -1,0 +1,5037 @@
+{
+  "day": "2026-11-18",
+  "read_at": "2026-11-18T08:30:02.179817+07:00",
+  "content_types": [
+    {
+      "type": "shorts",
+      "views": 4356,
+      "minutes": 436
+    },
+    {
+      "type": "videoOnDemand",
+      "views": 3451,
+      "minutes": 4117
+    },
+    {
+      "type": "posts",
+      "views": 2,
+      "minutes": 0
+    }
+  ],
+  "traffic": [
+    {
+      "source": "SHORTS",
+      "views": 4177,
+      "minutes": 411
+    },
+    {
+      "source": "SUBSCRIBER",
+      "views": 2013,
+      "minutes": 628
+    },
+    {
+      "source": "RELATED_VIDEO",
+      "views": 1215,
+      "minutes": 3075
+    },
+    {
+      "source": "YT_SEARCH",
+      "views": 161,
+      "minutes": 33
+    },
+    {
+      "source": "YT_CHANNEL",
+      "views": 72,
+      "minutes": 89
+    },
+    {
+      "source": "YT_OTHER_PAGE",
+      "views": 58,
+      "minutes": 63
+    },
+    {
+      "source": "NO_LINK_OTHER",
+      "views": 51,
+      "minutes": 183
+    },
+    {
+      "source": "HASHTAGS",
+      "views": 21,
+      "minutes": 10
+    },
+    {
+      "source": "EXT_URL",
+      "views": 20,
+      "minutes": 29
+    },
+    {
+      "source": "SOUND_PAGE",
+      "views": 9,
+      "minutes": 2
+    },
+    {
+      "source": "PLAYLIST",
+      "views": 5,
+      "minutes": 11
+    },
+    {
+      "source": "SHORTS_CONTENT_LINKS",
+      "views": 3,
+      "minutes": 1
+    },
+    {
+      "source": "NOTIFICATION",
+      "views": 2,
+      "minutes": 7
+    },
+    {
+      "source": "END_SCREEN",
+      "views": 2,
+      "minutes": 6
+    }
+  ],
+  "countries": [
+    {
+      "country": "US",
+      "views": 1880,
+      "minutes": 1284
+    },
+    {
+      "country": "VN",
+      "views": 419,
+      "minutes": 33
+    },
+    {
+      "country": "GB",
+      "views": 171,
+      "minutes": 83
+    },
+    {
+      "country": "PH",
+      "views": 115,
+      "minutes": 10
+    },
+    {
+      "country": "CA",
+      "views": 97,
+      "minutes": 13
+    },
+    {
+      "country": "DE",
+      "views": 94,
+      "minutes": 11
+    },
+    {
+      "country": "ZA",
+      "views": 76,
+      "minutes": 8
+    },
+    {
+      "country": "BR",
+      "views": 55,
+      "minutes": 3
+    },
+    {
+      "country": "NL",
+      "views": 49,
+      "minutes": 5
+    },
+    {
+      "country": "MX",
+      "views": 45,
+      "minutes": 3
+    }
+  ],
+  "devices": [
+    {
+      "device": "MOBILE",
+      "views": 5518,
+      "minutes": 1731
+    },
+    {
+      "device": "DESKTOP",
+      "views": 920,
+      "minutes": 789
+    },
+    {
+      "device": "TABLET",
+      "views": 684,
+      "minutes": 361
+    },
+    {
+      "device": "TV",
+      "views": 683,
+      "minutes": 1669
+    }
+  ],
+  "age_gender": [
+    {
+      "age": "age13-17",
+      "gender": "female",
+      "pct": 3
+    },
+    {
+      "age": "age13-17",
+      "gender": "male",
+      "pct": 2.7
+    },
+    {
+      "age": "age18-24",
+      "gender": "female",
+      "pct": 3.9
+    },
+    {
+      "age": "age18-24",
+      "gender": "male",
+      "pct": 3.3
+    },
+    {
+      "age": "age25-34",
+      "gender": "female",
+      "pct": 12
+    },
+    {
+      "age": "age25-34",
+      "gender": "male",
+      "pct": 13.2
+    },
+    {
+      "age": "age35-44",
+      "gender": "female",
+      "pct": 12.4
+    },
+    {
+      "age": "age35-44",
+      "gender": "male",
+      "pct": 11.5
+    },
+    {
+      "age": "age45-54",
+      "gender": "female",
+      "pct": 4.1
+    },
+    {
+      "age": "age45-54",
+      "gender": "male",
+      "pct": 5.2
+    },
+    {
+      "age": "age55-64",
+      "gender": "female",
+      "pct": 4
+    },
+    {
+      "age": "age55-64",
+      "gender": "male",
+      "pct": 8.8
+    },
+    {
+      "age": "age65-",
+      "gender": "female",
+      "pct": 5.2
+    },
+    {
+      "age": "age65-",
+      "gender": "male",
+      "pct": 10.8
+    }
+  ],
+  "subscribed": [
+    {
+      "status": "SUBSCRIBED",
+      "views": 9,
+      "avg_view_pct": 21.04
+    },
+    {
+      "status": "UNSUBSCRIBED",
+      "views": 7800,
+      "avg_view_pct": 29.460000000000004
+    }
+  ],
+  "daily": [
+    {
+      "day": "2026-08-21",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-22",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-23",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-24",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-25",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-26",
+      "views": 1,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-27",
+      "views": 3,
+      "minutes": 12,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-28",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-29",
+      "views": 1,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-30",
+      "views": 2,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-31",
+      "views": 1,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-01",
+      "views": 2,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-02",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-03",
+      "views": 8,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-04",
+      "views": 4,
+      "minutes": 6,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-05",
+      "views": 8,
+      "minutes": 6,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-06",
+      "views": 10,
+      "minutes": 18,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-07",
+      "views": 4,
+      "minutes": 10,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-08",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-09",
+      "views": 3,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-10",
+      "views": 7,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-11",
+      "views": 5,
+      "minutes": 9,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-12",
+      "views": 5,
+      "minutes": 14,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-13",
+      "views": 4,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-14",
+      "views": 2,
+      "minutes": 8,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-15",
+      "views": 7,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-16",
+      "views": 6,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-17",
+      "views": 7,
+      "minutes": 8,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-18",
+      "views": 8,
+      "minutes": 1,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-19",
+      "views": 6,
+      "minutes": 8,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-20",
+      "views": 6,
+      "minutes": 13,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-21",
+      "views": 8,
+      "minutes": 9,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-22",
+      "views": 15,
+      "minutes": 9,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-23",
+      "views": 8,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-24",
+      "views": 20,
+      "minutes": 41,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-25",
+      "views": 9,
+      "minutes": 18,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-26",
+      "views": 18,
+      "minutes": 29,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-27",
+      "views": 8,
+      "minutes": 11,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-28",
+      "views": 11,
+      "minutes": 5,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-29",
+      "views": 26,
+      "minutes": 23,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-30",
+      "views": 15,
+      "minutes": 18,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-01",
+      "views": 15,
+      "minutes": 35,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-02",
+      "views": 12,
+      "minutes": 3,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-03",
+      "views": 23,
+      "minutes": 17,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-04",
+      "views": 14,
+      "minutes": 26,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-05",
+      "views": 106,
+      "minutes": 63,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-06",
+      "views": 42,
+      "minutes": 94,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-07",
+      "views": 18,
+      "minutes": 27,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-08",
+      "views": 30,
+      "minutes": 116,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-09",
+      "views": 15,
+      "minutes": 16,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-10",
+      "views": 34,
+      "minutes": 51,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-11",
+      "views": 25,
+      "minutes": 26,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-12",
+      "views": 29,
+      "minutes": 53,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-13",
+      "views": 39,
+      "minutes": 31,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-14",
+      "views": 22,
+      "minutes": 30,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-15",
+      "views": 23,
+      "minutes": 69,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-16",
+      "views": 66,
+      "minutes": 39,
+      "subs_gained": 0,
+      "subs_lost": 1
+    },
+    {
+      "day": "2026-10-17",
+      "views": 67,
+      "minutes": 30,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-18",
+      "views": 71,
+      "minutes": 45,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-19",
+      "views": 53,
+      "minutes": 31,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-20",
+      "views": 22,
+      "minutes": 20,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-21",
+      "views": 117,
+      "minutes": 187,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-22",
+      "views": 70,
+      "minutes": 60,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-23",
+      "views": 81,
+      "minutes": 87,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-24",
+      "views": 114,
+      "minutes": 88,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-25",
+      "views": 323,
+      "minutes": 103,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-26",
+      "views": 657,
+      "minutes": 185,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-27",
+      "views": 36,
+      "minutes": 47,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-28",
+      "views": 21,
+      "minutes": 23,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-29",
+      "views": 51,
+      "minutes": 45,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-30",
+      "views": 20,
+      "minutes": 12,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-31",
+      "views": 21,
+      "minutes": 9,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-01",
+      "views": 20,
+      "minutes": 30,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-02",
+      "views": 15,
+      "minutes": 4,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-03",
+      "views": 21,
+      "minutes": 24,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-04",
+      "views": 36,
+      "minutes": 66,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-05",
+      "views": 30,
+      "minutes": 33,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-06",
+      "views": 14,
+      "minutes": 3,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-07",
+      "views": 22,
+      "minutes": 45,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-08",
+      "views": 21,
+      "minutes": 2,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-09",
+      "views": 10,
+      "minutes": 44,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-10",
+      "views": 8,
+      "minutes": 1,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-11",
+      "views": 7,
+      "minutes": 10,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-12",
+      "views": 4,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-13",
+      "views": 1,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-14",
+      "views": 2,
+      "minutes": 4,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-15",
+      "views": 2,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    }
+  ],
+  "last28": {
+    "start": "2026-10-20",
+    "end": "2026-11-16",
+    "views": 1746,
+    "minutes": 1143,
+    "subs_gained": 2,
+    "subs_lost": 0,
+    "avg_view_seconds": 104,
+    "avg_view_pct": 21.6
+  },
+  "prev28": {
+    "start": "2026-09-22",
+    "end": "2026-10-19",
+    "views": 834,
+    "minutes": 969,
+    "subs_gained": 3,
+    "subs_lost": 1,
+    "avg_view_seconds": 138,
+    "avg_view_pct": 29.299999999999997
+  },
+  "traffic_28d": [
+    {
+      "source": "SUBSCRIBER",
+      "views": 1346,
+      "minutes": 333,
+      "avg_view_seconds": 63
+    },
+    {
+      "source": "RELATED_VIDEO",
+      "views": 339,
+      "minutes": 755,
+      "avg_view_seconds": 137
+    },
+    {
+      "source": "YT_SEARCH",
+      "views": 35,
+      "minutes": 13,
+      "avg_view_seconds": 96
+    },
+    {
+      "source": "NO_LINK_OTHER",
+      "views": 15,
+      "minutes": 37,
+      "avg_view_seconds": 158
+    },
+    {
+      "source": "YT_CHANNEL",
+      "views": 5,
+      "minutes": 4,
+      "avg_view_seconds": 83
+    },
+    {
+      "source": "YT_OTHER_PAGE",
+      "views": 4,
+      "minutes": 0,
+      "avg_view_seconds": 10
+    },
+    {
+      "source": "PLAYLIST",
+      "views": 1,
+      "minutes": 0,
+      "avg_view_seconds": 16
+    },
+    {
+      "source": "EXT_URL",
+      "views": 1,
+      "minutes": 0,
+      "avg_view_seconds": 4
+    }
+  ],
+  "reach_28d": {
+    "start": "2026-10-20",
+    "end": "2026-11-16",
+    "days": 26,
+    "impressions": 15568,
+    "ctr": 2.98,
+    "sources": [
+      {
+        "source": "RELATED_VIDEO",
+        "impressions": 8964,
+        "ctr": 2.68
+      },
+      {
+        "source": "SUBSCRIBER",
+        "impressions": 5949,
+        "ctr": 3.58
+      },
+      {
+        "source": "YT_SEARCH",
+        "impressions": 414,
+        "ctr": 1.93
+      },
+      {
+        "source": "YT_CHANNEL",
+        "impressions": 209,
+        "ctr": 0.96
+      },
+      {
+        "source": "PLAYLIST",
+        "impressions": 23,
+        "ctr": 4.35
+      },
+      {
+        "source": "YT_PLAYLIST_PAGE",
+        "impressions": 9,
+        "ctr": 0.0
+      }
+    ]
+  },
+  "videos": {
+    "LIS5x6wJqCo": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 122
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 57
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 10
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 44,
+        "minutes": 37,
+        "avg_view_seconds": 66,
+        "avg_view_pct": 12.809999999999999,
+        "engaged_views": 34
+      },
+      "first7": 147,
+      "reach": {
+        "impressions": 692,
+        "ctr": 3.18
+      }
+    },
+    "MVPCNtQwR54": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 20
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 9
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 3
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 25,
+        "minutes": 15,
+        "avg_view_seconds": 47,
+        "avg_view_pct": 9.64,
+        "engaged_views": 19
+      },
+      "first7": 8,
+      "reach": {
+        "impressions": 313,
+        "ctr": 3.51
+      }
+    },
+    "ROkASo6fS3w": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 122
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 23
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 8
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 1,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 95,
+        "minutes": 67,
+        "avg_view_seconds": 133,
+        "avg_view_pct": 27.26,
+        "engaged_views": 29
+      },
+      "first7": 131,
+      "reach": {
+        "impressions": 609,
+        "ctr": 3.12
+      }
+    },
+    "Rm8JEe5hlZ0": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 17
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 16
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 4
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 10,
+        "minutes": 21,
+        "avg_view_seconds": 321,
+        "avg_view_pct": 63.35000000000001,
+        "engaged_views": 4
+      },
+      "first7": 18,
+      "reach": {
+        "impressions": 141,
+        "ctr": 0.0
+      }
+    },
+    "ToA-tuZwvAk": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 4
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [],
+      "retention": [],
+      "d28": {
+        "views": 6,
+        "minutes": 10,
+        "avg_view_seconds": 149,
+        "avg_view_pct": 28.82,
+        "engaged_views": 4
+      },
+      "first7": 0,
+      "reach": {
+        "impressions": 100,
+        "ctr": 1.0
+      }
+    },
+    "ZGyIjrW5FH8": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 27
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 23
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 2
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [],
+      "retention": [
+        [
+          0.01,
+          0.9655,
+          0.2596
+        ],
+        [
+          0.02,
+          0.8966,
+          0.23765000000000003
+        ],
+        [
+          0.03,
+          0.8621,
+          0.21954999999999997
+        ],
+        [
+          0.04,
+          0.7931,
+          0.20745000000000002
+        ],
+        [
+          0.05,
+          0.7585999999999999,
+          0.19879999999999998
+        ],
+        [
+          0.06,
+          0.6897,
+          0.192
+        ],
+        [
+          0.07,
+          0.6207,
+          0.1854
+        ],
+        [
+          0.08,
+          0.6207,
+          0.17880000000000001
+        ],
+        [
+          0.09,
+          0.5861999999999999,
+          0.1724
+        ],
+        [
+          0.1,
+          0.5517,
+          0.1663
+        ],
+        [
+          0.11,
+          0.4828,
+          0.16094999999999998
+        ],
+        [
+          0.12,
+          0.4138,
+          0.15649999999999997
+        ],
+        [
+          0.13,
+          0.4483,
+          0.15299999999999997
+        ],
+        [
+          0.14,
+          0.4483,
+          0.15090000000000003
+        ],
+        [
+          0.15,
+          0.4483,
+          0.15039999999999998
+        ],
+        [
+          0.16,
+          0.4138,
+          0.15145000000000003
+        ],
+        [
+          0.17,
+          0.4138,
+          0.15415
+        ],
+        [
+          0.18,
+          0.37929999999999997,
+          0.15899999999999997
+        ],
+        [
+          0.19,
+          0.3448,
+          0.1678
+        ],
+        [
+          0.2,
+          0.3448,
+          0.18030000000000002
+        ],
+        [
+          0.21,
+          0.3448,
+          0.19230000000000003
+        ],
+        [
+          0.22,
+          0.3448,
+          0.20335000000000003
+        ],
+        [
+          0.23,
+          0.3448,
+          0.2152
+        ],
+        [
+          0.24,
+          0.3448,
+          0.22835
+        ],
+        [
+          0.25,
+          0.37929999999999997,
+          0.24269999999999997
+        ],
+        [
+          0.26,
+          0.3103,
+          0.258
+        ],
+        [
+          0.27,
+          0.3103,
+          0.274
+        ],
+        [
+          0.28,
+          0.3103,
+          0.29045
+        ],
+        [
+          0.29,
+          0.3103,
+          0.30670000000000003
+        ],
+        [
+          0.3,
+          0.3103,
+          0.3218
+        ],
+        [
+          0.31,
+          0.3103,
+          0.33535000000000004
+        ],
+        [
+          0.32,
+          0.3103,
+          0.3471
+        ],
+        [
+          0.33,
+          0.3103,
+          0.35650000000000004
+        ],
+        [
+          0.34,
+          0.3103,
+          0.3631
+        ],
+        [
+          0.35,
+          0.3103,
+          0.36655
+        ],
+        [
+          0.36,
+          0.3103,
+          0.36705
+        ],
+        [
+          0.37,
+          0.3103,
+          0.36565000000000003
+        ],
+        [
+          0.38,
+          0.3103,
+          0.3661
+        ],
+        [
+          0.39,
+          0.3103,
+          0.36915
+        ],
+        [
+          0.4,
+          0.3103,
+          0.3708
+        ],
+        [
+          0.41,
+          0.3103,
+          0.36995
+        ],
+        [
+          0.42,
+          0.3103,
+          0.36275
+        ],
+        [
+          0.43,
+          0.3103,
+          0.35065
+        ],
+        [
+          0.44,
+          0.3103,
+          0.33965
+        ],
+        [
+          0.45,
+          0.2759,
+          0.3345
+        ],
+        [
+          0.46,
+          0.2759,
+          0.3352
+        ],
+        [
+          0.47,
+          0.2759,
+          0.3405
+        ],
+        [
+          0.48,
+          0.2759,
+          0.36055000000000004
+        ],
+        [
+          0.49,
+          0.2759,
+          0.4121
+        ],
+        [
+          0.5,
+          0.2759,
+          0.49625
+        ],
+        [
+          0.51,
+          0.3103,
+          0.5834
+        ],
+        [
+          0.52,
+          0.3103,
+          0.6446000000000001
+        ],
+        [
+          0.53,
+          0.37929999999999997,
+          0.6757
+        ],
+        [
+          0.54,
+          0.37929999999999997,
+          0.68765
+        ],
+        [
+          0.55,
+          0.3448,
+          0.6929
+        ],
+        [
+          0.56,
+          0.3448,
+          0.6975
+        ],
+        [
+          0.57,
+          0.3448,
+          0.70095
+        ],
+        [
+          0.58,
+          0.3448,
+          0.69885
+        ],
+        [
+          0.59,
+          0.3103,
+          0.6857
+        ],
+        [
+          0.6,
+          0.2759,
+          0.65695
+        ],
+        [
+          0.61,
+          0.2759,
+          0.60795
+        ],
+        [
+          0.62,
+          0.2414,
+          0.5385
+        ],
+        [
+          0.63,
+          0.2414,
+          0.46625
+        ],
+        [
+          0.64,
+          0.2414,
+          0.41505000000000003
+        ],
+        [
+          0.65,
+          0.2414,
+          0.38675000000000004
+        ],
+        [
+          0.66,
+          0.2414,
+          0.36955
+        ],
+        [
+          0.67,
+          0.2414,
+          0.35075
+        ],
+        [
+          0.68,
+          0.2414,
+          0.32530000000000003
+        ],
+        [
+          0.69,
+          0.2414,
+          0.29915
+        ],
+        [
+          0.7,
+          0.2414,
+          0.27559999999999996
+        ],
+        [
+          0.71,
+          0.2414,
+          0.2562
+        ],
+        [
+          0.72,
+          0.2414,
+          0.2405
+        ],
+        [
+          0.73,
+          0.2414,
+          0.2252
+        ],
+        [
+          0.74,
+          0.2414,
+          0.21775
+        ],
+        [
+          0.75,
+          0.2414,
+          0.23225
+        ],
+        [
+          0.76,
+          0.2759,
+          0.27945
+        ],
+        [
+          0.77,
+          0.2414,
+          0.351
+        ],
+        [
+          0.78,
+          0.2414,
+          0.41595
+        ],
+        [
+          0.79,
+          0.2414,
+          0.45555
+        ],
+        [
+          0.8,
+          0.2069,
+          0.47275
+        ],
+        [
+          0.81,
+          0.2069,
+          0.4749
+        ],
+        [
+          0.82,
+          0.2069,
+          0.462
+        ],
+        [
+          0.83,
+          0.2069,
+          0.42555
+        ],
+        [
+          0.84,
+          0.1724,
+          0.3598
+        ],
+        [
+          0.85,
+          0.1724,
+          0.2815
+        ],
+        [
+          0.86,
+          0.1724,
+          0.22410000000000002
+        ],
+        [
+          0.87,
+          0.1724,
+          0.20024999999999998
+        ],
+        [
+          0.88,
+          0.1724,
+          0.20024999999999998
+        ],
+        [
+          0.89,
+          0.1379,
+          0.2116
+        ],
+        [
+          0.9,
+          0.1379,
+          0.22799999999999998
+        ],
+        [
+          0.91,
+          0.1379,
+          0.25145
+        ],
+        [
+          0.92,
+          0.1379,
+          0.2814
+        ],
+        [
+          0.93,
+          0.1379,
+          0.31375
+        ],
+        [
+          0.94,
+          0.1379,
+          0.3435
+        ],
+        [
+          0.95,
+          0.1379,
+          0.36365000000000003
+        ],
+        [
+          0.96,
+          0.1379,
+          0.37475
+        ],
+        [
+          0.97,
+          0.1379,
+          0.388
+        ],
+        [
+          0.98,
+          0.1379,
+          0.40435
+        ],
+        [
+          0.99,
+          0.1379,
+          0.41875
+        ],
+        [
+          1,
+          0.1379,
+          0.42835
+        ]
+      ],
+      "d28": {
+        "views": 53,
+        "minutes": 69,
+        "avg_view_seconds": 141,
+        "avg_view_pct": 30.099999999999998,
+        "engaged_views": 29
+      },
+      "first7": 49,
+      "reach": {
+        "impressions": 1284,
+        "ctr": 1.64
+      }
+    },
+    "a5OZUPjtXhQ": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 37
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 23
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 2
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [],
+      "retention": [
+        [
+          0.01,
+          0.9783,
+          0.24605
+        ],
+        [
+          0.02,
+          0.7826000000000001,
+          0.20505
+        ],
+        [
+          0.03,
+          0.7173999999999999,
+          0.17590000000000006
+        ],
+        [
+          0.04,
+          0.5870000000000001,
+          0.1658
+        ],
+        [
+          0.05,
+          0.5435,
+          0.1627
+        ],
+        [
+          0.06,
+          0.5435,
+          0.16100000000000003
+        ],
+        [
+          0.07,
+          0.5,
+          0.15960000000000002
+        ],
+        [
+          0.08,
+          0.4783,
+          0.15860000000000002
+        ],
+        [
+          0.09,
+          0.4783,
+          0.15814999999999996
+        ],
+        [
+          0.1,
+          0.43479999999999996,
+          0.15835
+        ],
+        [
+          0.11,
+          0.413,
+          0.15889999999999999
+        ],
+        [
+          0.12,
+          0.39130000000000004,
+          0.15865
+        ],
+        [
+          0.13,
+          0.3696,
+          0.16005000000000003
+        ],
+        [
+          0.14,
+          0.3696,
+          0.16674999999999995
+        ],
+        [
+          0.15,
+          0.3696,
+          0.17515000000000003
+        ],
+        [
+          0.16,
+          0.3261,
+          0.18305
+        ],
+        [
+          0.17,
+          0.3261,
+          0.19184999999999997
+        ],
+        [
+          0.18,
+          0.3261,
+          0.20284999999999997
+        ],
+        [
+          0.19,
+          0.3261,
+          0.21765
+        ],
+        [
+          0.2,
+          0.3261,
+          0.23570000000000002
+        ],
+        [
+          0.21,
+          0.3043,
+          0.2531
+        ],
+        [
+          0.22,
+          0.3043,
+          0.26944999999999997
+        ],
+        [
+          0.23,
+          0.3043,
+          0.2871
+        ],
+        [
+          0.24,
+          0.3043,
+          0.30915
+        ],
+        [
+          0.25,
+          0.3043,
+          0.3339
+        ],
+        [
+          0.26,
+          0.2826,
+          0.35414999999999996
+        ],
+        [
+          0.27,
+          0.2826,
+          0.37170000000000003
+        ],
+        [
+          0.28,
+          0.2826,
+          0.38835000000000003
+        ],
+        [
+          0.29,
+          0.2826,
+          0.39705
+        ],
+        [
+          0.3,
+          0.3043,
+          0.39815
+        ],
+        [
+          0.31,
+          0.3261,
+          0.398
+        ],
+        [
+          0.32,
+          0.3261,
+          0.3972
+        ],
+        [
+          0.33,
+          0.3043,
+          0.391
+        ],
+        [
+          0.34,
+          0.2826,
+          0.38295
+        ],
+        [
+          0.35,
+          0.2826,
+          0.37825
+        ],
+        [
+          0.36,
+          0.2826,
+          0.37335
+        ],
+        [
+          0.37,
+          0.3043,
+          0.35695
+        ],
+        [
+          0.38,
+          0.2826,
+          0.32230000000000003
+        ],
+        [
+          0.39,
+          0.2826,
+          0.27775
+        ],
+        [
+          0.4,
+          0.2826,
+          0.23710000000000003
+        ],
+        [
+          0.41,
+          0.2826,
+          0.20679999999999998
+        ],
+        [
+          0.42,
+          0.2609,
+          0.18315000000000003
+        ],
+        [
+          0.43,
+          0.2609,
+          0.16255000000000003
+        ],
+        [
+          0.44,
+          0.2609,
+          0.1493
+        ],
+        [
+          0.45,
+          0.2391,
+          0.14354999999999996
+        ],
+        [
+          0.46,
+          0.21739999999999998,
+          0.14065
+        ],
+        [
+          0.47,
+          0.21739999999999998,
+          0.13549999999999995
+        ],
+        [
+          0.48,
+          0.1957,
+          0.1276
+        ],
+        [
+          0.49,
+          0.1957,
+          0.12145000000000006
+        ],
+        [
+          0.5,
+          0.1957,
+          0.11914999999999998
+        ],
+        [
+          0.51,
+          0.1957,
+          0.12524999999999997
+        ],
+        [
+          0.52,
+          0.1957,
+          0.1395
+        ],
+        [
+          0.53,
+          0.1957,
+          0.15814999999999996
+        ],
+        [
+          0.54,
+          0.1957,
+          0.17920000000000003
+        ],
+        [
+          0.55,
+          0.1957,
+          0.20085000000000003
+        ],
+        [
+          0.56,
+          0.1957,
+          0.22149999999999997
+        ],
+        [
+          0.57,
+          0.1957,
+          0.23985
+        ],
+        [
+          0.58,
+          0.1957,
+          0.25460000000000005
+        ],
+        [
+          0.59,
+          0.1957,
+          0.2649
+        ],
+        [
+          0.6,
+          0.1957,
+          0.27054999999999996
+        ],
+        [
+          0.61,
+          0.1957,
+          0.27195
+        ],
+        [
+          0.62,
+          0.1957,
+          0.27005
+        ],
+        [
+          0.63,
+          0.21739999999999998,
+          0.26605
+        ],
+        [
+          0.64,
+          0.1957,
+          0.26105
+        ],
+        [
+          0.65,
+          0.1957,
+          0.2561
+        ],
+        [
+          0.66,
+          0.1957,
+          0.25234999999999996
+        ],
+        [
+          0.67,
+          0.1739,
+          0.25070000000000003
+        ],
+        [
+          0.68,
+          0.1739,
+          0.25175000000000003
+        ],
+        [
+          0.69,
+          0.1739,
+          0.25585
+        ],
+        [
+          0.7,
+          0.1739,
+          0.2632
+        ],
+        [
+          0.71,
+          0.1739,
+          0.2738
+        ],
+        [
+          0.72,
+          0.1739,
+          0.2874
+        ],
+        [
+          0.73,
+          0.1739,
+          0.30315000000000003
+        ],
+        [
+          0.74,
+          0.1739,
+          0.32035
+        ],
+        [
+          0.75,
+          0.1739,
+          0.33835000000000004
+        ],
+        [
+          0.76,
+          0.1739,
+          0.35645
+        ],
+        [
+          0.77,
+          0.1739,
+          0.37415
+        ],
+        [
+          0.78,
+          0.1739,
+          0.39085000000000003
+        ],
+        [
+          0.79,
+          0.1739,
+          0.40615
+        ],
+        [
+          0.8,
+          0.1739,
+          0.4197
+        ],
+        [
+          0.81,
+          0.1739,
+          0.43095
+        ],
+        [
+          0.82,
+          0.1739,
+          0.44005
+        ],
+        [
+          0.83,
+          0.1739,
+          0.44745
+        ],
+        [
+          0.84,
+          0.1739,
+          0.45325
+        ],
+        [
+          0.85,
+          0.1739,
+          0.4579
+        ],
+        [
+          0.86,
+          0.1739,
+          0.46194999999999997
+        ],
+        [
+          0.87,
+          0.1739,
+          0.4656
+        ],
+        [
+          0.88,
+          0.1739,
+          0.46895
+        ],
+        [
+          0.89,
+          0.1739,
+          0.47235
+        ],
+        [
+          0.9,
+          0.1739,
+          0.4771
+        ],
+        [
+          0.91,
+          0.1739,
+          0.48305
+        ],
+        [
+          0.92,
+          0.1739,
+          0.4865
+        ],
+        [
+          0.93,
+          0.1739,
+          0.4873
+        ],
+        [
+          0.94,
+          0.1739,
+          0.4874
+        ],
+        [
+          0.95,
+          0.1739,
+          0.4872
+        ],
+        [
+          0.96,
+          0.1739,
+          0.48665
+        ],
+        [
+          0.97,
+          0.1739,
+          0.4856
+        ],
+        [
+          0.98,
+          0.1739,
+          0.48425
+        ],
+        [
+          0.99,
+          0.1739,
+          0.48275
+        ],
+        [
+          1,
+          0.1739,
+          0.4815
+        ]
+      ],
+      "d28": {
+        "views": 66,
+        "minutes": 105,
+        "avg_view_seconds": 133,
+        "avg_view_pct": 25.730000000000004,
+        "engaged_views": 47
+      },
+      "first7": 46,
+      "reach": {
+        "impressions": 1258,
+        "ctr": 2.23
+      }
+    },
+    "cAQr8W3fXY4": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 992
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 74
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 4
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 3
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 3
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "PLAYLIST",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 1,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [
+        {
+          "term": "dog sec",
+          "views": 1
+        }
+      ],
+      "retention": [
+        [
+          0.01,
+          0.9856999999999999,
+          0.25255
+        ],
+        [
+          0.02,
+          0.9749,
+          0.1769
+        ],
+        [
+          0.03,
+          0.9498000000000001,
+          0.13085000000000002
+        ],
+        [
+          0.04,
+          0.7132999999999999,
+          0.12095
+        ],
+        [
+          0.05,
+          0.5484,
+          0.12005000000000005
+        ],
+        [
+          0.06,
+          0.4803,
+          0.11745
+        ],
+        [
+          0.07,
+          0.4265,
+          0.11219999999999997
+        ],
+        [
+          0.08,
+          0.3728,
+          0.10619999999999996
+        ],
+        [
+          0.09,
+          0.3513,
+          0.10119999999999996
+        ],
+        [
+          0.1,
+          0.3297,
+          0.09814999999999996
+        ],
+        [
+          0.11,
+          0.3011,
+          0.09670000000000001
+        ],
+        [
+          0.12,
+          0.2903,
+          0.09539999999999998
+        ],
+        [
+          0.13,
+          0.2832,
+          0.0917
+        ],
+        [
+          0.14,
+          0.2616,
+          0.08929999999999999
+        ],
+        [
+          0.15,
+          0.2545,
+          0.09509999999999996
+        ],
+        [
+          0.16,
+          0.2545,
+          0.10570000000000002
+        ],
+        [
+          0.17,
+          0.2401,
+          0.11869999999999997
+        ],
+        [
+          0.18,
+          0.22219999999999998,
+          0.13205
+        ],
+        [
+          0.19,
+          0.2151,
+          0.14604999999999996
+        ],
+        [
+          0.2,
+          0.2007,
+          0.16174999999999995
+        ],
+        [
+          0.21,
+          0.2007,
+          0.17585
+        ],
+        [
+          0.22,
+          0.1971,
+          0.19115
+        ],
+        [
+          0.23,
+          0.19,
+          0.2122
+        ],
+        [
+          0.24,
+          0.1864,
+          0.2388
+        ],
+        [
+          0.25,
+          0.17920000000000003,
+          0.26639999999999997
+        ],
+        [
+          0.26,
+          0.18280000000000002,
+          0.2852
+        ],
+        [
+          0.27,
+          0.18280000000000002,
+          0.2862
+        ],
+        [
+          0.28,
+          0.17559999999999998,
+          0.271
+        ],
+        [
+          0.29,
+          0.172,
+          0.25034999999999996
+        ],
+        [
+          0.3,
+          0.1577,
+          0.23485
+        ],
+        [
+          0.31,
+          0.15410000000000001,
+          0.23045000000000004
+        ],
+        [
+          0.32,
+          0.15410000000000001,
+          0.23920000000000002
+        ],
+        [
+          0.33,
+          0.147,
+          0.2596
+        ],
+        [
+          0.34,
+          0.15410000000000001,
+          0.2884
+        ],
+        [
+          0.35,
+          0.1505,
+          0.31925000000000003
+        ],
+        [
+          0.36,
+          0.15410000000000001,
+          0.34145000000000003
+        ],
+        [
+          0.37,
+          0.1505,
+          0.3471
+        ],
+        [
+          0.38,
+          0.147,
+          0.33635000000000004
+        ],
+        [
+          0.39,
+          0.1362,
+          0.31479999999999997
+        ],
+        [
+          0.4,
+          0.1362,
+          0.2891
+        ],
+        [
+          0.41,
+          0.129,
+          0.265
+        ],
+        [
+          0.42,
+          0.12539999999999998,
+          0.24530000000000002
+        ],
+        [
+          0.43,
+          0.129,
+          0.23065000000000002
+        ],
+        [
+          0.44,
+          0.129,
+          0.2197
+        ],
+        [
+          0.45,
+          0.129,
+          0.20815
+        ],
+        [
+          0.46,
+          0.1219,
+          0.19590000000000002
+        ],
+        [
+          0.47,
+          0.1219,
+          0.18745
+        ],
+        [
+          0.48,
+          0.1183,
+          0.18255
+        ],
+        [
+          0.49,
+          0.1219,
+          0.17774999999999996
+        ],
+        [
+          0.5,
+          0.1219,
+          0.16909999999999997
+        ],
+        [
+          0.51,
+          0.11470000000000001,
+          0.1553
+        ],
+        [
+          0.52,
+          0.1075,
+          0.13945000000000002
+        ],
+        [
+          0.53,
+          0.1039,
+          0.12450000000000006
+        ],
+        [
+          0.54,
+          0.1039,
+          0.11560000000000004
+        ],
+        [
+          0.55,
+          0.1039,
+          0.11174999999999996
+        ],
+        [
+          0.56,
+          0.1039,
+          0.10899999999999999
+        ],
+        [
+          0.57,
+          0.1039,
+          0.10615000000000002
+        ],
+        [
+          0.58,
+          0.0968,
+          0.10325000000000001
+        ],
+        [
+          0.59,
+          0.10039999999999999,
+          0.10054999999999997
+        ],
+        [
+          0.6,
+          0.10039999999999999,
+          0.0983
+        ],
+        [
+          0.61,
+          0.0968,
+          0.09625
+        ],
+        [
+          0.62,
+          0.0968,
+          0.09439999999999998
+        ],
+        [
+          0.63,
+          0.0932,
+          0.09289999999999998
+        ],
+        [
+          0.64,
+          0.08960000000000001,
+          0.0917
+        ],
+        [
+          0.65,
+          0.08960000000000001,
+          0.09100000000000003
+        ],
+        [
+          0.66,
+          0.08960000000000001,
+          0.09110000000000001
+        ],
+        [
+          0.67,
+          0.0824,
+          0.09210000000000002
+        ],
+        [
+          0.68,
+          0.0789,
+          0.09399999999999997
+        ],
+        [
+          0.69,
+          0.0789,
+          0.09685000000000005
+        ],
+        [
+          0.7,
+          0.0789,
+          0.10100000000000003
+        ],
+        [
+          0.71,
+          0.0789,
+          0.10674999999999996
+        ],
+        [
+          0.72,
+          0.0753,
+          0.11385
+        ],
+        [
+          0.73,
+          0.0717,
+          0.12204999999999999
+        ],
+        [
+          0.74,
+          0.0717,
+          0.13145
+        ],
+        [
+          0.75,
+          0.0717,
+          0.1421
+        ],
+        [
+          0.76,
+          0.0717,
+          0.15385
+        ],
+        [
+          0.77,
+          0.0717,
+          0.16645000000000004
+        ],
+        [
+          0.78,
+          0.0717,
+          0.17909999999999998
+        ],
+        [
+          0.79,
+          0.0717,
+          0.19090000000000001
+        ],
+        [
+          0.8,
+          0.0681,
+          0.20155
+        ],
+        [
+          0.81,
+          0.0681,
+          0.21084999999999998
+        ],
+        [
+          0.82,
+          0.0681,
+          0.21875
+        ],
+        [
+          0.83,
+          0.0681,
+          0.2252
+        ],
+        [
+          0.84,
+          0.0717,
+          0.23059999999999997
+        ],
+        [
+          0.85,
+          0.0681,
+          0.23510000000000003
+        ],
+        [
+          0.86,
+          0.0681,
+          0.2389
+        ],
+        [
+          0.87,
+          0.0681,
+          0.24245
+        ],
+        [
+          0.88,
+          0.0681,
+          0.2465
+        ],
+        [
+          0.89,
+          0.0645,
+          0.25285
+        ],
+        [
+          0.9,
+          0.060899999999999996,
+          0.26105
+        ],
+        [
+          0.91,
+          0.057300000000000004,
+          0.2671
+        ],
+        [
+          0.92,
+          0.060899999999999996,
+          0.27065
+        ],
+        [
+          0.93,
+          0.057300000000000004,
+          0.2734
+        ],
+        [
+          0.94,
+          0.060899999999999996,
+          0.2758
+        ],
+        [
+          0.95,
+          0.060899999999999996,
+          0.27765
+        ],
+        [
+          0.96,
+          0.060899999999999996,
+          0.27875
+        ],
+        [
+          0.97,
+          0.060899999999999996,
+          0.2793
+        ],
+        [
+          0.98,
+          0.0538,
+          0.27945
+        ],
+        [
+          0.99,
+          0.050199999999999995,
+          0.27949999999999997
+        ],
+        [
+          1,
+          0.050199999999999995,
+          0.2794
+        ]
+      ],
+      "d28": {
+        "views": 1079,
+        "minutes": 390,
+        "avg_view_seconds": 75,
+        "avg_view_pct": 16.23,
+        "engaged_views": 279
+      },
+      "first7": 1070,
+      "reach": {
+        "impressions": 6245,
+        "ctr": 3.8
+      }
+    },
+    "cubjvZvUIDI": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 141
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 88
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 3
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 6,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [
+        {
+          "term": "dog psychology",
+          "views": 1
+        }
+      ],
+      "retention": [
+        [
+          0.01,
+          0.9714,
+          0.31479999999999997
+        ],
+        [
+          0.02,
+          0.9333,
+          0.32230000000000003
+        ],
+        [
+          0.03,
+          0.8667,
+          0.32535000000000003
+        ],
+        [
+          0.04,
+          0.7714,
+          0.32615
+        ],
+        [
+          0.05,
+          0.7333,
+          0.3315
+        ],
+        [
+          0.06,
+          0.6951999999999999,
+          0.34225
+        ],
+        [
+          0.07,
+          0.6570999999999999,
+          0.3547
+        ],
+        [
+          0.08,
+          0.6476000000000001,
+          0.3668
+        ],
+        [
+          0.09,
+          0.619,
+          0.3766
+        ],
+        [
+          0.1,
+          0.5619,
+          0.383
+        ],
+        [
+          0.11,
+          0.5524,
+          0.38595
+        ],
+        [
+          0.12,
+          0.5524,
+          0.38515
+        ],
+        [
+          0.13,
+          0.5428999999999999,
+          0.3811
+        ],
+        [
+          0.14,
+          0.5238,
+          0.3764
+        ],
+        [
+          0.15,
+          0.5047999999999999,
+          0.37495
+        ],
+        [
+          0.16,
+          0.5047999999999999,
+          0.3782
+        ],
+        [
+          0.17,
+          0.49520000000000003,
+          0.38295
+        ],
+        [
+          0.18,
+          0.4667,
+          0.38565
+        ],
+        [
+          0.19,
+          0.4667,
+          0.3866
+        ],
+        [
+          0.2,
+          0.4667,
+          0.38955
+        ],
+        [
+          0.21,
+          0.4667,
+          0.39665
+        ],
+        [
+          0.22,
+          0.4571,
+          0.40585
+        ],
+        [
+          0.23,
+          0.4571,
+          0.4124
+        ],
+        [
+          0.24,
+          0.4476,
+          0.41425
+        ],
+        [
+          0.25,
+          0.4476,
+          0.41445
+        ],
+        [
+          0.26,
+          0.4476,
+          0.4151
+        ],
+        [
+          0.27,
+          0.4571,
+          0.41355
+        ],
+        [
+          0.28,
+          0.43810000000000004,
+          0.407
+        ],
+        [
+          0.29,
+          0.4476,
+          0.3978
+        ],
+        [
+          0.3,
+          0.419,
+          0.3919
+        ],
+        [
+          0.31,
+          0.40950000000000003,
+          0.39255
+        ],
+        [
+          0.32,
+          0.4,
+          0.39675
+        ],
+        [
+          0.33,
+          0.40950000000000003,
+          0.39795
+        ],
+        [
+          0.34,
+          0.39049999999999996,
+          0.39339999999999997
+        ],
+        [
+          0.35,
+          0.39049999999999996,
+          0.386
+        ],
+        [
+          0.36,
+          0.39049999999999996,
+          0.3824
+        ],
+        [
+          0.37,
+          0.39049999999999996,
+          0.38634999999999997
+        ],
+        [
+          0.38,
+          0.39049999999999996,
+          0.39449999999999996
+        ],
+        [
+          0.39,
+          0.4,
+          0.4008
+        ],
+        [
+          0.4,
+          0.381,
+          0.404
+        ],
+        [
+          0.41,
+          0.381,
+          0.4082
+        ],
+        [
+          0.42,
+          0.381,
+          0.4164
+        ],
+        [
+          0.43,
+          0.381,
+          0.4254
+        ],
+        [
+          0.44,
+          0.3714,
+          0.42995
+        ],
+        [
+          0.45,
+          0.35240000000000005,
+          0.42935
+        ],
+        [
+          0.46,
+          0.35240000000000005,
+          0.427
+        ],
+        [
+          0.47,
+          0.3619,
+          0.42385
+        ],
+        [
+          0.48,
+          0.3619,
+          0.41805
+        ],
+        [
+          0.49,
+          0.35240000000000005,
+          0.41054999999999997
+        ],
+        [
+          0.5,
+          0.3619,
+          0.40705
+        ],
+        [
+          0.51,
+          0.3619,
+          0.41054999999999997
+        ],
+        [
+          0.52,
+          0.35240000000000005,
+          0.41715
+        ],
+        [
+          0.53,
+          0.3619,
+          0.4203
+        ],
+        [
+          0.54,
+          0.35240000000000005,
+          0.41875
+        ],
+        [
+          0.55,
+          0.35240000000000005,
+          0.41625
+        ],
+        [
+          0.56,
+          0.3429,
+          0.41495
+        ],
+        [
+          0.57,
+          0.3429,
+          0.41245
+        ],
+        [
+          0.58,
+          0.3333,
+          0.40495
+        ],
+        [
+          0.59,
+          0.32380000000000003,
+          0.39255
+        ],
+        [
+          0.6,
+          0.32380000000000003,
+          0.37970000000000004
+        ],
+        [
+          0.61,
+          0.3333,
+          0.37024999999999997
+        ],
+        [
+          0.62,
+          0.3333,
+          0.36445
+        ],
+        [
+          0.63,
+          0.3333,
+          0.36165
+        ],
+        [
+          0.64,
+          0.32380000000000003,
+          0.3631
+        ],
+        [
+          0.65,
+          0.32380000000000003,
+          0.36819999999999997
+        ],
+        [
+          0.66,
+          0.32380000000000003,
+          0.37234999999999996
+        ],
+        [
+          0.67,
+          0.3333,
+          0.37105
+        ],
+        [
+          0.68,
+          0.32380000000000003,
+          0.36355000000000004
+        ],
+        [
+          0.69,
+          0.3143,
+          0.3532
+        ],
+        [
+          0.7,
+          0.3143,
+          0.34714999999999996
+        ],
+        [
+          0.71,
+          0.3143,
+          0.35135
+        ],
+        [
+          0.72,
+          0.3143,
+          0.36435
+        ],
+        [
+          0.73,
+          0.3048,
+          0.38455
+        ],
+        [
+          0.74,
+          0.2952,
+          0.41085
+        ],
+        [
+          0.75,
+          0.2857,
+          0.4359
+        ],
+        [
+          0.76,
+          0.2952,
+          0.44584999999999997
+        ],
+        [
+          0.77,
+          0.2952,
+          0.4329
+        ],
+        [
+          0.78,
+          0.2857,
+          0.4059
+        ],
+        [
+          0.79,
+          0.2857,
+          0.38195
+        ],
+        [
+          0.8,
+          0.2857,
+          0.36929999999999996
+        ],
+        [
+          0.81,
+          0.2952,
+          0.36565000000000003
+        ],
+        [
+          0.82,
+          0.2952,
+          0.36445
+        ],
+        [
+          0.83,
+          0.2952,
+          0.35845000000000005
+        ],
+        [
+          0.84,
+          0.2857,
+          0.3436
+        ],
+        [
+          0.85,
+          0.2857,
+          0.3211
+        ],
+        [
+          0.86,
+          0.2857,
+          0.29579999999999995
+        ],
+        [
+          0.87,
+          0.2762,
+          0.27359999999999995
+        ],
+        [
+          0.88,
+          0.2667,
+          0.256
+        ],
+        [
+          0.89,
+          0.2667,
+          0.23804999999999998
+        ],
+        [
+          0.9,
+          0.2571,
+          0.21865
+        ],
+        [
+          0.91,
+          0.2571,
+          0.20479999999999998
+        ],
+        [
+          0.92,
+          0.2571,
+          0.19725000000000004
+        ],
+        [
+          0.93,
+          0.24760000000000001,
+          0.19219999999999998
+        ],
+        [
+          0.94,
+          0.23809999999999998,
+          0.18625000000000003
+        ],
+        [
+          0.95,
+          0.23809999999999998,
+          0.1738
+        ],
+        [
+          0.96,
+          0.23809999999999998,
+          0.1558
+        ],
+        [
+          0.97,
+          0.2286,
+          0.14405
+        ],
+        [
+          0.98,
+          0.1714,
+          0.1395
+        ],
+        [
+          0.99,
+          0.18100000000000002,
+          0.1371
+        ],
+        [
+          1,
+          0.16190000000000002,
+          0.13565
+        ]
+      ],
+      "d28": {
+        "views": 233,
+        "minutes": 320,
+        "avg_view_seconds": 180,
+        "avg_view_pct": 38.3,
+        "engaged_views": 105
+      },
+      "first7": 183,
+      "reach": {
+        "impressions": 2635,
+        "ctr": 2.85
+      }
+    },
+    "f71ngyeySCg": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 48
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 47
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 5
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 4
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 3,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [],
+      "retention": [
+        [
+          0.01,
+          1,
+          0.2835
+        ],
+        [
+          0.02,
+          0.8484999999999999,
+          0.20239999999999997
+        ],
+        [
+          0.03,
+          0.7576,
+          0.14704999999999996
+        ],
+        [
+          0.04,
+          0.6667000000000001,
+          0.1264
+        ],
+        [
+          0.05,
+          0.5909,
+          0.11560000000000004
+        ],
+        [
+          0.06,
+          0.5303,
+          0.1049
+        ],
+        [
+          0.07,
+          0.4697,
+          0.09389999999999998
+        ],
+        [
+          0.08,
+          0.39390000000000003,
+          0.08450000000000002
+        ],
+        [
+          0.09,
+          0.3636,
+          0.07835000000000003
+        ],
+        [
+          0.1,
+          0.34850000000000003,
+          0.07475000000000004
+        ],
+        [
+          0.11,
+          0.2879,
+          0.07250000000000001
+        ],
+        [
+          0.12,
+          0.2576,
+          0.07024999999999998
+        ],
+        [
+          0.13,
+          0.24239999999999998,
+          0.066
+        ],
+        [
+          0.14,
+          0.2273,
+          0.060799999999999965
+        ],
+        [
+          0.15,
+          0.2273,
+          0.06140000000000001
+        ],
+        [
+          0.16,
+          0.2121,
+          0.07124999999999998
+        ],
+        [
+          0.17,
+          0.2121,
+          0.08380000000000004
+        ],
+        [
+          0.18,
+          0.2121,
+          0.09149999999999997
+        ],
+        [
+          0.19,
+          0.19699999999999998,
+          0.09840000000000004
+        ],
+        [
+          0.2,
+          0.19699999999999998,
+          0.1074
+        ],
+        [
+          0.21,
+          0.1818,
+          0.11354999999999998
+        ],
+        [
+          0.22,
+          0.1818,
+          0.11965000000000003
+        ],
+        [
+          0.23,
+          0.1818,
+          0.12994999999999995
+        ],
+        [
+          0.24,
+          0.16670000000000001,
+          0.14725
+        ],
+        [
+          0.25,
+          0.1515,
+          0.1875
+        ],
+        [
+          0.26,
+          0.1364,
+          0.2603
+        ],
+        [
+          0.27,
+          0.1364,
+          0.3377
+        ],
+        [
+          0.28,
+          0.19699999999999998,
+          0.3729
+        ],
+        [
+          0.29,
+          0.1515,
+          0.34465
+        ],
+        [
+          0.3,
+          0.12119999999999999,
+          0.27005
+        ],
+        [
+          0.31,
+          0.0758,
+          0.19365
+        ],
+        [
+          0.32,
+          0.0758,
+          0.14725
+        ],
+        [
+          0.33,
+          0.0909,
+          0.12555
+        ],
+        [
+          0.34,
+          0.0909,
+          0.11259999999999998
+        ],
+        [
+          0.35,
+          0.0909,
+          0.10395000000000004
+        ],
+        [
+          0.36,
+          0.0758,
+          0.10020000000000001
+        ],
+        [
+          0.37,
+          0.0758,
+          0.09820000000000001
+        ],
+        [
+          0.38,
+          0.0758,
+          0.09215000000000001
+        ],
+        [
+          0.39,
+          0.0758,
+          0.08094999999999997
+        ],
+        [
+          0.4,
+          0.0909,
+          0.06884999999999997
+        ],
+        [
+          0.41,
+          0.0909,
+          0.057499999999999996
+        ],
+        [
+          0.42,
+          0.0909,
+          0.05145000000000005
+        ],
+        [
+          0.43,
+          0.0909,
+          0.050900000000000056
+        ],
+        [
+          0.44,
+          0.0758,
+          0.05325000000000002
+        ],
+        [
+          0.45,
+          0.0758,
+          0.05804999999999999
+        ],
+        [
+          0.46,
+          0.0455,
+          0.06555
+        ],
+        [
+          0.47,
+          0.0455,
+          0.07725000000000004
+        ],
+        [
+          0.48,
+          0.0455,
+          0.09685000000000005
+        ],
+        [
+          0.49,
+          0.0455,
+          0.12935000000000002
+        ],
+        [
+          0.5,
+          0.0455,
+          0.17975000000000002
+        ],
+        [
+          0.51,
+          0.0455,
+          0.24934999999999996
+        ],
+        [
+          0.52,
+          0.0455,
+          0.33135000000000003
+        ],
+        [
+          0.53,
+          0.0455,
+          0.40855
+        ],
+        [
+          0.54,
+          0.060599999999999994,
+          0.4626
+        ],
+        [
+          0.55,
+          0.060599999999999994,
+          0.4892
+        ],
+        [
+          0.56,
+          0.060599999999999994,
+          0.49805
+        ],
+        [
+          0.57,
+          0.060599999999999994,
+          0.49985
+        ],
+        [
+          0.58,
+          0.0758,
+          0.4992
+        ],
+        [
+          0.59,
+          0.0758,
+          0.4942
+        ],
+        [
+          0.6,
+          0.0758,
+          0.47785
+        ],
+        [
+          0.61,
+          0.060599999999999994,
+          0.44155
+        ],
+        [
+          0.62,
+          0.0758,
+          0.38295
+        ],
+        [
+          0.63,
+          0.0758,
+          0.31320000000000003
+        ],
+        [
+          0.64,
+          0.0758,
+          0.2475
+        ],
+        [
+          0.65,
+          0.060599999999999994,
+          0.19489999999999996
+        ],
+        [
+          0.66,
+          0.060599999999999994,
+          0.15789999999999998
+        ],
+        [
+          0.67,
+          0.060599999999999994,
+          0.13524999999999998
+        ],
+        [
+          0.68,
+          0.060599999999999994,
+          0.12390000000000001
+        ],
+        [
+          0.69,
+          0.060599999999999994,
+          0.121
+        ],
+        [
+          0.7,
+          0.0455,
+          0.12555
+        ],
+        [
+          0.71,
+          0.0455,
+          0.13780000000000003
+        ],
+        [
+          0.72,
+          0.0455,
+          0.15875
+        ],
+        [
+          0.73,
+          0.0455,
+          0.18930000000000002
+        ],
+        [
+          0.74,
+          0.0455,
+          0.22864999999999996
+        ],
+        [
+          0.75,
+          0.0455,
+          0.2747
+        ],
+        [
+          0.76,
+          0.0455,
+          0.32275
+        ],
+        [
+          0.77,
+          0.0455,
+          0.36655
+        ],
+        [
+          0.78,
+          0.060599999999999994,
+          0.40135
+        ],
+        [
+          0.79,
+          0.060599999999999994,
+          0.42445
+        ],
+        [
+          0.8,
+          0.060599999999999994,
+          0.43515
+        ],
+        [
+          0.81,
+          0.060599999999999994,
+          0.43465
+        ],
+        [
+          0.82,
+          0.0455,
+          0.4246
+        ],
+        [
+          0.83,
+          0.0455,
+          0.407
+        ],
+        [
+          0.84,
+          0.060599999999999994,
+          0.3845
+        ],
+        [
+          0.85,
+          0.060599999999999994,
+          0.36029999999999995
+        ],
+        [
+          0.86,
+          0.060599999999999994,
+          0.3372
+        ],
+        [
+          0.87,
+          0.060599999999999994,
+          0.31745
+        ],
+        [
+          0.88,
+          0.060599999999999994,
+          0.30255
+        ],
+        [
+          0.89,
+          0.0455,
+          0.2939
+        ],
+        [
+          0.9,
+          0.0455,
+          0.29335
+        ],
+        [
+          0.91,
+          0.0455,
+          0.30025
+        ],
+        [
+          0.92,
+          0.0455,
+          0.30989999999999995
+        ],
+        [
+          0.93,
+          0.0455,
+          0.32065
+        ],
+        [
+          0.94,
+          0.0455,
+          0.333
+        ],
+        [
+          0.95,
+          0.0455,
+          0.3466
+        ],
+        [
+          0.96,
+          0.0455,
+          0.36105
+        ],
+        [
+          0.97,
+          0.0455,
+          0.37565
+        ],
+        [
+          0.98,
+          0.0455,
+          0.3895
+        ],
+        [
+          0.99,
+          0.0455,
+          0.4013
+        ],
+        [
+          1,
+          0.0455,
+          0.4093
+        ]
+      ],
+      "d28": {
+        "views": 105,
+        "minutes": 75,
+        "avg_view_seconds": 67,
+        "avg_view_pct": 13.170000000000002,
+        "engaged_views": 66
+      },
+      "first7": 53,
+      "reach": {
+        "impressions": 1736,
+        "ctr": 2.65
+      }
+    },
+    "-7gqBLfBzUQ": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 162
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 59
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 4,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 4,
+        "minutes": 7,
+        "avg_view_seconds": 210,
+        "avg_view_pct": 43.06,
+        "engaged_views": 2
+      },
+      "first7": 150,
+      "reach": {
+        "impressions": 71,
+        "ctr": 0.0
+      }
+    },
+    "61AV6YG4jm8": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 46
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 23
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 6,
+        "minutes": 1,
+        "avg_view_seconds": 19,
+        "avg_view_pct": 4.28,
+        "engaged_views": 3
+      },
+      "first7": 46,
+      "reach": {
+        "impressions": 155,
+        "ctr": 0.0
+      }
+    },
+    "EhByx3G327w": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 15
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 6
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 3
+        },
+        {
+          "source": "EXT_URL",
+          "views": 3
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 4,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 8,
+      "reach": {
+        "impressions": 5,
+        "ctr": 0.0
+      }
+    },
+    "_Ew3RclJdzM": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 39
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 24
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 5
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 3
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 13,
+        "minutes": 14,
+        "avg_view_seconds": 142,
+        "avg_view_pct": 27.93,
+        "engaged_views": 6
+      },
+      "first7": 38,
+      "reach": {
+        "impressions": 159,
+        "ctr": 1.89
+      }
+    },
+    "bcRA1MQpupA": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 29
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 11
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 3
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 10,
+      "reach": {
+        "impressions": 10,
+        "ctr": 0.0
+      }
+    },
+    "kgGlEnK02F8": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 21
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 18
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 4
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "END_SCREEN",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 1,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 17,
+      "reach": {
+        "impressions": 3,
+        "ctr": 0.0
+      }
+    },
+    "lNUuBs0ZTxk": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 37
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 22
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "PLAYLIST",
+          "views": 2
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 1,
+        "minutes": 7,
+        "avg_view_seconds": 431,
+        "avg_view_pct": 97.6,
+        "engaged_views": 1
+      },
+      "first7": 38,
+      "reach": {
+        "impressions": 9,
+        "ctr": 0.0
+      }
+    },
+    "u0RN1VUD5Qo": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 20
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 13
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 6,
+      "reach": {
+        "impressions": 10,
+        "ctr": 0.0
+      }
+    },
+    "wY-ryhZZULM": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 25
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 12
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 5
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 2,
+        "minutes": 0,
+        "avg_view_seconds": 8,
+        "avg_view_pct": 1.66,
+        "engaged_views": 1
+      },
+      "first7": 25,
+      "reach": {
+        "impressions": 24,
+        "ctr": 4.17
+      }
+    },
+    "xymBrPaMr0E": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 11
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 3
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 11,
+      "reach": {
+        "impressions": 4,
+        "ctr": 0.0
+      }
+    },
+    "1kt83gfO42Y": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 573
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 33
+        },
+        {
+          "source": "SOUND_PAGE",
+          "views": 5
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 617,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "5WN8raegt1s": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 14
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 8
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 21,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "9BN0f4HWe30": {
+      "traffic": [
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 1,
+      "reach": {
+        "impressions": 4,
+        "ctr": 0.0
+      }
+    },
+    "B-cLmItSYKM": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 54
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 7,
+      "reach": {
+        "impressions": 3,
+        "ctr": 0.0
+      }
+    },
+    "G9S9E7EzWYM": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 12
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 5
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 2
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 16,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "SC4eWDle-TI": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 262
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 6
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 270,
+      "reach": {
+        "impressions": 1,
+        "ctr": 0.0
+      }
+    },
+    "ZaRX2-U3UGI": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 74
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 33
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "SHORTS_CONTENT_LINKS",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        },
+        {
+          "source": "PLAYLIST",
+          "views": 1
+        },
+        {
+          "source": "HASHTAGS",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 0,
+        "minutes": 0,
+        "avg_view_seconds": 0,
+        "avg_view_pct": 0,
+        "engaged_views": 0
+      },
+      "first7": 48,
+      "reach": {
+        "impressions": 7,
+        "ctr": 0.0
+      }
+    },
+    "u0ApdfDTb_U": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 3
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        },
+        {
+          "source": "SHORTS_CONTENT_LINKS",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 4,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "vFkewoy4sDE": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 1469
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 25
+        },
+        {
+          "source": "HASHTAGS",
+          "views": 12
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 5
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 3
+        },
+        {
+          "source": "NOTIFICATION",
+          "views": 1
+        },
+        {
+          "source": "SOUND_PAGE",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 1498,
+      "reach": {
+        "impressions": 4,
+        "ctr": 0.0
+      }
+    },
+    "wF0CZIeZEIg": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 1598
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 24
+        },
+        {
+          "source": "HASHTAGS",
+          "views": 8
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 3
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 1624,
+      "reach": {
+        "impressions": 1,
+        "ctr": 0.0
+      }
+    },
+    "57scgG1OH0Y": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 127
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 13
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 7
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 1
+      },
+      "first7": 145
+    },
+    "8JdwHMK89QE": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 50
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 20
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 6
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        },
+        {
+          "source": "PLAYLIST",
+          "views": 1
+        },
+        {
+          "source": "END_SCREEN",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 59,
+      "reach": {
+        "impressions": 11,
+        "ctr": 0.0
+      }
+    },
+    "AggGZTneJNo": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 40
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 4,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 33,
+      "reach": {
+        "impressions": 18,
+        "ctr": 0.0
+      }
+    },
+    "CgpinOpquC0": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 40
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 8
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 3
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 3
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 2
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 5,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 14,
+      "reach": {
+        "impressions": 7,
+        "ctr": 0.0
+      }
+    },
+    "I8I-0MSXwTw": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 30
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 1,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 30,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "MH_bXgURICY": {
+      "traffic": [
+        {
+          "source": "SUBSCRIBER",
+          "views": 42
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 29
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 5
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 1,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 51,
+      "reach": {
+        "impressions": 11,
+        "ctr": 0.0
+      }
+    },
+    "RTunItiO17c": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 85
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 13
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 1
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 30,
+      "reach": {
+        "impressions": 2,
+        "ctr": 0.0
+      }
+    },
+    "sG9stM06A8Y": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 167
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 36
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 13
+        },
+        {
+          "source": "EXT_URL",
+          "views": 9
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 2
+        },
+        {
+          "source": "NOTIFICATION",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 2,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "d28": {
+        "views": 4,
+        "minutes": 0,
+        "avg_view_seconds": 16,
+        "avg_view_pct": 3.19,
+        "engaged_views": 1
+      },
+      "first7": 39,
+      "reach": {
+        "impressions": 22,
+        "ctr": 0.0
+      }
+    },
+    "tpXlVRhGPzg": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 132
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 8
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 5
+        },
+        {
+          "source": "SOUND_PAGE",
+          "views": 3
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 143,
+      "reach": {
+        "impressions": 4,
+        "ctr": 0.0
+      }
+    }
+  },
+  "notes": []
+}

@@ -1,0 +1,10 @@
+date,channel_id,video_id,device_type,operating_system,traffic_source_type,traffic_source_detail,video_thumbnail_impressions,video_thumbnail_impressions_ctr
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,1AIjdSiKDxA,101,2,5,unknown,1,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,1AIjdSiKDxA,101,9,5,unknown,3,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,1AIjdSiKDxA,104,4,5,unknown,24,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,1AIjdSiKDxA,104,5,5,unknown,3,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,1AIjdSiKDxA,105,5,5,unknown,1,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,bmmtuMAZlZk,101,2,3,what-to-watch,3,0.33333333333333331
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,bmmtuMAZlZk,104,4,3,what-to-watch,2,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,bmmtuMAZlZk,104,4,5,unknown,1,0
+20261110,UCtcWyr_9dmr4iyRjCg0rqrA,bmmtuMAZlZk,104,4,7,OdJDgQS1lP8,1,0

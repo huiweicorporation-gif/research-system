@@ -1,0 +1,2092 @@
+{
+  "day": "2026-11-14",
+  "read_at": "2026-11-14T19:55:19.230792+07:00",
+  "content_types": [
+    {
+      "type": "shorts",
+      "views": 2433,
+      "minutes": 1357
+    },
+    {
+      "type": "videoOnDemand",
+      "views": 22,
+      "minutes": 18
+    }
+  ],
+  "traffic": [
+    {
+      "source": "SHORTS",
+      "views": 2369,
+      "minutes": 1322
+    },
+    {
+      "source": "YT_SEARCH",
+      "views": 34,
+      "minutes": 14
+    },
+    {
+      "source": "YT_CHANNEL",
+      "views": 23,
+      "minutes": 17
+    },
+    {
+      "source": "RELATED_VIDEO",
+      "views": 12,
+      "minutes": 16
+    },
+    {
+      "source": "YT_OTHER_PAGE",
+      "views": 10,
+      "minutes": 5
+    },
+    {
+      "source": "SUBSCRIBER",
+      "views": 6,
+      "minutes": 0
+    },
+    {
+      "source": "EXT_URL",
+      "views": 1,
+      "minutes": 0
+    },
+    {
+      "source": "NO_LINK_OTHER",
+      "views": 0,
+      "minutes": 0
+    }
+  ],
+  "countries": [
+    {
+      "country": "VN",
+      "views": 1819,
+      "minutes": 1165
+    },
+    {
+      "country": "US",
+      "views": 197,
+      "minutes": 71
+    },
+    {
+      "country": "KE",
+      "views": 29,
+      "minutes": 3
+    },
+    {
+      "country": "IN",
+      "views": 20,
+      "minutes": 3
+    }
+  ],
+  "devices": [
+    {
+      "device": "MOBILE",
+      "views": 2304,
+      "minutes": 1296
+    },
+    {
+      "device": "TV",
+      "views": 61,
+      "minutes": 47
+    },
+    {
+      "device": "TABLET",
+      "views": 51,
+      "minutes": 15
+    },
+    {
+      "device": "DESKTOP",
+      "views": 38,
+      "minutes": 16
+    }
+  ],
+  "age_gender": [
+    {
+      "age": "age18-24",
+      "gender": "female",
+      "pct": 2.6
+    },
+    {
+      "age": "age18-24",
+      "gender": "male",
+      "pct": 3.6
+    },
+    {
+      "age": "age25-34",
+      "gender": "female",
+      "pct": 8.9
+    },
+    {
+      "age": "age25-34",
+      "gender": "male",
+      "pct": 15.9
+    },
+    {
+      "age": "age35-44",
+      "gender": "female",
+      "pct": 8.2
+    },
+    {
+      "age": "age35-44",
+      "gender": "male",
+      "pct": 14.2
+    },
+    {
+      "age": "age45-54",
+      "gender": "female",
+      "pct": 6
+    },
+    {
+      "age": "age45-54",
+      "gender": "male",
+      "pct": 7.8
+    },
+    {
+      "age": "age55-64",
+      "gender": "female",
+      "pct": 9.5
+    },
+    {
+      "age": "age55-64",
+      "gender": "male",
+      "pct": 7.4
+    },
+    {
+      "age": "age65-",
+      "gender": "female",
+      "pct": 10.9
+    },
+    {
+      "age": "age65-",
+      "gender": "male",
+      "pct": 5
+    }
+  ],
+  "subscribed": [
+    {
+      "status": "SUBSCRIBED",
+      "views": 4,
+      "avg_view_pct": 11.27
+    },
+    {
+      "status": "UNSUBSCRIBED",
+      "views": 2451,
+      "avg_view_pct": 102.2
+    }
+  ],
+  "daily": [
+    {
+      "day": "2026-08-17",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-18",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-19",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-20",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-21",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-22",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-23",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-24",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-25",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-26",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-27",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-28",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-29",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-30",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-08-31",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-01",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-02",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-03",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-04",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-05",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-06",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-07",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-08",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-09",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-10",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-11",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-12",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-13",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-14",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-15",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-16",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-17",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-18",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-19",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-20",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-21",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-22",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-23",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-24",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-25",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-26",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-27",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-28",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-29",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-09-30",
+      "views": 2,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-01",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-02",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-03",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-04",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-05",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-06",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-07",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-08",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-09",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-10",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 1,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-11",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-12",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-13",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-14",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-15",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-16",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-17",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-18",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-19",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-20",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-21",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-22",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-23",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-24",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-25",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-26",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-27",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-28",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-29",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-30",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-10-31",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-01",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-02",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-03",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-04",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-05",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-06",
+      "views": 0,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-07",
+      "views": 8,
+      "minutes": 13,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-08",
+      "views": 2,
+      "minutes": 1,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-09",
+      "views": 2,
+      "minutes": 0,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-10",
+      "views": 293,
+      "minutes": 65,
+      "subs_gained": 0,
+      "subs_lost": 0
+    },
+    {
+      "day": "2026-11-11",
+      "views": 176,
+      "minutes": 34,
+      "subs_gained": 1,
+      "subs_lost": 0
+    }
+  ],
+  "last28": {
+    "start": "2026-10-16",
+    "end": "2026-11-12",
+    "views": 481,
+    "minutes": 115,
+    "subs_gained": 1,
+    "subs_lost": 0,
+    "avg_view_seconds": 26,
+    "avg_view_pct": 36.33
+  },
+  "prev28": {
+    "start": "2026-09-18",
+    "end": "2026-10-15",
+    "views": 2,
+    "minutes": 0,
+    "subs_gained": 1,
+    "subs_lost": 0,
+    "avg_view_seconds": 0,
+    "avg_view_pct": 0
+  },
+  "traffic_28d": [
+    {
+      "source": "SHORTS",
+      "views": 451,
+      "minutes": 96,
+      "avg_view_seconds": 23
+    },
+    {
+      "source": "YT_SEARCH",
+      "views": 13,
+      "minutes": 2,
+      "avg_view_seconds": 24
+    },
+    {
+      "source": "RELATED_VIDEO",
+      "views": 8,
+      "minutes": 13,
+      "avg_view_seconds": 100
+    },
+    {
+      "source": "YT_OTHER_PAGE",
+      "views": 4,
+      "minutes": 2,
+      "avg_view_seconds": 44
+    },
+    {
+      "source": "SUBSCRIBER",
+      "views": 3,
+      "minutes": 0,
+      "avg_view_seconds": 10
+    },
+    {
+      "source": "YT_CHANNEL",
+      "views": 1,
+      "minutes": 0,
+      "avg_view_seconds": 0
+    },
+    {
+      "source": "EXT_URL",
+      "views": 1,
+      "minutes": 0,
+      "avg_view_seconds": 6
+    },
+    {
+      "source": "NO_LINK_OTHER",
+      "views": 0,
+      "minutes": 0,
+      "avg_view_seconds": 0
+    }
+  ],
+  "reach_28d": {
+    "start": "2026-10-16",
+    "end": "2026-11-12",
+    "days": 6,
+    "impressions": 470,
+    "ctr": 1.7,
+    "sources": [
+      {
+        "source": "RELATED_VIDEO",
+        "impressions": 414,
+        "ctr": 1.45
+      },
+      {
+        "source": "YT_SEARCH",
+        "impressions": 39,
+        "ctr": 0.0
+      },
+      {
+        "source": "SUBSCRIBER",
+        "impressions": 16,
+        "ctr": 6.25
+      },
+      {
+        "source": "YT_CHANNEL",
+        "impressions": 1,
+        "ctr": 100.0
+      }
+    ]
+  },
+  "videos": {
+    "1AIjdSiKDxA": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 451
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 13
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 3
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 2,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [
+        {
+          "term": "benefits of sea salt",
+          "views": 2
+        },
+        {
+          "term": "gooner",
+          "views": 1
+        }
+      ],
+      "retention": [
+        [
+          0.01,
+          1.2059,
+          0.54575
+        ],
+        [
+          0.02,
+          1.1933,
+          0.50575
+        ],
+        [
+          0.03,
+          1.1765,
+          0.46735
+        ],
+        [
+          0.04,
+          1.1597,
+          0.43505
+        ],
+        [
+          0.05,
+          1.1513,
+          0.4107
+        ],
+        [
+          0.06,
+          1.1513,
+          0.39365
+        ],
+        [
+          0.07,
+          1.1429,
+          0.3819
+        ],
+        [
+          0.08,
+          1.1429,
+          0.37345
+        ],
+        [
+          0.09,
+          1.1345,
+          0.36695
+        ],
+        [
+          0.1,
+          1.0881999999999998,
+          0.3618
+        ],
+        [
+          0.11,
+          1.0588,
+          0.35760000000000003
+        ],
+        [
+          0.12,
+          1.021,
+          0.35419999999999996
+        ],
+        [
+          0.13,
+          0.9790000000000001,
+          0.35165
+        ],
+        [
+          0.14,
+          0.9412,
+          0.3498
+        ],
+        [
+          0.15,
+          0.9159999999999999,
+          0.34875
+        ],
+        [
+          0.16,
+          0.8654999999999999,
+          0.3484
+        ],
+        [
+          0.17,
+          0.8109000000000001,
+          0.3488
+        ],
+        [
+          0.18,
+          0.7731,
+          0.35
+        ],
+        [
+          0.19,
+          0.7311,
+          0.352
+        ],
+        [
+          0.2,
+          0.7101000000000001,
+          0.3547
+        ],
+        [
+          0.21,
+          0.7101000000000001,
+          0.35805
+        ],
+        [
+          0.22,
+          0.6975,
+          0.362
+        ],
+        [
+          0.23,
+          0.6849,
+          0.3664
+        ],
+        [
+          0.24,
+          0.6849,
+          0.37115
+        ],
+        [
+          0.25,
+          0.6681,
+          0.376
+        ],
+        [
+          0.26,
+          0.6597,
+          0.38095
+        ],
+        [
+          0.27,
+          0.6345000000000001,
+          0.38580000000000003
+        ],
+        [
+          0.28,
+          0.6175999999999999,
+          0.39055
+        ],
+        [
+          0.29,
+          0.6134000000000001,
+          0.3951
+        ],
+        [
+          0.3,
+          0.6008,
+          0.3994
+        ],
+        [
+          0.31,
+          0.5924,
+          0.40345
+        ],
+        [
+          0.32,
+          0.5798,
+          0.4073
+        ],
+        [
+          0.33,
+          0.5546,
+          0.41095000000000004
+        ],
+        [
+          0.34,
+          0.5336,
+          0.4144
+        ],
+        [
+          0.35,
+          0.521,
+          0.4177
+        ],
+        [
+          0.36,
+          0.49579999999999996,
+          0.4208
+        ],
+        [
+          0.37,
+          0.479,
+          0.42385
+        ],
+        [
+          0.38,
+          0.47479999999999994,
+          0.42675
+        ],
+        [
+          0.39,
+          0.45799999999999996,
+          0.42955
+        ],
+        [
+          0.4,
+          0.43700000000000006,
+          0.4323
+        ],
+        [
+          0.41,
+          0.4286,
+          0.435
+        ],
+        [
+          0.42,
+          0.40340000000000004,
+          0.43765
+        ],
+        [
+          0.43,
+          0.3992,
+          0.44025000000000003
+        ],
+        [
+          0.44,
+          0.3992,
+          0.44279999999999997
+        ],
+        [
+          0.45,
+          0.3908,
+          0.44515
+        ],
+        [
+          0.46,
+          0.3908,
+          0.4474
+        ],
+        [
+          0.47,
+          0.3908,
+          0.44945
+        ],
+        [
+          0.48,
+          0.3908,
+          0.45135000000000003
+        ],
+        [
+          0.49,
+          0.3908,
+          0.4531
+        ],
+        [
+          0.5,
+          0.3782,
+          0.4548
+        ],
+        [
+          0.51,
+          0.3697,
+          0.45640000000000003
+        ],
+        [
+          0.52,
+          0.3655,
+          0.45805
+        ],
+        [
+          0.53,
+          0.3529,
+          0.4597
+        ],
+        [
+          0.54,
+          0.3529,
+          0.4615
+        ],
+        [
+          0.55,
+          0.3529,
+          0.4635
+        ],
+        [
+          0.56,
+          0.34869999999999995,
+          0.4659
+        ],
+        [
+          0.57,
+          0.3403,
+          0.46875
+        ],
+        [
+          0.58,
+          0.3361,
+          0.4721
+        ],
+        [
+          0.59,
+          0.3361,
+          0.476
+        ],
+        [
+          0.6,
+          0.3319,
+          0.48035
+        ],
+        [
+          0.61,
+          0.32770000000000005,
+          0.485
+        ],
+        [
+          0.62,
+          0.3235,
+          0.49
+        ],
+        [
+          0.63,
+          0.3151,
+          0.4953
+        ],
+        [
+          0.64,
+          0.3193,
+          0.501
+        ],
+        [
+          0.65,
+          0.3193,
+          0.5072
+        ],
+        [
+          0.66,
+          0.3193,
+          0.5141
+        ],
+        [
+          0.67,
+          0.3151,
+          0.52175
+        ],
+        [
+          0.68,
+          0.3109,
+          0.5304
+        ],
+        [
+          0.69,
+          0.3025,
+          0.54
+        ],
+        [
+          0.7,
+          0.3025,
+          0.5508
+        ],
+        [
+          0.71,
+          0.3025,
+          0.56275
+        ],
+        [
+          0.72,
+          0.2983,
+          0.57595
+        ],
+        [
+          0.73,
+          0.3025,
+          0.5903
+        ],
+        [
+          0.74,
+          0.30670000000000003,
+          0.60555
+        ],
+        [
+          0.75,
+          0.30670000000000003,
+          0.6214
+        ],
+        [
+          0.76,
+          0.2983,
+          0.63735
+        ],
+        [
+          0.77,
+          0.29410000000000003,
+          0.65295
+        ],
+        [
+          0.78,
+          0.2899,
+          0.6678
+        ],
+        [
+          0.79,
+          0.2899,
+          0.68155
+        ],
+        [
+          0.8,
+          0.2857,
+          0.6940999999999999
+        ],
+        [
+          0.81,
+          0.2773,
+          0.70545
+        ],
+        [
+          0.82,
+          0.2731,
+          0.7157
+        ],
+        [
+          0.83,
+          0.2563,
+          0.725
+        ],
+        [
+          0.84,
+          0.2395,
+          0.7334499999999999
+        ],
+        [
+          0.85,
+          0.2353,
+          0.7412
+        ],
+        [
+          0.86,
+          0.22690000000000002,
+          0.7483
+        ],
+        [
+          0.87,
+          0.21850000000000003,
+          0.75485
+        ],
+        [
+          0.88,
+          0.21850000000000003,
+          0.761
+        ],
+        [
+          0.89,
+          0.2101,
+          0.76675
+        ],
+        [
+          0.9,
+          0.2059,
+          0.7723
+        ],
+        [
+          0.91,
+          0.2059,
+          0.7777000000000001
+        ],
+        [
+          0.92,
+          0.2059,
+          0.7828999999999999
+        ],
+        [
+          0.93,
+          0.20170000000000002,
+          0.7878499999999999
+        ],
+        [
+          0.94,
+          0.20170000000000002,
+          0.79235
+        ],
+        [
+          0.95,
+          0.20170000000000002,
+          0.7964
+        ],
+        [
+          0.96,
+          0.20170000000000002,
+          0.7998000000000001
+        ],
+        [
+          0.97,
+          0.20170000000000002,
+          0.8026500000000001
+        ],
+        [
+          0.98,
+          0.20170000000000002,
+          0.80495
+        ],
+        [
+          0.99,
+          0.1975,
+          0.8067500000000001
+        ],
+        [
+          1,
+          0.20170000000000002,
+          0.8080499999999999
+        ]
+      ],
+      "d28": {
+        "views": 468,
+        "minutes": 99,
+        "avg_view_seconds": 23,
+        "avg_view_pct": 48.58,
+        "engaged_views": 238
+      },
+      "reach": {
+        "impressions": 32,
+        "ctr": 0.0
+      }
+    },
+    "BgBLeViKgM8": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 3
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "SHORTS",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 1
+    },
+    "R6Bz0XZtnIU": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 1
+        },
+        {
+          "source": "SHORTS",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 3
+    },
+    "bmmtuMAZlZk": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 8
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 3
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 1
+        },
+        {
+          "source": "EXT_URL",
+          "views": 1
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "search_terms": [],
+      "retention": [
+        [
+          0.01,
+          1,
+          0.2375
+        ],
+        [
+          0.02,
+          0.9167000000000001,
+          0.18469999999999998
+        ],
+        [
+          0.03,
+          0.8332999999999999,
+          0.14689999999999998
+        ],
+        [
+          0.04,
+          0.8332999999999999,
+          0.13195
+        ],
+        [
+          0.05,
+          0.6667000000000001,
+          0.12409999999999999
+        ],
+        [
+          0.06,
+          0.5832999999999999,
+          0.11625000000000002
+        ],
+        [
+          0.07,
+          0.5832999999999999,
+          0.10749999999999998
+        ],
+        [
+          0.08,
+          0.5,
+          0.09799999999999998
+        ],
+        [
+          0.09,
+          0.4167,
+          0.0882
+        ],
+        [
+          0.1,
+          0.4167,
+          0.07799999999999996
+        ],
+        [
+          0.11,
+          0.4167,
+          0.06579999999999997
+        ],
+        [
+          0.12,
+          0.4167,
+          0.0529
+        ],
+        [
+          0.13,
+          0.4167,
+          0.04525000000000001
+        ],
+        [
+          0.14,
+          0.4167,
+          0.04239999999999999
+        ],
+        [
+          0.15,
+          0.3333,
+          0.03970000000000001
+        ],
+        [
+          0.16,
+          0.3333,
+          0.03749999999999998
+        ],
+        [
+          0.17,
+          0.25,
+          0.036650000000000016
+        ],
+        [
+          0.18,
+          0.3333,
+          0.0368
+        ],
+        [
+          0.19,
+          0.25,
+          0.03939999999999999
+        ],
+        [
+          0.2,
+          0.16670000000000001,
+          0.044050000000000034
+        ],
+        [
+          0.21,
+          0.16670000000000001,
+          0.04674999999999996
+        ],
+        [
+          0.22,
+          0.0833,
+          0.047250000000000014
+        ],
+        [
+          0.23,
+          0.0833,
+          0.047150000000000025
+        ],
+        [
+          0.24,
+          0.0833,
+          0.04710000000000003
+        ],
+        [
+          0.25,
+          0.0833,
+          0.047199999999999964
+        ],
+        [
+          0.26,
+          0.0833,
+          0.04749999999999999
+        ],
+        [
+          0.27,
+          0.0833,
+          0.04799999999999999
+        ],
+        [
+          0.28,
+          0.0833,
+          0.04854999999999998
+        ],
+        [
+          0.29,
+          0.0833,
+          0.049449999999999994
+        ],
+        [
+          0.3,
+          0.0833,
+          0.05215000000000003
+        ],
+        [
+          0.31,
+          0.0833,
+          0.05990000000000001
+        ],
+        [
+          0.32,
+          0.0833,
+          0.07539999999999997
+        ],
+        [
+          0.33,
+          0.0833,
+          0.09965000000000002
+        ],
+        [
+          0.34,
+          0.0833,
+          0.1331
+        ],
+        [
+          0.35,
+          0.0833,
+          0.175
+        ],
+        [
+          0.36,
+          0.0833,
+          0.22199999999999998
+        ],
+        [
+          0.37,
+          0.0833,
+          0.2696
+        ],
+        [
+          0.38,
+          0.0833,
+          0.3137
+        ],
+        [
+          0.39,
+          0.0833,
+          0.35135
+        ],
+        [
+          0.4,
+          0.0833,
+          0.3819
+        ],
+        [
+          0.41,
+          0.0833,
+          0.40585
+        ],
+        [
+          0.42,
+          0.0833,
+          0.42364999999999997
+        ],
+        [
+          0.43,
+          0.0833,
+          0.4358
+        ],
+        [
+          0.44,
+          0.0833,
+          0.4436
+        ],
+        [
+          0.45,
+          0.0833,
+          0.44830000000000003
+        ],
+        [
+          0.46,
+          0.0833,
+          0.45095
+        ],
+        [
+          0.47,
+          0.0833,
+          0.4522
+        ],
+        [
+          0.48,
+          0.0833,
+          0.4527
+        ],
+        [
+          0.49,
+          0.0833,
+          0.45265
+        ],
+        [
+          0.5,
+          0.0833,
+          0.4524
+        ],
+        [
+          0.51,
+          0.0833,
+          0.45205
+        ],
+        [
+          0.52,
+          0.0833,
+          0.45145
+        ],
+        [
+          0.53,
+          0.0833,
+          0.4507
+        ],
+        [
+          0.54,
+          0.0833,
+          0.4496
+        ],
+        [
+          0.55,
+          0.0833,
+          0.44784999999999997
+        ],
+        [
+          0.56,
+          0.0833,
+          0.44530000000000003
+        ],
+        [
+          0.57,
+          0.0833,
+          0.44155
+        ],
+        [
+          0.58,
+          0.0833,
+          0.43595
+        ],
+        [
+          0.59,
+          0.0833,
+          0.4275
+        ],
+        [
+          0.6,
+          0.0833,
+          0.41485
+        ],
+        [
+          0.61,
+          0.0833,
+          0.3965
+        ],
+        [
+          0.62,
+          0.0833,
+          0.3713
+        ],
+        [
+          0.63,
+          0.0833,
+          0.33809999999999996
+        ],
+        [
+          0.64,
+          0.0833,
+          0.29615
+        ],
+        [
+          0.65,
+          0.0833,
+          0.24675000000000002
+        ],
+        [
+          0.66,
+          0.0833,
+          0.19405
+        ],
+        [
+          0.67,
+          0.0833,
+          0.14395000000000002
+        ],
+        [
+          0.68,
+          0.0833,
+          0.10265000000000002
+        ],
+        [
+          0.69,
+          0.0833,
+          0.07354999999999995
+        ],
+        [
+          0.7,
+          0.0833,
+          0.05685000000000001
+        ],
+        [
+          0.71,
+          0.0833,
+          0.05020000000000002
+        ],
+        [
+          0.72,
+          0.0833,
+          0.048250000000000015
+        ],
+        [
+          0.73,
+          0.0833,
+          0.04704999999999998
+        ],
+        [
+          0.74,
+          0.0833,
+          0.04575000000000001
+        ],
+        [
+          0.75,
+          0.0833,
+          0.044249999999999956
+        ],
+        [
+          0.76,
+          0.0833,
+          0.042700000000000016
+        ],
+        [
+          0.77,
+          0.0833,
+          0.040949999999999986
+        ],
+        [
+          0.78,
+          0.0833,
+          0.03895000000000004
+        ],
+        [
+          0.79,
+          0.0833,
+          0.03674999999999995
+        ]
+      ],
+      "d28": {
+        "views": 13,
+        "minutes": 15,
+        "avg_view_seconds": 78,
+        "avg_view_pct": 14.429999999999998,
+        "engaged_views": 12
+      },
+      "reach": {
+        "impressions": 433,
+        "ctr": 1.85
+      }
+    },
+    "cDVnYzRj1rs": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 0
+    },
+    "eFWkpjBqYHs": {
+      "traffic": [
+        {
+          "source": "RELATED_VIDEO",
+          "views": 2
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 2
+    },
+    "uETQxxiSVUs": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 2
+        },
+        {
+          "source": "SHORTS",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 1
+    },
+    "L0pQm-isIjM": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 0
+    },
+    "bPRdjrBxVWs": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 4
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 3
+    },
+    "hixbBY1e_Qg": {
+      "traffic": [
+        {
+          "source": "YT_CHANNEL",
+          "views": 1
+        },
+        {
+          "source": "RELATED_VIDEO",
+          "views": 1
+        }
+      ],
+      "engagement": {
+        "shares": 0,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 0
+      },
+      "first7": 1
+    },
+    "i_mubuNXO4g": {
+      "traffic": [
+        {
+          "source": "SHORTS",
+          "views": 1914
+        },
+        {
+          "source": "YT_SEARCH",
+          "views": 18
+        },
+        {
+          "source": "YT_OTHER_PAGE",
+          "views": 6
+        },
+        {
+          "source": "YT_CHANNEL",
+          "views": 5
+        },
+        {
+          "source": "SUBSCRIBER",
+          "views": 3
+        },
+        {
+          "source": "NO_LINK_OTHER",
+          "views": 0
+        }
+      ],
+      "engagement": {
+        "shares": 1,
+        "playlist_adds": 0,
+        "subs_lost": 0,
+        "dislikes": 3
+      },
+      "first7": 2444,
+      "reach": {
+        "impressions": 5,
+        "ctr": 0.0
+      }
+    },
+    "WuXtQ3rk_qw": {
+      "search_terms": [],
+      "retention": []
+    },
+    "bGCMnMGW5gQ": {
+      "search_terms": [],
+      "retention": []
+    },
+    "6a9tjVX45e0": {
+      "search_terms": [],
+      "retention": []
+    }
+  },
+  "notes": []
+}

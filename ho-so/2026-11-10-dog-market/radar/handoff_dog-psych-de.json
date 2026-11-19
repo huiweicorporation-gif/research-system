@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "schema": "radar.v1",
+    "radar_version": "1.13.1",
+    "day": "2026-11-10",
+    "generated_at": "2026-11-10T01:00:44Z",
+    "quota_run": 1906,
+    "quota_today": 1906,
+    "warnings": [
+      "Estimated ~2676 units needed but only 2200 left — expensive steps may be skipped"
+    ]
+  },
+  "niche_id": "dog-psych-de",
+  "niche_language": "de",
+  "competitors": [
+    {
+      "channel_id": "UCGyr7elairnKJl8GCl3DV0Q",
+      "title": "A Realnature - SeelenTiere",
+      "link": "https://www.youtube.com/@a-realnature_seelentiere",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.58
+    },
+    {
+      "channel_id": "UC_zn7TJDpfGsn6Uscvgbe4Q",
+      "title": "Balloony Tiergesundheit",
+      "link": "https://www.youtube.com/@balloony.pet_tiergesundheit",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.34
+    },
+    {
+      "channel_id": "UCdpaoJFzVBSH8KmVUS6WcRA",
+      "title": "Bettina Bumb | Ruhe für dich & deinen Hund",
+      "link": "https://www.youtube.com/@bettinabumbexpertin",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.74
+    },
+    {
+      "channel_id": "UChh5HLWyKFtozQrcIWrzofQ",
+      "title": "Charly’s Dog Training",
+      "link": "https://www.youtube.com/@charlysdogtraining",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.66
+    },
+    {
+      "channel_id": "UCjjIHsDYIt-y7ylqNaEnVxg",
+      "title": "Die Weisheit der Pfoten",
+      "link": "https://www.youtube.com/@dieweisheitderpfoten",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.74
+    },
+    {
+      "channel_id": "UC0qK8KPwKADc3LsJ71in5YA",
+      "title": "Dog4 – Hundeverhalten verstehen",
+      "link": "https://www.youtube.com/@dog4s",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.32
+    },
+    {
+      "channel_id": "UCGCgoQYHulyr-4gTs4bpcPw",
+      "title": "Dogletics",
+      "link": "https://www.youtube.com/@fitmitfellnase",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.54
+    },
+    {
+      "channel_id": "UC61RxpB7WgTMITjneGTLtXw",
+      "title": "Gerd Hallmann",
+      "link": "https://www.youtube.com/@hundelesen",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.8
+    },
+    {
+      "channel_id": "UCc4I0f90rArAWiGK8SKA1-g",
+      "title": "HALTERSCHULE – Führung von Innen",
+      "link": "https://www.youtube.com/@halterschule",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.52
+    },
+    {
+      "channel_id": "UCuclF4Thtj_gqVT4WbzV6lA",
+      "title": "Hunde Verstehen",
+      "link": "https://www.youtube.com/@hundeverstehenn",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.8
+    },
+    {
+      "channel_id": "UClOGoRoUkIHf-YbiJGvzfEA",
+      "title": "Hunde verstehen \"anders\"- Katja Pohlers",
+      "link": "https://www.youtube.com/@hundeverstehenkatja",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.54
+    },
+    {
+      "channel_id": "UC2wAPWp8lCmJQ9qAodOh8bw",
+      "title": "Hundeherz",
+      "link": "https://www.youtube.com/@hundeherz7",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.9091
+    },
+    {
+      "channel_id": "UCU40Jxx9YdGQSHfJI_BQRWg",
+      "title": "Hundeo - Hundetraining",
+      "link": "https://www.youtube.com/@hundeo",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.5
+    },
+    {
+      "channel_id": "UCZ8P5rosutm5WV2OtgQNxUQ",
+      "title": "Hundetrainer Steve Kaye",
+      "link": "https://www.youtube.com/@hundetrainerstevekaye2916",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.52
+    },
+    {
+      "channel_id": "UCeYqzG2Qv9Jno510EX4NiqQ",
+      "title": "Pfoten Academy",
+      "link": "https://www.youtube.com/@pfotenacademy",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.58
+    },
+    {
+      "channel_id": "UCOmO7_O15kaI7u82sMmgw-Q",
+      "title": "Septemberhund",
+      "link": "https://www.youtube.com/@septemberhund",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.68
+    },
+    {
+      "channel_id": "UClBEwpFeJpIsAgRCsAj5tng",
+      "title": "TierWow",
+      "link": "https://www.youtube.com/@tierwow",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.54
+    },
+    {
+      "channel_id": "UClcqqZWeNaFag7hJGnQQm7A",
+      "title": "Tierliebhaber",
+      "link": "https://www.youtube.com/@tierliebhaber5650",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.36
+    },
+    {
+      "channel_id": "UCar48cgOWZZV8mTp-Ul9nWw",
+      "title": "Wuff & Wissen",
+      "link": "https://www.youtube.com/@wuffundwissen",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.7
+    },
+    {
+      "channel_id": "UC2i2orXUjYIgkaAjfztU7aA",
+      "title": "eDOGcation - Bildungszentrum für Hundeerziehung",
+      "link": "https://www.youtube.com/@edogcation-bildungszentrum7838",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.32
+    },
+    {
+      "channel_id": "UC0N3um0OsPNjfNdYQFthK4Q",
+      "title": "hundsfaelle",
+      "link": "https://www.youtube.com/@hundsfaelle",
+      "status": "auto",
+      "channel_type": "specialist",
+      "topic_fit": 0.58
+    }
+  ],
+  "tuyen": [
+    {
+      "Mã": "radar-diese",
+      "Tên tuyến": "diese",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "diese",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 82/100 · 12 video của 8 kênh · view 30 ngày: dài 6.7K, Shorts 20.3K · ví dụ: Ragdoll-Katze: Warum diese Katze so besonders ist! 😻🐱"
+    },
+    {
+      "Mã": "radar-fehler",
+      "Tên tuyến": "fehler",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "fehler",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 73/100 · 16 video của 9 kênh · view 30 ngày: dài 12.4K, Shorts 118.4K · ví dụ: Welpe im Herbst: 4 Fehler bei Kälte"
+    },
+    {
+      "Mã": "radar-sind",
+      "Tên tuyến": "sind",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "sind",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 73/100 · 14 video của 10 kênh · view 30 ngày: dài 33.6K, Shorts 101.6K · ví dụ: 5 Hunderassen, die in Frankreich verboten sind! 😱🐕"
+    },
+    {
+      "Mã": "radar-oder",
+      "Tên tuyến": "oder",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "oder",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 71/100 · 33 video của 10 kênh · view 30 ngày: dài 75.0K, Shorts 40.6K · ví dụ: 7 Zeichen, dass Ihr Hund Sie als Mama oder Papa sieht (nicht als Herrchen)"
+    },
+    {
+      "Mã": "radar-ich",
+      "Tên tuyến": "ich",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "ich",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 70/100 · 17 video của 14 kênh · view 30 ngày: dài 1.5K, Shorts 21.0K · ví dụ: Sollen Hunde das unter sich regeln? Nein - und hier erkläre ich u.a. warum."
+    },
+    {
+      "Mã": "radar-beim",
+      "Tên tuyến": "beim",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "beim",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 69/100 · 27 video của 12 kênh · view 30 ngày: dài 1.1K, Shorts 28.5K · ví dụ: Jagdverhalten beim Hund: So trainierst du Begegnungen mit Wild 🐶🦌"
+    },
+    {
+      "Mã": "radar-dein",
+      "Tên tuyến": "dein",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "dein",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 67/100 · 94 video của 20 kênh · view 30 ngày: dài 24.1K, Shorts 422.0K · ví dụ: Dein Hund spricht mit dir – auch ohne Worte!"
+    },
+    {
+      "Mã": "radar-sagen",
+      "Tên tuyến": "sagen",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "sagen",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 66/100 · 8 video của 5 kênh · view 30 ngày: dài 17.4K, Shorts 1.8K · ví dụ: Warum dein Hund am Schritt schnüffelt – was er dir damit sagen will"
+    },
+    {
+      "Mã": "radar-einen",
+      "Tên tuyến": "einen",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "einen",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 63/100 · 14 video của 11 kênh · view 30 ngày: dài 4.4K, Shorts 226.8K · ví dụ: So begrüßt du einen Hund richtig!"
+    },
+    {
+      "Mã": "radar-alleine",
+      "Tên tuyến": "alleine, lassen",
+      "Kênh của tôi": "",
+      "Trạng thái": "đang xem",
+      "Insight": "",
+      "Lúc bấm họ đang": "",
+      "Họ cần": "",
+      "Từ khoá nhận biết": "alleine · lassen",
+      "Mô tả": "",
+      "Ghi chú": "Radar 2026-11-10: điểm cơ hội 63/100 · 11 video của 6 kênh · view 30 ngày: dài 340.8K, Shorts 2.9K · ví dụ: 7 Hunderassen, die ich nie wieder ins Haus lassen würde"
+    }
+  ]
+}

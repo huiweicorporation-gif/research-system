@@ -1,0 +1,21 @@
+{
+  "meta": {
+    "source": "mock",
+    "updated_at": null,
+    "version": "0.2.0",
+    "note": "Mock data file — Backend not yet connected"
+  },
+  "battleground": {
+    "summary": {
+      "total_our_channels":   0,
+      "total_enemy_channels": 0,
+      "win_rate":             0,
+      "influence_score":      0
+    },
+    "our_channels":    [],
+    "enemy_channels":  [],
+    "hotspots":        [],
+    "geo_map":         [],
+    "timeline":        []
+  }
+}

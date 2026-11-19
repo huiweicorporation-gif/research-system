@@ -544,3 +544,55 @@ Chủ dùng tài khoản cá nhân của mình để **xem bằng tay** các b�
 
 **Xong khi:** đủ 4 tuần phiếu thật; báo cáo radar có mục tín hiệu Trung Quốc đặt cạnh vùng đề tài YouTube;
 chủ đọc thấy có ích. Gạch này chỉ được đặt sau khi các gạch trước đã đạt "Xong khi".
+
+## Gạch 10: Cắt phụ thuộc vào shopapivn (chủ quyết 19/11/2026)
+
+**Chủ quyết 19/11:** `youtube-main` của shopapivn **là tài liệu tham khảo**, không phải thứ hệ thống được dựa
+vào. Kho GitHub cũng chuyển sang tài khoản mới (`huiweicorporation-gif`), mỗi module một kho riêng.
+
+### Vì sao phải làm
+
+`L:\System-research\youtube-main\youtube-main` **không phải bản làm việc** — nó là bản **cài đặt** của một sản
+phẩm đã phát hành (`VERSION` 2.144.2, kho công khai `shopapivn/youtube`, xem `core/cap_nhat_github.py`). Nó tự
+cập nhật bằng cách tải zip của nhánh rồi **dọn ruột thư mục cài và chép ruột mới vào**
+(`core/safe_update.apply_tai_cho`). Nghĩa là **mọi thứ mình sửa trong đó sẽ bị lượt cập nhật tới xoá**, trừ thư
+mục kênh có `kenh_rieng: true`. Bản sạch cùng phiên bản đã có ở `Documents\youtube-main` (36 MB) để đọc.
+
+### Ba phụ thuộc còn lại, và tin tốt
+
+Không phụ thuộc nào chạy theo lịch — tất cả đều do chủ gọi tay. **Cắt chúng không làm đứng dây chuyền hằng ngày.**
+
+| # | Chỗ gọi | Gọi gì trong youtube-main | Chạy tự động? |
+|---|---|---|---|
+| 1 | `studio/pipeline/cli.py` `_volume()` (chỉ khi `pack --volume`) | tiến trình con nạp `core.tu_khoa_youtube.do_tu_khoa` để đo lượng tìm kiếm | **Không** — `commander produce` gọi `pack <tên>`, không có `--volume` |
+| 2 | `commander/thu.py` `feed()`, gọi từ `commander/web.py` | ghi tiêu đề và hook thắng vào `CHANNEL/why-humans-us/prompt/` | Không — chủ bấm trên trang HQ |
+| 3 | `radar handoff <channel_dir>` | ghi đối thủ và vùng đề tài vào thư mục kênh | Không — lệnh tay |
+
+### Việc nặng nhất: prompt sản xuất thật của Why Humans
+
+`CHANNEL/why-humans-us/prompt/` (`2-viet.md`, `3-sua.md`, …) **là khuôn sản xuất thật** của kênh Why Humans,
+đang nằm trong bản cài. Nó có `kenh_rieng: true` nên cập nhật không đè — nhưng để nó ở đó thì hệ thống vẫn phụ
+thuộc vào một bản cài sản phẩm của người khác. Phải có nhà mới trong hệ thống; **Studio là chỗ hợp lý** vì Studio
+đã là bên viết kịch bản và đóng gói.
+
+### Phương án cho từng phụ thuộc (chờ chủ chọn)
+
+1. **Đo lượng tìm kiếm:** (a) bỏ hẳn, Studio vẫn ra gói SEO không có số lượng tìm kiếm; (b) viết lại trong Studio
+   bằng chính YouTube Data API mà radar đang dùng (tốn quota, mà quota đang chỉ còn 122 đơn vị dư — xem nợ
+   NO-006); (c) giữ như công cụ ngoài, gọi `Documents\youtube-main` thay vì bản cài. Đề xuất: **(a)** trước, vì
+   `--volume` chưa bao giờ chạy trong dây chuyền.
+2. **Tiêu đề và hook thắng:** đưa vào thẳng khuôn prompt sau khi nó đã chuyển sang Studio (việc 3), bỏ `thu.feed()`
+   ghi xuyên sang youtube-main.
+3. **Prompt kênh:** chép `CHANNEL/why-humans-us/prompt/` vào Studio (ví dụ `studio/channels/why-humans-us/`),
+   đổi Studio sang đọc chỗ mới, giữ bản cũ nguyên vẹn làm bản đối chiếu cho tới khi chạy thật đạt.
+4. **`radar handoff`:** trỏ sang thư mục kênh mới trong Studio.
+
+### Xong khi
+
+- `grep -rn "youtube_main\|youtube-main" --include=*.py` trong `radar`, `commander`, `studio`, `analysis` **không
+  còn chỗ nào đọc hay ghi vào bản cài** (còn lại chỉ là chú thích lịch sử).
+- Một video chạy hết dây chuyền (hồ sơ → duyệt → Studio → gói đăng) **sau khi đã đổi tên thư mục
+  `youtube-main\` thành `youtube-main.tat\`** — tức là chứng minh bằng việc tắt nó đi, không phải bằng đọc code.
+- Bộ test của cả bốn module xanh.
+- `Documents\youtube-main` và `youtube-main\` chỉ còn là chỗ đọc; theo luật thư mục Documents, hệ thống không
+  được phụ thuộc vào chúng.

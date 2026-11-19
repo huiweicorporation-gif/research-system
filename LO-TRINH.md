@@ -558,34 +558,43 @@ cập nhật bằng cách tải zip của nhánh rồi **dọn ruột thư mục
 (`core/safe_update.apply_tai_cho`). Nghĩa là **mọi thứ mình sửa trong đó sẽ bị lượt cập nhật tới xoá**, trừ thư
 mục kênh có `kenh_rieng: true`. Bản sạch cùng phiên bản đã có ở `Documents\youtube-main` (36 MB) để đọc.
 
-### Ba phụ thuộc còn lại, và tin tốt
+### Bốn chỗ nối, và chúng đã chết tới đâu (đo lại 19/11, tối)
 
-Không phụ thuộc nào chạy theo lịch — tất cả đều do chủ gọi tay. **Cắt chúng không làm đứng dây chuyền hằng ngày.**
+Không chỗ nào chạy theo lịch, và **ba trong bốn chưa bao giờ chạy thật**. Đây là dọn ống chết, không phải di dời.
 
-| # | Chỗ gọi | Gọi gì trong youtube-main | Chạy tự động? |
+| # | Chỗ nối | Lần cuối dùng | Bằng chứng |
 |---|---|---|---|
-| 1 | `studio/pipeline/cli.py` `_volume()` (chỉ khi `pack --volume`) | tiến trình con nạp `core.tu_khoa_youtube.do_tu_khoa` để đo lượng tìm kiếm | **Không** — `commander produce` gọi `pack <tên>`, không có `--volume` |
-| 2 | `commander/thu.py` `feed()`, gọi từ `commander/web.py` | ghi tiêu đề và hook thắng vào `CHANNEL/why-humans-us/prompt/` | Không — chủ bấm trên trang HQ |
-| 3 | `radar handoff <channel_dir>` | ghi đối thủ và vùng đề tài vào thư mục kênh | Không — lệnh tay |
+| 1 | `studio/pipeline/cli.py` `_volume()`, chỉ khi `pack --volume` | **chưa bao giờ** | `produce-log.txt` không có chữ `volume` nào; `commander produce` gọi `pack <tên>` |
+| 2 | `commander/thu.py` `feed()`, gọi từ trang HQ | **chưa bao giờ** | không prompt nào của kênh có khối `<!-- commander:own-tests BEGIN -->` mà `feed()` ghi ra |
+| 3 | `CHANNEL/why-humans-us/prompt/` | 21/10, một tháng không đụng | xem mục dưới |
+| 4 | `radar handoff <channel_dir>` | 03/11 | `CHANNEL/why-humans-us/nghien-cuu/` dừng ở 03/11 |
 
-### Việc nặng nhất: prompt sản xuất thật của Why Humans
+### Sửa lại: prompt kênh KHÔNG phải khuôn sản xuất
 
-`CHANNEL/why-humans-us/prompt/` (`2-viet.md`, `3-sua.md`, …) **là khuôn sản xuất thật** của kênh Why Humans,
-đang nằm trong bản cài. Nó có `kenh_rieng: true` nên cập nhật không đè — nhưng để nó ở đó thì hệ thống vẫn phụ
-thuộc vào một bản cài sản phẩm của người khác. Phải có nhà mới trong hệ thống; **Studio là chỗ hợp lý** vì Studio
-đã là bên viết kịch bản và đóng gói.
+Bản đầu của gạch này (19/11, chiều) viết `CHANNEL/why-humans-us/prompt/` là "khuôn sản xuất thật" và gọi đó là
+việc nặng nhất. **Sai.** Đo lại buổi tối cho thấy:
 
-### Phương án cho từng phụ thuộc (chờ chủ chọn)
+- **Studio có bộ prompt riêng đầy đủ** — `studio/pipeline/prompts.py`: `script_user`, `review_user`,
+  `revise_user`, `scenes_system`, `image_prompt`, `packaging` — và **không đọc gì** từ youtube-main
+  (`studio/core/paths.py` chỉ giữ `youtube_main` cho đúng công cụ từ khoá).
+- Các file prompt ấy đề ngày **21/10**, một tháng không ai sửa.
+- Bản cài youtube-main **không có thư mục `PROJECTS/`** — dây chuyền bàn làm việc của nó chưa từng dựng video nào ở máy này.
 
-1. **Đo lượng tìm kiếm:** (a) bỏ hẳn, Studio vẫn ra gói SEO không có số lượng tìm kiếm; (b) viết lại trong Studio
-   bằng chính YouTube Data API mà radar đang dùng (tốn quota, mà quota đang chỉ còn 122 đơn vị dư — xem nợ
-   NO-006); (c) giữ như công cụ ngoài, gọi `Documents\youtube-main` thay vì bản cài. Đề xuất: **(a)** trước, vì
-   `--volume` chưa bao giờ chạy trong dây chuyền.
-2. **Tiêu đề và hook thắng:** đưa vào thẳng khuôn prompt sau khi nó đã chuyển sang Studio (việc 3), bỏ `thu.feed()`
-   ghi xuyên sang youtube-main.
-3. **Prompt kênh:** chép `CHANNEL/why-humans-us/prompt/` vào Studio (ví dụ `studio/channels/why-humans-us/`),
-   đổi Studio sang đọc chỗ mới, giữ bản cũ nguyên vẹn làm bản đối chiếu cho tới khi chạy thật đạt.
-4. **`radar handoff`:** trỏ sang thư mục kênh mới trong Studio.
+Nghĩa là video của Why Humans do **Studio** làm, bằng prompt của Studio. Mớ prompt trong youtube-main là đồ
+dựng ngày 21/10 rồi bỏ đó. **Không có gì phải di dời.**
+
+### Phương án cho từng chỗ (chờ chủ chọn)
+
+1. **Đo lượng tìm kiếm (`do_tu_khoa`):** (a) xoá đường gọi `_volume()` khỏi Studio — mất một tính năng chưa
+   từng dùng; (b) viết lại trong Studio bằng YouTube Data API của radar, tốn quota mà quota chỉ còn 122 đơn vị
+   dư (nợ NO-006); (c) trỏ sang `Documents\youtube-main` — nhưng luật thư mục Documents cấm phụ thuộc vào đó.
+   Đề xuất **(a)**, trừ khi chủ định dùng đo lượng tìm kiếm cho SEO.
+2. **Tiêu đề và hook thắng (`thu.feed()`):** (a) xoá hẳn; (b) **nối lại cho đúng chỗ** — cho nó ghi vào prompt
+   của Studio thay vì youtube-main. Ý định ban đầu đúng tinh thần Gạch 7 (lấy cái thắng nuôi ngược sản xuất) mà
+   chưa bao giờ chạy. Đề xuất **(b)**, vì đây là giá trị thật đang bỏ không.
+3. **Prompt kênh:** không di dời gì. Chỉ cần không ai đọc tới nó nữa.
+4. **`radar handoff`:** (a) xoá lệnh; (b) trỏ sang Studio nếu Studio dùng được "đối thủ + tuyến khán giả".
+   Cần xem Studio có chỗ nhận thông tin ấy không trước khi chọn.
 
 ### Xong khi
 

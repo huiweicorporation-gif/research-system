@@ -1,0 +1,312 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Hệ thống nghiên cứu và sản xuất YouTube",
+    "quality_profile": "showcase",
+    "viewBox": [
+      1140,
+      820
+    ],
+    "views": [
+      {
+        "id": "nghien-cuu",
+        "label": "Vòng nghiên cứu",
+        "focus": [
+          "youtube-api",
+          "radar",
+          "phan-tich",
+          "ho-so"
+        ],
+        "note": "Chạy thật mỗi sáng: radar 06:30 đọc API và chọn vùng đề tài, phân tích 07:40 mổ xẻ video nổ, cả hai cùng đổ vào một hồ sơ cơ hội trong ngày."
+      },
+      {
+        "id": "san-xuat",
+        "label": "Vòng sản xuất",
+        "focus": [
+          "ho-so",
+          "chu",
+          "commander",
+          "studio",
+          "kenh"
+        ],
+        "note": "Hồ sơ phải qua tay chủ duyệt mới tới Studio. Studio dựng video, chủ tự bấm đăng — máy không bao giờ tự đăng."
+      },
+      {
+        "id": "cho-tac",
+        "label": "Chỗ tắc",
+        "focus": [
+          "ho-so",
+          "chu",
+          "commander"
+        ],
+        "note": "12 hồ sơ đang chờ chủ duyệt, 9 cái đã quá hạn 48 giờ. Dây chuyền rỗi từ 08/11 — máy không hỏng, nó dừng ở cổng cần người."
+      },
+      {
+        "id": "vong-hoc",
+        "label": "Vòng học",
+        "focus": [
+          "kenh",
+          "so-cai",
+          "radar"
+        ],
+        "note": "Số liệu kênh về sổ cái, lệnh được chấm đúng hay sai, rồi điểm quay ngược lại radar. Bộ Não đang đúng 63% trên 67 lệnh đã chấm."
+      },
+      {
+        "id": "day-chet",
+        "label": "Dây đã chết",
+        "focus": [
+          "studio",
+          "youtube-main"
+        ],
+        "note": "Ba chỗ nối sang bản cài shopapivn: hai cái chưa từng chạy, một cái chạy đúng một lần ngày 03/11. Gạch 10 sẽ cắt."
+      }
+    ]
+  },
+  "components": [
+    {
+      "id": "youtube-api",
+      "type": "external",
+      "label": "YouTube Data API",
+      "sublabel": "nguồn thị trường",
+      "pos": [
+        340,
+        60
+      ],
+      "size": [
+        150,
+        60
+      ]
+    },
+    {
+      "id": "radar",
+      "type": "backend",
+      "label": "Radar",
+      "sublabel": "06:30 · nhanh 30 phút",
+      "tag": "mỗi ngày",
+      "pos": [
+        340,
+        190
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "phan-tich",
+      "type": "backend",
+      "label": "Phân tích",
+      "sublabel": "07:40 · vì sao nó nổ",
+      "tag": "mỗi ngày",
+      "pos": [
+        620,
+        190
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "ho-so",
+      "type": "messagebus",
+      "label": "Hồ sơ cơ hội",
+      "sublabel": "ho-so/ · hạn 48 giờ",
+      "pos": [
+        900,
+        190
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "chu",
+      "type": "security",
+      "label": "Chủ",
+      "sublabel": "duyệt và đăng",
+      "tag": "người",
+      "pos": [
+        900,
+        430
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "commander",
+      "type": "backend",
+      "label": "Commander",
+      "sublabel": "giao ban 08:30 · HQ 8765",
+      "tag": "mỗi giờ",
+      "pos": [
+        895,
+        670
+      ],
+      "size": [
+        160,
+        72
+      ]
+    },
+    {
+      "id": "youtube-main",
+      "type": "external",
+      "label": "youtube-main",
+      "sublabel": "tham khảo (shopapivn)",
+      "tag": "không phụ thuộc",
+      "pos": [
+        620,
+        430
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "studio",
+      "type": "backend",
+      "label": "Studio",
+      "sublabel": "viết · dựng · đóng gói",
+      "pos": [
+        620,
+        670
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "kenh",
+      "type": "external",
+      "label": "Kênh YouTube",
+      "sublabel": "Why Humans · Dog Mind",
+      "pos": [
+        340,
+        670
+      ],
+      "size": [
+        150,
+        72
+      ]
+    },
+    {
+      "id": "so-cai",
+      "type": "database",
+      "label": "Sổ cái + Trụ",
+      "sublabel": "lenh.jsonl · tru.db",
+      "pos": [
+        60,
+        430
+      ],
+      "size": [
+        150,
+        72
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "api-radar",
+      "from": "youtube-api",
+      "to": "radar",
+      "label": "quota 6.369/8.000",
+      "variant": "emphasis",
+      "labelDx": 120
+    },
+    {
+      "id": "radar-phantich",
+      "from": "radar",
+      "to": "phan-tich",
+      "label": "analysis_queue.json",
+      "labelDy": -52
+    },
+    {
+      "id": "phantich-hoso",
+      "from": "phan-tich",
+      "to": "ho-so",
+      "label": "giả thuyết vì sao nổ",
+      "labelDy": -52
+    },
+    {
+      "id": "hoso-chu",
+      "from": "ho-so",
+      "to": "chu",
+      "label": "12 chờ duyệt · 9 quá hạn",
+      "variant": "emphasis",
+      "labelDy": 60
+    },
+    {
+      "id": "chu-commander",
+      "from": "chu",
+      "to": "commander",
+      "label": "approve",
+      "labelDy": 100
+    },
+    {
+      "id": "commander-studio",
+      "from": "commander",
+      "to": "studio",
+      "label": "mỗi giờ"
+    },
+    {
+      "id": "studio-kenh",
+      "from": "studio",
+      "to": "kenh",
+      "label": "video + gói đăng"
+    },
+    {
+      "id": "kenh-socai",
+      "from": "kenh",
+      "to": "so-cai",
+      "label": "số liệu 07:00 · chấm lệnh"
+    },
+    {
+      "id": "socai-radar",
+      "from": "so-cai",
+      "to": "radar",
+      "label": "điểm video mình"
+    },
+    {
+      "id": "studio-ytmain",
+      "from": "studio",
+      "to": "youtube-main",
+      "label": "pack --volume — chưa chạy",
+      "variant": "dashed"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "emerald",
+      "title": "Chạy thật mỗi ngày",
+      "items": [
+        "Radar 06:30 mã 0 liên tục; radar nhanh 30 phút một lượt",
+        "Phân tích 07:40 ra giả thuyết; giao ban 08:30 đủ 26 ngày liền",
+        "Studio đã dựng 10 video; hai kênh có 58 video, 10.903 lượt xem"
+      ]
+    },
+    {
+      "dot": "amber",
+      "title": "Chỗ tắc nằm ở cổng người",
+      "items": [
+        "12 hồ sơ chờ duyệt, 9 cái đã quá hạn 48 giờ",
+        "Dây chuyền sản xuất rỗi từ 08/11 — không phải máy hỏng",
+        "Bộ Não chấm video mình: 0 thắng, 1 thua, 2 đang chờ"
+      ]
+    },
+    {
+      "dot": "rose",
+      "title": "Dây chết, Gạch 10 sẽ cắt",
+      "items": [
+        "thu.feed() và pack --volume: chưa từng chạy lần nào",
+        "radar handoff: chạy đúng một lần, ngày 03/11",
+        "Prompt kênh trong youtube-main để từ 21/10; Studio có prompt riêng"
+      ]
+    }
+  ]
+}

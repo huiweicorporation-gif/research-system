@@ -583,18 +583,32 @@ việc nặng nhất. **Sai.** Đo lại buổi tối cho thấy:
 Nghĩa là video của Why Humans do **Studio** làm, bằng prompt của Studio. Mớ prompt trong youtube-main là đồ
 dựng ngày 21/10 rồi bỏ đó. **Không có gì phải di dời.**
 
-### Phương án cho từng chỗ (chờ chủ chọn)
+### Chủ đã chốt (19/11, tối)
 
-1. **Đo lượng tìm kiếm (`do_tu_khoa`):** (a) xoá đường gọi `_volume()` khỏi Studio — mất một tính năng chưa
-   từng dùng; (b) viết lại trong Studio bằng YouTube Data API của radar, tốn quota mà quota chỉ còn 122 đơn vị
-   dư (nợ NO-006); (c) trỏ sang `Documents\youtube-main` — nhưng luật thư mục Documents cấm phụ thuộc vào đó.
-   Đề xuất **(a)**, trừ khi chủ định dùng đo lượng tìm kiếm cho SEO.
-2. **Tiêu đề và hook thắng (`thu.feed()`):** (a) xoá hẳn; (b) **nối lại cho đúng chỗ** — cho nó ghi vào prompt
-   của Studio thay vì youtube-main. Ý định ban đầu đúng tinh thần Gạch 7 (lấy cái thắng nuôi ngược sản xuất) mà
-   chưa bao giờ chạy. Đề xuất **(b)**, vì đây là giá trị thật đang bỏ không.
-3. **Prompt kênh:** không di dời gì. Chỉ cần không ai đọc tới nó nữa.
-4. **`radar handoff`:** (a) xoá lệnh; (b) trỏ sang Studio nếu Studio dùng được "đối thủ + tuyến khán giả".
-   Cần xem Studio có chỗ nhận thông tin ấy không trước khi chọn.
+1. **Đo lượng tìm kiếm: viết lại trong Studio.**
+   **Điều chỉnh so với lúc chốt:** `core/tu_khoa_youtube.do_tu_khoa` dùng **Google Trends** qua thư viện
+   `trendspy`, **không** dùng YouTube Data API. Nên việc này **không tốn một đơn vị quota nào** và nợ NO-006
+   không liên quan — rẻ hơn hẳn bản mô tả lúc hỏi. Cần thêm `trendspy` vào phụ thuộc của Studio
+   (`studio/.venv` hiện chưa có). Cách đo giữ nguyên thuật toán cũ: đo theo lô tối đa 5 từ, lô đầu chọn từ
+   đông nhất làm **neo**, các lô sau đều kèm neo rồi quy hết về một thang.
+2. **`thu.feed()`: nối lại vào Studio.** Cho nó ghi tiêu đề và hook thắng vào prompt của Studio thay vì
+   `CHANNEL/<kênh>/prompt/` của youtube-main. Giữ nguyên cơ chế khối có mốc `BEGIN`/`END` để ghi đè được nhiều
+   lần mà không đụng phần luật của prompt. Đây là Gạch 7 (lấy cái thắng nuôi ngược sản xuất) lần đầu chạy thật.
+3. **Prompt kênh:** không di dời gì, chỉ cần không còn ai đọc tới.
+4. **`radar handoff`: tôi kiểm Studio rồi quyết — kết quả kiểm và đề xuất ở dưới.**
+
+### `radar handoff`: Studio không có chỗ nhận, nhưng hồ sơ thì có
+
+Tìm khắp `studio/` **không có khe nào** cho "đối thủ" hay "tuyến khán giả" (mấy chữ `lane` trong `core/jobs.py`
+là làn chạy song song của hàng đợi việc, không liên quan).
+
+Nhưng radar **đã xuất sẵn** `exports/latest/handoff_<thị trường>.json` mỗi ngày, mang đúng hai khoá
+`competitors` và `tuyen` — còn **hồ sơ cơ hội hiện không có một dòng nào về đối thủ**.
+
+**Đề xuất:** thay vì ghi sang thư mục kênh youtube-main, **gộp đối thủ và tuyến khán giả vào hồ sơ** (`de-bai.txt`).
+Hồ sơ đã là cây cầu từ nghiên cứu sang sản xuất và đã chảy thẳng vào Studio, nên đó là nhà đúng. Việc này vừa cắt
+được dây sang youtube-main, vừa bịt một lỗ thật: người viết kịch bản hiện không thấy đối thủ của vùng đề tài.
+Đây là **việc thêm**, không phải việc dọn — chủ duyệt rồi mới làm.
 
 ### Xong khi
 
